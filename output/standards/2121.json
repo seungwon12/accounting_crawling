@@ -1,0 +1,1105 @@
+{
+  "standard_id": "2121",
+  "standard_type": "기업회계기준해석서",
+  "title": "부담금",
+  "url": "https://db.kasb.or.kr/s/2121",
+  "crawled_at": "2026-03-16T06:48:12.793451+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2121/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2121/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "ZPvxN4",
+          "href": "/s/2121/ZPvxN4",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "배경",
+          "section_id": "kKWndw",
+          "href": "/s/2121/kKWndw",
+          "paragraph_range": "1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "oFa0AB",
+          "href": "/s/2121/oFa0AB",
+          "paragraph_range": "한2.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "uitF10",
+          "href": "/s/2121/uitF10",
+          "paragraph_range": "2 ~ 6",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "QOuvpG",
+          "href": "/s/2121/QOuvpG",
+          "paragraph_range": "7",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "dfYKdf",
+          "href": "/s/2121/dfYKdf",
+          "paragraph_range": "8 ~ 14",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1.5,
+      "title": "부록 A 시행일과 경과규정",
+      "section_id": "d2svAm",
+      "href": "/s/2121/d2svAm",
+      "paragraph_range": "A1 ~ A2",
+      "children": [
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2121호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "F7kOsG",
+          "href": "/s/2121/F7kOsG",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "적용사례 실무적용지침",
+      "section_id": "50d7f1b3",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "기업회계기준해석서 제2121호의 적용사례",
+          "section_id": "DoCzaQ",
+          "href": "/s/2121/DoCzaQ",
+          "paragraph_range": "IE1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2121/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IFRIC 21 ‘부담금(Levies)’의 결론도출근거",
+          "section_id": "dclKxO",
+          "href": "/s/2121/dclKxO",
+          "paragraph_range": "BC1 ~ BC30",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "도입",
+              "section_id": "4fzcHl",
+              "href": "/s/2121/4fzcHl",
+              "paragraph_range": "BC1 ~ BC3",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "적용범위",
+              "section_id": "bQvMa5",
+              "href": "/s/2121/bQvMa5",
+              "paragraph_range": "BC4 ~ BC30",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+                  "section_id": "ib9WfP",
+                  "href": "/s/2121/ib9WfP",
+                  "paragraph_range": "BC12 ~ BC14",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+                  "section_id": "7R03VH",
+                  "href": "/s/2121/7R03VH",
+                  "paragraph_range": "BC15 ~ BC19",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가?",
+                  "section_id": "FNnBn4",
+                  "href": "/s/2121/FNnBn4",
+                  "paragraph_range": "BC20 ~ BC22",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+                  "section_id": "YwZBZe",
+                  "href": "/s/2121/YwZBZe",
+                  "paragraph_range": "BC23 ~ BC26",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "최소 임계치에 이르면 유발되는 부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+                  "section_id": "tpnAIo",
+                  "href": "/s/2121/tpnAIo",
+                  "paragraph_range": "BC27 ~ BC28",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "부담금부채의 인식 원칙은 연차재무제표와 중간재무보고서에서 같은가?",
+                  "section_id": "Bdtd2F",
+                  "href": "/s/2121/Bdtd2F",
+                  "paragraph_range": "BC29 ~ BC30",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2121/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2121/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2121/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "ZPvxN4",
+      "section_id": "ZPvxN4",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "#### 참조 - - 기업회계기준서 제1001호 ‘재무제표 표시’ - 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’- 기업회계기준서 제1012호 ‘법인세’- 기업회계기준서 제1020호 ‘정부보조금의 회계처리와 정부지원의 공시’- 기업회계기준서 제1024호 ‘특수관계자 공시’- 기업회계기준서 제1034호 ‘중간재무보고’- 기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’- 기업회계기준해석서 제2106호 ‘특정 시장에 참여함에 따라 발생하는 부채: 폐전기·전자제품’ ## 공유하기 ### 문서 ### 주소",
+      "html": "<h4 class=\"sc-fRuWiQ TQjhm sc-jstVdI eboZxl\"><span>참조</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h4>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩1\"><div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 기업회계기준서 제1001호 ‘재무제표 표시’ </div><div class=\"para\">- 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’</div><div class=\"para\">- 기업회계기준서 제1012호 ‘법인세’</div><div class=\"para\">- 기업회계기준서 제1020호 ‘정부보조금의 회계처리와 정부지원의 공시’</div><div class=\"para\">- 기업회계기준서 제1024호 ‘특수관계자 공시’</div><div class=\"para\">- 기업회계기준서 제1034호 ‘중간재무보고’</div><div class=\"para\">- 기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’</div><div class=\"para\">- 기업회계기준해석서 제2106호 ‘특정 시장에 참여함에 따라 발생하는 부채: 폐전기·전자제품’</div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "kKWndw",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "정부는 기업에 부담금을 부과할 수 있다. 국제회계기준해석위원회는 부담금을 납부하는 기업의 재무제표에 있어서 부담금 회계처리에 대한 지침의 제공을 요청받았다. 이 쟁점은 기업회계기준서 제1037호에 따라 회계처리되는 부담금부채를 언제 인식하는지와 관련이 있다.",
+      "html": "정부는 기업에 부담금을 부과할 수 있다. 국제회계기준해석위원회는 부담금을 납부하는 기업의 재무제표에 있어서 부담금 회계처리에 대한 지침의 제공을 요청받았다. 이 쟁점은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준서 제1037호</span></div>에 따라 회계처리되는 부담금부채를 언제 인식하는지와 관련이 있다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1037호",
+          "standard_number": "1037",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한2.1",
+      "section_id": "oFa0AB",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "uitF10",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 부담금부채가 기업회계기준서 제1037호의 적용범위에 해당하는 경우, 해당 부채의 회계처리를 다룬다. 이 해석서는 납부의 시기와 금액이 확실한 부담금부채의 회계처리도 다룬다.",
+      "html": "이 해석서는 부담금부채가 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준서 제1037호</span></div>의 적용범위에 해당하는 경우, 해당 부채의 회계처리를 다룬다. 이 해석서는 납부의 시기와 금액이 확실한 부담금부채의 회계처리도 다룬다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1037호",
+          "standard_number": "1037",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "uitF10",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 부담금부채 인식에서 발생하는 원가의 회계처리는 다루지 않는다. 부담금부채의 인식이 자산과 비용 중 어떤 것을 발생시키는지 결정하기 위해서는 다른 한국채택국제회계기준을 적용하여야 한다.",
+      "html": "이 해석서는 부담금부채 인식에서 발생하는 원가의 회계처리는 다루지 않는다. 부담금부채의 인식이 자산과 비용 중 어떤 것을 발생시키는지 결정하기 위해서는 다른 한국채택국제회계기준을 적용하여야 한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "uitF10",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서의 목적상 부담금은 법규[즉, 법률 그리고(또는) 규정]에 따라 정부가 기업에 부과하여 경제적효익을 갖는 자원이 유출되는 것으로 다음을 제외한다. (1) 다른 한국채택국제회계기준(예: 기업회계기준서 제1012호 ‘법인세’의 적용범위에 속하는 법인세)의 적용범위에 해당하는 자원의 유출 (2) 법규를 위반하여 부과된 벌금 또는 과태료 등 ‘정부’란 지방자치단체, 중앙정부 또는 국제기구인 정부, 정부기관 및 이와 유사한 단체를 말한다.",
+      "html": "이 해석서의 목적상 부담금은 법규[즉, 법률 그리고(또는) 규정]에 따라 정부가 기업에 부과하여 경제적효익을 갖는 자원이 유출되는 것으로 다음을 제외한다. \n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 다른 한국채택국제회계기준(예: \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호 ‘법인세’</span></div>의 적용범위에 속하는 법인세)의 적용범위에 해당하는 자원의 유출\n    \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 법규를 위반하여 부과된 벌금 또는 과태료 등\n    </div></div>\n‘정부’란 지방자치단체, 중앙정부 또는 국제기구인 정부, 정부기관 및 이와 유사한 단체를 말한다.",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호 ‘법인세’",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "uitF10",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "정부와의 계약상 합의에 따라 취득한 자산이나 제공받는 용역에 대해 지급하는 것은 부담금의 정의를 충족하지 않는다.",
+      "html": "정부와의 계약상 합의에 따라 취득한 자산이나 제공받는 용역에 대해 지급하는 것은 부담금의 정의를 충족하지 않는다.\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "uitF10",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "배출권거래제도에서 발생하는 부채에는 이 해석서의 적용이 요구되지 않는다.",
+      "html": "배출권거래제도에서 발생하는 부채에는 이 해석서의 적용이 요구되지 않는다.\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "QOuvpG",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "이 해석서는 부담금부채의 회계처리를 명확하게 하기 위해, 다음의 회계논제를 다룬다. ⑴ 부담금부채를 인식하게 하는 의무발생사건은 무엇인가? ⑵ 미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가? ⑶ 계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가? ⑷ 부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가? ⑸ 최소 임계치에 이르면 유발되는 부담금부채를 인식하게 하는 의무발생사건은 무엇인가? ⑹ 연차재무제표와 중간재무보고서에서 부담금부채의 인식 원칙이 같은가?",
+      "html": "이 해석서는 부담금부채의 회계처리를 명확하게 하기 위해, 다음의 회계논제를 다룬다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 부담금부채를 인식하게 하는 의무발생사건은 무엇인가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑷</div><div class=\"para-num-item-para-con\"> 부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑸</div><div class=\"para-num-item-para-con\"> 최소 임계치에 이르면 유발되는 부담금부채를 인식하게 하는 의무발생사건은 무엇인가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑹</div><div class=\"para-num-item-para-con\"> 연차재무제표와 중간재무보고서에서 부담금부채의 인식 원칙이 같은가?</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "dfYKdf",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "부담금부채를 발생시키는 의무발생사건은 법규에 명시된 부담금 납부를 유발하는 활동이다. 예를 들어, 부담금 납부를 유발하는 활동이 당기의 수익 창출이고 부담금의 계산은 전기에 창출된 수익에 기초한다면, 그 부담금에 대한 의무발생사건은 당기의 수익 창출이다. 전기의 수익 창출은 현재의무를 발생시키는 데에 필요하지만 충분하지는 않다.",
+      "html": "부담금부채를 발생시키는 의무발생사건은 법규에 명시된 부담금 납부를 유발하는 활동이다. 예를 들어, 부담금 납부를 유발하는 활동이 당기의 수익 창출이고 부담금의 계산은 전기에 창출된 수익에 기초한다면, 그 부담금에 대한 의무발생사건은 당기의 수익 창출이다. 전기의 수익 창출은 현재의무를 발생시키는 데에 필요하지만 충분하지는 않다.\n",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-36938",
+          "title": "종합부동산세 부채 인식",
+          "url": "/qnas/SSI-36938",
+          "date": "2020-06-01"
+        },
+        {
+          "qna_id": "SSI-36961",
+          "title": "재산세 비용 인식 시점",
+          "url": "/qnas/SSI-36961",
+          "date": "2020-07-15"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "dfYKdf",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "미래기간에 영업을 계속하는 것이 경제적으로 강제되더라도, 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무는 없다.",
+      "html": "미래기간에 영업을 계속하는 것이 경제적으로 강제되더라도, 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무는 없다.\n",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-36938",
+          "title": "종합부동산세 부채 인식",
+          "url": "/qnas/SSI-36938",
+          "date": "2020-06-01"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "dfYKdf",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "계속기업 가정에 따라 재무제표를 작성하는 것이, 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 있다는 것을 의미하지는 않는다.",
+      "html": "계속기업 가정에 따라 재무제표를 작성하는 것이, 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 있다는 것을 의미하지는 않는다.\n",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-36938",
+          "title": "종합부동산세 부채 인식",
+          "url": "/qnas/SSI-36938",
+          "date": "2020-06-01"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "dfYKdf",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "만일 의무발생사건이 일정 기간에 걸쳐 발생한다면(즉, 법규에 명시된 부담금 납부를 유발하는 활동이 일정 기간에 걸쳐 발생한다면), 부담금부채를 점진적으로 인식한다. 예를 들어, 의무발생사건이 일정 기간에 걸친 수익 창출이라면, 대응하는 부채는 그 수익을 창출함에 따라 인식한다.",
+      "html": "만일 의무발생사건이 일정 기간에 걸쳐 발생한다면(즉, 법규에 명시된 부담금 납부를 유발하는 활동이 일정 기간에 걸쳐 발생한다면), 부담금부채를 점진적으로 인식한다. 예를 들어, 의무발생사건이 일정 기간에 걸친 수익 창출이라면, 대응하는 부채는 그 수익을 창출함에 따라 인식한다.\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "dfYKdf",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "최소 임계치에 이르렀을 때 부담금을 납부해야 하는 의무가 유발된다면, 그러한 의무에서 발생하는 부채의 회계처리는 이 해석서 문단 8~14(특히 문단 8과 11)에서 정한 원칙과 일관되어야 한다. 예를 들어, 최소 활동 임계치(예: 창출된 수익 또는 판매나 생산물의 최소 금액)에 이르는 것이 의무발생사건이라면, 대응하는 부채는 그러한 최소 활동 임계치에 이르렀을 때 인식한다.",
+      "html": "최소 임계치에 이르렀을 때 부담금을 납부해야 하는 의무가 유발된다면, 그러한 의무에서 발생하는 부채의 회계처리는 이 해석서 \n  \n  <span class=\"mundan-finder\">문단 8~14</span>(특히 \n  \n  <span class=\"mundan-finder\">문단 8과 11</span>)에서 정한 원칙과 일관되어야 한다. 예를 들어, 최소 활동 임계치(예: 창출된 수익 또는 판매나 생산물의 최소 금액)에 이르는 것이 의무발생사건이라면, 대응하는 부채는 그러한 최소 활동 임계치에 이르렀을 때 인식한다.\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 8~14",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "8~14",
+          "paragraph_ids": [
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 8과 11",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "8과 11",
+          "paragraph_ids": [
+            "8",
+            "11"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "dfYKdf",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "연차재무제표에 적용하는 것과 같은 인식 원칙을 중간재무보고서에 적용하여야 한다. 따라서 중간재무보고서에는 다음과 같이 처리한다. ⑴ 중간보고기간 말에 부담금을 납부해야 하는 현재의무가 없다면, 부담금부채를 인식하지 않는다. ⑵ 중간보고기간 말에 부담금을 납부해야 하는 현재의무가 있다면, 부담금부채를 인식한다.",
+      "html": "연차재무제표에 적용하는 것과 같은 인식 원칙을 중간재무보고서에 적용하여야 한다. 따라서 중간재무보고서에는 다음과 같이 처리한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 중간보고기간 말에 부담금을 납부해야 하는 현재의무가 없다면, 부담금부채를 인식하지 않는다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 중간보고기간 말에 부담금을 납부해야 하는 현재의무가 있다면, 부담금부채를 인식한다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "dfYKdf",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "부담금을 선납하였으나 그 부담금을 납부해야 하는 현재의무가 없다면, 자산을 인식한다.",
+      "html": "부담금을 선납하였으나 그 부담금을 납부해야 하는 현재의무가 없다면, 자산을 인식한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "F7kOsG",
+      "section_id": "F7kOsG",
+      "section_title": "기업회계기준해석서 제2121호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "부록 A 시행일과 경과규정|기업회계기준해석서 제2121호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "#### 기업회계기준해석서 제2121호의 제·개정 등에 대한 회계기준위원회의 의결 - 기업회계기준해석서 제2121호의 제정에 대한 회계기준위원회의 의결(2013년)기업회계기준해석서 제2121호 ‘부담금’의 제정(2013. 9. 30.)은 회계기준위원회 위원 7명의 찬성으로 의결하였다.회계기준위원회 위원:임석식(위원장), 김찬홍(상임위원), 권수영, 안영균, 이기영, 최신형, 한종수 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h4 class=\"sc-fRuWiQ TQjhm sc-jstVdI eboZxl\"><span>기업회계기준해석서 제2121호의 제·개정 등에 대한 회계기준위원회의 의결</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h4>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩4\"><div value=\"웩4\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2121호의 제정에 대한 회계기준위원회의 의결(2013년)</b></div><br><div class=\"para\">기업회계기준해석서 제2121호 ‘부담금’의 제정(2013. 9. 30.)은 회계기준위원회 위원 7명의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">임석식(위원장), 김찬홍(상임위원), 권수영, 안영균, 이기영, 최신형, 한종수</div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "DoCzaQ",
+      "section_id": "DoCzaQ",
+      "section_title": "기업회계기준해석서 제2121호의 적용사례",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2121호의 적용사례",
+      "text": "## 기업회계기준해석서 제2121호의 적용사례 - 이 적용사례는 부담금기업회계기준해석서 제2121호에 첨부되지만, 이 해석서의 일부를 구성하는 것은 아니다. - 책갈피 추가/삭제IE1이 사례의 목적은 부담금부채를 연차재무제표와 중간재무보고서에서 어떻게 회계처리할지를 제시하는 데 있다. <!--table {mso-displayed-decimal-separator:\"\\.\"; mso-displayed-thousand-separator:\"\\,\";} .font524676 {color:windowtext; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129;} .font624676 {color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129;} .font724676 {color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:underline; text-underline-style:single; font-family:\"맑은 고딕\", monospace; mso-font-charset:129;} .xl1524676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl6324676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl6424676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl6524676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl6624676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:normal;} .xl6724676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl6824676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:normal;} .xl6924676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl7024676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl7124676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:normal;} .xl7224676 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} ruby {ruby-align:left;} rt {color:windowtext; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-char-type:none;} --> 사례 1: 기업이 수익을 창출함에 따라 부담금이 점진적으로 유발된다.　　기업 A의 연차보고기간은 12월 31일에 종료된다. 법규에 따르면 부담금은 20X1년에 기업이 수익을 창출함에 따라 점진적으로 유발된다. 부담금액은 20X1년에 기업이 창출한 수익에 따라 계산된다. 이 사례에서, 법규에 명시된 의무발생사건은 20X1년 중의 수익 창출이므로, 부채는 20X1년 중에 기업 A가 창출한 수익에 따라 점진적으로 인식한다. 기업 A는 20X1년의 어느 시점에나 그 일자까지 창출된 수익에 대해 부담금을 납부해야 하는 현재의무가 있다. 기업 A는 미래의 수익 창출로 인하여 부담금을 납부해야 하는 현재의무는 없다. 중간재무보고서(있는 경우)에는, 기업 A가 수익을 창출함에 따라 점진적으로 부채를 인식한다. 기업 A는 20X1년 1월 1일부터 중간보고기간 말까지 창출한 수익에 대해 부담금을 납부해야 하는 현재의무가 있다.　　사례 2: 기업이 수익을 창출하는 즉시 부담금이 모두 유발된다.　　기업 B의 연차보고기간은 12월 31일에 종료된다. 법규에 따르면 20X1년에 기업이 수익을 창출하는 즉시 부담금이 모두 유발된다. 부담금액은 20X0년에 기업이 창출한 수익에 따라 계산된다. 기업 B는 20X0년에 수익을 창출하였고, 20X1년에는 20X1년 1월 3일에 수익을 창출하기 시작한다. 이 사례에서, 법규에 명시된 의무발생사건은 20X1년의 첫 수익 창출이므로, 20X1년 1월 3일에 부채를 모두 인식한다. 20X0년의 수익 창출은 부담금을 납부해야 하는 현재의무를 발생시키는 데에 필요하지만 충분하지는 않다. 기업 B는 20X1년 1월 3일 전까지는 부담금을 납부해야 하는 현재의무가 없다. 즉, 법규에 명시된 부담금 납부를 유발하는 활동은 기업 B가 20X1년에 수익을 처음으로 창출하는 시점이다. 20X0년의 수익 창출은 부담금 납부와 부채 인식을 유발하는 활동은 아니다. 20X0년에 창출된 수익금액은 부채의 측정에만 영향을 미친다. 20X1년 1월 3일에 부채를 모두 인식하기 때문에, 중간재무보고서(있는 경우)에는 20X1년의 첫 번째 중간보고기간에 부채를 모두 인식한다.　　사례 3: 특정 일자에 기업이 은행 영업을 한다면, 부담금이 모두 유발된다. 　　기업 C는 은행이고 연차보고기간은 12월 31일에 종료된다. 법규에 따르면 이 기업은 연차보고기간의 종료일에 은행 영업을 하고 있는 경우에만 부담금이 모두 유발된다. 부담금액은 연차보고기간 종료일에 기업의 재무상태표의 금액에 따라 계산된다. 기업 C의 연차보고기간 종료일은 20X1년 12월 31일이다. 이 사례에서, 법규에 명시된 의무발생사건은 기업 C가 연차보고기간 종료일에 은행 영업을 하는 것이므로, 20X1년 12월 31일에 부채가 인식된다. 미래에 은행 영업을 계속하는 것이 경제적으로 강제되더라도, 그 미래 시점 전까지는 기업 C는 부담금을 납부해야 하는 현재의무가 없다. 즉, 법규에 명시된 부담금 납부를 유발하는 활동은 연차보고기간 종료일에 기업이 은행 영업을 하는 것인데, 이는 20X1년 12월 31일 전까지는 발생하지 않는다. 의무발생사건은 연차보고기간 종료일에 은행 영업을 하는 것이기 때문에, 부채금액이 보고기간의 길이에 기초하더라도, 이러한 결론이 바뀌지는 않을 것이다. 부채는 20X1년 12월 31일에 모두 인식하기 때문에, 중간재무보고서(있는 경우)에는 20X1년 12월 31일이 속하는 중간보고기간에 부채를 모두 인식한다.  　　사례 4: 최소 수익금액을 초과하여 수익을 창출하면 부담금이  유발된다.  　　기업 D의 연차보고기간은 12월 31일에 종료된다. 법규에 따르면 20X1년에 5천만원을 초과하는 수익을 창출하면 부담금이 유발된다. 5천만원을 초과하여 창출된 수익에 따라 부담금액이 계산되는데, 창출된 수익의 첫 5천만원(임계치 이하)에는 0%의 부과율을 적용하고, 5천만원을 초과하는 경우에는 2%의 부과율을 적용한다. 기업 D의 수익은 20X1년 7월 17일에 5천만원의 수익 임계치에 이른다. 이 사례에서, 법규에 명시된 의무발생사건은 임계치에 이른 후에 수행된 활동(즉, 임계치에 이른 후 수익의 창출)이기 때문에, 기업 D가 임계치를 초과하는 수익을 창출한 20X1년 7월 17일과 20X1년 12월 31일 사이에 부채가 인식된다. 부채금액은 임계치인 수익금액 5천만원을 초과하는 날부터 현재까지 창출된 수익에 기초한다. 중간재무보고서(있는 경우)에는, 부채를 20X1년 7월 17일과 12월 31일 사이에 기업 D가 임계치를 초과하여 창출한 수익에 따라 인식한다.　　변형: 기업 D가 20X1년에 창출한 모든 수익에 기초하여 부담금액이 계산된다는 점을 제외하고는(즉, 20X1년에 창출된 수익의 첫 5천만원을 포함), 위의 사례(즉, 기업 D가 20X1년에 5천만원을 초과하는 수익을 창출하면  부담금이 유발되는 경우)와 사실 유형이 같다. 이 사례에서, 법규에 명시된 의무발생사건은 수익이 임계치에 이르는 것이기 때문에, 첫 5천만원 수익과 관련된 부담금부채는 임계치를 충족하는 20X1년 7월 17일에 인식한다. 법규에 명시된 의무발생사건이 임계치에 이른 후에 수행된 활동이기 때문에(즉, 임계치에 이른 후의 수익 창출), 임계치를 초과하여 창출한 수익과 관련된 부담금부채는 기업이 임계치를 초과하여 수익을 창출함에 따라 20X1년 7월 17일과 20X1년 12월 31일 사이에 인식한다. 부채금액은 첫 5천만원 수익을 포함하여 그 시점까지 창출된 수익에 기초한다. 중간재무보고서(있는 경우)에도 연차재무제표와 같은 인식 원칙을 적용한다.\n\n| | | 사례 1: 기업이 수익을 창출함에 따라 부담금이 점진적으로 유발된다. | | |\n| --- | --- | --- | --- | --- |\n| | | 기업 A의 연차보고기간은 12월 31일에 종료된다. 법규에 따르면 부담금은 20X1년에 기업이 수익을 창출함에 따라 점진적으로 유발된다. 부담금액은 20X1년에 기업이 창출한 수익에 따라 계산된다. 이 사례에서, 법규에 명시된 의무발생사건은 20X1년 중의 수익 창출이므로, 부채는 20X1년 중에 기업 A가 창출한 수익에 따라 점진적으로 인식한다. 기업 A는 20X1년의 어느 시점에나 그 일자까지 창출된 수익에 대해 부담금을 납부해야 하는 현재의무가 있다. 기업 A는 미래의 수익 창출로 인하여 부담금을 납부해야 하는 현재의무는 없다. 중간재무보고서(있는 경우)에는, 기업 A가 수익을 창출함에 따라 점진적으로 부채를 인식한다. 기업 A는 20X1년 1월 1일부터 중간보고기간 말까지 창출한 수익에 대해 부담금을 납부해야 하는 현재의무가 있다. | | |\n| | | 사례 2: 기업이 수익을 창출하는 즉시 부담금이 모두 유발된다. | | |\n| | | 기업 B의 연차보고기간은 12월 31일에 종료된다. 법규에 따르면 20X1년에 기업이 수익을 창출하는 즉시 부담금이 모두 유발된다. 부담금액은 20X0년에 기업이 창출한 수익에 따라 계산된다. 기업 B는 20X0년에 수익을 창출하였고, 20X1년에는 20X1년 1월 3일에 수익을 창출하기 시작한다. 이 사례에서, 법규에 명시된 의무발생사건은 20X1년의 첫 수익 창출이므로, 20X1년 1월 3일에 부채를 모두 인식한다. 20X0년의 수익 창출은 부담금을 납부해야 하는 현재의무를 발생시키는 데에 필요하지만 충분하지는 않다. 기업 B는 20X1년 1월 3일 전까지는 부담금을 납부해야 하는 현재의무가 없다. 즉, 법규에 명시된 부담금 납부를 유발하는 활동은 기업 B가 20X1년에 수익을 처음으로 창출하는 시점이다. 20X0년의 수익 창출은 부담금 납부와 부채 인식을 유발하는 활동은 아니다. 20X0년에 창출된 수익금액은 부채의 측정에만 영향을 미친다. 20X1년 1월 3일에 부채를 모두 인식하기 때문에, 중간재무보고서(있는 경우)에는 20X1년의 첫 번째 중간보고기간에 부채를 모두 인식한다. | | |\n| | | 사례 3: 특정 일자에 기업이 은행 영업을 한다면, 부담금이 모두 유발된다. | | |\n| | | 기업 C는 은행이고 연차보고기간은 12월 31일에 종료된다. 법규에 따르면 이 기업은 연차보고기간의 종료일에 은행 영업을 하고 있는 경우에만 부담금이 모두 유발된다. 부담금액은 연차보고기간 종료일에 기업의 재무상태표의 금액에 따라 계산된다. 기업 C의 연차보고기간 종료일은 20X1년 12월 31일이다. 이 사례에서, 법규에 명시된 의무발생사건은 기업 C가 연차보고기간 종료일에 은행 영업을 하는 것이므로, 20X1년 12월 31일에 부채가 인식된다. 미래에 은행 영업을 계속하는 것이 경제적으로 강제되더라도, 그 미래 시점 전까지는 기업 C는 부담금을 납부해야 하는 현재의무가 없다. 즉, 법규에 명시된 부담금 납부를 유발하는 활동은 연차보고기간 종료일에 기업이 은행 영업을 하는 것인데, 이는 20X1년 12월 31일 전까지는 발생하지 않는다. 의무발생사건은 연차보고기간 종료일에 은행 영업을 하는 것이기 때문에, 부채금액이 보고기간의 길이에 기초하더라도, 이러한 결론이 바뀌지는 않을 것이다. 부채는 20X1년 12월 31일에 모두 인식하기 때문에, 중간재무보고서(있는 경우)에는 20X1년 12월 31일이 속하는 중간보고기간에 부채를 모두 인식한다. | | |\n| | | 사례 4: 최소 수익금액을 초과하여 수익을 창출하면 부담금이 유발된다. | | |\n| | | 기업 D의 연차보고기간은 12월 31일에 종료된다. 법규에 따르면 20X1년에 5천만원을 초과하는 수익을 창출하면 부담금이 유발된다. 5천만원을 초과하여 창출된 수익에 따라 부담금액이 계산되는데, 창출된 수익의 첫 5천만원(임계치 이하)에는 0%의 부과율을 적용하고, 5천만원을 초과하는 경우에는 2%의 부과율을 적용한다. 기업 D의 수익은 20X1년 7월 17일에 5천만원의 수익 임계치에 이른다. 이 사례에서, 법규에 명시된 의무발생사건은 임계치에 이른 후에 수행된 활동(즉, 임계치에 이른 후 수익의 창출)이기 때문에, 기업 D가 임계치를 초과하는 수익을 창출한 20X1년 7월 17일과 20X1년 12월 31일 사이에 부채가 인식된다. 부채금액은 임계치인 수익금액 5천만원을 초과하는 날부터 현재까지 창출된 수익에 기초한다. 중간재무보고서(있는 경우)에는, 부채를 20X1년 7월 17일과 12월 31일 사이에 기업 D가 임계치를 초과하여 창출한 수익에 따라 인식한다. | | |\n| | | 변형: 기업 D가 20X1년에 창출한 모든 수익에 기초하여 부담금액이 계산된다는 점을 제외하고는(즉, 20X1년에 창출된 수익의 첫 5천만원을 포함), 위의 사례(즉, 기업 D가 20X1년에 5천만원을 초과하는 수익을 창출하면 부담금이 유발되는 경우)와 사실 유형이 같다. 이 사례에서, 법규에 명시된 의무발생사건은 수익이 임계치에 이르는 것이기 때문에, 첫 5천만원 수익과 관련된 부담금부채는 임계치를 충족하는 20X1년 7월 17일에 인식한다. 법규에 명시된 의무발생사건이 임계치에 이른 후에 수행된 활동이기 때문에(즉, 임계치에 이른 후의 수익 창출), 임계치를 초과하여 창출한 수익과 관련된 부담금부채는 기업이 임계치를 초과하여 수익을 창출함에 따라 20X1년 7월 17일과 20X1년 12월 31일 사이에 인식한다. 부채금액은 첫 5천만원 수익을 포함하여 그 시점까지 창출된 수익에 기초한다. 중간재무보고서(있는 경우)에도 연차재무제표와 같은 인식 원칙을 적용한다. | | |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>기업회계기준해석서 제2121호의 적용사례</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩5\"><div value=\"웩5\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para-inner-para\"><i>이 적용사례는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">부담금</span><span class=\"std-finder\">기업회계기준해석서 제2121호</span></div>에 첨부되지만, 이 해석서의 일부를 구성하는 것은 아니다. \n  </i></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"IE1\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"IE1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">IE1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">이 사례의 목적은 부담금부채를 연차재무제표와 중간재무보고서에서 어떻게 회계처리할지를 제시하는 데 있다.</div><br><div class=\"sc-drlKqa cRWPOO temp\" data-key=\"/2121_EX1_tb01.htm\"><html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Excel.Sheet\"><meta name=\"Generator\" content=\"Microsoft Excel 15\"><link rel=\"File-List\" href=\"2121_EX1_tb01.files/filelist.xml\"><style id=\"2121_EX1_tb01_24676_Styles\">\r\n<!--table\r\n\t{mso-displayed-decimal-separator:\"\\.\";\r\n\tmso-displayed-thousand-separator:\"\\,\";}\r\n.font524676\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.font624676\r\n\t{color:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.font724676\r\n\t{color:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:underline;\r\n\ttext-underline-style:single;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.xl1524676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:11.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6324676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:11.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:.5pt solid windowtext;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6424676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6524676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:11.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:.5pt solid windowtext;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6624676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:top;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl6724676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:11.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:none;\r\n\tborder-left:.5pt solid windowtext;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6824676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:top;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:none;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl6924676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:11.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:.5pt solid windowtext;\r\n\tborder-bottom:none;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl7024676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:11.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:.5pt solid windowtext;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl7124676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl7224676\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:11.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:.5pt solid windowtext;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\nruby\r\n\t{ruby-align:left;}\r\nrt\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-char-type:none;}\r\n-->\r\n</style></head><body><div id=\"2121_EX1_tb01_24676\" align=\"center\" x:publishsource=\"Excel\"><div class=\"table\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"613\" style=\"border-collapse: collapse; table-layout: fixed; width: 459pt;\"><col width=\"7\" span=\"2\" style=\"width: 5pt;\"><col width=\"585\" style=\"width: 439pt;\"><col width=\"7\" span=\"2\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1524676\" width=\"7\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl1524676\" width=\"7\" style=\"width: 5pt;\"></td><td class=\"xl1524676\" width=\"585\" style=\"width: 439pt;\"></td><td class=\"xl1524676\" width=\"7\" style=\"width: 5pt;\"></td><td class=\"xl1524676\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl6324676\">　</td><td class=\"xl6424676\">사례 1: 기업이 수익을 창출함에 따라 부담금이 점진적으로 유발된다.</td><td class=\"xl6524676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"254\" style=\"height: 190.2pt;\"><td height=\"254\" class=\"xl1524676\" style=\"height: 190.2pt;\"></td><td class=\"xl6324676\" style=\"border-top: none;\">　</td><td class=\"xl6624676\" width=\"585\" style=\"border-top: none; width: 439pt;\">기업 A의\r\n  연차보고기간은 12월 31일에 종료된다. 법규에 따르면 부담금은 20X1년에 기업이 수익을 창출함에 따라 점진적으로 유발된다. 부담금액은\r\n  20X1년에 기업이 창출한 수익에 따라 계산된다. <br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 20X1년 중의 수익 창출이므로, 부채는 20X1년 중에 기업 A가 창출한 수익에 따라\r\n  점진적으로 인식한다. 기업 A는 20X1년의 어느 시점에나 그 일자까지 창출된 수익에 대해 부담금을 납부해야 하는 현재의무가 있다. 기업\r\n  A는 미래의 수익 창출로 인하여 부담금을 납부해야 하는 현재의무는 없다.<br><br>\r\n    중간재무보고서(있는 경우)에는, 기업 A가 수익을 창출함에 따라 점진적으로 부채를 인식한다. 기업 A는 20X1년 1월 1일부터\r\n  중간보고기간 말까지 창출한 수익에 대해 부담금을 납부해야 하는 현재의무가 있다.</td><td class=\"xl6524676\" style=\"border-top: none;\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl6324676\">　</td><td class=\"xl6424676\">사례 2: 기업이 수익을 창출하는 즉시 부담금이 모두 유발된다.</td><td class=\"xl6524676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"277\" style=\"height: 207.6pt;\"><td height=\"277\" class=\"xl1524676\" style=\"height: 207.6pt;\"></td><td class=\"xl6324676\" style=\"border-top: none;\">　</td><td class=\"xl6624676\" width=\"585\" style=\"border-top: none; width: 439pt;\">기업 B의\r\n  연차보고기간은 12월 31일에 종료된다. 법규에 따르면 20X1년에 기업이 수익을 창출하는 즉시 부담금이 모두 유발된다. 부담금액은\r\n  20X0년에 기업이 창출한 수익에 따라 계산된다. 기업 B는 20X0년에 수익을 창출하였고, 20X1년에는 20X1년 1월 3일에 수익을\r\n  창출하기 시작한다. <br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 20X1년의 첫 수익 창출이므로, 20X1년 1월 3일에 부채를 모두 인식한다. 20X0년의\r\n  수익 창출은 부담금을 납부해야 하는 현재의무를 발생시키는 데에 필요하지만 충분하지는 않다. 기업 B는 20X1년 1월 3일 전까지는\r\n  부담금을 납부해야 하는 현재의무가 없다. 즉, 법규에 명시된 부담금 납부를 유발하는 활동은 기업 B가 20X1년에 수익을 처음으로 창출하는\r\n  시점이다. 20X0년의 수익 창출은 부담금 납부와 부채 인식을 유발하는 활동은 아니다. 20X0년에 창출된 수익금액은 부채의 측정에만\r\n  영향을 미친다. <br><br>\r\n    20X1년 1월 3일에 부채를 모두 인식하기 때문에, 중간재무보고서(있는 경우)에는 20X1년의 첫 번째 중간보고기간에 부채를 모두\r\n  인식한다.</td><td class=\"xl6524676\" style=\"border-top: none;\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl6324676\">　</td><td class=\"xl6424676\">사례 3: 특정 일자에 기업이 은행 영업을 한다면, 부담금이 모두 유발된다.<span>&nbsp;</span></td><td class=\"xl6524676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"317\" style=\"height: 237.6pt;\"><td height=\"317\" class=\"xl1524676\" style=\"height: 237.6pt;\"></td><td class=\"xl6324676\" style=\"border-top: none;\">　</td><td class=\"xl6624676\" width=\"585\" style=\"border-top: none; width: 439pt;\">기업 C는 은행이고\r\n  연차보고기간은 12월 31일에 종료된다. 법규에 따르면 이 기업은 연차보고기간의 종료일에 은행 영업을 하고 있는 경우에만 부담금이 모두\r\n  유발된다. 부담금액은 연차보고기간 종료일에 기업의 재무상태표의 금액에 따라 계산된다. 기업 C의 연차보고기간 종료일은 20X1년 12월\r\n  31일이다. <br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 기업 C가 연차보고기간 종료일에 은행 영업을 하는 것이므로, 20X1년 12월 31일에\r\n  부채가 인식된다. 미래에 은행 영업을 계속하는 것이 경제적으로 강제되더라도, 그 미래 시점 전까지는 기업 C는 부담금을 납부해야 하는\r\n  현재의무가 없다. 즉, 법규에 명시된 부담금 납부를 유발하는 활동은 연차보고기간 종료일에 기업이 은행 영업을 하는 것인데, 이는 20X1년\r\n  12월 31일 전까지는 발생하지 않는다. 의무발생사건은 연차보고기간 종료일에 은행 영업을 하는 것이기 때문에, 부채금액이 보고기간의 길이에\r\n  기초하더라도, 이러한 결론이 바뀌지는 않을 것이다.<br><br>\r\n    부채는 20X1년 12월 31일에 모두 인식하기 때문에, 중간재무보고서(있는 경우)에는 20X1년 12월 31일이 속하는 중간보고기간에\r\n  부채를 모두 인식한다.<span>&nbsp;&nbsp;</span></td><td class=\"xl6524676\" style=\"border-top: none;\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl6324676\">　</td><td class=\"xl6424676\">사례 4: 최소 수익금액을 초과하여 수익을 창출하면 부담금이<span>&nbsp; </span>유발된다.<span>&nbsp;&nbsp;</span></td><td class=\"xl6524676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"275\" style=\"height: 206.4pt;\"><td height=\"275\" class=\"xl1524676\" style=\"height: 206.4pt;\"></td><td class=\"xl6724676\" style=\"border-top: none;\">　</td><td class=\"xl6824676\" width=\"585\" style=\"border-top: none; width: 439pt;\">기업 D의\r\n  연차보고기간은 12월 31일에 종료된다. 법규에 따르면 20X1년에 5천만원을 초과하는 수익을 창출하면 부담금이 유발된다. 5천만원을\r\n  초과하여 창출된 수익에 따라 부담금액이 계산되는데, 창출된 수익의 첫 5천만원(임계치 이하)에는 0%의 부과율을 적용하고, 5천만원을\r\n  초과하는 경우에는 2%의 부과율을 적용한다. 기업 D의 수익은 20X1년 7월 17일에 5천만원의 수익 임계치에 이른다.<br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 임계치에 이른 후에 수행된 활동(즉, 임계치에 이른 후 수익의 창출)이기 때문에, 기업 D가\r\n  임계치를 초과하는 수익을 창출한 20X1년 7월 17일과 20X1년 12월 31일 사이에 부채가 인식된다. 부채금액은 임계치인 수익금액\r\n  5천만원을 초과하는 날부터 현재까지 창출된 수익에 기초한다. <br><br>\r\n    중간재무보고서(있는 경우)에는, 부채를 20X1년 7월 17일과 12월 31일 사이에 기업 D가 임계치를 초과하여 창출한 수익에 따라\r\n  인식한다.</td><td class=\"xl6924676\" style=\"border-top: none;\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"270\" style=\"height: 202.8pt;\"><td height=\"270\" class=\"xl1524676\" style=\"height: 202.8pt;\"></td><td class=\"xl7024676\">　</td><td class=\"xl7124676\" width=\"585\" style=\"width: 439pt;\"><font class=\"font724676\">변형:</font><font class=\"font624676\"><br><br>\r\n    기업 D가 20X1년에 창출한 모든 수익에 기초하여 부담금액이 계산된다는 점을 제외하고는(즉, 20X1년에 창출된 수익의 첫 5천만원을\r\n  포함), 위의 사례(즉, 기업 D가 20X1년에 5천만원을 초과하는 수익을 창출하면<span>&nbsp; </span>부담금이 유발되는 경우)와 사실 유형이 같다.<br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 수익이 임계치에 이르는 것이기 때문에, 첫 5천만원 수익과 관련된 부담금부채는 임계치를\r\n  충족하는 20X1년 7월 17일에 인식한다. 법규에 명시된 의무발생사건이 임계치에 이른 후에 수행된 활동이기 때문에(즉, 임계치에 이른\r\n  후의 수익 창출), 임계치를 초과하여 창출한 수익과 관련된 부담금부채는 기업이 임계치를 초과하여 수익을 창출함에 따라 20X1년 7월\r\n  17일과 20X1년 12월 31일 사이에 인식한다. 부채금액은 첫 5천만원 수익을 포함하여 그 시점까지 창출된 수익에 기초한다.\r\n  중간재무보고서(있는 경우)에도 연차재무제표와 같은 인식 원칙을 적용한다.<span>&nbsp;</span></font></td><td class=\"xl7224676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1524676\" style=\"height: 4.95pt;\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"585\" style=\"width: 439pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table></div></div></body></html></div></div></div></div></li></ol>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"613\" style=\"border-collapse: collapse; table-layout: fixed; width: 459pt;\"><col width=\"7\" span=\"2\" style=\"width: 5pt;\"><col width=\"585\" style=\"width: 439pt;\"><col width=\"7\" span=\"2\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1524676\" width=\"7\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl1524676\" width=\"7\" style=\"width: 5pt;\"></td><td class=\"xl1524676\" width=\"585\" style=\"width: 439pt;\"></td><td class=\"xl1524676\" width=\"7\" style=\"width: 5pt;\"></td><td class=\"xl1524676\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl6324676\">　</td><td class=\"xl6424676\">사례 1: 기업이 수익을 창출함에 따라 부담금이 점진적으로 유발된다.</td><td class=\"xl6524676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"254\" style=\"height: 190.2pt;\"><td height=\"254\" class=\"xl1524676\" style=\"height: 190.2pt;\"></td><td class=\"xl6324676\" style=\"border-top: none;\">　</td><td class=\"xl6624676\" width=\"585\" style=\"border-top: none; width: 439pt;\">기업 A의\r\n  연차보고기간은 12월 31일에 종료된다. 법규에 따르면 부담금은 20X1년에 기업이 수익을 창출함에 따라 점진적으로 유발된다. 부담금액은\r\n  20X1년에 기업이 창출한 수익에 따라 계산된다. <br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 20X1년 중의 수익 창출이므로, 부채는 20X1년 중에 기업 A가 창출한 수익에 따라\r\n  점진적으로 인식한다. 기업 A는 20X1년의 어느 시점에나 그 일자까지 창출된 수익에 대해 부담금을 납부해야 하는 현재의무가 있다. 기업\r\n  A는 미래의 수익 창출로 인하여 부담금을 납부해야 하는 현재의무는 없다.<br><br>\r\n    중간재무보고서(있는 경우)에는, 기업 A가 수익을 창출함에 따라 점진적으로 부채를 인식한다. 기업 A는 20X1년 1월 1일부터\r\n  중간보고기간 말까지 창출한 수익에 대해 부담금을 납부해야 하는 현재의무가 있다.</td><td class=\"xl6524676\" style=\"border-top: none;\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl6324676\">　</td><td class=\"xl6424676\">사례 2: 기업이 수익을 창출하는 즉시 부담금이 모두 유발된다.</td><td class=\"xl6524676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"277\" style=\"height: 207.6pt;\"><td height=\"277\" class=\"xl1524676\" style=\"height: 207.6pt;\"></td><td class=\"xl6324676\" style=\"border-top: none;\">　</td><td class=\"xl6624676\" width=\"585\" style=\"border-top: none; width: 439pt;\">기업 B의\r\n  연차보고기간은 12월 31일에 종료된다. 법규에 따르면 20X1년에 기업이 수익을 창출하는 즉시 부담금이 모두 유발된다. 부담금액은\r\n  20X0년에 기업이 창출한 수익에 따라 계산된다. 기업 B는 20X0년에 수익을 창출하였고, 20X1년에는 20X1년 1월 3일에 수익을\r\n  창출하기 시작한다. <br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 20X1년의 첫 수익 창출이므로, 20X1년 1월 3일에 부채를 모두 인식한다. 20X0년의\r\n  수익 창출은 부담금을 납부해야 하는 현재의무를 발생시키는 데에 필요하지만 충분하지는 않다. 기업 B는 20X1년 1월 3일 전까지는\r\n  부담금을 납부해야 하는 현재의무가 없다. 즉, 법규에 명시된 부담금 납부를 유발하는 활동은 기업 B가 20X1년에 수익을 처음으로 창출하는\r\n  시점이다. 20X0년의 수익 창출은 부담금 납부와 부채 인식을 유발하는 활동은 아니다. 20X0년에 창출된 수익금액은 부채의 측정에만\r\n  영향을 미친다. <br><br>\r\n    20X1년 1월 3일에 부채를 모두 인식하기 때문에, 중간재무보고서(있는 경우)에는 20X1년의 첫 번째 중간보고기간에 부채를 모두\r\n  인식한다.</td><td class=\"xl6524676\" style=\"border-top: none;\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl6324676\">　</td><td class=\"xl6424676\">사례 3: 특정 일자에 기업이 은행 영업을 한다면, 부담금이 모두 유발된다.<span>&nbsp;</span></td><td class=\"xl6524676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"317\" style=\"height: 237.6pt;\"><td height=\"317\" class=\"xl1524676\" style=\"height: 237.6pt;\"></td><td class=\"xl6324676\" style=\"border-top: none;\">　</td><td class=\"xl6624676\" width=\"585\" style=\"border-top: none; width: 439pt;\">기업 C는 은행이고\r\n  연차보고기간은 12월 31일에 종료된다. 법규에 따르면 이 기업은 연차보고기간의 종료일에 은행 영업을 하고 있는 경우에만 부담금이 모두\r\n  유발된다. 부담금액은 연차보고기간 종료일에 기업의 재무상태표의 금액에 따라 계산된다. 기업 C의 연차보고기간 종료일은 20X1년 12월\r\n  31일이다. <br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 기업 C가 연차보고기간 종료일에 은행 영업을 하는 것이므로, 20X1년 12월 31일에\r\n  부채가 인식된다. 미래에 은행 영업을 계속하는 것이 경제적으로 강제되더라도, 그 미래 시점 전까지는 기업 C는 부담금을 납부해야 하는\r\n  현재의무가 없다. 즉, 법규에 명시된 부담금 납부를 유발하는 활동은 연차보고기간 종료일에 기업이 은행 영업을 하는 것인데, 이는 20X1년\r\n  12월 31일 전까지는 발생하지 않는다. 의무발생사건은 연차보고기간 종료일에 은행 영업을 하는 것이기 때문에, 부채금액이 보고기간의 길이에\r\n  기초하더라도, 이러한 결론이 바뀌지는 않을 것이다.<br><br>\r\n    부채는 20X1년 12월 31일에 모두 인식하기 때문에, 중간재무보고서(있는 경우)에는 20X1년 12월 31일이 속하는 중간보고기간에\r\n  부채를 모두 인식한다.<span>&nbsp;&nbsp;</span></td><td class=\"xl6524676\" style=\"border-top: none;\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td></tr><tr height=\"23\" style=\"height: 17.4pt;\"><td height=\"23\" class=\"xl1524676\" style=\"height: 17.4pt;\"></td><td class=\"xl6324676\">　</td><td class=\"xl6424676\">사례 4: 최소 수익금액을 초과하여 수익을 창출하면 부담금이<span>&nbsp; </span>유발된다.<span>&nbsp;&nbsp;</span></td><td class=\"xl6524676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"275\" style=\"height: 206.4pt;\"><td height=\"275\" class=\"xl1524676\" style=\"height: 206.4pt;\"></td><td class=\"xl6724676\" style=\"border-top: none;\">　</td><td class=\"xl6824676\" width=\"585\" style=\"border-top: none; width: 439pt;\">기업 D의\r\n  연차보고기간은 12월 31일에 종료된다. 법규에 따르면 20X1년에 5천만원을 초과하는 수익을 창출하면 부담금이 유발된다. 5천만원을\r\n  초과하여 창출된 수익에 따라 부담금액이 계산되는데, 창출된 수익의 첫 5천만원(임계치 이하)에는 0%의 부과율을 적용하고, 5천만원을\r\n  초과하는 경우에는 2%의 부과율을 적용한다. 기업 D의 수익은 20X1년 7월 17일에 5천만원의 수익 임계치에 이른다.<br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 임계치에 이른 후에 수행된 활동(즉, 임계치에 이른 후 수익의 창출)이기 때문에, 기업 D가\r\n  임계치를 초과하는 수익을 창출한 20X1년 7월 17일과 20X1년 12월 31일 사이에 부채가 인식된다. 부채금액은 임계치인 수익금액\r\n  5천만원을 초과하는 날부터 현재까지 창출된 수익에 기초한다. <br><br>\r\n    중간재무보고서(있는 경우)에는, 부채를 20X1년 7월 17일과 12월 31일 사이에 기업 D가 임계치를 초과하여 창출한 수익에 따라\r\n  인식한다.</td><td class=\"xl6924676\" style=\"border-top: none;\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"270\" style=\"height: 202.8pt;\"><td height=\"270\" class=\"xl1524676\" style=\"height: 202.8pt;\"></td><td class=\"xl7024676\">　</td><td class=\"xl7124676\" width=\"585\" style=\"width: 439pt;\"><font class=\"font724676\">변형:</font><font class=\"font624676\"><br><br>\r\n    기업 D가 20X1년에 창출한 모든 수익에 기초하여 부담금액이 계산된다는 점을 제외하고는(즉, 20X1년에 창출된 수익의 첫 5천만원을\r\n  포함), 위의 사례(즉, 기업 D가 20X1년에 5천만원을 초과하는 수익을 창출하면<span>&nbsp; </span>부담금이 유발되는 경우)와 사실 유형이 같다.<br><br>\r\n    이 사례에서, 법규에 명시된 의무발생사건은 수익이 임계치에 이르는 것이기 때문에, 첫 5천만원 수익과 관련된 부담금부채는 임계치를\r\n  충족하는 20X1년 7월 17일에 인식한다. 법규에 명시된 의무발생사건이 임계치에 이른 후에 수행된 활동이기 때문에(즉, 임계치에 이른\r\n  후의 수익 창출), 임계치를 초과하여 창출한 수익과 관련된 부담금부채는 기업이 임계치를 초과하여 수익을 창출함에 따라 20X1년 7월\r\n  17일과 20X1년 12월 31일 사이에 인식한다. 부채금액은 첫 5천만원 수익을 포함하여 그 시점까지 창출된 수익에 기초한다.\r\n  중간재무보고서(있는 경우)에도 연차재무제표와 같은 인식 원칙을 적용한다.<span>&nbsp;</span></font></td><td class=\"xl7224676\">　</td><td class=\"xl1524676\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1524676\" style=\"height: 4.95pt;\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td><td class=\"xl1524676\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"585\" style=\"width: 439pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC1",
+      "section_id": "4fzcHl",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|도입",
+      "text": "이 결론도출근거는 IFRS Interpretations Committee(이하 ‘해석위원회’라 한다)가 결론을 도출하는 데 고려한 사항들을 요약한다. 해석위원회는 특정 상황에서 IFRIC 6을 정부가 기업에 부과하는 그 밖의 부담금부채를 인식하게 하는 의무발생사건을 식별하는 데 유추적용해야 하는지를 명확히 해달라는 요청을 받았다. 이 쟁점은 IAS 37에 따라 회계처리되는 부담금부채를 언제 인식하는지와 관계가 있다.",
+      "html": "이 결론도출근거는 IFRS Interpretations Committee(이하 ‘해석위원회’라 한다)가 결론을 도출하는 데 고려한 사항들을 요약한다. 해석위원회는 특정 상황에서 IFRIC 6을 정부가 기업에 부과하는 그 밖의 부담금부채를 인식하게 하는 의무발생사건을 식별하는 데 유추적용해야 하는지를 명확히 해달라는 요청을 받았다. 이 쟁점은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 따라 회계처리되는 부담금부채를 언제 인식하는지와 관계가 있다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC2",
+      "section_id": "4fzcHl",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|도입",
+      "text": "특히 이 요청은 부담금 납부를 유발하는 활동이 일어나는 기간 전의 한 기간과 관련된 재무자료에 기초하여 부담금을 계산할 때 이 부담금을 어떻게 회계처리해야 하는지를 해석위원회가 명확히 해달라는 것이었다. 예를 들어, 법규에 명시된 부담금 납부를 유발하는 활동이 20X1년에 발생하고 이 부담금을 20X0년 재무자료에 기초하여 계산하는 경우가 이에 해당한다(적용사례 2 참조).",
+      "html": "특히 이 요청은 부담금 납부를 유발하는 활동이 일어나는 기간 전의 한 기간과 관련된 재무자료에 기초하여 부담금을 계산할 때 이 부담금을 어떻게 회계처리해야 하는지를 해석위원회가 명확히 해달라는 것이었다. 예를 들어, 법규에 명시된 부담금 납부를 유발하는 활동이 20X1년에 발생하고 이 부담금을 20X0년 재무자료에 기초하여 계산하는 경우가 이에 해당한다(적용사례 2 참조).\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC3",
+      "section_id": "4fzcHl",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|도입",
+      "text": "해석위원회는 기업이 그러한 부담금을 납부해야 하는 의무를 회계처리하는 방법이 실무상 다양하다는 것을 알게 되었다.",
+      "html": "해석위원회는 기업이 그러한 부담금을 납부해야 하는 의무를 회계처리하는 방법이 실무상 다양하다는 것을 알게 되었다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC12",
+      "section_id": "ib9WfP",
+      "section_title": "부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "text": "IAS 37 문단 10의 정의에 따르면 의무발생사건은 해당 의무를 이행하는 것 외에는 현실적인 대안이 없는 법적의무 또는 의제의무를 발생시키는 사건이다. IAS 37 문단 14⑴에 따르면 충당부채는 과거사건의 결과로 현재의무가 존재하는 경우에만 인식해야 한다. 해석위원회는 이 규정의 주된 결과는 오직 하나의 의무발생사건만 존재할 수 있다는 것이라고 보았다. 해석위원회는 일부 상황에서는 다른 사건이 미리 발생한 경우에만 의무발생사건이 발생할 수 있다는 것을 인정하였다. 예를 들어, 일부 부담금의 경우 그 부담금을 납부해야 하는 의무가 존재하기 위해서는 부담금을 납부하는 기업이 반드시 전기와 당기 모두에 활동을 수행했어야 한다. 해석위원회는 전기에 수행된 활동이 현재의무를 발생시키는 데 필요하지만 충분하지는 않다는 점에 주목하였다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div><span class=\"mundan-finder\"> 문단 10</span>의 정의에 따르면 의무발생사건은 해당 의무를 이행하는 것 외에는 현실적인 대안이 없는 법적의무 또는 의제의무를 발생시키는 사건이다. \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37 </span></div><span class=\"mundan-finder\"> 문단 14⑴</span>에 따르면 충당부채는 과거사건의 결과로 현재의무가 존재하는 경우에만 인식해야 한다. 해석위원회는 이 규정의 주된 결과는 오직 하나의 의무발생사건만 존재할 수 있다는 것이라고 보았다. 해석위원회는 일부 상황에서는 다른 사건이 미리 발생한 경우에만 의무발생사건이 발생할 수 있다는 것을 인정하였다. 예를 들어, 일부 부담금의 경우 그 부담금을 납부해야 하는 의무가 존재하기 위해서는 부담금을 납부하는 기업이 반드시 전기와 당기 모두에 활동을 수행했어야 한다. 해석위원회는 전기에 수행된 활동이 현재의무를 발생시키는 데 필요하지만 충분하지는 않다는 점에 주목하였다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 10",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "10",
+          "paragraph_ids": [
+            "10"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 14⑴",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "14⑴",
+          "paragraph_ids": [
+            "14⑴"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC13",
+      "section_id": "ib9WfP",
+      "section_title": "부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "text": "따라서 해석위원회는 부담금부채를 발생시키는 의무발생사건은 법규에 명시된 부담금 납부를 유발하는 활동이라고 결론 내렸다. 즉, 부담금부채는 법규에 명시된 부담금 납부를 유발하는 활동이 발생할 때 인식한다. 예를 들어, 만약 부담금 납부를 유발하는 활동이 20X1년의 수익 창출이고 그 부담금의 산출이 20X0년에 창출된 수익에 기초한다면, 그 부담금의 의무발생사건은 20X1년의 수익 창출이다(적용사례 2 참조). 의무발생사건은 부담금 납부를 유발하는 활동(부담금 납부 자체는 아님)이기 때문에, 부담금 납부일은 부담금부채의 인식시점에 영향을 미치지 않는다.",
+      "html": "따라서 해석위원회는 부담금부채를 발생시키는 의무발생사건은 법규에 명시된 부담금 납부를 유발하는 활동이라고 결론 내렸다. 즉, 부담금부채는 법규에 명시된 부담금 납부를 유발하는 활동이 발생할 때 인식한다. 예를 들어, 만약 부담금 납부를 유발하는 활동이 20X1년의 수익 창출이고 그 부담금의 산출이 20X0년에 창출된 수익에 기초한다면, 그 부담금의 의무발생사건은 20X1년의 수익 창출이다(적용사례 2 참조). 의무발생사건은 부담금 납부를 유발하는 활동(부담금 납부 자체는 아님)이기 때문에, 부담금 납부일은 부담금부채의 인식시점에 영향을 미치지 않는다.\n",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-36938",
+          "title": "종합부동산세 부채 인식",
+          "url": "/qnas/SSI-36938",
+          "date": "2020-06-01"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "BC14",
+      "section_id": "ib9WfP",
+      "section_title": "부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "text": "해석위원회는 이 해석서 공개초안에 대한 일부 의견제출자들이 이 해석서에서 제안된 회계처리가 IAS 37의 규정을 기술적으로 정확하게 해석한 것이라는 점은 인정하였지만, 제안된 회계처리의 결과가 한 시점에 부채가 인식되고 비용이 발생되는 경우 반복적으로 발생하는 부담금의 경제적 효과를 적정하게 표현하지 못한다고 생각하는 것에 주목하였다. 이 의견제출자들은 반복적으로 발생하는 부담금의 실질은 특정 기간과 관련된 비용(특정일에 유발된 비용이 아님)이라고 생각한다. 해석위원회는 이 해석서가 실무의 다양성을 다루기 위하여 필요하고, 이 해석서에서 기업의 부담금 납부 의무에 대한 일관성 있는 정보를 제공한다고 결론 내렸다. 해석위원회는 또한 이 해석서에서 부담금부채를 인식하면서 발생하는 원가의 회계처리는 다루지 않고, 부담금부채를 인식하는 것이 자산과 비용 중 어떤 것을 발생시키는지는 다른 기준서에 따라 결정할 수 있다고 보았다. 이 해석서 공개초안에 대한 일부 의견제출자들은 해석위원회가 미래기간에 영업을 계속하여야 하는 경제적강제와 계속기업 가정이 부담금 회계처리에 미치는 영향을 고려할 것을 요청하였다. 해석위원회의 결론은 다음과 같다.",
+      "html": "해석위원회는 이 해석서 공개초안에 대한 일부 의견제출자들이 이 해석서에서 제안된 회계처리가 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>의 규정을 기술적으로 정확하게 해석한 것이라는 점은 인정하였지만, 제안된 회계처리의 결과가 한 시점에 부채가 인식되고 비용이 발생되는 경우 반복적으로 발생하는 부담금의 경제적 효과를 적정하게 표현하지 못한다고 생각하는 것에 주목하였다. 이 의견제출자들은 반복적으로 발생하는 부담금의 실질은 특정 기간과 관련된 비용(특정일에 유발된 비용이 아님)이라고 생각한다. 해석위원회는 이 해석서가 실무의 다양성을 다루기 위하여 필요하고, 이 해석서에서 기업의 부담금 납부 의무에 대한 일관성 있는 정보를 제공한다고 결론 내렸다. 해석위원회는 또한 이 해석서에서 부담금부채를 인식하면서 발생하는 원가의 회계처리는 다루지 않고, 부담금부채를 인식하는 것이 자산과 비용 중 어떤 것을 발생시키는지는 다른 기준서에 따라 결정할 수 있다고 보았다. 이 해석서 공개초안에 대한 일부 의견제출자들은 해석위원회가 미래기간에 영업을 계속하여야 하는 경제적강제와 계속기업 가정이 부담금 회계처리에 미치는 영향을 고려할 것을 요청하였다. 해석위원회의 결론은 다음과 같다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC15",
+      "section_id": "7R03VH",
+      "section_title": "미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "text": "해석위원회는 만일 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의무를 회피하기 위해 비현실적인 조치를 취할 필요가 있다면 그 부담금을 납부해야 하는 의제의무가 존재하고 부채를 인식해야 한다는 주장을 고려하였다. 예를 들어 부담금 납부를 유발하는 활동이 20X1년에 발생하고 그 부담금의 산출이 20X0년 재무자료에 기초한다면(적용사례 2 참조), 20X0년에 부채를 인식해야 한다는 주장도 있다. 이러한 주장의 지지자들은 IAS 37 문단 10의 의제의무의 정의를 언급하며 기업이 다음 기간(즉 20X1년)에 영업을 계속하는 것 외에 다른 현실적인 대안이 없을 수 있다고 결론 내린다. 예를 들어, 이들은 기업이 규제된 시장에서 영업을 하는 경우, 장기간에 걸쳐 축소하지 않고는 영업을 중단하지 못할 수도 있다는 점에 주목한다.",
+      "html": "해석위원회는 만일 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의무를 회피하기 위해 비현실적인 조치를 취할 필요가 있다면 그 부담금을 납부해야 하는 의제의무가 존재하고 부채를 인식해야 한다는 주장을 고려하였다. 예를 들어 부담금 납부를 유발하는 활동이 20X1년에 발생하고 그 부담금의 산출이 20X0년 재무자료에 기초한다면(적용사례 2 참조), 20X0년에 부채를 인식해야 한다는 주장도 있다. 이러한 주장의 지지자들은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div><span class=\"mundan-finder\"> 문단 10</span>의 의제의무의 정의를 언급하며 기업이 다음 기간(즉 20X1년)에 영업을 계속하는 것 외에 다른 현실적인 대안이 없을 수 있다고 결론 내린다. 예를 들어, 이들은 기업이 규제된 시장에서 영업을 하는 경우, 장기간에 걸쳐 축소하지 않고는 영업을 중단하지 못할 수도 있다는 점에 주목한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 10",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "10",
+          "paragraph_ids": [
+            "10"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC16",
+      "section_id": "7R03VH",
+      "section_title": "미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "text": "해석위원회는 이 논리가 적용된다면 IAS 37의 적용범위에 해당하는 많은 종류의 미래지출이 부채로 인식될 수 있다는 점을 주목하면서, 이 주장을 기각하였다. 실제로 많은 경우 기업은 미래에 발생할 지출을 지급하는 것 외에 다른 현실적인 대안이 없다. 해석위원회는 IAS 37 문단 18~19에 따라 ⑴ 미래영업을 위하여 발생하게 될 원가에 대해 충당부채를 인식하지 않으며, ⑵ 과거사건으로 인한 의무가 기업의 미래 사업수행과 독립적인 경우에만 충당부채로 인식된다는 점에 주목하였다.",
+      "html": "해석위원회는 이 논리가 적용된다면 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>의 적용범위에 해당하는 많은 종류의 미래지출이 부채로 인식될 수 있다는 점을 주목하면서, 이 주장을 기각하였다. 실제로 많은 경우 기업은 미래에 발생할 지출을 지급하는 것 외에 다른 현실적인 대안이 없다. 해석위원회는   \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div><span class=\"mundan-finder\"> 문단 18~19</span>에 따라 ⑴ 미래영업을 위하여 발생하게 될 원가에 대해 충당부채를 인식하지 않으며, ⑵ 과거사건으로 인한 의무가 기업의 미래 사업수행과 독립적인 경우에만 충당부채로 인식된다는 점에 주목하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 18~19",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "18~19",
+          "paragraph_ids": [
+            "18~19"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC17",
+      "section_id": "7R03VH",
+      "section_title": "미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "text": "따라서 해석위원회는 기업이 미래 사업수행과 관련된 영업원가를 발생시키도록 경제적으로 강제될 때, 이 강제가 의제의무를 발생시키지 않으므로 부채를 인식하지 않는다고 결론 내렸다. 이러한 사항은 IAS 37에 첨부되는 사례에 예시되어 있다.",
+      "html": "따라서 해석위원회는 기업이 미래 사업수행과 관련된 영업원가를 발생시키도록 경제적으로 강제될 때, 이 강제가 의제의무를 발생시키지 않으므로 부채를 인식하지 않는다고 결론 내렸다. 이러한 사항은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 첨부되는 사례에 예시되어 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC18",
+      "section_id": "7R03VH",
+      "section_title": "미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "text": "해석위원회는 법규에 명시된 특정 기간에 활동을 수행한 결과로 부담금이 유발된다는 점에 주목하였다. 따라서 해석위원회는 다음에 해당하더라도, 미래 사업수행과 관련된 부담금을 납부해야 하는 의제의무는 없다고 결론 내렸다. ⑴ 사업을 계속할 의도가 있다면 부담금을 회피하는 것이 경제적으로 비현실적인 경우 ⑵ 사업을 계속한다면 부담금을 발생시키는 법적 요구가 있는 경우 ⑶ 부담금 납부를 회피하기 위해서는 유형자산의 매각이나 가동 중단 등과 같은 비현실적인 조치가 필요할 수 있는 경우 ⑷ 미래기간에 영업하겠다는 의향을 표명(그리고 능력도 있음)한 경우 ⑸ 미래기간에 영업해야 하는 법적, 규제적 또는 계약적 요구가 있는 경우",
+      "html": "해석위원회는 법규에 명시된 특정 기간에 활동을 수행한 결과로 부담금이 유발된다는 점에 주목하였다. 따라서 해석위원회는 다음에 해당하더라도, 미래 사업수행과 관련된 부담금을 납부해야 하는 의제의무는 없다고 결론 내렸다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 사업을 계속할 의도가 있다면 부담금을 회피하는 것이 경제적으로 비현실적인 경우</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 사업을 계속한다면 부담금을 발생시키는 법적 요구가 있는 경우</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 부담금 납부를 회피하기 위해서는 유형자산의 매각이나 가동 중단 등과 같은 비현실적인 조치가 필요할 수 있는 경우</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑷</div><div class=\"para-num-item-para-con\"> 미래기간에 영업하겠다는 의향을 표명(그리고 능력도 있음)한 경우</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑸</div><div class=\"para-num-item-para-con\"> 미래기간에 영업해야 하는 법적, 규제적 또는 계약적 요구가 있는 경우</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC19",
+      "section_id": "7R03VH",
+      "section_title": "미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|미래기간에 영업을 계속하여야 하는 경제적 강제가 그 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무를 발생시키는가?",
+      "text": "따라서 해석위원회는 기업이 미래기간에 영업을 계속하도록 경제적으로 강제되더라도, 기업은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무가 보고일에는 없다고 결론 내렸다.",
+      "html": "따라서 해석위원회는 기업이 미래기간에 영업을 계속하도록 경제적으로 강제되더라도, 기업은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 의제의무가 보고일에는 없다고 결론 내렸다.\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC20",
+      "section_id": "FNnBn4",
+      "section_title": "계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가?",
+      "text": "해석위원회는 이 논제가 재무제표 작성 기준과 관련이 있다는 점에 주목하였다. 일부는 계속기업 가정이 부담금부채의 인식 시기에 영향을 주는지 의문을 제기한다.",
+      "html": "해석위원회는 이 논제가 재무제표 작성 기준과 관련이 있다는 점에 주목하였다. 일부는 계속기업 가정이 부담금부채의 인식 시기에 영향을 주는지 의문을 제기한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC21",
+      "section_id": "FNnBn4",
+      "section_title": "계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가?",
+      "text": "해석위원회는 발생기준 회계와 계속기업 가정을 포함한, 재무제표에 대한 일반적인 특성을 IAS 1에서 정하고 있는 점에 주목하였다. 해석위원회는 또한 기업이 계속기업 가정에 따라 재무제표를 작성할 때, IFRS의 모든 인식과 측정 규정도 준수하여야 한다는 점을 주목하였다. 따라서 해석위원회는 계속기업 가정으로 인해 IAS 37에 제시된 정의와 인식 기준을 충족하지 않는 부채를 인식하게 되지는 않는다고 결론 내렸다.",
+      "html": "해석위원회는 발생기준 회계와 계속기업 가정을 포함한, 재무제표에 대한 일반적인 특성을 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>에서 정하고 있는 점에 주목하였다. 해석위원회는 또한 기업이 계속기업 가정에 따라 재무제표를 작성할 때, IFRS의 모든 인식과 측정 규정도 준수하여야 한다는 점을 주목하였다. 따라서 해석위원회는 계속기업 가정으로 인해 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 제시된 정의와 인식 기준을 충족하지 않는 부채를 인식하게 되지는 않는다고 결론 내렸다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC22",
+      "section_id": "FNnBn4",
+      "section_title": "계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|계속기업 가정은 미래기간에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 기업에 있다는 것을 의미하는가?",
+      "text": "특히 해석위원회는 계속기업 가정에 따라 재무제표를 작성한다고 하여 미래에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 있다는 것을 의미하지는 않는다고 결론 내렸다. IAS 37 문단 18~19에서는 그러한 경우 충당부채가 인식되지 않는다고 명시하고 있다.",
+      "html": "특히 해석위원회는 계속기업 가정에 따라 재무제표를 작성한다고 하여 미래에 영업을 하므로 유발될 부담금을 납부해야 하는 현재의무가 있다는 것을 의미하지는 않는다고 결론 내렸다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div><span class=\"mundan-finder\"> 문단 18~19</span>에서는 그러한 경우 충당부채가 인식되지 않는다고 명시하고 있다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 18~19",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "18~19",
+          "paragraph_ids": [
+            "18~19"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC23",
+      "section_id": "YwZBZe",
+      "section_title": "부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+      "text": "해석위원회는 IAS 37과 IAS 37에 첨부된 적용사례에서 대부분의 부채가 한 시점, 즉 의무발생사건이 발생할 때 인식된다고 보았다. 그럼에도 불구하고 IAS 37에 첨부된 한 사례에서 부채가 기간에 걸쳐 점진적으로 인식된다는 점에 주목하였다.",
+      "html": "해석위원회는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>과 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 첨부된 적용사례에서 대부분의 부채가 한 시점, 즉 의무발생사건이 발생할 때 인식된다고 보았다. 그럼에도 불구하고 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 첨부된 한 사례에서 부채가 기간에 걸쳐 점진적으로 인식된다는 점에 주목하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC24",
+      "section_id": "YwZBZe",
+      "section_title": "부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+      "text": "IAS 37에 첨부된 적용사례 3에서 기업은 해저유전을 운영하고 석유의 채굴에서 발생할 손상으로 인해 해저를 복구하여야 한다. 이 사례에 따르면 석유의 채굴에서 발생하는 복구원가는 석유가 채굴되는 시점에 부채로 인식된다. 해석위원회는 이 사례에서 석유 채굴로 직접적으로 손상이 발생하고 석유를 더 채굴하면 손상이 더 발생한다는 점에 주목하였다. 따라서 기간에 걸쳐 발생된 손상에 대한 부채는 기업이 석유를 채굴하고 환경을 손상시키는 기간에 걸쳐 점진적으로 인식된다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 첨부된 적용사례 3에서 기업은 해저유전을 운영하고 석유의 채굴에서 발생할 손상으로 인해 해저를 복구하여야 한다. 이 사례에 따르면 석유의 채굴에서 발생하는 복구원가는 석유가 채굴되는 시점에 부채로 인식된다. 해석위원회는 이 사례에서 석유 채굴로 직접적으로 손상이 발생하고 석유를 더 채굴하면 손상이 더 발생한다는 점에 주목하였다. 따라서 기간에 걸쳐 발생된 손상에 대한 부채는 기업이 석유를 채굴하고 환경을 손상시키는 기간에 걸쳐 점진적으로 인식된다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC25",
+      "section_id": "YwZBZe",
+      "section_title": "부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+      "text": "해석위원회는 이 결과가 인식 논제와 측정 논제 중 어느 것에 연계되는지를 논의하였는데 의무발생사건(즉 석유 채굴로 발생된 손상)이 기간에 걸쳐 점진적으로 발생하므로 인식 논제라고 결론 내렸다. 해석위원회는 IAS 37 문단 19에 따라 기업이 미래에 석유를 채굴(즉, 미래 사업수행)하여 발생할 손상까지 복구할 현재의무는 없기 때문에 현재의무는 단지 현재까지 환경을 손상시킨 범위까지만 존재한다는 것에 주목하였다.",
+      "html": "해석위원회는 이 결과가 인식 논제와 측정 논제 중 어느 것에 연계되는지를 논의하였는데 의무발생사건(즉 석유 채굴로 발생된 손상)이 기간에 걸쳐 점진적으로 발생하므로 인식 논제라고 결론 내렸다. 해석위원회는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div><span class=\"mundan-finder\"> 문단 19</span>에 따라 기업이 미래에 석유를 채굴(즉, 미래 사업수행)하여 발생할 손상까지 복구할 현재의무는 없기 때문에 현재의무는 단지 현재까지 환경을 손상시킨 범위까지만 존재한다는 것에 주목하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 19",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "19",
+          "paragraph_ids": [
+            "19"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC26",
+      "section_id": "YwZBZe",
+      "section_title": "부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채를 한 시점에 인식하는가? 아니면 어떤 상황에서는 기간에 걸쳐 점진적으로 인식하는가?",
+      "text": "따라서 해석위원회는 의무발생사건(즉, 법규에 명시된 부담금 납부를 유발하는 활동)이 기간에 걸쳐 발생된다면 그 부담금부채는 점진적으로 인식된다고 결론 내렸다. 예를 들어 의무발생사건이 기간에 걸친 수익 창출이라면, 대응하는 부채는 기업이 그러한 수익을 창출함에 따라 인식된다(적용사례 1 참조).",
+      "html": "따라서 해석위원회는 의무발생사건(즉, 법규에 명시된 부담금 납부를 유발하는 활동)이 기간에 걸쳐 발생된다면 그 부담금부채는 점진적으로 인식된다고 결론 내렸다. 예를 들어 의무발생사건이 기간에 걸친 수익 창출이라면, 대응하는 부채는 기업이 그러한 수익을 창출함에 따라 인식된다(적용사례 1 참조).\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC27",
+      "section_id": "tpnAIo",
+      "section_title": "최소 임계치에 이르면 유발되는 부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|최소 임계치에 이르면 유발되는 부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "text": "이 해석서 공개초안에서는 최소 수익 임계치에 이르면 유발되는 부담금의 회계처리는 다루지 않았다. 그러나 이 해석서 공개초안에 대한 많은 의견제출자들은 이 논제에 대한 지침을 제공하는 것이 중요하다고 강조하였다. 해석위원회는 의견제출자들의 의견에 동의하였고, 이 해석서에서 최소 임계치가 있는 부담금의 회계처리 지침을 제공해야 한다고 결론 내렸다. 해석위원회는 그러한 부담금부채의 회계처리가 이 해석서의 문단 8과 11에서 정한 원칙과 일관되어야 한다고 결정하였다.",
+      "html": "이 해석서 공개초안에서는 최소 수익 임계치에 이르면 유발되는 부담금의 회계처리는 다루지 않았다. 그러나 이 해석서 공개초안에 대한 많은 의견제출자들은 이 논제에 대한 지침을 제공하는 것이 중요하다고 강조하였다. 해석위원회는 의견제출자들의 의견에 동의하였고, 이 해석서에서 최소 임계치가 있는 부담금의 회계처리 지침을 제공해야 한다고 결론 내렸다. 해석위원회는 그러한 부담금부채의 회계처리가 이 해석서의 \n  \n  <span class=\"mundan-finder\">문단 8</span>과 \n  \n  <span class=\"mundan-finder\">11</span>에서 정한 원칙과 일관되어야 한다고 결정하였다.\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 8",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "8",
+          "paragraph_ids": [
+            "8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "11",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "11",
+          "paragraph_ids": [
+            "11"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC28",
+      "section_id": "tpnAIo",
+      "section_title": "최소 임계치에 이르면 유발되는 부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|최소 임계치에 이르면 유발되는 부담금부채를 인식하게 하는 의무발생사건은 무엇인가?",
+      "text": "예를 들어 최소 활동 임계치(예: 창출된 수익 또는 판매나 생산물의 최소 금액)에 이를 때 부담금이 유발된다면, 의무발생사건은 그 활동 임계치에 이르는 것이다. 활동의 최소 수준을 초과하여 활동을 수행(예: 법규에 명시된 최소 금액을 초과하여 창출된 수익 또는 판매나 생산물)함에 따라 부담금이 유발되는 경우 의무발생사건은 임계치에 이른 후 수행된 활동이다(적용사례 4 참조). 전기에 최소 임계치(예: 최소 수익금액, 최소 종업원 수 또는 자산 및 부채의 최소 금액)에 이르렀다는 가정 하에 기업이 법규에 명시된 특정 일자에 영업을 하는 경우 부담금이 유발된다면, 의무발생사건은 기업이 전기에 임계치에 도달한 후 법규에 명시된 특정 일자에 영업을 하는 것이다. 그러한 경우 전기에 임계치에 이른 것은 현재의무 발생에 필요하지만 충분하지는 않다.",
+      "html": "예를 들어 최소 활동 임계치(예: 창출된 수익 또는 판매나 생산물의 최소 금액)에 이를 때 부담금이 유발된다면, 의무발생사건은 그 활동 임계치에 이르는 것이다. 활동의 최소 수준을 초과하여 활동을 수행(예: 법규에 명시된 최소 금액을 초과하여 창출된 수익 또는 판매나 생산물)함에 따라 부담금이 유발되는 경우 의무발생사건은 임계치에 이른 후 수행된 활동이다(적용사례 4 참조). 전기에 최소 임계치(예: 최소 수익금액, 최소 종업원 수 또는 자산 및 부채의 최소 금액)에 이르렀다는 가정 하에 기업이 법규에 명시된 특정 일자에 영업을 하는 경우 부담금이 유발된다면, 의무발생사건은 기업이 전기에 임계치에 도달한 후 법규에 명시된 특정 일자에 영업을 하는 것이다. 그러한 경우 전기에 임계치에 이른 것은 현재의무 발생에 필요하지만 충분하지는 않다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC29",
+      "section_id": "Bdtd2F",
+      "section_title": "부담금부채의 인식 원칙은 연차재무제표와 중간재무보고서에서 같은가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채의 인식 원칙은 연차재무제표와 중간재무보고서에서 같은가?",
+      "text": "IAS 34(문단 29)에서는 동일한 인식 원칙이 연차재무제표와 중간재무보고서에 적용되어야 한다고 규정한다. 의무발생사건이 아직 발생하지 않은 경우, IAS 34의 규정(IAS 34에 첨부되는 적용사례 문단 B2, B4 및 B11에 예시된 문단 31~32, 39)을 적용하면, 중간보고기간 말에는 부채가 인식되지 않을 것이다. 예를 들어 연차보고기간 말에만 현재의무가 발생한다면 중간보고기간 말에는 의무가 존재하지 않는다. 이와 유사하게 중간보고기간 말에 부담금을 납부해야 하는 현재의무가 존재한다면 부채가 인식되어야 한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>(<span class=\"mundan-finder\">문단 29</span>)에서는 동일한 인식 원칙이 연차재무제표와 중간재무보고서에 적용되어야 한다고 규정한다. 의무발생사건이 아직 발생하지 않은 경우, \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>의 규정(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>에 첨부되는 적용사례 \n  \n  <span class=\"mundan-finder\">문단 B2, B4 및 B11</span>에 예시된\n  <span class=\"mundan-finder\"> 문단 31~32, 39</span>)을 적용하면, 중간보고기간 말에는 부채가 인식되지 않을 것이다. 예를 들어 연차보고기간 말에만 현재의무가 발생한다면 중간보고기간 말에는 의무가 존재하지 않는다. 이와 유사하게 중간보고기간 말에 부담금을 납부해야 하는 현재의무가 존재한다면 부채가 인식되어야 한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 34",
+          "standard_number": null,
+          "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 34",
+          "standard_number": null,
+          "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 34",
+          "standard_number": null,
+          "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 29",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "29",
+          "paragraph_ids": [
+            "29"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 B2, B4 및 B11",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "B2, B4 및 B11",
+          "paragraph_ids": [
+            "B2",
+            "B4",
+            "B11"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 31~32, 39",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "31~32, 39",
+          "paragraph_ids": [
+            "31~32",
+            "39"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC30",
+      "section_id": "Bdtd2F",
+      "section_title": "부담금부채의 인식 원칙은 연차재무제표와 중간재무보고서에서 같은가?",
+      "toc_path": "결론도출근거|IFRIC 21 ‘부담금(Levies)’의 결론도출근거|적용범위|부담금부채의 인식 원칙은 연차재무제표와 중간재무보고서에서 같은가?",
+      "text": "해석위원회는 IAS 34 문단 16A에서 성격, 크기 또는 발생빈도 때문에 비경상적으로 부채에 영향을 미치는 항목의 성격 및 금액과, 중간보고기간의 재무제표에 반영되지 않았던 중간보고기간 후 발생사건에 대한 설명을 공시하도록 요구한다는 점에 주목하였다. 따라서 필요하다면, 기업은 중간재무보고서에 인식되거나 미래의 중간재무보고서에 인식될 부담금에 대해 공시할 것이다.",
+      "html": "해석위원회는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div><span class=\"mundan-finder\"> 문단 16A</span>에서 성격, 크기 또는 발생빈도 때문에 비경상적으로 부채에 영향을 미치는 항목의 성격 및 금액과, 중간보고기간의 재무제표에 반영되지 않았던 중간보고기간 후 발생사건에 대한 설명을 공시하도록 요구한다는 점에 주목하였다. 따라서 필요하다면, 기업은 중간재무보고서에 인식되거나 미래의 중간재무보고서에 인식될 부담금에 대해 공시할 것이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 34",
+          "standard_number": null,
+          "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 16A",
+          "standard_number": "2121",
+          "standard_title": null,
+          "range": "16A",
+          "paragraph_ids": [
+            "16A"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2121호와 국제재무보고기준해석 제21호(IFRIC 21) 기업회계기준해석서 제2121호는 국제회계기준해석위원회(IFRS Interpretations Committee)가 제정한 국제재무보고기준해석 제21호(IFRIC 21) ‘부담금(Levies)’에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업을 명시하기 위하여 문단 한2.1이 추가되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. ### 국제재무보고기준해석 제21호(IFRIC 21)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2121호가 IFRIC 21의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2121호를 준수하면 동시에 IFRIC 21을 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2121호와 국제재무보고기준해석 제21호(IFRIC 21)</h3>\n<p>기업회계기준해석서 제2121호는 국제회계기준해석위원회(IFRS Interpretations Committee)가 제정한 국제재무보고기준해석 제21호(IFRIC 21) ‘부담금(Levies)’에 대응하는 해석이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업을 명시하기 위하여 문단 한2.1이 추가되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. </p>\n<h3>국제재무보고기준해석 제21호(IFRIC 21)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2121호가 IFRIC 21의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2121호를 준수하면 동시에 IFRIC 21을 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 ‘부담금’의 회계처리에 필요한 사항을 정하고 있다. ### 1. 회계논제 이 해석서는 다음의 회계논제를 다룬다. ### 2. 결론 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 ‘부담금’의 회계처리에 필요한 사항을 정하고 있다.</p>\n<h3>1. 회계논제</h3>\n<p>이 해석서는 다음의 회계논제를 다룬다. </p>\n<h3>2. 결론</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.\n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2013.9.30. 제정 | 부담금 | IFRIC 21 Levies |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 161px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 278px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 20px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">2013.9.30. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 161px; height: 20px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">&nbsp;부담금</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 278px; height: 20px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-indent: 0pt; line-height: 20px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">&nbsp;IFRIC 21 Levies</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1037": [
+      "1",
+      "2"
+    ],
+    "1012": [
+      "4"
+    ]
+  },
+  "qna_index": {
+    "SSI-36938": [
+      "8",
+      "9",
+      "10",
+      "BC13"
+    ],
+    "SSI-36961": [
+      "8"
+    ]
+  }
+}

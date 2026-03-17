@@ -1,0 +1,827 @@
+{
+  "standard_id": "2120",
+  "standard_type": "기업회계기준해석서",
+  "title": "노천광산 생산단계의 박토원가",
+  "url": "https://db.kasb.or.kr/s/2120",
+  "crawled_at": "2026-03-16T06:47:33.387982+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2120/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2120/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "r9pvit",
+          "href": "/s/2120/r9pvit",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "배경",
+          "section_id": "sji0nj",
+          "href": "/s/2120/sji0nj",
+          "paragraph_range": "1 ~ 5",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "b5QxUE",
+          "href": "/s/2120/b5QxUE",
+          "paragraph_range": "한5.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "GM5ivI",
+          "href": "/s/2120/GM5ivI",
+          "paragraph_range": "6",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "GHDI3S",
+          "href": "/s/2120/GHDI3S",
+          "paragraph_range": "7",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "NCTvH5",
+          "href": "/s/2120/NCTvH5",
+          "paragraph_range": "8 ~ 16",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "생산 관련 박토원가의 자산 인식",
+              "section_id": "06n6yU",
+              "href": "/s/2120/06n6yU",
+              "paragraph_range": "8 ~ 11",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "박토활동자산의 최초측정",
+              "section_id": "gTWVD0",
+              "href": "/s/2120/gTWVD0",
+              "paragraph_range": "12 ~ 13",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "박토활동자산의 후속측정",
+              "section_id": "vBSCWZ",
+              "href": "/s/2120/vBSCWZ",
+              "paragraph_range": "14 ~ 16",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1.5,
+      "title": "부록 A 시행일과 경과규정",
+      "section_id": "8TTd8Q",
+      "href": "/s/2120/8TTd8Q",
+      "paragraph_range": "A1 ~ A4",
+      "children": [
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2120호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "t03Dan",
+          "href": "/s/2120/t03Dan",
+          "paragraph_range": "BC1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2120/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거",
+          "section_id": "7TNy0v",
+          "href": "/s/2120/7TNy0v",
+          "paragraph_range": "BC1 ~ BC21",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "도입",
+              "section_id": "wrYskY",
+              "href": "/s/2120/wrYskY",
+              "paragraph_range": "BC1",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "배경",
+              "section_id": "9Nx00U",
+              "href": "/s/2120/9Nx00U",
+              "paragraph_range": "BC2 ~ BC3",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "범위",
+              "section_id": "DHtySk",
+              "href": "/s/2120/DHtySk",
+              "paragraph_range": "BC4 ~ BC5",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "결론",
+              "section_id": "VHACpf",
+              "href": "/s/2120/VHACpf",
+              "paragraph_range": "BC6 ~ BC21",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "생산 관련 박토원가의 자산 인식",
+                  "section_id": "M6g7uO",
+                  "href": "/s/2120/M6g7uO",
+                  "paragraph_range": "BC6 ~ BC11",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "박토활동자산의 최초측정",
+                  "section_id": "uPflQ8",
+                  "href": "/s/2120/uPflQ8",
+                  "paragraph_range": "BC12 ~ BC16",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "박토활동자산의 후속측정",
+                  "section_id": "805q6F",
+                  "href": "/s/2120/805q6F",
+                  "paragraph_range": "BC17 ~ BC18",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "경과규정",
+                  "section_id": "wod1rr",
+                  "href": "/s/2120/wod1rr",
+                  "paragraph_range": "BC19 ~ BC21",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2120/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2120/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2120/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "r9pvit",
+      "section_id": "r9pvit",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "#### 참조 - - 재무보고를 위한 개념체계- 기업회계기준서 제1001호 ‘재무제표 표시‘- 기업회계기준서 제1002호 ‘재고자산‘- 기업회계기준서 제1016호 ‘유형자산‘- 기업회계기준서 제1038호 ‘무형자산‘ ## 공유하기 ### 문서 ### 주소",
+      "html": "<h4 class=\"sc-fRuWiQ TQjhm sc-jstVdI eboZxl\"><span>참조</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h4>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩1\"><div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 재무보고를 위한 개념체계</div><div class=\"para\">- 기업회계기준서 제1001호 ‘재무제표 표시‘</div><div class=\"para\">- 기업회계기준서 제1002호 ‘재고자산‘</div><div class=\"para\">- 기업회계기준서 제1016호 ‘유형자산‘</div><div class=\"para\">- 기업회계기준서 제1038호 ‘무형자산‘</div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "sji0nj",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "노천채광작업에서는 광상에 접근하기 위하여 광산폐석(‘표토층’) 제거가 필요하다는 것을 알 수 있다. 이러한 폐석 제거활동을 ‘박토’라고 한다.",
+      "html": "노천채광작업에서는 광상에 접근하기 위하여 광산폐석(‘표토층’) 제거가 필요하다는 것을 알 수 있다. 이러한 폐석 제거활동을 ‘박토’라고 한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "sji0nj",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "광산의 개발단계(생산시작 전)에서, 박토원가는 광산의 개발 및 건설 관련 감가상각가능 원가의 일부로 보통 자본화된다. 자본화된 원가는 생산이 시작되면 체계적인 방법(보통 생산량비례법을 사용)에 따라 감가상각하거나 상각한다.",
+      "html": "광산의 개발단계(생산시작 전)에서, 박토원가는 광산의 개발 및 건설 관련 감가상각가능 원가의 일부로 보통 자본화된다. 자본화된 원가는 생산이 시작되면 체계적인 방법(보통 생산량비례법을 사용)에 따라 감가상각하거나 상각한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "sji0nj",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "채광 기업은 광산의 생산단계에서 계속적으로 표토층을 제거하고 박토원가를 발생시킬 수도 있다.",
+      "html": "채광 기업은 광산의 생산단계에서 계속적으로 표토층을 제거하고 박토원가를 발생시킬 수도 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "sji0nj",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "생산단계에서 박토로 제거되는 물질은 반드시 100% 폐석은 아니며, 종종 광석과 폐석이 혼재되어 있을 것이다. 폐석 대비 광석의 비율은 경제성이 없는 저품위에서 수익성 있는 고품위까지 분포할 수 있다. 폐석 대비 광석의 비율이 낮은 표토층을 제거함으로써 유용한 물질을 생산하여 재고자산 생산에 사용될 수 있다. 이러한 제거로 폐석 대비 광석의 비율이 더 높고 더 깊은 물질층에 접근할 수도 있을 것이다. 따라서 박토활동으로 기업은 두 가지 효익을 얻을 수 있다. 즉, 재고자산을 생산하는 데 사용될 수 있는 유용한 광석을 얻고 미래 기간에 채광될 수 있는 물질의 추가 물량에 대한 접근이 개선될 수 있다.",
+      "html": "생산단계에서 박토로 제거되는 물질은 반드시 100% 폐석은 아니며, 종종 광석과 폐석이 혼재되어 있을 것이다. 폐석 대비 광석의 비율은 경제성이 없는 저품위에서 수익성 있는 고품위까지 분포할 수 있다. 폐석 대비 광석의 비율이 낮은 표토층을 제거함으로써 유용한 물질을 생산하여 재고자산 생산에 사용될 수 있다. 이러한 제거로 폐석 대비 광석의 비율이 더 높고 더 깊은 물질층에 접근할 수도 있을 것이다. 따라서 박토활동으로 기업은 두 가지 효익을 얻을 수 있다. 즉, 재고자산을 생산하는 데 사용될 수 있는 유용한 광석을 얻고 미래 기간에 채광될 수 있는 물질의 추가 물량에 대한 접근이 개선될 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "sji0nj",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "이 해석서는 박토활동에서 발생하는 이 두 가지 효익을 최초에 그리고 후속적으로 어떻게 측정할 것인지와 함께, 그러한 효익을 언제 그리고 어떻게 구분하여 회계처리할 것인지를 고려하고 있다.",
+      "html": "이 해석서는 박토활동에서 발생하는 이 두 가지 효익을 최초에 그리고 후속적으로 어떻게 측정할 것인지와 함께, 그러한 효익을 언제 그리고 어떻게 구분하여 회계처리할 것인지를 고려하고 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한5.1",
+      "section_id": "b5QxUE",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "GM5ivI",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 광산의 생산단계에서 노천채광활동으로 발생하는 폐석 제거원가(‘생산 관련 박토원가’)에 적용한다.",
+      "html": "이 해석서는 광산의 생산단계에서 노천채광활동으로 발생하는 폐석 제거원가(‘생산 관련 박토원가’)에 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "GHDI3S",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "이 해석서는 다음의 회계논제를 다룬다. (1) 생산 관련 박토원가의 자산 인식 (2) 박토활동자산의 최초측정 (3) 박토활동자산의 후속측정",
+      "html": "이 해석서는 다음의 회계논제를 다룬다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 생산 관련 박토원가의 자산 인식</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 박토활동자산의 최초측정</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 박토활동자산의 후속측정</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "06n6yU",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "본문|결론|생산 관련 박토원가의 자산 인식",
+      "text": "박토활동에서 발생하는 효익이 생산된 재고자산의 형태로 실현되는 정도까지는 박토활동원가를 기업회계기준서 제1002호 ‘재고자산’의 원칙에 따라 회계처리한다. 아래 문단 9의 기준을 충족하면 박토활동에서 발생하는 효익이 광석에 대한 접근을 개선하는 정도까지는 이 박토활동원가를 비유동자산으로 인식한다. 이 해석서에서는 그 비유동자산을 ‘박토활동자산’이라고 한다.",
+      "html": "박토활동에서 발생하는 효익이 생산된 재고자산의 형태로 실현되는 정도까지는 박토활동원가를 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">기업회계기준서 제1002호</span></div> ‘재고자산’의 원칙에 따라 회계처리한다. 아래 \n  \n  <span class=\"mundan-finder\">문단 9</span>의 기준을 충족하면 박토활동에서 발생하는 효익이 광석에 대한 접근을 개선하는 정도까지는 이 박토활동원가를 비유동자산으로 인식한다. 이 해석서에서는 그 비유동자산을 ‘박토활동자산’이라고 한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1002호",
+          "standard_number": "1002",
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 9",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "9",
+          "paragraph_ids": [
+            "9"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "06n6yU",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "본문|결론|생산 관련 박토원가의 자산 인식",
+      "text": "다음을 모두 충족하는 경우에만 박토활동자산을 인식한다. (1) 박토활동과 관련된 미래 경제적 효익(광체에 대한 접근의 개선)이 기업에 유입될 가능성이 높다. (2) 접근이 개선된 광체의 구성요소를 식별할 수 있다. (3) 그 구성요소와 관련된 박토활동의 원가를 신뢰성 있게 측정할 수 있다.",
+      "html": "다음을 모두 충족하는 경우에만 박토활동자산을 인식한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 박토활동과 관련된 미래 경제적 효익(광체에 대한 접근의 개선)이 기업에 유입될 가능성이 높다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 접근이 개선된 광체의 구성요소를 식별할 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 그 구성요소와 관련된 박토활동의 원가를 신뢰성 있게 측정할 수 있다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "06n6yU",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "본문|결론|생산 관련 박토원가의 자산 인식",
+      "text": "박토활동자산은 기존 자산에 부가되거나 기존 자산을 보강한 것으로 회계처리한다. 즉, 박토활동자산은 기존 자산의 일부로 회계처리한다.",
+      "html": "박토활동자산은 기존 자산에 부가되거나 기존 자산을 보강한 것으로 회계처리한다. 즉, 박토활동자산은 기존 자산의 일부로 회계처리한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "06n6yU",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "본문|결론|생산 관련 박토원가의 자산 인식",
+      "text": "박토활동자산은 기존 자산과 동일하게 유형자산이나 무형자산으로 분류한다. 즉, 기존 자산의 성격에 따라 박토활동자산을 유형자산으로 또는 무형자산으로 분류할 것인지가 결정된다.",
+      "html": "박토활동자산은 기존 자산과 동일하게 유형자산이나 무형자산으로 분류한다. 즉, 기존 자산의 성격에 따라 박토활동자산을 유형자산으로 또는 무형자산으로 분류할 것인지가 결정된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "gTWVD0",
+      "section_title": "박토활동자산의 최초측정",
+      "toc_path": "본문|결론|박토활동자산의 최초측정",
+      "text": "박토활동자산은 최초에 원가로 측정한다. 이 원가는 광체의 식별된 구성요소에 대한 접근을 개선하는 박토활동을 수행하기 위해 직접 발생한 원가의 누계액에 직접 관련되는 간접원가 배분액을 더한 금액이다. 생산 관련 박토활동을 계획대로 계속하기 위해 필요한 것은 아니나 일부 부수적인 작업이 생산 관련 박토활동과 동시에 수행될 수도 있다. 이러한 부수적인 작업과 관련된 원가는 박토활동자산의 원가에 포함하지 않는다.",
+      "html": "박토활동자산은 최초에 원가로 측정한다. 이 원가는 광체의 식별된 구성요소에 대한 접근을 개선하는 박토활동을 수행하기 위해 직접 발생한 원가의 누계액에 직접 관련되는 간접원가 배분액을 더한 금액이다. 생산 관련 박토활동을 계획대로 계속하기 위해 필요한 것은 아니나 일부 부수적인 작업이 생산 관련 박토활동과 동시에 수행될 수도 있다. 이러한 부수적인 작업과 관련된 원가는 박토활동자산의 원가에 포함하지 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "gTWVD0",
+      "section_title": "박토활동자산의 최초측정",
+      "toc_path": "본문|결론|박토활동자산의 최초측정",
+      "text": "박토활동자산의 원가와 생산된 재고자산의 원가를 별도로 식별할 수 없는 경우, 관련된 생산측정치를 기초로 한 배분 기준을 이용하여 생산 관련 박토원가를 생산된 재고자산과 박토활동자산에 배분한다. 이 생산측정치는 광체의 식별된 구성요소에 대해 산정되고, 미래 효익을 창출하는 추가적인 활동이 발생하는 정도를 식별하기 위한 기준치로 사용된다. 그러한 측정치의 예는 다음을 포함한다. (1) 예상원가 대비 생산된 재고자산의 원가 (2) 일정한 광석생산량에 대해서, 예상되는 양 대비 채취된 폐석의 양 (3) 일정한 광석생산량에 대해서, 채취될 것으로 예상되는 광물함량 대비 채취된 광석의 광물함량",
+      "html": "박토활동자산의 원가와 생산된 재고자산의 원가를 별도로 식별할 수 없는 경우, 관련된 생산측정치를 기초로 한 배분 기준을 이용하여 생산 관련 박토원가를 생산된 재고자산과 박토활동자산에 배분한다. 이 생산측정치는 광체의 식별된 구성요소에 대해 산정되고, 미래 효익을 창출하는 추가적인 활동이 발생하는 정도를 식별하기 위한 기준치로 사용된다. 그러한 측정치의 예는 다음을 포함한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 예상원가 대비 생산된 재고자산의 원가</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 일정한 광석생산량에 대해서, 예상되는 양 대비 채취된 폐석의 양</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 일정한 광석생산량에 대해서, 채취될 것으로 예상되는 광물함량 대비 채취된 광석의 광물함량</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "vBSCWZ",
+      "section_title": "박토활동자산의 후속측정",
+      "toc_path": "본문|결론|박토활동자산의 후속측정",
+      "text": "최초인식 후, 기존 자산의 일부를 구성하는 박토활동자산은 그 기존 자산과 같은 방법으로 원가 또는 재평가금액에서 감가상각비 또는 상각비와 손상차손을 차감한 금액을 장부금액으로 한다.",
+      "html": "최초인식 후, 기존 자산의 일부를 구성하는 박토활동자산은 그 기존 자산과 같은 방법으로 원가 또는 재평가금액에서 감가상각비 또는 상각비와 손상차손을 차감한 금액을 장부금액으로 한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "vBSCWZ",
+      "section_title": "박토활동자산의 후속측정",
+      "toc_path": "본문|결론|박토활동자산의 후속측정",
+      "text": "박토활동의 결과로 보다 더 접근하기 쉬워진, 광체의 식별된 구성요소의 예상내용연수에 걸쳐 체계적인 방법에 따라 박토활동자산을 감가상각하거나 상각한다. 다른 방법이 더 적절하지 않다면 생산량비례법을 적용한다.",
+      "html": "박토활동의 결과로 보다 더 접근하기 쉬워진, 광체의 식별된 구성요소의 예상내용연수에 걸쳐 체계적인 방법에 따라 박토활동자산을 감가상각하거나 상각한다. 다른 방법이 더 적절하지 않다면 생산량비례법을 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "vBSCWZ",
+      "section_title": "박토활동자산의 후속측정",
+      "toc_path": "본문|결론|박토활동자산의 후속측정",
+      "text": "박토활동자산을 감가상각하거나 상각하는 데 사용되는, 광체의 식별된 구성요소의 예상내용연수는 광산 자체 그리고 광산 수명과 동일한 관련 자산을 감가상각하거나 상각하는 데 사용되는 예상내용연수와 다를 것이다. 이에 대한 예외는 박토활동으로 잔존 광체 전체에 대한 접근이 개선되는 경우와 같은 제한적인 상황이다. 예를 들어, 이 경우는 식별된 구성요소가 채취될 광체의 마지막 부분을 나타내는 광산의 내용연수 말 가까이에 생길 수도 있다.",
+      "html": "박토활동자산을 감가상각하거나 상각하는 데 사용되는, 광체의 식별된 구성요소의 예상내용연수는 광산 자체 그리고 광산 수명과 동일한 관련 자산을 감가상각하거나 상각하는 데 사용되는 예상내용연수와 다를 것이다. 이에 대한 예외는 박토활동으로 잔존 광체 전체에 대한 접근이 개선되는 경우와 같은 제한적인 상황이다. 예를 들어, 이 경우는 식별된 구성요소가 채취될 광체의 마지막 부분을 나타내는 광산의 내용연수 말 가까이에 생길 수도 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "t03Dan",
+      "section_id": "t03Dan",
+      "section_title": "기업회계기준해석서 제2120호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "부록 A 시행일과 경과규정|기업회계기준해석서 제2120호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "#### 기업회계기준해석서 제2120호의 제·개정 등에 대한 회계기준위원회의 의결 - 기업회계기준해석서 제2120호의 제정에 대한 회계기준위원회의 의결(2012년)기업회계기준해석서 제2120호 ‘노천광산 생산단계의 박토원가’의 제정(2012.7.13.)은 회계기준위원회 위원 7명의 찬성으로 의결하였다.회계기준위원회 위원:임석식(위원장), 김찬홍(상임위원), 고완석, 권수영, 안영균, 전 괄, 최신형 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h4 class=\"sc-fRuWiQ TQjhm sc-jstVdI eboZxl\"><span>기업회계기준해석서 제2120호의 제·개정 등에 대한 회계기준위원회의 의결</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h4>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩5\"><div value=\"웩5\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2120호의 제정에 대한 회계기준위원회의 의결(2012년)</b></div><br><div class=\"para\">기업회계기준해석서 제2120호 ‘노천광산 생산단계의 박토원가’의 제정(2012.7.13.)은 회계기준위원회 위원 7명의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">임석식(위원장), 김찬홍(상임위원), 고완석, 권수영, 안영균, 전  괄, 최신형</div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC1",
+      "section_id": "wrYskY",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|도입",
+      "text": "이 결론도출근거는 IFRS Interpretations Committee(이하 ‘IFRS IC'라 한다)가 결론을 도출하는 데 고려한 사항들을 요약한다. IFRS IC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "html": "이 결론도출근거는 IFRS Interpretations Committee(이하 ‘IFRS IC'라 한다)가 결론을 도출하는 데 고려한 사항들을 요약한다. IFRS IC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC2",
+      "section_id": "9Nx00U",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|배경",
+      "text": "IFRS IC는 노천광산(surface mine) 생산단계에서 발생하는 폐석(waste)제거(‘박토’)원가[‘생산 관련 박토원가(production stripping costs)’]에 대한 회계처리 지침을 발표할 것을 요청받았다. 생산 관련 박토원가의 회계처리는, 발생된 원가가 미래와 당기 생산 모두에 효익을 주고, IFRS에 이러한 논제를 다루는 구체적인 지침이 없기 때문에 쉽지 않다.",
+      "html": "IFRS IC는 노천광산(surface mine) 생산단계에서 발생하는 폐석(waste)제거(‘박토’)원가[‘생산 관련 박토원가(production stripping costs)’]에 대한 회계처리 지침을 발표할 것을 요청받았다. 생산 관련 박토원가의 회계처리는, 발생된 원가가 미래와 당기 생산 모두에 효익을 주고, IFRS에 이러한 논제를 다루는 구체적인 지침이 없기 때문에 쉽지 않다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC3",
+      "section_id": "9Nx00U",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|배경",
+      "text": "그 결과, 생산 관련 박토원가에 대한 회계처리는 실무에서 다양하게 이루어져 왔다. 일부 기업은 생산 관련 박토원가를 비용(생산원가)으로 인식하고, 일부 기업은 ‘광산 수명 비율‘의 추산치 또는 이와 유사한 기준에 기초하여 생산 관련 박토원가의 일부나 전부를 자본화하며, 일부 기업은 특정한 개량과 관련된 원가를 자본화한다. IFRS IC는 이러한 실무적 다양성에 대응하여 해석서를 제정하기로 결정하였다.",
+      "html": "그 결과, 생산 관련 박토원가에 대한 회계처리는 실무에서 다양하게 이루어져 왔다. 일부 기업은 생산 관련 박토원가를 비용(생산원가)으로 인식하고, 일부 기업은 ‘광산 수명 비율‘의 추산치 또는 이와 유사한 기준에 기초하여 생산 관련 박토원가의 일부나 전부를 자본화하며, 일부 기업은 특정한 개량과 관련된 원가를 자본화한다. IFRS IC는 이러한 실무적 다양성에 대응하여 해석서를 제정하기로 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC4",
+      "section_id": "DHtySk",
+      "section_title": "범위",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|범위",
+      "text": "이 해석서는 노천광산 생산단계에서 발생하는 박토원가에 대한 회계처리 지침을 제공한다. IFRS IC는 이 해석서를 제정하면서 갱내채광활동(underground mining activities)이 아닌 노천채광활동(surface mining activities)에만 초점을 맞추기로 결정하였다. 이 해석서는 노천채광활동에 적용하며 따라서 이 과정에서 채취되는 모든 유형의 천연자원에도 적용한다. 이 해석서에서 말하는 ‘광석(mineral ore)의 채취’의 경우, 그 밖의 천연자원이 광상(ore deposit)에 내재되어있지 않더라도, 노천채광활동으로 이를 채취한다면(예: 석탄) 그러한 노천채광활동에도 이 해석서를 동등하게 적용한다. 그러나 IFRS IC는 이 해석서의 적용범위를 결정할 때, 유사(oil sand)의 채취가 노천채광활동인지에 대한 질문을 포함하여, 원유나 천연가스의 채취는 다루지 않기로 결정하였다.",
+      "html": "이 해석서는 노천광산 생산단계에서 발생하는 박토원가에 대한 회계처리 지침을 제공한다. IFRS IC는 이 해석서를 제정하면서 갱내채광활동(underground mining activities)이 아닌 노천채광활동(surface mining activities)에만 초점을 맞추기로 결정하였다. 이 해석서는 노천채광활동에 적용하며 따라서 이 과정에서 채취되는 모든 유형의 천연자원에도 적용한다. 이 해석서에서 말하는 ‘광석(mineral ore)의 채취’의 경우, 그 밖의 천연자원이 광상(ore deposit)에 내재되어있지 않더라도, 노천채광활동으로 이를 채취한다면(예: 석탄) 그러한 노천채광활동에도 이 해석서를 동등하게 적용한다. 그러나 IFRS IC는 이 해석서의 적용범위를 결정할 때, 유사(oil sand)의 채취가 노천채광활동인지에 대한 질문을 포함하여, 원유나 천연가스의 채취는 다루지 않기로 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC5",
+      "section_id": "DHtySk",
+      "section_title": "범위",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|범위",
+      "text": "IFRS IC는 노천광산의 개발단계에서 발생하는 박토원가는 포함하지 않기로 결정하였다. 그러한 원가의 회계처리는 실무에서 유의적인 다양성을 보이지 않기 때문이다. 박토원가가 미래 채광활동을 통해 회수될 가능성이 높으면, 노천광산의 개발단계(생산 시작 전)에서 박토원가는 광산의 개발 및 건설 관련 감가상각가능 원가의 일부로 보통 자본화된다. 이 자본화된 원가는 생산이 시작되면 체계적인 방법(보통 생산량비례법을 사용)에 따라 감가상각하거나 상각한다.",
+      "html": "IFRS IC는 노천광산의 개발단계에서 발생하는 박토원가는 포함하지 않기로 결정하였다. 그러한 원가의 회계처리는 실무에서 유의적인 다양성을 보이지 않기 때문이다. 박토원가가 미래 채광활동을 통해 회수될 가능성이 높으면, 노천광산의 개발단계(생산 시작 전)에서 박토원가는 광산의 개발 및 건설 관련 감가상각가능 원가의 일부로 보통 자본화된다. 이 자본화된 원가는 생산이 시작되면 체계적인 방법(보통 생산량비례법을 사용)에 따라 감가상각하거나 상각한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC6",
+      "section_id": "M6g7uO",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|생산 관련 박토원가의 자산 인식",
+      "text": "IFRS IC는 기업이 박토활동을 착수하여(그리고 박토원가를 발생시켜서) 두 가지 효익을 창출할 수 있다고 결정하였다. 이 효익은 당기에 광석을 채취하는 것과 미래 기간에 광체(ore body)에 대한 접근을 개선하는 것이다. 이 결과로 박토활동은 재고자산과 비유동자산을 창출한다.",
+      "html": "IFRS IC는 기업이 박토활동을 착수하여(그리고 박토원가를 발생시켜서) 두 가지 효익을 창출할 수 있다고 결정하였다. 이 효익은 당기에 광석을 채취하는 것과 미래 기간에 광체(ore body)에 대한 접근을 개선하는 것이다. 이 결과로 박토활동은 재고자산과 비유동자산을 창출한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC7",
+      "section_id": "M6g7uO",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|생산 관련 박토원가의 자산 인식",
+      "text": "이 해석서 문단 9에 포함된 자산의 인식기준은 재무보고를 위한 개념체계 (주1)의 문단 4.44에 언급된 기준이다. 그러나 이 해석서에는 박토활동자산을 인식하기 위한 추가적인 기준, 즉 접근이 개선된 광체의 ‘구성요소’를 구체적으로 식별할 수 있어야 한다는 기준도 포함되어 있다. 자산으로 인식되기 위해서는 세 가지 기준을 모두 충족해야 한다. 이들 기준을 충족하지 못하면 박토활동자산은 인식되지 않을 것이다. [각주 (주1)] 2010년에 공표되어 이 해석서가 제정되었을 당시 시행 중이었던 ‘재무보고를 위한 개념체계’를 말한다.",
+      "html": "이 해석서 \n  \n  \n  \n  \n  <span class=\"mundan-finder\">문단 9</span>에 포함된 자산의 인식기준은 재무보고를 위한 개념체계\n  <sup>(주1)</sup>의 문단 4.44에 언급된 기준이다. 그러나 이 해석서에는 박토활동자산을 인식하기 위한 추가적인 기준, 즉 접근이 개선된 광체의 ‘구성요소’를 구체적으로 식별할 수 있어야 한다는 기준도 포함되어 있다. 자산으로 인식되기 위해서는 세 가지 기준을 모두 충족해야 한다. 이들 기준을 충족하지 못하면 박토활동자산은 인식되지 않을 것이다.\n\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\"> 2010년에 공표되어 이 해석서가 제정되었을 당시 시행 중이었던 ‘재무보고를 위한 개념체계’를 말한다.</div></div>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 9",
+          "standard_number": "2120",
+          "standard_title": null,
+          "range": "9",
+          "paragraph_ids": [
+            "9"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주1",
+          "display_text": "(주1)"
+        }
+      ]
+    },
+    {
+      "number": "BC8",
+      "section_id": "M6g7uO",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|생산 관련 박토원가의 자산 인식",
+      "text": "‘구성요소’는 박토활동으로 접근하기 쉬워진 광체의 특정한 양을 말한다. 광체의 식별된 구성요소는 보통 광산의 전체 광체 중 일부이다. 광산은 광물채광 계획단계에서 식별되는 몇 가지 구성요소를 가질 수도 있다. 광체의 구성요소를 식별하는 것은, 인식단계에서 원가를 신뢰성 있게 측정하기 위한 기준을 제공하는 것뿐만 아니라, 광체의 식별된 구성요소의 채광에 따른, 박토활동자산의 후속적인 감가상각이나 상각을 위하여 필요하다.",
+      "html": "‘구성요소’는 박토활동으로 접근하기 쉬워진 광체의 특정한 양을 말한다. 광체의 식별된 구성요소는 보통 광산의 전체 광체 중 일부이다. 광산은 광물채광 계획단계에서 식별되는 몇 가지 구성요소를 가질 수도 있다. 광체의 구성요소를 식별하는 것은, 인식단계에서 원가를 신뢰성 있게 측정하기 위한 기준을 제공하는 것뿐만 아니라, 광체의 식별된 구성요소의 채광에 따른, 박토활동자산의 후속적인 감가상각이나 상각을 위하여 필요하다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC9",
+      "section_id": "M6g7uO",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|생산 관련 박토원가의 자산 인식",
+      "text": "광체의 구성요소를 식별하는 데에는 판단이 필요하다. IFRS IC는 기업의 광물채광계획에서 이러한 판단을 합리적으로 일관되게 하기 위해 필요한 정보를 얻을 수 있다고 생각한다.",
+      "html": "광체의 구성요소를 식별하는 데에는 판단이 필요하다. IFRS IC는 기업의 광물채광계획에서 이러한 판단을 합리적으로 일관되게 하기 위해 필요한 정보를 얻을 수 있다고 생각한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC10",
+      "section_id": "M6g7uO",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|생산 관련 박토원가의 자산 인식",
+      "text": "이 해석서는 또한 박토원가자산이 기존 자산의 ‘일부’로 인식되어야 한다고 명시한다. '일부'란 박토활동자산과 관련된 기존 자산에 부가되거나 기존 자산을 보강하는 것을 말한다. IFRS IC는 박토활동자산이 그 자체로 하나의 자산이라기보다는 기존 자산의 일부에 가깝다는 견해를 갖게 되었다. 박토활동자산은 다양한 종류의 기존 자산에 부가되거나 기존 자산을 보강할 수 있다. 기존 자산의 예로는 광구(토지), 광상 자체, 광석을 채취할 수 있는 무형의 권리 또는 광산 개발단계에서 발생된 자산을 들 수 있다.",
+      "html": "이 해석서는 또한 박토원가자산이 기존 자산의 ‘일부’로 인식되어야 한다고 명시한다. '일부'란 박토활동자산과 관련된 기존 자산에 부가되거나 기존 자산을 보강하는 것을 말한다. IFRS IC는 박토활동자산이 그 자체로 하나의 자산이라기보다는 기존 자산의 일부에 가깝다는 견해를 갖게 되었다. 박토활동자산은 다양한 종류의 기존 자산에 부가되거나 기존 자산을 보강할 수 있다. 기존 자산의 예로는 광구(토지), 광상 자체, 광석을 채취할 수 있는 무형의 권리 또는 광산 개발단계에서 발생된 자산을 들 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC11",
+      "section_id": "M6g7uO",
+      "section_title": "생산 관련 박토원가의 자산 인식",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|생산 관련 박토원가의 자산 인식",
+      "text": "IFRS IC는 이 해석서에서 박토활동으로 발생하는 효익이 성격상 유형인지 또는 무형인지를 정의하는 것은 불필요하다고 결정하였다. 이는 관련된 기초 기존 자산의 성격에 따라 결정될 것이다.",
+      "html": "IFRS IC는 이 해석서에서 박토활동으로 발생하는 효익이 성격상 유형인지 또는 무형인지를 정의하는 것은 불필요하다고 결정하였다. 이는 관련된 기초 기존 자산의 성격에 따라 결정될 것이다. ",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC12",
+      "section_id": "uPflQ8",
+      "section_title": "박토활동자산의 최초측정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|박토활동자산의 최초측정",
+      "text": "IAS 16 문단 16(2)에서 유형자산의 원가는 ‘...필요한 장소와 상태에 이르게 하는 데 직접 관련되는 원가’를 포함한다고 기술하고 있다. IFRS IC가 직접 관련되는 간접원가(해석서 문단 12)에 포함될 것이라고 예상하는 원가 유형의 예로는 광산의 해당 구성요소를 감독하는 광산 감독자의 급여 배분액 그리고 박토활동을 하기 위해 특별히 임차한 장비의 임차원가 배분액이 있다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div><span class=\"mundan-finder\"> 문단 16(2)</span>에서 유형자산의 원가는 ‘...필요한 장소와 상태에 이르게 하는 데 직접 관련되는 원가’를 포함한다고 기술하고 있다. IFRS IC가 직접 관련되는 간접원가(해석서 \n  \n  \n  <span class=\"mundan-finder\">문단 12</span>)에 포함될 것이라고 예상하는 원가 유형의 예로는 광산의 해당 구성요소를 감독하는 광산 감독자의 급여 배분액 그리고 박토활동을 하기 위해 특별히 임차한 장비의 임차원가 배분액이 있다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 16(2)",
+          "standard_number": "2120",
+          "standard_title": null,
+          "range": "16(2)",
+          "paragraph_ids": [
+            "16"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 12",
+          "standard_number": "2120",
+          "standard_title": null,
+          "range": "12",
+          "paragraph_ids": [
+            "12"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC13",
+      "section_id": "uPflQ8",
+      "section_title": "박토활동자산의 최초측정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|박토활동자산의 최초측정",
+      "text": "IFRS IC는 이 해석서에서 부수적인 작업을 다룰 때 기업회계기준서 제1016호 ‘유형자산’의 문단 21에 포함된 원칙을 따르는 것이 중요하다고 생각하였다. IFRS IC는 채광작업에서 많은 활동이 동시에 수행된다는 것을 알고 있고, 박토활동자산의 측정을 고려할 때 생산 관련 박토활동을 구성하는 것이 무엇인지, 구성하지 않는 것은 무엇인지를 기업이 아는 것이 중요하다고 생각하였다. 그러한 부수적인 작업의 예로는 박토작업이 수행되는 지역에 접근로를 건설하는 것을 들 수 있다.",
+      "html": "IFRS IC는 이 해석서에서 부수적인 작업을 다룰 때 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">기업회계기준서 제1016호 ‘유형자산’</span></div>의\n  \n  <span class=\"mundan-finder\"> 문단 21</span>에 포함된 원칙을 따르는 것이 중요하다고 생각하였다. IFRS IC는 채광작업에서 많은 활동이 동시에 수행된다는 것을 알고 있고, 박토활동자산의 측정을 고려할 때 생산 관련 박토활동을 구성하는 것이 무엇인지, 구성하지 않는 것은 무엇인지를 기업이 아는 것이 중요하다고 생각하였다. 그러한 부수적인 작업의 예로는 박토작업이 수행되는 지역에 접근로를 건설하는 것을 들 수 있다. \n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1016호 ‘유형자산’",
+          "standard_number": "1016",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 21",
+          "standard_number": "1016",
+          "standard_title": null,
+          "range": "21",
+          "paragraph_ids": [
+            "21"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC14",
+      "section_id": "uPflQ8",
+      "section_title": "박토활동자산의 최초측정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|박토활동자산의 최초측정",
+      "text": "IFRS IC는 박토활동자산이 창출되는 동시에 재고자산이 생산되는 경우, 직접적으로 각 효익의 개별적인 원가를 측정하는 것은 실무상 어려울 수 있다고 보았다. IFRS IC는 생산된 재고자산 원가와 박토활동자산 원가를 구별하기 위한 배분 기준이 필요하다는 점에 동의하였다.",
+      "html": "IFRS IC는 박토활동자산이 창출되는 동시에 재고자산이 생산되는 경우, 직접적으로 각 효익의 개별적인 원가를 측정하는 것은 실무상 어려울 수 있다고 보았다. IFRS IC는 생산된 재고자산 원가와 박토활동자산 원가를 구별하기 위한 배분 기준이 필요하다는 점에 동의하였다. ",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC15",
+      "section_id": "uPflQ8",
+      "section_title": "박토활동자산의 최초측정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|박토활동자산의 최초측정",
+      "text": "가장 적절한 배분 기준을 논의하는 가운데, IFRS IC는 판매가치를 기초로 한 기준은 기각하였다. IFRS IC는 그러한 기준은 수행되는 활동과 밀접한 관련이 없기 때문에 박토원가라는 맥락에서 배분 기준으로 적절하지 않다고 보았다. 더욱이, 관련된 광물의 현행 판매가격이 배분 기준을 결정하는 데 사용된다면, 채취된 광석과 식별된 구성요소 모두에 포함된 광물의 양에 같은 현행 판매가격이 적용될 것이다. 따라서 관련 변수는 채취된 광석과 식별된 구성요소 모두에 포함된 광물의 양이 될 것이다. 즉, 현행 판매가격은 배분 기준을 바꿀 수 없을 것이다. IFRS IC는 미래 판매가격 기준의 적용은 실무적인 어려움이 있을 것이고, 그것이 제공할 효익과 비교했을 때 비용이 클 것이라고 생각하였다. 스태프가 수행한 의견수집활동을 통해 IFRS IC는 많은 광물의 경우 시장가격의 변동성 때문에 미래에 채광될 광석의 미래 판매가격을 식별하는 것은 어려울 수 있다고 생각하였다. 광석이 채취될 때 두 가지 이상의 광물(부산물이든 결합생산품이든)이 존재하면 더 복잡해질 수 있다.",
+      "html": "가장 적절한 배분 기준을 논의하는 가운데, IFRS IC는 판매가치를 기초로 한 기준은 기각하였다. IFRS IC는 그러한 기준은 수행되는 활동과 밀접한 관련이 없기 때문에 박토원가라는 맥락에서 배분 기준으로 적절하지 않다고 보았다. 더욱이, 관련된 광물의 현행 판매가격이 배분 기준을 결정하는 데 사용된다면, 채취된 광석과 식별된 구성요소 모두에 포함된 광물의 양에 같은 현행 판매가격이 적용될 것이다. 따라서 관련 변수는 채취된 광석과 식별된 구성요소 모두에 포함된 광물의 양이 될 것이다. 즉, 현행 판매가격은 배분 기준을 바꿀 수 없을 것이다. IFRS IC는 미래 판매가격 기준의 적용은 실무적인 어려움이 있을 것이고, 그것이 제공할 효익과 비교했을 때 비용이 클 것이라고 생각하였다. 스태프가 수행한 의견수집활동을 통해 IFRS IC는 많은 광물의 경우 시장가격의 변동성 때문에 미래에 채광될 광석의 미래 판매가격을 식별하는 것은 어려울 수 있다고 생각하였다. 광석이 채취될 때 두 가지 이상의 광물(부산물이든 결합생산품이든)이 존재하면 더 복잡해질 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC16",
+      "section_id": "uPflQ8",
+      "section_title": "박토활동자산의 최초측정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|박토활동자산의 최초측정",
+      "text": "IFRS IC는 생산측정치를 광산에서 수행되는 활동으로 발생하는 효익의 성격에 대한 좋은 지표로 보기 때문에, 적절한 생산측정치를 기초로 한 배분접근법을 요구하기로 결정하였다. 생산측정치 기준은 그 기간에 재고자산을 생산하는 데 예상되는 수준을 넘어서는 활동 수준이 언제 발생하는지를 식별할 것을 요구한다. 그리고 그러한 활동 수준이 미래 접근 효익을 발생시킬 수도 있을 것이다.",
+      "html": "IFRS IC는 생산측정치를 광산에서 수행되는 활동으로 발생하는 효익의 성격에 대한 좋은 지표로 보기 때문에, 적절한 생산측정치를 기초로 한 배분접근법을 요구하기로 결정하였다. 생산측정치 기준은 그 기간에 재고자산을 생산하는 데 예상되는 수준을 넘어서는 활동 수준이 언제 발생하는지를 식별할 것을 요구한다. 그리고 그러한 활동 수준이 미래 접근 효익을 발생시킬 수도 있을 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC17",
+      "section_id": "805q6F",
+      "section_title": "박토활동자산의 후속측정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|박토활동자산의 후속측정",
+      "text": "IFRS IC는 박토활동으로 접근이 개선된 광체의 식별된 구성요소의 예상내용연수에 걸쳐 경제적 효익의 소비를 가장 잘 반영하는 기준에 따라 박토활동자산의 원가를 감가상각하거나 상각해야 한다고 결정하였다. 생산량비례법이 보편적으로 사용되며, 이는 오직 박토활동으로 접근이 개선된 광체의 식별된 구성요소에 초점을 맞출 것이다. 식별된 구성요소의 내용연수는 광산의 전체 내용연수의 일부에만 해당하는 것으로 예상되기 때문에 박토활동자산은 광산의 내용연수보다 짧은 기간에 걸쳐 감가상각되거나 상각될 것이다. 다만, 예를 들어, 식별된 구성요소가 채취될 광체의 마지막 부분을 나타내는 광산의 내용연수 말 가까이에 박토활동이 잔존 광체의 전체에 대한 접근을 개선시키는 경우는 제외한다.",
+      "html": "IFRS IC는 박토활동으로 접근이 개선된 광체의 식별된 구성요소의 예상내용연수에 걸쳐 경제적 효익의 소비를 가장 잘 반영하는 기준에 따라 박토활동자산의 원가를 감가상각하거나 상각해야 한다고 결정하였다. 생산량비례법이 보편적으로 사용되며, 이는 오직 박토활동으로 접근이 개선된 광체의 식별된 구성요소에 초점을 맞출 것이다. 식별된 구성요소의 내용연수는 광산의 전체 내용연수의 일부에만 해당하는 것으로 예상되기 때문에 박토활동자산은 광산의 내용연수보다 짧은 기간에 걸쳐 감가상각되거나 상각될 것이다. 다만, 예를 들어, 식별된 구성요소가 채취될 광체의 마지막 부분을 나타내는 광산의 내용연수 말 가까이에 박토활동이 잔존 광체의 전체에 대한 접근을 개선시키는 경우는 제외한다. ",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC18",
+      "section_id": "805q6F",
+      "section_title": "박토활동자산의 후속측정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|박토활동자산의 후속측정",
+      "text": "IFRS IC는, 비록 재평가 방법이 거의 사용되지 않는 것으로 보지만, 광산자산에 후속적으로 재평가 회계처리를 할 기업도 이 해석서의 원칙을 적용할 수 있을 것이라고 결정하였다. IFRS IC는 박토활동자산의 후속 측정기준은 박토활동자산이 그 일부를 구성하는 기존 자산의 측정기준을 따라야 한다고 결정하였다. 즉, 원가법을 사용하여 기존 자산을 측정한다면 박토활동자산도 원가법을 사용하여 측정할 것이다. IFRS IC는 특별한 손상 지침도 필요하지 않다고 결정하였고, IAS 36의 원칙이 박토활동자산 자체의 수준이 아니라 박토활동자산이 그 일부를 구성하는 기존 자산에 적용될 것이라고 예상한다.",
+      "html": "IFRS IC는, 비록 재평가 방법이 거의 사용되지 않는 것으로 보지만, 광산자산에 후속적으로 재평가 회계처리를 할 기업도 이 해석서의 원칙을 적용할 수 있을 것이라고 결정하였다. IFRS IC는 박토활동자산의 후속 측정기준은 박토활동자산이 그 일부를 구성하는 기존 자산의 측정기준을 따라야 한다고 결정하였다. 즉, 원가법을 사용하여 기존 자산을 측정한다면 박토활동자산도 원가법을 사용하여 측정할 것이다. IFRS IC는 특별한 손상 지침도 필요하지 않다고 결정하였고, \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>의 원칙이 박토활동자산 자체의 수준이 아니라 박토활동자산이 그 일부를 구성하는 기존 자산에 적용될 것이라고 예상한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": null,
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC19",
+      "section_id": "wod1rr",
+      "section_title": "경과규정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|경과규정",
+      "text": "복잡하고 시간이 오래 걸리는 많은 채광작업의 성격과 이 회계논제에 대한 과거 실무의 다양성 때문에, IFRS IC는 회계정책 변경의 소급적용에 따른 원가가 효익을 초과할 것이라고 결론지었다. 따라서 IFRS IC는 이 해석서를, 표시되는 가장 이른 기간의 개시일 이후에 발생한 생산 관련 박토원가에 전진적으로 적용해야 한다고 결정하였다.",
+      "html": "복잡하고 시간이 오래 걸리는 많은 채광작업의 성격과 이 회계논제에 대한 과거 실무의 다양성 때문에, IFRS IC는 회계정책 변경의 소급적용에 따른 원가가 효익을 초과할 것이라고 결론지었다. 따라서 IFRS IC는 이 해석서를, 표시되는 가장 이른 기간의 개시일 이후에 발생한 생산 관련 박토원가에 전진적으로 적용해야 한다고 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC20",
+      "section_id": "wod1rr",
+      "section_title": "경과규정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|경과규정",
+      "text": "IFRS IC는 경과규정의 경우 IAS 8의 원칙을 따르기로 결정하였다. 종전 박토자산의 잔액(문단 A3참조)을 박토활동으로 보다 접근하기 쉬워진 광체의 잔존 구성요소와 밀접하게 관련지을 수 없다면, 표시되는 가장 이른 기간의 개시일에 이익잉여금으로 인식하도록 요구하기로 결정하였다.",
+      "html": "IFRS IC는 경과규정의 경우 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>의 원칙을 따르기로 결정하였다. 종전 박토자산의 잔액(<span class=\"mundan-finder\">문단 A3</span>참조)을 박토활동으로 보다 접근하기 쉬워진 광체의 잔존 구성요소와 밀접하게 관련지을 수 없다면, 표시되는 가장 이른 기간의 개시일에 이익잉여금으로 인식하도록 요구하기로 결정하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 A3",
+          "standard_number": "2120",
+          "standard_title": null,
+          "range": "A3",
+          "paragraph_ids": [
+            "A3"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC21",
+      "section_id": "wod1rr",
+      "section_title": "경과규정",
+      "toc_path": "결론도출근거|IFRIC 20 ‘노천광산 생산단계의 박토원가(Stripping costs in the production phase of a surface mine)의 결론도출근거|결론|경과규정",
+      "text": "IFRS IC는 과거 생산 관련 박토활동에서 발생하여 전환일에 존재하는 부채가 있다면 그 잔액은 해석서에 기술된 원칙에 따라 인식되지 않을 것이라는 점에 주목하였다. IFRS IC는 해석서 공개초안에 대한 검토의견을 통해 그러한 잔액이 드물다는 것을 이해하였고, 관계자들이 혼동할 수 있기 때문에 부채 잔액의 인식에 대한 지침을 제공하는 것이 필요하다고 생각하지 않았다.",
+      "html": "IFRS IC는 과거 생산 관련 박토활동에서 발생하여 전환일에 존재하는 부채가 있다면 그 잔액은 해석서에 기술된 원칙에 따라 인식되지 않을 것이라는 점에 주목하였다. IFRS IC는 해석서 공개초안에 대한 검토의견을 통해 그러한 잔액이 드물다는 것을 이해하였고, 관계자들이 혼동할 수 있기 때문에 부채 잔액의 인식에 대한 지침을 제공하는 것이 필요하다고 생각하지 않았다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2120호와 국제재무보고기준해석 제20호(IFRIC 20) 기업회계기준해석서 제2120호는 국제재무보고기준해석위원회(IFRS Interpretations Committee)가 제정한 국제재무보고기준해석 제20호(IFRIC 20) ‘노천광산 생산단계의 박토원가(Stripping Costs in the Production Phase of a Surface Mine)’에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업을 명시하기 위하여 문단 한5.1이 추가되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. ### 국제재무보고기준해석 제20호(IFRIC 20)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2120호가 IFRIC 20의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2120호를 준수하면 동시에 IFRIC 20을 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2120호와 국제재무보고기준해석 제20호(IFRIC 20)</h3>\n<p>기업회계기준해석서 제2120호는 국제재무보고기준해석위원회(IFRS Interpretations Committee)가 제정한 국제재무보고기준해석 제20호(IFRIC 20) ‘노천광산 생산단계의 박토원가(Stripping Costs in the Production Phase of a Surface Mine)’에 대응하는 해석이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업을 명시하기 위하여 문단 한5.1이 추가되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. </p>\n<h3>국제재무보고기준해석 제20호(IFRIC 20)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2120호가 IFRIC 20의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2120호를 준수하면 동시에 IFRIC 20을 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 광산의 생산단계에서 노천채광활동으로 발생하는 폐석 제거원가(‘생산 관련 박토원가’)의 회계처리에 필요한 사항을 정하고 있다. ### 1. 회계논제 이 해석서는 다음의 회계논제를 다룬다. ### 2. 결론 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 광산의 생산단계에서 노천채광활동으로 발생하는 폐석 제거원가(‘생산 관련 박토원가’)의 회계처리에 필요한 사항을 정하고 있다.</p>\n<h3>1. 회계논제</h3>\n<p>이 해석서는 다음의 회계논제를 다룬다. </p>\n<h3>2. 결론</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.\n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2012.7.13. 제정 | 노천광산 생산단계의 박토원가 | IFRIC 20 Stripping costs in the production phase of a surface mine |\n\n이 기준서는 다른 기준서의 제․개정에 따라 다음과 같이 개정되었다.\n\n| 제․개정일자 | 다른 기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2018.11.14. 개정 | '한국채택국제회계기준에서 개념체계의 참조에 대한 개정' | Amendments to References to the Conceptual Framework in IFRS Standards |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 161px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 278px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 20px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">2012.7.13. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 161px; height: 20px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">&nbsp;노천광산 생산단계의 박토원가</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 278px; height: 20px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-indent: 0pt; line-height: 20px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">&nbsp;IFRIC 20 Stripping costs in the production phase of a surface mine</span></p></td></tr></tbody></table>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">이 기준서는 다른 기준서의 제․개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 161px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">다른 기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 278px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; font-weight: bold;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 20px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">2018.11.14. 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 161px; height: 20px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">&nbsp;'한국채택국제회계기준에서 개념체계의 참조에 대한 개정'</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 278px; height: 20px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-indent: 0pt; line-height: 20px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">&nbsp;Amendments to References to the Conceptual Framework in IFRS Standards</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1002": [
+      "8"
+    ],
+    "1016": [
+      "BC13"
+    ]
+  },
+  "qna_index": {}
+}

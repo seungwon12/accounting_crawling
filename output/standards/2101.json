@@ -1,0 +1,1618 @@
+{
+  "standard_id": "2101",
+  "standard_type": "기업회계기준해석서",
+  "title": "사후처리 및 복구관련 충당부채의 변경",
+  "url": "https://db.kasb.or.kr/s/2101",
+  "crawled_at": "2026-03-16T04:40:10.512545+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2101/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2101/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2,
+          "title": "참조",
+          "section_id": "PubDlQ",
+          "href": "/s/2101/PubDlQ",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "배경",
+          "section_id": "D0eKXl",
+          "href": "/s/2101/D0eKXl",
+          "paragraph_range": "1",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "적용",
+          "section_id": "lGLcPC",
+          "href": "/s/2101/lGLcPC",
+          "paragraph_range": "한2.1",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "적용범위",
+          "section_id": "OB0jvg",
+          "href": "/s/2101/OB0jvg",
+          "paragraph_range": "2",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "회계논제",
+          "section_id": "bhCWji",
+          "href": "/s/2101/bhCWji",
+          "paragraph_range": "3",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "결론",
+          "section_id": "KGFP5y",
+          "href": "/s/2101/KGFP5y",
+          "paragraph_range": "4 ~ 8",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "시행일",
+          "section_id": "58MfQo",
+          "href": "/s/2101/58MfQo",
+          "paragraph_range": "9 ~ 9B",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "경과규정",
+          "section_id": "juVKtk",
+          "href": "/s/2101/juVKtk",
+          "paragraph_range": "10",
+          "children": []
+        },
+        {
+          "level": 2,
+          "title": "기업회계기준해석서 제2101호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "49WWJZ",
+          "href": "/s/2101/49WWJZ",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "적용사례 실무적용지침",
+      "section_id": "50d7f1b3",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1,
+          "title": "기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례",
+          "section_id": "bKZLBu",
+          "href": "/s/2101/bKZLBu",
+          "paragraph_range": "IE1 ~ IE18",
+          "children": [
+            {
+              "level": 2,
+              "title": "공통 사항",
+              "section_id": "ogonRH",
+              "href": "/s/2101/ogonRH",
+              "paragraph_range": "IE1 ~ IE18",
+              "children": [
+                {
+                  "level": 3,
+                  "title": "사례 1: 원가모형",
+                  "section_id": "FjXq0w",
+                  "href": "/s/2101/FjXq0w",
+                  "paragraph_range": "IE2 ~ IE5",
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "title": "사례 2: 재평가모형",
+                  "section_id": "m184u0",
+                  "href": "/s/2101/m184u0",
+                  "paragraph_range": "IE6 ~ IE12",
+                  "children": []
+                },
+                {
+                  "level": 3,
+                  "title": "사례 3: 경과규정",
+                  "section_id": "VHc2y4",
+                  "href": "/s/2101/VHc2y4",
+                  "paragraph_range": "IE13 ~ IE18",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2101/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1,
+          "title": "IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거",
+          "section_id": "62URNY",
+          "href": "/s/2101/62URNY",
+          "paragraph_range": "BC1 ~ BC33",
+          "children": [
+            {
+              "level": 2,
+              "title": "도입",
+              "section_id": "v02vMF",
+              "href": "/s/2101/v02vMF",
+              "paragraph_range": "BC1",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "배경",
+              "section_id": "DX4tyR",
+              "href": "/s/2101/DX4tyR",
+              "paragraph_range": "BC2 ~ BC5",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "적용범위",
+              "section_id": "zAnJil",
+              "href": "/s/2101/zAnJil",
+              "paragraph_range": "BC6",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "결론의 근거",
+              "section_id": "QJeNv7",
+              "href": "/s/2101/QJeNv7",
+              "paragraph_range": "BC7 ~ BC11",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "IAS 8과 회계추정치의 변경",
+              "section_id": "nqXEd7",
+              "href": "/s/2101/nqXEd7",
+              "paragraph_range": "BC12 ~ BC13",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "IAS 16과 유형자산에 대한 회계추정치의 변경",
+              "section_id": "FcBbu9",
+              "href": "/s/2101/FcBbu9",
+              "paragraph_range": "BC14 ~ BC18",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "US GAAP과의 비교",
+              "section_id": "zmUdC2",
+              "href": "/s/2101/zmUdC2",
+              "paragraph_range": "BC19 ~ BC20",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "이 해석서와 IAS 16에 따른 최초 인식의 상호작용",
+              "section_id": "cp2m6Q",
+              "href": "/s/2101/cp2m6Q",
+              "paragraph_range": "BC21 ~ BC23",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "이 해석서와 IAS 16에서의 측정모형 선택의 상호작용",
+              "section_id": "KqUz5U",
+              "href": "/s/2101/KqUz5U",
+              "paragraph_range": "BC24 ~ BC25",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "할인액의 상각",
+              "section_id": "pIPWOf",
+              "href": "/s/2101/pIPWOf",
+              "paragraph_range": "BC26 ~ BC27",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "공시",
+              "section_id": "JoGfW2",
+              "href": "/s/2101/JoGfW2",
+              "paragraph_range": "BC28 ~ BC29",
+              "children": []
+            },
+            {
+              "level": 2,
+              "title": "경과규정",
+              "section_id": "I15QzY",
+              "href": "/s/2101/I15QzY",
+              "paragraph_range": "BC30 ~ BC33",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2101/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2101/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2101/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "PubDlQ",
+      "section_id": "PubDlQ",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "#### 참조 - - 기업회계기준서 제1116호 ‘리스’- 기업회계기준서 제1001호 ‘재무제표 표시’- 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’- 기업회계기준서 제1016호 ‘유형자산’- 기업회계기준서 제1023호 ‘차입원가’- 기업회계기준서 제1036호 ‘자산손상’- 기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’ ## 공유하기 ### 문서 ### 주소",
+      "html": "<h4 class=\"sc-fRuWiQ TQjhm sc-jstVdI eboZxl\"><span>참조</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h4>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩1\"><div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 기업회계기준서 제1116호 ‘리스’</div><div class=\"para\">- 기업회계기준서 제1001호 ‘재무제표 표시’</div><div class=\"para\">- 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’</div><div class=\"para\">- 기업회계기준서 제1016호 ‘유형자산’</div><div class=\"para\">- 기업회계기준서 제1023호 ‘차입원가’</div><div class=\"para\">- 기업회계기준서 제1036호 ‘자산손상’</div><div class=\"para\">- 기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’</div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "D0eKXl",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "기업은 유형자산을 해체, 제거하고 복구할 의무를 부담하는 경우가 많다. 이 해석서에서는 이러한 의무를 ‘사후처리 및 복구관련 충당부채’라고 한다. 기업회계기준서 제1016호에 따르면, 유형자산의 원가는 유형자산을 해체·제거하고 그 유형자산이 위치한 부지를 복구하기 위한 원가의 최초 추정치를 포함한다. 이러한 의무는 해당 유형자산을 취득한 시점에 발생하거나 특정기간 동안 해당 유형자산을 재고자산 생산 이외의 목적으로 사용한 결과로서 발생한다. 기업회계기준서 제1037호는 사후처리 및 복구관련 충당부채의 측정 방법에 대하여 규정하고 있으며, 이 해석서는 사후처리 및 복구관련 충당부채의 측정이 변경되는 경우 나타나는 영향에 대한 회계처리 지침을 제공한다.",
+      "html": "기업은 유형자산을 해체, 제거하고 복구할 의무를 부담하는 경우가 많다. 이 해석서에서는 이러한 의무를 ‘사후처리 및 복구관련 충당부채’라고 한다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">기업회계기준서 제1016호</span></div>에 따르면, 유형자산의 원가는 유형자산을 해체·제거하고 그 유형자산이 위치한 부지를 복구하기 위한 원가의 최초 추정치를 포함한다. 이러한 의무는 해당 유형자산을 취득한 시점에 발생하거나 특정기간 동안 해당 유형자산을 재고자산 생산 이외의 목적으로 사용한 결과로서 발생한다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준서 제1037호</span></div>는 사후처리 및 복구관련 충당부채의 측정 방법에 대하여 규정하고 있으며, 이 해석서는 사후처리 및 복구관련 충당부채의 측정이 변경되는 경우 나타나는 영향에 대한 회계처리 지침을 제공한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1016호",
+          "standard_number": "1016",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1037호",
+          "standard_number": "1037",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한2.1",
+      "section_id": "lGLcPC",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위한 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위한 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "OB0jvg",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 다음을 모두 충족하는 기존 사후처리 및 복구관련 충당부채의 측정이 변경된 경우에 적용한다. (1)기업회계기준서 제1016호에 따라 유형자산의 원가의 일부로서 인식하거나 기업회계기준서 제1116호에 따라 사용권자산 원가의 일부로 인식하였다. (2)기업회계기준서 제1037호에 따라 부채를 인식하였다. 예를 들어, 사후처리 및 복구관련 충당부채는 생산설비를 폐쇄하거나 추출산업에서 훼손된 환경을 복구하거나 설비를 제거하는 경우에 발생할 수 있다.",
+      "html": "이 해석서는 다음을 모두 충족하는 기존 사후처리 및 복구관련 충당부채의 측정이 변경된 경우에 적용한다. \n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">기업회계기준서 제1016호</span></div>에 따라 유형자산의 원가의 일부로서 인식하거나 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>에 따라 사용권자산 원가의 일부로 인식하였다.\n    \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준서 제1037호</span></div>에 따라 부채를 인식하였다.\n    \n    \n    \n    </div></div>\n예를 들어, 사후처리 및 복구관련 충당부채는 생산설비를 폐쇄하거나 추출산업에서 훼손된 환경을 복구하거나 설비를 제거하는 경우에 발생할 수 있다.",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1016호",
+          "standard_number": "1016",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1116호",
+          "standard_number": "1116",
+          "standard_title": "리스",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1037호",
+          "standard_number": "1037",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "bhCWji",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "이 해석서는 기존 사후처리 및 복구관련 충당부채의 측정을 변경시키는 다음 사건이 발생한 경우, 그 영향을 회계처리하는 방법에 대하여 설명한다. (1) 의무를 이행하기 위해 필요한 경제적효익을 갖는 자원의 유출(예: 현금흐름)에 대한 추정치의 변경 (2)기업회계기준서 제1037호의 문단 47에서 정의한 시장에 기초한 현행 할인율의 변경(현행 할인율의 변동은 화폐의 시간가치 변동과 부채의 특유위험을 포함함) (3) 시간의 경과에 따른 부채의 증가(또한, 이를 ‘할인액을 상각한다’라고도 한다)",
+      "html": "이 해석서는 기존 사후처리 및 복구관련 충당부채의 측정을 변경시키는 다음 사건이 발생한 경우, 그 영향을 회계처리하는 방법에 대하여 설명한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 의무를 이행하기 위해 필요한 경제적효익을 갖는 자원의 유출(예: 현금흐름)에 대한 추정치의 변경</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준서 제1037호</span></div>의 \n      \n      \n      <span class=\"mundan-finder\">문단 47</span>에서 정의한 시장에 기초한 현행 할인율의 변경(현행 할인율의 변동은 화폐의 시간가치 변동과 부채의 특유위험을 포함함)\n    \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 시간의 경과에 따른 부채의 증가(또한, 이를 ‘할인액을 상각한다’라고도 한다)</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1037호",
+          "standard_number": "1037",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 47",
+          "standard_number": "1037",
+          "standard_title": null,
+          "range": "47",
+          "paragraph_ids": [
+            "47"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "KGFP5y",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "원가모형을 사용하여 관련 자산을 측정한 경우 다음과 같이 회계처리한다. (1) 부채의 변경은 아래 (2)의 경우를 충족시키는 조건으로 당기에 관련 자산의 원가에 가산하거나 차감한다. (2) 자산의 원가에서 차감되는 금액은 그 자산의 장부금액을 초과할 수 없다. 만약 부채의 감소가 자산의 장부금액을 초과한다면, 그 초과액은 즉시 당기손익으로 인식한다. (3) 조정으로 인하여 자산의 원가가 증가한 경우, 관련 자산의 새로운 장부금액이 회수가능한지를 고려하여야 한다. 만약 회수가능성이 의심이 된다면, 기업회계기준서 제1036호에 따라 회수가능액을 추정하여 자산손상여부를 검토하고, 손상된 경우에는 손상차손으로 회계처리한다.",
+      "html": "원가모형을 사용하여 관련 자산을 측정한 경우 다음과 같이 회계처리한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 부채의 변경은 아래 (2)의 경우를 충족시키는 조건으로 당기에 관련 자산의 원가에 가산하거나 차감한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 자산의 원가에서 차감되는 금액은 그 자산의 장부금액을 초과할 수 없다. 만약 부채의 감소가 자산의 장부금액을 초과한다면, 그 초과액은 즉시 당기손익으로 인식한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 조정으로 인하여 자산의 원가가 증가한 경우, 관련 자산의 새로운 장부금액이 회수가능한지를 고려하여야 한다. 만약 회수가능성이 의심이 된다면, \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">기업회계기준서 제1036호</span></div>에 따라 회수가능액을 추정하여 자산손상여부를 검토하고, 손상된 경우에는 손상차손으로 회계처리한다.\n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1036호",
+          "standard_number": "1036",
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "KGFP5y",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "재평가모형을 사용하여 관련 자산을 측정한 경우 다음과 같이 회계처리한다. (1) 부채의 변경은 당해 자산에 대하여 이전에 인식한 재평가잉여금을 조정하여 회계처리한다. (가)부채의 감소는(아래 (2)의 경우를 충족시키는 조건) 기타포괄손익으로 인식하고 자본의 항목 중 재평가잉여금을 증가시킨다. 다만, 그 금액 중 자산에 대하여 이전에 당기손익으로 인식한 재평가감소에 해당하는 금액은 당기손익으로 환입한다. (나)부채의 증가는 당기손익으로 인식한다. 다만 그 금액 중 해당 자산과 관련된 재평가잉여금의 잔액을 한도로 기타포괄손익으로 인식하고 자본의 항목 중 재평가잉여금을 감소시킨다. (2) 당해 자산이 원가모형으로 평가되었다면 인식되었을 장부금액을 초과하여 부채가 감소되는 경우, 그 초과액은 즉시 당기손익으로 인식한다. (3) 부채의 변경은 당해 자산의 장부금액이 보고기간말의 공정가치를 사용하여 결정되었을 금액과 중요하게 다르지 않도록 하기 위하여 재평가가 필요할 수도 있다는 것을 의미한다. 이러한 재평가는 위 (1)에 따라 당기손익 또는 기타포괄손익으로 인식될 금액을 결정하는 데 고려하여야 한다. 재평가가 필요한 경우에는 동일 유형의 자산을 모두 재평가해야 한다. (4)기업회계기준서 제1001호는 기타포괄손익의 각 구성요소를 포괄손익계산서에 공시하도록 규정하고 있다. 이러한 규정에 따라, 부채의 변경에서 발생하는 재평가잉여금의 변동은 별도로 인식하고 공시하여야 한다.",
+      "html": "재평가모형을 사용하여 관련 자산을 측정한 경우 다음과 같이 회계처리한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 부채의 변경은 당해 자산에 대하여 이전에 인식한 재평가잉여금을 조정하여 회계처리한다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\">부채의 감소는(아래 (2)의 경우를 충족시키는 조건) 기타포괄손익으로 인식하고 자본의 항목 중 재평가잉여금을 증가시킨다. 다만, 그 금액 중 자산에 대하여 이전에 당기손익으로 인식한 재평가감소에 해당하는 금액은 당기손익으로 환입한다. </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\">부채의 증가는 당기손익으로 인식한다. 다만 그 금액 중 해당 자산과 관련된 재평가잉여금의 잔액을 한도로 기타포괄손익으로 인식하고 자본의 항목 중 재평가잉여금을 감소시킨다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 당해 자산이 원가모형으로 평가되었다면 인식되었을 장부금액을 초과하여 부채가 감소되는 경우, 그 초과액은 즉시 당기손익으로 인식한다. </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 부채의 변경은 당해 자산의 장부금액이 보고기간말의 공정가치를 사용하여 결정되었을 금액과 중요하게 다르지 않도록 하기 위하여 재평가가 필요할 수도 있다는 것을 의미한다. 이러한 재평가는 위 (1)에 따라 당기손익 또는 기타포괄손익으로 인식될 금액을 결정하는 데 고려하여야 한다. 재평가가 필요한 경우에는 동일 유형의 자산을 모두 재평가해야 한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div>는 기타포괄손익의 각 구성요소를 포괄손익계산서에 공시하도록 규정하고 있다. 이러한 규정에 따라, 부채의 변경에서 발생하는 재평가잉여금의 변동은 별도로 인식하고 공시하여야 한다.\n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "KGFP5y",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "자산의 조정된 감가상각대상금액은 그 내용연수동안 상각한다. 그러므로 일단 당해 자산의 내용연수가 종료되면, 관련 부채의 모든 후속적인 변경은 발생 즉시 당기손익으로 인식한다. 이러한 회계처리는 원가모형과 재평가모형에 모두 적용한다.",
+      "html": "자산의 조정된 감가상각대상금액은 그 내용연수동안 상각한다. 그러므로 일단 당해 자산의 내용연수가 종료되면, 관련 부채의 모든 후속적인 변경은 발생 즉시 당기손익으로 인식한다. 이러한 회계처리는 원가모형과 재평가모형에 모두 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "KGFP5y",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "할인액의 상각은 발생시 금융원가로 당기손익에 인식한다. 기업회계기준서 제1023호에 따른 자본화는 허용되지 않는다.",
+      "html": "할인액의 상각은 발생시 금융원가로 당기손익에 인식한다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">차입원가</span><span class=\"std-finder\">기업회계기준서 제1023호</span></div>에 따른 자본화는 허용되지 않는다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1023호",
+          "standard_number": "1023",
+          "standard_title": "차입원가",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "58MfQo",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9A",
+      "section_id": "58MfQo",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한9A.1",
+      "section_id": "58MfQo",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "html": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9B",
+      "section_id": "58MfQo",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2017년 12월에 공표한 기업회계기준서 제1116호에 따라 문단 2를 개정하였다. 이 개정 내용은 기업회계기준서 제1116호를 적용할 때 적용한다.",
+      "html": "2017년 12월에 공표한 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>에 따라 \n  <span class=\"mundan-finder\">문단 2</span>를 개정하였다. 이 개정 내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>를 적용할 때 적용한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1116호",
+          "standard_number": "1116",
+          "standard_title": "리스",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1116호",
+          "standard_number": "1116",
+          "standard_title": "리스",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 2",
+          "standard_number": "1116",
+          "standard_title": null,
+          "range": "2",
+          "paragraph_ids": [
+            "2"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "juVKtk",
+      "section_title": "경과규정",
+      "toc_path": "본문|경과규정",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "49WWJZ",
+      "section_id": "49WWJZ",
+      "section_title": "기업회계기준해석서 제2101호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준해석서 제2101호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "#### 기업회계기준해석서 제2101호의 제·개정 등에 대한 회계기준위원회의 의결 - 기업회계기준해석서 제2101호의 제정에 대한 회계기준위원회의 의결(2007년)기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채의 변경’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.회계기준위원회 위원: 이효익(위원장), 서정우(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h4 class=\"sc-fRuWiQ TQjhm sc-jstVdI eboZxl\"><span>기업회계기준해석서 제2101호의 제·개정 등에 대한 회계기준위원회의 의결</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h4>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩2\"><div value=\"웩2\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2101호의 제정에 대한 회계기준위원회의 의결(2007년)</b></div><br><div class=\"para\">기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채의 변경’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원: </div><div class=\"para\">이효익(위원장), 서정우(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태</div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE2",
+      "section_id": "FjXq0w",
+      "section_title": "사례 1: 원가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 1: 원가모형",
+      "text": "2009년 12월 31일에 이 발전소는 10년이 경과되었다. 감가상각누계액은 30,000원(120,000×10/40년)이다. 10년에 걸친 할인액의 상각(5%)으로, 사후처리부채는 10,000원에서 16,300원으로 증가되었다.",
+      "html": "2009년 12월 31일에 이 발전소는 10년이 경과되었다. 감가상각누계액은 30,000원(120,000×10/40년)이다. 10년에 걸친 할인액의 상각(5%)으로, 사후처리부채는 10,000원에서 16,300원으로 증가되었다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE3",
+      "section_id": "FjXq0w",
+      "section_title": "사례 1: 원가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 1: 원가모형",
+      "text": "2009년 12월 31일에 할인율은 변동하지 않았다. 그러나 기업은 기술발전의 결과로서 사후처리부채의 순현재가치가 8,000원 만큼 감소하였다고 추정한다. 따라서 기업은 사후처리부채를 16,300원에서 8,300원으로 조정한다. 동일자에 이러한 변동을 반영하기 위한 분개는 다음과 같다(단위: 원).",
+      "html": "2009년 12월 31일에 할인율은 변동하지 않았다. 그러나 기업은 기술발전의 결과로서 사후처리부채의 순현재가치가 8,000원 만큼 감소하였다고 추정한다. 따라서 기업은 사후처리부채를 16,300원에서 8,300원으로 조정한다. 동일자에 이러한 변동을 반영하기 위한 분개는 다음과 같다(단위: 원).",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE4",
+      "section_id": "FjXq0w",
+      "section_title": "사례 1: 원가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 1: 원가모형",
+      "text": "이러한 조정으로 인하여 자산의 장부금액은 82,000원(120,000원 - 8,000원-30,000원)이 되고, 이 금액은 30년의 잔존내용연수 동안 상각될 것이며 내년의 감가상각비는 2,733원(82,000원÷30)이 될 것이다. 내년 할인액의 상각으로 인한 금융원가는 415원(8,300원×5%)이 될 것이다.",
+      "html": "이러한 조정으로 인하여 자산의 장부금액은 82,000원(120,000원 - 8,000원-30,000원)이 되고, 이 금액은 30년의 잔존내용연수 동안 상각될 것이며 내년의 감가상각비는 2,733원(82,000원÷30)이 될 것이다. 내년 할인액의 상각으로 인한 금융원가는 415원(8,300원×5%)이 될 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE5",
+      "section_id": "FjXq0w",
+      "section_title": "사례 1: 원가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 1: 원가모형",
+      "text": "부채의 변경이 추정현금흐름의 변경 대신에 할인율의 변경에 기인한다면, 이러한 변경에 대한 회계처리는 동일할 것이지만 내년의 금융원가는 새로운 할인율을 반영할 것이다.",
+      "html": "부채의 변경이 추정현금흐름의 변경 대신에 할인율의 변경에 기인한다면, 이러한 변경에 대한 회계처리는 동일할 것이지만 내년의 금융원가는 새로운 할인율을 반영할 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE6",
+      "section_id": "m184u0",
+      "section_title": "사례 2: 재평가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 2: 재평가모형",
+      "text": "기업은 기업회계기준서 제1016호에서 재평가모형을 채택하였고, 이에 따라 발전소는 장부금액이 공정가치와 중요하게 다르지 않도록 주기적으로 재평가된다. 기업의 정책은 재평가일에 자산의 총장부금액에서 감가상각누계액을 제거하는 것이다.",
+      "html": "기업은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">기업회계기준서 제1016호</span></div>에서 재평가모형을 채택하였고, 이에 따라 발전소는 장부금액이 공정가치와 중요하게 다르지 않도록 주기적으로 재평가된다. 기업의 정책은 재평가일에 자산의 총장부금액에서 감가상각누계액을 제거하는 것이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1016호",
+          "standard_number": "1016",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE7",
+      "section_id": "m184u0",
+      "section_title": "사례 2: 재평가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 2: 재평가모형",
+      "text": "사후처리부채가 있는 재평가된 자산에 대해 회계처리할 때, 수행된 가치평가의 근거를 이해하는 것이 중요하다. 예를 들어 다음과 같다. (1) 어떤 자산이 할인된 현금흐름 기준으로 평가된다면, 일부 가치평가자는 사후처리원가에 대한 충당금을 차감하지 않고 그 자산을 평가할 수 있는(‘총’가치평가) 반면에 그 자산을 취득하는 기업은 일반적으로 사후처리의무도 부담할 것이기 때문에, 다른 가치평가자들은 사후처리원가에 대한 충당금을 차감하여 그 자산을 평가할 수 있다(‘순’가치평가). 재무보고 목적상 사후처리의무는 별도의 부채로 인식되고 자산에서 차감하지 않는다. 따라서 자산이 순액기준으로 평가된다면, 부채가 이중으로 계상되지 않도록 충당금을 가산하여 가치평가결과를 조정할 필요가 있다. 이로 인해 부채는 이중으로는 계상되지 않는다. (주2) (2) 자산이 감가상각 후 대체원가 기준으로 평가된다면, 가치평가결과는 그 자산의 사후처리요소에 대한 금액을 포함하지 않을 수 있다. 만약 그렇다면, 그러한 요소의 감가상각후 대체원가를 반영하기 위하여 가치평가결과에 적절한 금액을 가산할 필요가 있을 것이다.",
+      "html": "사후처리부채가 있는 재평가된 자산에 대해 회계처리할 때, 수행된 가치평가의 근거를 이해하는 것이 중요하다. 예를 들어 다음과 같다. \n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\">어떤 자산이 할인된 현금흐름 기준으로 평가된다면, 일부 가치평가자는 사후처리원가에 대한 충당금을 차감하지 않고 그 자산을 평가할 수 있는(‘총’가치평가) 반면에 그 자산을 취득하는 기업은 일반적으로 사후처리의무도 부담할 것이기 때문에, 다른 가치평가자들은 사후처리원가에 대한 충당금을 차감하여 그 자산을 평가할 수 있다(‘순’가치평가). 재무보고 목적상 사후처리의무는 별도의 부채로 인식되고 자산에서 차감하지 않는다. 따라서 자산이 순액기준으로 평가된다면, 부채가 이중으로 계상되지 않도록 충당금을 가산하여 가치평가결과를 조정할 필요가 있다. 이로 인해 부채는 이중으로는 계상되지 않는다.\n      \n      \n      <sup data-id=\"(주2)\">(주2)</sup></div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\">자산이 감가상각 후 대체원가 기준으로 평가된다면, 가치평가결과는 그 자산의 사후처리요소에 대한 금액을 포함하지 않을 수 있다. 만약 그렇다면, 그러한 요소의 감가상각후 대체원가를 반영하기 위하여 가치평가결과에 적절한 금액을 가산할 필요가 있을 것이다.\n    </div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주2",
+          "display_text": "(주2)"
+        }
+      ]
+    },
+    {
+      "number": "IE8",
+      "section_id": "m184u0",
+      "section_title": "사례 2: 재평가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 2: 재평가모형",
+      "text": "2002년 12월 31일 시장에 기초하여 현금흐름을 할인한 평가금액은 115,000원이라고 가정한다. 이 금액에는 3년간 할인액의 상각후 사후처리원가에 대한 충당금 11,600원을 포함하고 있으며, 최초 추정치에 대한 변동은 없다. 따라서 2002년 12월 31일의 재무상태표에 포함된 금액은 다음과 같다.",
+      "html": "2002년 12월 31일 시장에 기초하여 현금흐름을 할인한 평가금액은 115,000원이라고 가정한다. 이 금액에는 3년간 할인액의 상각후 사후처리원가에 대한 충당금 11,600원을 포함하고 있으며, 최초 추정치에 대한 변동은 없다. 따라서 2002년 12월 31일의 재무상태표에 포함된 금액은 다음과 같다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE9",
+      "section_id": "m184u0",
+      "section_title": "사례 2: 재평가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 2: 재평가모형",
+      "text": "따라서 2003년의 감가상각비는 3,420원(126,000원×1/37)이고, 2003년의 할인액 상각은 600원(11,600원의 5%)이다. 2003년 12월 31일에 (조정전) 사후처리부채는 12,200원이고 할인율은 변하지 않았다. 그러나 동일자에 기업은 기술발전의 결과로 사후처리부채의 현재가치가 5,000원 만큼 감소하였다고 추정한다. 이에 따라 기업은 사후처리부채를 12,200원에서 7,200원으로 조정한다.",
+      "html": "따라서 2003년의 감가상각비는 3,420원(126,000원×1/37)이고, 2003년의 할인액 상각은 600원(11,600원의 5%)이다. 2003년 12월 31일에 (조정전) 사후처리부채는 12,200원이고 할인율은 변하지 않았다. 그러나 동일자에 기업은 기술발전의 결과로 사후처리부채의 현재가치가 5,000원 만큼 감소하였다고 추정한다. 이에 따라 기업은 사후처리부채를 12,200원에서 7,200원으로 조정한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE10",
+      "section_id": "m184u0",
+      "section_title": "사례 2: 재평가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 2: 재평가모형",
+      "text": "이러한 조정이 원가모형을 적용하였더라면 인식되었을 자산의 장부금액을 초과하지 않기 때문에, 이러한 조정 자체를 재평가잉여금에 반영한다. 만약 초과한다면 이러한 초과금액은 문단 6(2)에 따라 손익에 반영될 것이다. 이러한 변동을 반영하기 위한 분개는 다음과 같다(단위: 원).",
+      "html": "이러한 조정이 원가모형을 적용하였더라면 인식되었을 자산의 장부금액을 초과하지 않기 때문에, 이러한 조정 자체를 재평가잉여금에 반영한다. 만약 초과한다면 이러한 초과금액은 \n  \n  <span class=\"mundan-finder\">문단 6(2)</span>에 따라 손익에 반영될 것이다. 이러한 변동을 반영하기 위한 분개는 다음과 같다(단위: 원).\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 6(2)",
+          "standard_number": "2101",
+          "standard_title": null,
+          "range": "6(2)",
+          "paragraph_ids": [
+            "6"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE11",
+      "section_id": "m184u0",
+      "section_title": "사례 2: 재평가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 2: 재평가모형",
+      "text": "기업은 장부금액이 공정가치와 중요하게 다르지 않다는 것을 확인하기 위하여 2003년 12월 31일에 완전한 가치평가가 필요하다고 결정한다. 그 자산이 현재 107,000원으로 평가되었다고 가정하자. 이 금액은 별도 부채로 인식되어야 하는, 감소된 사후처리의무에 대한 7,200원의 충당금을 차감한 금액이다. 따라서 재무보고 목적상 자산의 평가가치는 충당금을 차감하기 전인 114,200원이다. 다음의 추가적인 분개가 필요하다. 주석:",
+      "html": "기업은 장부금액이 공정가치와 중요하게 다르지 않다는 것을 확인하기 위하여 2003년 12월 31일에 완전한 가치평가가 필요하다고 결정한다. 그 자산이 현재 107,000원으로 평가되었다고 가정하자. 이 금액은 별도 부채로 인식되어야 하는, 감소된 사후처리의무에 대한 7,200원의 충당금을 차감한 금액이다. 따라서 재무보고 목적상 자산의 평가가치는 충당금을 차감하기 전인 114,200원이다. 다음의 추가적인 분개가 필요하다.\n주석:",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE12",
+      "section_id": "m184u0",
+      "section_title": "사례 2: 재평가모형",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 2: 재평가모형",
+      "text": "이러한 가치평가에 따라 재무상태표에 포함된 금액은 다음과 같다. 주석",
+      "html": "이러한 가치평가에 따라 재무상태표에 포함된 금액은 다음과 같다.\n주석",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE13",
+      "section_id": "VHc2y4",
+      "section_title": "사례 3: 경과규정",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 3: 경과규정",
+      "text": "(1) 1999년 7월 1일에 기업회계기준서 제1037호를 적용하였다. (2) 2005년 1월 1일에 이 해석서를 적용한다. (3) 이 해석서를 적용하기 전에 사후처리부채를 이행하기 위한 추정현금흐름의 변경을 수익 또는 비용으로 인식하였다.",
+      "html": "<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 1999년 7월 1일에 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준서 제1037호</span></div>를 적용하였다.\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 2005년 1월 1일에 이 해석서를 적용한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 이 해석서를 적용하기 전에 사후처리부채를 이행하기 위한 추정현금흐름의 변경을 수익 또는 비용으로 인식하였다.</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1037호",
+          "standard_number": "1037",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE14",
+      "section_id": "VHc2y4",
+      "section_title": "사례 3: 경과규정",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 3: 경과규정",
+      "text": "2000년 12월 31일에 1년간 할인액의 상각(5%)으로 인하여, 사후처리부채는 10,000원에서 10,500원으로 증가하였다. 또한 기업은 최근 사실들에 기초하여 사후처리부채의 현재가치가 1,500원만큼 증가하였다고 추정하며, 이에 따라 사후처리부채는 10,500원에서 12,000원으로 수정된다. 그 당시 정책에 따라 부채의 증가는 당기손익으로 인식된다.",
+      "html": "2000년 12월 31일에 1년간 할인액의 상각(5%)으로 인하여, 사후처리부채는 10,000원에서 10,500원으로 증가하였다. 또한 기업은 최근 사실들에 기초하여 사후처리부채의 현재가치가 1,500원만큼 증가하였다고 추정하며, 이에 따라 사후처리부채는 10,500원에서 12,000원으로 수정된다. 그 당시 정책에 따라 부채의 증가는 당기손익으로 인식된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE15",
+      "section_id": "VHc2y4",
+      "section_title": "사례 3: 경과규정",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 3: 경과규정",
+      "text": "2005년 1월 1일에 기업은 이 해석서의 적용을 반영하기 위해 다음의 분개를 한다(단위: 원).",
+      "html": "2005년 1월 1일에 기업은 이 해석서의 적용을 반영하기 위해 다음의 분개를 한다(단위: 원).",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE16",
+      "section_id": "VHc2y4",
+      "section_title": "사례 3: 경과규정",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 3: 경과규정",
+      "text": "자산의 원가는 2000년 12월 31일에 사후처리원가의 추정금액 증가가 동일자에 자본화되었을 경우의 금액으로 수정된다. 이러한 추가적 원가는 39년에 걸쳐 감가상각되었을 것이다. 따라서 2004년 12월 31일에 그 금액에 대한 감가상각누계액은 154원(1,500원 × 4/39년)이 될 것이다.",
+      "html": "자산의 원가는 2000년 12월 31일에 사후처리원가의 추정금액 증가가 동일자에 자본화되었을 경우의 금액으로 수정된다. 이러한 추가적 원가는 39년에 걸쳐 감가상각되었을 것이다. 따라서 2004년 12월 31일에 그 금액에 대한 감가상각누계액은 154원(1,500원 × 4/39년)이 될 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE18",
+      "section_id": "VHc2y4",
+      "section_title": "사례 3: 경과규정",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2101호 ‘사후처리 및 복구관련 충당부채’의 적용사례|공통 사항|사례 3: 경과규정",
+      "text": "기업회계기준서 제1008호는 비교재무제표를 재작성하여야 하고 공시되어야 하는 비교기간의 기초 이익잉여금에 대한 조정을 공시하도록 요구한다. 2004년 1월 1일에 이에 대응하는 분개는 다음과 같다. 또한 2004년 12월 31일로 종료되는 연도의 감가상각비는 종전에 보고된 금액보다 39원만큼 증가된다(단위: 원).",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">기업회계기준서 제1008호</span></div>는 비교재무제표를 재작성하여야 하고 공시되어야 하는 비교기간의 기초 이익잉여금에 대한 조정을 공시하도록 요구한다. 2004년 1월 1일에 이에 대응하는 분개는 다음과 같다. 또한 2004년 12월 31일로 종료되는 연도의 감가상각비는 종전에 보고된 금액보다 39원만큼 증가된다(단위: 원).\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1008호",
+          "standard_number": "1008",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC1",
+      "section_id": "v02vMF",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|도입",
+      "text": "IFRIC이 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "html": "IFRIC이 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC2",
+      "section_id": "DX4tyR",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|배경",
+      "text": "IAS 16에 따르면 유형자산의 원가에 자산을 해체, 제거하거나 그 자산이 위치한 부지를 복구하는 데 소요될 것으로 최초에 추정되는 원가를 포함하여야 한다. 이러한 의무는 그 유형자산을 취득한 시점에 또는 그 유형자산을 특정기간 동안 재고자산 생산 이외의 목적으로 사용한 결과로 발생한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 따르면 유형자산의 원가에 자산을 해체, 제거하거나 그 자산이 위치한 부지를 복구하는 데 소요될 것으로 최초에 추정되는 원가를 포함하여야 한다. 이러한 의무는 그 유형자산을 취득한 시점에 또는 그 유형자산을 특정기간 동안 재고자산 생산 이외의 목적으로 사용한 결과로 발생한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC3",
+      "section_id": "DX4tyR",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|배경",
+      "text": "IAS 37에 따르면 부채의 최초측정과 후속측정은 보고기간말의 현재의무를 이행하는 데 필요할 것으로 추정되는 지출이어야 하며, 현행시장에서 평가된 할인율을 반영하여야 한다. 충당부채는 매 보고기간말에 검토되어야 하며, 최선의 현행 추정치를 반영하여 조정되어야 한다. 따라서 경제적효익을 갖는 자원의 추정유출이나 할인율의 변경 효과가 중요한 경우 그러한 변경은 인식되어야 한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 따르면 부채의 최초측정과 후속측정은 보고기간말의 현재의무를 이행하는 데 필요할 것으로 추정되는 지출이어야 하며, 현행시장에서 평가된 할인율을 반영하여야 한다. 충당부채는 매 보고기간말에 검토되어야 하며, 최선의 현행 추정치를 반영하여 조정되어야 한다. 따라서 경제적효익을 갖는 자원의 추정유출이나 할인율의 변경 효과가 중요한 경우 그러한 변경은 인식되어야 한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC4",
+      "section_id": "DX4tyR",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|배경",
+      "text": "IFRIC은 사후처리, 복구 및 이와 유사한 부채의 변경에 관한 회계처리 방법을 다루어 줄 것을 요청받았다. 논제는 부채의 변경이 당기손익에 인식되어야 하는지, 또는 관련 자산의 원가에 가산(또는 차감)되어야 하는지에 관한 것이다. IAS 16은 사후처리원가의 최초 자본화를 위한 요구사항들을 포함하고 있으며 IAS 37은 이로 인한 부채의 측정을 위한 요구사항들을 포함하고 있다. 두 기준서 모두 부채의 변동에 관한 회계처리에 대하여 구체적으로 다루고 있지 않다. IFRIC은 서로 다른 관점이 존재하고 이로 인해 서로 다른 실무 관행이 발생할 위험이 있다는 것을 알게 되었다.",
+      "html": "IFRIC은 사후처리, 복구 및 이와 유사한 부채의 변경에 관한 회계처리 방법을 다루어 줄 것을 요청받았다. 논제는 부채의 변경이 당기손익에 인식되어야 하는지, 또는 관련 자산의 원가에 가산(또는 차감)되어야 하는지에 관한 것이다.   \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 16</span></div>은 사후처리원가의 최초 자본화를 위한 요구사항들을 포함하고 있으며   \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>은 이로 인한 부채의 측정을 위한 요구사항들을 포함하고 있다. 두 기준서 모두 부채의 변동에 관한 회계처리에 대하여 구체적으로 다루고 있지 않다. IFRIC은 서로 다른 관점이 존재하고 이로 인해 서로 다른 실무 관행이 발생할 위험이 있다는 것을 알게 되었다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC5",
+      "section_id": "DX4tyR",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|배경",
+      "text": "따라서 IFRIC은 이러한 변경의 회계처리에 관한 지침을 마련하기로 결정하였다. 이를 수행하면서 IFRIC은 이러한 부채의 추정은, 그 이행이 매우 먼 미래에 이루어지고, (1) 그 의무의 이행에 필요한 경제적효익을 갖는 자원 유출의 금액과 시기 그리고 (2) 할인율의 추정에는 종종 상당한 판단이 수반되기 때문에, 본질적으로 주관적이라는 점을 인지하였다. 따라서 최초 추정치에 대한 수정이 이루어질 것이다.",
+      "html": "따라서 IFRIC은 이러한 변경의 회계처리에 관한 지침을 마련하기로 결정하였다. 이를 수행하면서 IFRIC은 이러한 부채의 추정은, 그 이행이 매우 먼 미래에 이루어지고, (1) 그 의무의 이행에 필요한 경제적효익을 갖는 자원 유출의 금액과 시기 그리고 (2) 할인율의 추정에는 종종 상당한 판단이 수반되기 때문에, 본질적으로 주관적이라는 점을 인지하였다. 따라서 최초 추정치에 대한 수정이 이루어질 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC6",
+      "section_id": "zAnJil",
+      "section_title": "적용범위",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|적용범위",
+      "text": "이 해석서는 IAS 16의 적용범위에 포함되고 IAS 37에 따라 충당부채로 인식되는, 유형자산의 해체, 제거 및 복구를 위한 기존 부채의 추정치의 변경에 관한 회계처리를 다루고 있다. 이 해석서는 다른 IFRS의 적용범위에 포함되는 원가(예: IAS 2의 적용범위에 포함되는 재고자산이나 제조원가)와 관련하여 추정된 부채의 변경에는 적용하지 않는다. IFRIC은 광물의 추출과 관련된 사후처리 의무는 IAS 16과 이 해석서의 적용범위에 포함되는 광물을 추출하는 데 사용되는 유형자산의 원가이거나 IAS 2에 따라서 회계처리되어야 하는 생산된 재고자산의 원가라고 보았다.",
+      "html": "이 해석서는   \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>의 적용범위에 포함되고   \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 따라 충당부채로 인식되는, 유형자산의 해체, 제거 및 복구를 위한 기존 부채의 추정치의 변경에 관한 회계처리를 다루고 있다. 이 해석서는 다른 IFRS의 적용범위에 포함되는 원가(예:   \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>의 적용범위에 포함되는 재고자산이나 제조원가)와 관련하여 추정된 부채의 변경에는 적용하지 않는다. IFRIC은 광물의 추출과 관련된 사후처리 의무는   \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>과 이 해석서의 적용범위에 포함되는 광물을 추출하는 데 사용되는 유형자산의 원가이거나   \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>에 따라서 회계처리되어야 하는 생산된 재고자산의 원가라고 보았다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC7",
+      "section_id": "QJeNv7",
+      "section_title": "결론의 근거",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|결론의 근거",
+      "text": "IFRIC은 의무의 이행에 필요한 경제적효익을 갖는 자원 유출의 추정시기와 추정금액의 변경 또는 할인율의 변경에서 기인하는 사후처리, 복구 또는 유사한 기존 부채의 변경은 관련된 자산의 원가에서 가감되어야 하며 그 자산의 내용연수 동안 전진적으로 감가상각되어야 한다는 결론을 도출하였다.",
+      "html": "IFRIC은 의무의 이행에 필요한 경제적효익을 갖는 자원 유출의 추정시기와 추정금액의 변경 또는 할인율의 변경에서 기인하는 사후처리, 복구 또는 유사한 기존 부채의 변경은 관련된 자산의 원가에서 가감되어야 하며 그 자산의 내용연수 동안 전진적으로 감가상각되어야 한다는 결론을 도출하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC8",
+      "section_id": "QJeNv7",
+      "section_title": "결론의 근거",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|결론의 근거",
+      "text": "이러한 결론을 도출하면서 또한 IFRIC은 경제적효익을 갖는 자원 유출의 변경과 할인율의 변경에 대한 회계처리로서 다음 세 가지 대안을 고려하였다. (1) 미래 기간과 관련된 경제적효익을 갖는 자원 유출의 변경 효과만을 자본화하고, 할인율의 변경 효과는 당기손익으로 인식한다. (2) 경제적효익을 갖는 자원 유출과 할인율의 변경 효과를 모두 당기손익으로 인식한다. (3) 추정된 사후처리, 복구 및 이와 유사한 부채의 변경을 최초 부채와 자산의 원가에 대한 수정으로 처리한다. 이 접근법에 따르면, 현재까지 인식되었어야 할 자산의 감가상각액은 당기손익에 반영될 것이고 미래의 감가상각액은 자본화될 것이다.",
+      "html": "이러한 결론을 도출하면서 또한 IFRIC은 경제적효익을 갖는 자원 유출의 변경과 할인율의 변경에 대한 회계처리로서 다음 세 가지 대안을 고려하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 미래 기간과 관련된 경제적효익을 갖는 자원 유출의 변경 효과만을 자본화하고, 할인율의 변경 효과는 당기손익으로 인식한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 경제적효익을 갖는 자원 유출과 할인율의 변경 효과를 모두 당기손익으로 인식한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 추정된 사후처리, 복구 및 이와 유사한 부채의 변경을 최초 부채와 자산의 원가에 대한 수정으로 처리한다. 이 접근법에 따르면, 현재까지 인식되었어야 할 자산의 감가상각액은 당기손익에 반영될 것이고 미래의 감가상각액은 자본화될 것이다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC9",
+      "section_id": "QJeNv7",
+      "section_title": "결론의 근거",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|결론의 근거",
+      "text": "IFRIC은 대안 (1)의 접근법이 경제적효익을 갖는 자원의 유출과 할인율의 변경을 동일한 식으로 회계처리하지 않기 때문에 이를 기각하였다. 이러한 결정은 인플레이션과 같은 사항이 경제적효익의 유출과 할인율 모두에 영향을 미친다는 점을 감안할 때 동일한 방식으로 회계처리하는 것이 중요하다고 IFRIC이 동의하기 때문이다.",
+      "html": "IFRIC은 대안 (1)의 접근법이 경제적효익을 갖는 자원의 유출과 할인율의 변경을 동일한 식으로 회계처리하지 않기 때문에 이를 기각하였다. 이러한 결정은 인플레이션과 같은 사항이 경제적효익의 유출과 할인율 모두에 영향을 미친다는 점을 감안할 때 동일한 방식으로 회계처리하는 것이 중요하다고 IFRIC이 동의하기 때문이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC10",
+      "section_id": "QJeNv7",
+      "section_title": "결론의 근거",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|결론의 근거",
+      "text": "대안 (2)를 고려하면서 IFRIC은 할인율의 모든 변경을 당기손익으로 인식하는 것은 할인율의 변경을 현재 기간의 사건으로 정확하게 회계처리하는 것이라고 보았다. 그러나 IFRIC은 경제적효익을 갖는 자원의 유출에 대한 추정 변경을 당기손익으로 인식하는 것은 IAS 16에서 사후처리원가의 최초 자본화와 일관되지 않을 것이기 때문에 대안 (2)를 받아들이지 않았다.",
+      "html": "대안 (2)를 고려하면서 IFRIC은 할인율의 모든 변경을 당기손익으로 인식하는 것은 할인율의 변경을 현재 기간의 사건으로 정확하게 회계처리하는 것이라고 보았다. 그러나 IFRIC은 경제적효익을 갖는 자원의 유출에 대한 추정 변경을 당기손익으로 인식하는 것은   \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에서 사후처리원가의 최초 자본화와 일관되지 않을 것이기 때문에 대안 (2)를 받아들이지 않았다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC11",
+      "section_id": "QJeNv7",
+      "section_title": "결론의 근거",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|결론의 근거",
+      "text": "대안 (3)은 2003년 9월 4일에 발표된 해석 공개초안 제2호(D2) ‘사후처리, 복구, 그리고 유사한 부채(Changes in Decommissioning, Restoration and Similar Liabilities)’에서 제안된 접근법이다. 이를 제안하면서, IFRIC은 자산을, 사후처리를 위한 부채가 처음 발생한 시점부터 자산의 내용연수가 끝날 때까지, 사후처리원가와 관련된 회계단위로 간주하였다. 따라서 IFRIC은 이러한 원가 추정치의 수정은 이러한 수정이 경제적효익을 갖는 자원의 유출에 대한 추정의 수정에 따를 것인지 또는 할인율의 수정에 따를 것인지 상관없이 최초의 추정원가와 동일한 방식으로 회계처리되어야 한다는 관점을 취하였다. IFRIC은 여전히 이 제안이 장점을 가지고 있다고 보고 있으나, 결국 현행 기준서에 따르면 문단 BC12~BC18에 제시한 근거에 따라 완전한 전진적 회계처리가 필요하다고 결론내렸다.",
+      "html": "대안 (3)은 2003년 9월 4일에 발표된 해석 공개초안 제2호(D2) ‘사후처리, 복구, 그리고 유사한 부채(Changes in Decommissioning, Restoration and Similar Liabilities)’에서 제안된 접근법이다. 이를 제안하면서, IFRIC은 자산을, 사후처리를 위한 부채가 처음 발생한 시점부터 자산의 내용연수가 끝날 때까지, 사후처리원가와 관련된 회계단위로 간주하였다. 따라서 IFRIC은 이러한 원가 추정치의 수정은 이러한 수정이 경제적효익을 갖는 자원의 유출에 대한 추정의 수정에 따를 것인지 또는 할인율의 수정에 따를 것인지 상관없이 최초의 추정원가와 동일한 방식으로 회계처리되어야 한다는 관점을 취하였다. IFRIC은 여전히 이 제안이 장점을 가지고 있다고 보고 있으나, 결국 현행 기준서에 따르면 \n  \n  <span class=\"mundan-finder\">문단 BC12~BC18</span>에 제시한 근거에 따라 완전한 전진적 회계처리가 필요하다고 결론내렸다.\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC12~BC18",
+          "standard_number": "2101",
+          "standard_title": null,
+          "range": "BC12~BC18",
+          "paragraph_ids": [
+            "BC12",
+            "BC13",
+            "BC14",
+            "BC18"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC12",
+      "section_id": "nqXEd7",
+      "section_title": "IAS 8과 회계추정치의 변경",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|IAS 8과 회계추정치의 변경",
+      "text": "IAS 8에 따르면 기업은 회계추정치의 변경이 발생한 기간에만 영향을 미치는 경우에는 변경이 발생한 기간 또는 변경이 발생한 기간과 미래기간에 모두 영향을 미치는 경우에는 변경이 발생한 기간과 미래 기간의 당기손익에 포함하여 회계추정치의 변경을 전진적으로 인식하여야 한다. 회계추정치의 변경이 자산이나 부채를 변경하거나 자본 항목에 관련되는 경우, 변경한 기간에 자산, 부채 또는 자본 항목을 조정하여 회계추정치의 변경효과를 인식하여야 한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에 따르면 기업은 회계추정치의 변경이 발생한 기간에만 영향을 미치는 경우에는 변경이 발생한 기간 또는 변경이 발생한 기간과 미래기간에 모두 영향을 미치는 경우에는 변경이 발생한 기간과 미래 기간의 당기손익에 포함하여 회계추정치의 변경을 전진적으로 인식하여야 한다. 회계추정치의 변경이 자산이나 부채를 변경하거나 자본 항목에 관련되는 경우, 변경한 기간에 자산, 부채 또는 자본 항목을 조정하여 회계추정치의 변경효과를 인식하여야 한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC13",
+      "section_id": "nqXEd7",
+      "section_title": "IAS 8과 회계추정치의 변경",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|IAS 8과 회계추정치의 변경",
+      "text": "IFRIC은 D2에서 제안된 부분적으로 소급하는 회계처리가 IAS 8의 이러한 요구사항과 일관된다는 관점을 취하였지만, 제안된 해석 공개초안에 대한 대부분의 의견은 일반적으로 IAS 8에 따르면, 전적으로 전진적으로 회계처리하여야 하는 것으로 해석된다는 것이었다. IFRIC은 IAS 8에 따르면 전적으로 전진적으로 회계처리하여야 하는 것에 동의하였으며 이는 이 해석서가 요구하는 것이다.",
+      "html": "IFRIC은 D2에서 제안된 부분적으로 소급하는 회계처리가 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>의 이러한 요구사항과 일관된다는 관점을 취하였지만, 제안된 해석 공개초안에 대한 대부분의 의견은 일반적으로 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에 따르면, 전적으로 전진적으로 회계처리하여야 하는 것으로 해석된다는 것이었다. IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에 따르면 전적으로 전진적으로 회계처리하여야 하는 것에 동의하였으며 이는 이 해석서가 요구하는 것이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC14",
+      "section_id": "FcBbu9",
+      "section_title": "IAS 16과 유형자산에 대한 회계추정치의 변경",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|IAS 16과 유형자산에 대한 회계추정치의 변경",
+      "text": "해석 공개초안에 대한 많은 의견제출자들이 D2의 제안은, 유형자산에 대한 다른 종류의 추정변경을 전진적으로 회계처리하도록 규정하고 있는 IAS 16과 일관되지 않는다고 주장하였다. 예를 들어, IAS 8에서 또한 인정하고 있는 것처럼, 감가상각자산의 추정내용연수의 변경, 또는 감가상각자산의 미래 경제적효익의 기대되는 소비 형태의 변경은 자산의 잔존내용연수동안 당기와 미래의 각 기간의 감가상각비에 영향을 미친다. 두 경우에 당기와 관련된 변경의 효과는 당기손익으로 인식된다. 만약 미래 기간에 대한 영향이 있다면 이러한 영향은 미래 기간의 당기손익으로 인식된다.",
+      "html": "해석 공개초안에 대한 많은 의견제출자들이 D2의 제안은, 유형자산에 대한 다른 종류의 추정변경을 전진적으로 회계처리하도록 규정하고 있는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>과 일관되지 않는다고 주장하였다. 예를 들어, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에서 또한 인정하고 있는 것처럼, 감가상각자산의 추정내용연수의 변경, 또는 감가상각자산의 미래 경제적효익의 기대되는 소비 형태의 변경은 자산의 잔존내용연수동안 당기와 미래의 각 기간의 감가상각비에 영향을 미친다. 두 경우에 당기와 관련된 변경의 효과는 당기손익으로 인식된다. 만약 미래 기간에 대한 영향이 있다면 이러한 영향은 미래 기간의 당기손익으로 인식된다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC18",
+      "section_id": "FcBbu9",
+      "section_title": "IAS 16과 유형자산에 대한 회계추정치의 변경",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|IAS 16과 유형자산에 대한 회계추정치의 변경",
+      "text": "IFRIC은 완전한 전진적 회계처리는 특히 자산 내용연수의 종료가 가까운 시점에 추정치가 크게 변경된다면, 비현실적으로 큰 자산이나 부의 자산을 초래할 수 있다고 우려하였다. IFRIC은 첫 번째 우려는 그 자산의 손상여부를 IAS 36에 따라 검토한다면 다루어질 수 있으며, 내용연수의 종료가 가까운 시점에 원가가 유의적으로 감소되는 것으로 추정되더라도 자산의 하한을 영(0)으로 둔다면 부의 자산이 발생되지 않는다고 보았다. 자산의 장부금액이 영(0)이 될 때까지 차감되다가 그 후의 차감조정은 당기손익으로 인식될 것이다. 이러한 안전장치가 최종 결론에 포함되었다.",
+      "html": "IFRIC은 완전한 전진적 회계처리는 특히 자산 내용연수의 종료가 가까운 시점에 추정치가 크게 변경된다면, 비현실적으로 큰 자산이나 부의 자산을 초래할 수 있다고 우려하였다. IFRIC은 첫 번째 우려는 그 자산의 손상여부를 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>에 따라 검토한다면 다루어질 수 있으며, 내용연수의 종료가 가까운 시점에 원가가 유의적으로 감소되는 것으로 추정되더라도 자산의 하한을 영(0)으로 둔다면 부의 자산이 발생되지 않는다고 보았다. 자산의 장부금액이 영(0)이 될 때까지 차감되다가 그 후의 차감조정은 당기손익으로 인식될 것이다. 이러한 안전장치가 최종 결론에 포함되었다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": null,
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC19",
+      "section_id": "zmUdC2",
+      "section_title": "US GAAP과의 비교",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|US GAAP과의 비교",
+      "text": "결론을 도출하면서, IFRIC은 SFAS 143 ‘퇴역된 자산과 관련된 의무에 대한 회계처리(Accounting for Asset Retirement Obligations)’에서의 US GAAP의 접근법을 고려하였다. 동 기준서에 따르면, 추정현금흐름의 변경은 자산 원가의 일부로 자본화되며 전진적으로 감가상각되지만, 사후처리의무가 현행시장에서 평가된 할인율의 변경효과가 반영되도록 수정될 필요는 없다.",
+      "html": "결론을 도출하면서, IFRIC은 SFAS 143 ‘퇴역된 자산과 관련된 의무에 대한 회계처리(Accounting for Asset Retirement Obligations)’에서의 US GAAP의 접근법을 고려하였다. 동 기준서에 따르면, 추정현금흐름의 변경은 자산 원가의 일부로 자본화되며 전진적으로 감가상각되지만, 사후처리의무가 현행시장에서 평가된 할인율의 변경효과가 반영되도록 수정될 필요는 없다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC20",
+      "section_id": "zmUdC2",
+      "section_title": "US GAAP과의 비교",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|US GAAP과의 비교",
+      "text": "이 해석서에서 요구되는 추정현금흐름의 변경에 관한 회계처리는 US GAAP과 일관되는데, D2의 제안의 경우에는 일관되지 않았다. 그러나 IFRIC은 IAS 37에 사후처리의무는 현행시장에서 평가된 할인율의 변경효과를 반영하여야 하기 때문에(문단 BC3참조), 할인율의 변경을 무시하는 것은 가능하지 않다는 점에 동의하였다. 또한 SFAS 143은 현금흐름과 할인율의 변경을 동일한 방식으로 회계처리하지 않는데, IFRIC은 이러한 동일한 방식의 회계처리가 중요하다는 점에 동의하였다.",
+      "html": "이 해석서에서 요구되는 추정현금흐름의 변경에 관한 회계처리는 US GAAP과 일관되는데, D2의 제안의 경우에는 일관되지 않았다. 그러나 IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>에 사후처리의무는 현행시장에서 평가된 할인율의 변경효과를 반영하여야 하기 때문에(<span class=\"mundan-finder\">문단 BC3</span>참조), 할인율의 변경을 무시하는 것은 가능하지 않다는 점에 동의하였다. 또한 SFAS 143은 현금흐름과 할인율의 변경을 동일한 방식으로 회계처리하지 않는데, IFRIC은 이러한 동일한 방식의 회계처리가 중요하다는 점에 동의하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC3",
+          "standard_number": "2101",
+          "standard_title": null,
+          "range": "BC3",
+          "paragraph_ids": [
+            "BC3"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC21",
+      "section_id": "cp2m6Q",
+      "section_title": "이 해석서와 IAS 16에 따른 최초 인식의 상호작용",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|이 해석서와 IAS 16에 따른 최초 인식의 상호작용",
+      "text": "이 해석서를 마련하면서, IFRIC은 IASB의 IAS 16에 대한 개정을 고려하였으며, 이 개정이 이 해석서와 IAS 16의 상호작용을 설명해 줄 것이라고 보았다.",
+      "html": "이 해석서를 마련하면서, IFRIC은 IASB의 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 대한 개정을 고려하였으며, 이 개정이 이 해석서와 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>의 상호작용을 설명해 줄 것이라고 보았다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC22",
+      "section_id": "cp2m6Q",
+      "section_title": "이 해석서와 IAS 16에 따른 최초 인식의 상호작용",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|이 해석서와 IAS 16에 따른 최초 인식의 상호작용",
+      "text": "IAS 16(2003년 전면개정)은 유형자산을 해체, 제거하거나 그 자산이 위치한 부지를 복구하여야 하는 의무가 그 유형자산을 취득한 시점에 발생하거나 그 유형자산을 특정기간 동안 재고자산 생산 이외의 목적으로 유형자산을 사용한 결과로서 발생한다면, 유형자산 원가를 최초 측정할 때 이러한 의무를 위한 원가를 포함하여야 한다는 것을 명확히 하였다. 이는 IASB가 그러한 의무가 유형자산을 취득할 때 발생하였든지 또는 그 유형자산을 사용한 결과로 발생하였든지 간에 원가의 본질적인 성격과 그 원가와 자산과의 관계는 동일한 것이라고 결론지었기 때문이다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>(2003년 전면개정)은 유형자산을 해체, 제거하거나 그 자산이 위치한 부지를 복구하여야 하는 의무가 그 유형자산을 취득한 시점에 발생하거나 그 유형자산을 특정기간 동안 재고자산 생산 이외의 목적으로 유형자산을 사용한 결과로서 발생한다면, 유형자산 원가를 최초 측정할 때 이러한 의무를 위한 원가를 포함하여야 한다는 것을 명확히 하였다. 이는 IASB가 그러한 의무가 유형자산을 취득할 때 발생하였든지 또는 그 유형자산을 사용한 결과로 발생하였든지 간에 원가의 본질적인 성격과 그 원가와 자산과의 관계는 동일한 것이라고 결론지었기 때문이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC23",
+      "section_id": "cp2m6Q",
+      "section_title": "이 해석서와 IAS 16에 따른 최초 인식의 상호작용",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|이 해석서와 IAS 16에 따른 최초 인식의 상호작용",
+      "text": "그러나 IAS 16에 대한 개선을 고려하면서 IASB는 기업이 (1) 인식된 의무의 최초 추정금액의 변경, (2) 인식된 의무의 증가 영향이나 인식된 의무에 대한 이자율 변동의 영향, 또는 (3) 기업이 그 자산을 취득했을 때에는 존재하지 않았으나 자산 취득 후 법률의 법제화된 변경에 의해 유발된 의무의 원가를 회계처리하는 방법에 대해서는 다루지 않았다. 이 해석서는 논점 (1)과 (2)를 다루고 있다.",
+      "html": "그러나 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 대한 개선을 고려하면서 IASB는 기업이 (1) 인식된 의무의 최초 추정금액의 변경, (2) 인식된 의무의 증가 영향이나 인식된 의무에 대한 이자율 변동의 영향, 또는 (3) 기업이 그 자산을 취득했을 때에는 존재하지 않았으나 자산 취득 후 법률의 법제화된 변경에 의해 유발된 의무의 원가를 회계처리하는 방법에 대해서는 다루지 않았다. 이 해석서는 논점 (1)과 (2)를 다루고 있다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC24",
+      "section_id": "KqUz5U",
+      "section_title": "이 해석서와 IAS 16에서의 측정모형 선택의 상호작용",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|이 해석서와 IAS 16에서의 측정모형 선택의 상호작용",
+      "text": "IAS 16은 기업이 유형별로 원가모형이나 재평가모형을 선택하여 유형자산을 측정하는 것을 허용한다. IFRIC의 관점에 따르면 기업이 IAS 16에 따라 선택한 측정모형은 이 해석서에 의해 영향 받지 않을 것이다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>은 기업이 유형별로 원가모형이나 재평가모형을 선택하여 유형자산을 측정하는 것을 허용한다. IFRIC의 관점에 따르면 기업이 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 따라 선택한 측정모형은 이 해석서에 의해 영향 받지 않을 것이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC25",
+      "section_id": "KqUz5U",
+      "section_title": "이 해석서와 IAS 16에서의 측정모형 선택의 상호작용",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|이 해석서와 IAS 16에서의 측정모형 선택의 상호작용",
+      "text": "해석 공개초안에 대한 여러 의견제출자들은 이 해석서를 재평가된 자산들에 어떻게 적용하여야 하는지를 명확하게 해줄 것을 요청하였다. IFRIC은 다음과 같은 점에 주목하였다. (1) 기업이 재평가모형을 선택한다면 IAS 16에 따라 장부금액이 대차대조표일 (주3)의 공정가치를 이용하여 결정되었을 금액과 중요하게 다르지 않도록 그 가치평가를 계속적으로 갱신해야 한다. 이 해석서에 따르면 인식된 사후처리, 복구 또는 이와 유사한 부채의 변동은 일반적으로 자산의 원가에 가감하여야 한다. 그러나 부채의 변경 자체는 재무보고 목적상 자산의 가치평가에 영향을 미치지 않는다. 이는 개별적으로 인식된 부채가 (이중으로 반영되지 않도록 하기 위하여) 자산의 가치평가에서 제외되기 때문이다. ⑵ 부채의 변경은 자산의 가치평가를 변경하는 것이 아니라, 이 기준서 하에서 원가모형에 따르는 자산에 대해 보고되었을 금액과 자산의 가치평가 사이의 차이에 영향을 미친다. 바꿔 말하면 부채의 변경은 자산에 대하여 종전에 인식되었을 재평가잉여금 또는 재평가결손금을 변경시킨다. 예를 들어, 부채가 20원 만큼 증가한다면, 원가모형 하에서 동액이 자산의 원가에 가산될 것이고, 재평가잉여금은 20원 만큼 감소한다(또는 재평가결손금은 20원 만큼 증가한다). IAS 16에 규정된 재평가모형 하에서는, 자산에 대한 누적 재평가잉여금은 자본으로 회계처리되고 (주4), 누적 재평가결손금은 당기손익으로 회계처리된다. IFRIC은 재평가된 자산과 관련된 부채의 변경은 IAS 16 하에서의 재평가잉여금과 재평가결손금의 기타 변경과 동일한 방식으로 회계처리되어야 한다고 결정하였다. (3) 부채의 변경이 재무보고 목적상 자산의 가치에 직접적으로 영향을 미치지 않더라도, 부채의 가치를 변경시키는 많은 사건들은 자산의 가치에 크고 작은 금액으로 영향을 미칠 수도 있다. 따라서 IFRIC은 재평가된 자산에 대한 사후처리부채의 변경은 재평가가 필요할 수 있다는 것을 나타낸다고 결정하였다. 그러한 재평가는 위의 (2)에 따라 당기손익에 반영되는 금액을 결정할 때 고려되어야 한다. 재평가가 수행된다면 IAS 16에 따라 동일 유형의 자산을 모두 재평가해야 한다. (4) 자산의 감가상각후 원가(손상차손 차감)는 가치평가모형에 관계없이 부의 금액이 될 수 없으며, 자산에 대한 재평가잉여금은 자산의 가치를 초과할 수 없다. 따라서 IFRIC은 부채의 감소가 원가모형을 적용하였다면 인식되었을 자산의 장부금액을 초과한다면, 초과한 감소금액은 항상 당기손익으로 처리되어야 한다고 결정하였다. 예를 들어, 손상되지 않은 자산의 감가상각후 원가가 25원이고, 재평가 금액이 100원이라면, 재평가잉여금은 75원이다. 만약 그 자산과 관련된 사후처리부채가 30원 만큼 감소하였다면, 그 자산의 감가상각후 원가는 영(0)으로 감소되어야 하며 재평가잉여금은 100원으로 증가되어야 하며 부채의 감소 중 나머지 5원은 당기손익으로 처리되어야 한다.",
+      "html": "해석 공개초안에 대한 여러 의견제출자들은 이 해석서를 재평가된 자산들에 어떻게 적용하여야 하는지를 명확하게 해줄 것을 요청하였다. IFRIC은 다음과 같은 점에 주목하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 기업이 재평가모형을 선택한다면 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 따라 장부금액이 대차대조표일\n      \n      <sup data-id=\"(주3)\">(주3)</sup>의 공정가치를 이용하여 결정되었을 금액과 중요하게 다르지 않도록 그 가치평가를 계속적으로 갱신해야 한다. 이 해석서에 따르면 인식된 사후처리, 복구 또는 이와 유사한 부채의 변동은 일반적으로 자산의 원가에 가감하여야 한다. 그러나 부채의 변경 자체는 재무보고 목적상 자산의 가치평가에 영향을 미치지 않는다. 이는 개별적으로 인식된 부채가 (이중으로 반영되지 않도록 하기 위하여) 자산의 가치평가에서 제외되기 때문이다.\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 부채의 변경은 자산의 가치평가를 변경하는 것이 아니라, 이 기준서 하에서 원가모형에 따르는 자산에 대해 보고되었을 금액과 자산의 가치평가 사이의 차이에 영향을 미친다. 바꿔 말하면 부채의 변경은 자산에 대하여 종전에 인식되었을 재평가잉여금 또는 재평가결손금을 변경시킨다. 예를 들어, 부채가 20원 만큼 증가한다면, 원가모형 하에서 동액이 자산의 원가에 가산될 것이고, 재평가잉여금은 20원 만큼 감소한다(또는 재평가결손금은 20원 만큼 증가한다). \n    \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 규정된 재평가모형 하에서는, 자산에 대한 누적 재평가잉여금은 자본으로 회계처리되고\n      \n      <sup data-id=\"(주4)\">(주4)</sup>, 누적 재평가결손금은 당기손익으로 회계처리된다. IFRIC은 재평가된 자산과 관련된 부채의 변경은 \n    \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div> 하에서의 재평가잉여금과 재평가결손금의 기타 변경과 동일한 방식으로 회계처리되어야 한다고 결정하였다.\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 부채의 변경이 재무보고 목적상 자산의 가치에 직접적으로 영향을 미치지 않더라도, 부채의 가치를 변경시키는 많은 사건들은 자산의 가치에 크고 작은 금액으로 영향을 미칠 수도 있다. 따라서 IFRIC은 재평가된 자산에 대한 사후처리부채의 변경은 재평가가 필요할 수 있다는 것을 나타낸다고 결정하였다. 그러한 재평가는 위의 (2)에 따라 당기손익에 반영되는 금액을 결정할 때 고려되어야 한다. 재평가가 수행된다면 \n    \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 따라 동일 유형의 자산을 모두 재평가해야 한다.\n  \n  \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 자산의 감가상각후 원가(손상차손 차감)는 가치평가모형에 관계없이 부의 금액이 될 수 없으며, 자산에 대한 재평가잉여금은 자산의 가치를 초과할 수 없다. 따라서 IFRIC은 부채의 감소가 원가모형을 적용하였다면 인식되었을 자산의 장부금액을 초과한다면, 초과한 감소금액은 항상 당기손익으로 처리되어야 한다고 결정하였다. 예를 들어, 손상되지 않은 자산의 감가상각후 원가가 25원이고, 재평가 금액이 100원이라면, 재평가잉여금은 75원이다. 만약 그 자산과 관련된 사후처리부채가 30원 만큼 감소하였다면, 그 자산의 감가상각후 원가는 영(0)으로 감소되어야 하며 재평가잉여금은 100원으로 증가되어야 하며 부채의 감소 중 나머지 5원은 당기손익으로 처리되어야 한다.\n  </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주3",
+          "display_text": "(주3)"
+        },
+        {
+          "id": "주4",
+          "display_text": "(주4)"
+        }
+      ]
+    },
+    {
+      "number": "BC26",
+      "section_id": "pIPWOf",
+      "section_title": "할인액의 상각",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|할인액의 상각",
+      "text": "IFRIC은 할인액의 상각이 IAS 23의 목적상 차입원가인지를 고려하였다. 이러한 의문은 할인액의 상각이 IAS 23의 목적상 차입원가로 간주된다면, 어떤 상황에서는 이러한 금액이 허용된 대체적 회계처리 (주5)에 따라 자본화될 수도 있기 때문에 발생한다. IFRIC은 IAS 23이 특정 자산을 획득하기 위하여 특정하여 차입된 자금을 다루고 있다는 점에 주목하였다. IFRIC은 사후처리부채는 차입된 기금(즉, 현금)을 반영하지 않기 때문에 이러한 설명에 해당되지 않는다는 것에 동의하였다. 따라서 IFRIC은 할인액의 상각은 IAS 23에서 정의된 차입원가가 아니라고 결론내렸다.",
+      "html": "IFRIC은 할인액의 상각이 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">차입원가</span><span class=\"std-finder\">IAS 23</span></div>의 목적상 차입원가인지를 고려하였다. 이러한 의문은 할인액의 상각이 IAS 23의 목적상 차입원가로 간주된다면, 어떤 상황에서는 이러한 금액이 허용된 대체적 회계처리\n  <sup data-id=\"(주5)\">(주5)</sup>에 따라 자본화될 수도 있기 때문에 발생한다. IFRIC은 IAS 23이 특정 자산을 획득하기 위하여 특정하여 차입된 자금을 다루고 있다는 점에 주목하였다. IFRIC은 사후처리부채는 차입된 기금(즉, 현금)을 반영하지 않기 때문에 이러한 설명에 해당되지 않는다는 것에 동의하였다. 따라서 IFRIC은 할인액의 상각은 IAS 23에서 정의된 차입원가가 아니라고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 23",
+          "standard_number": null,
+          "standard_title": "차입원가",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주5",
+          "display_text": "(주5)"
+        }
+      ]
+    },
+    {
+      "number": "BC27",
+      "section_id": "pIPWOf",
+      "section_title": "할인액의 상각",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|할인액의 상각",
+      "text": "IFRIC은 IAS 37 문단 60에서 언급된 할인액의 상각은 발생한 기간의 당기손익으로 보고되어야 한다는 것에 동의하였다.",
+      "html": "IFRIC은 \n  \n  \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div><span class=\"mundan-finder\"> 문단 60</span>에서 언급된 할인액의 상각은 발생한 기간의 당기손익으로 보고되어야 한다는 것에 동의하였다.\n\n\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 60",
+          "standard_number": "2101",
+          "standard_title": null,
+          "range": "60",
+          "paragraph_ids": [
+            "60"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC28",
+      "section_id": "JoGfW2",
+      "section_title": "공시",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|공시",
+      "text": "IFRIC은 이 해석서가 공시 규정을 포함하여야 하는지를 고려하였고 IAS 16과 IAS 37이 관련된 지침을 포함하고 있기 때문에 대체로 불필요하다는 것에 동의하였다. 예를 들어 다음과 같다. (1)IAS 16은 IAS 8에 따라 당기에 영향을 미치거나 또는 후속 기간에 중요한 영향을 미칠 것이라고 기대되는 회계추정치의 변경의 성격과 영향을 공시하여야 하고, 그러한 공시는 유형자산의 해체, 제거 또는 복구하는 원가에 대한 추정치의 변경에 기인할 수 있다고 설명하고 있다. (2)IAS 37은 다음의 공시를 요구한다. (가) 해당 기간 충당부채 장부금액의 변동내용 (나) 현재가치로 평가한 기간 경과에 따른 당기 증가금액 및 할인율 변동에 따른 효과 (다) 충당부채의 성격과 경제적효익의 유출이 예상되는 시기 (라) 이러한 유출의 금액과 시기에 관한 불확실성의 정도. 그리고 필요하다면 미래 사건에 대한 주요한 가정의 공시(미래 이자율, 미래 임금의 변동 및 미래의 가격변동).",
+      "html": "IFRIC은 이 해석서가 공시 규정을 포함하여야 하는지를 고려하였고 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>과 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>이 관련된 지침을 포함하고 있기 때문에 대체로 불필요하다는 것에 동의하였다. 예를 들어 다음과 같다.\n\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>은 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에 따라 당기에 영향을 미치거나 또는 후속 기간에 중요한 영향을 미칠 것이라고 기대되는 회계추정치의 변경의 성격과 영향을 공시하여야 하고, 그러한 공시는 유형자산의 해체, 제거 또는 복구하는 원가에 대한 추정치의 변경에 기인할 수 있다고 설명하고 있다.            \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>은 다음의 공시를 요구한다.            \n    \n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"> 해당 기간 충당부채 장부금액의 변동내용</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\"> 현재가치로 평가한 기간 경과에 따른 당기 증가금액 및 할인율 변동에 따른 효과</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(다)</div><div class=\"para-num-item-para-con\"> 충당부채의 성격과 경제적효익의 유출이 예상되는 시기</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(라)</div><div class=\"para-num-item-para-con\"> 이러한 유출의 금액과 시기에 관한 불확실성의 정도. 그리고 필요하다면 미래 사건에 대한 주요한 가정의 공시(미래 이자율, 미래 임금의 변동 및 미래의 가격변동).</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC29",
+      "section_id": "JoGfW2",
+      "section_title": "공시",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|공시",
+      "text": "그러나 재평가모형을 사용하여 측정된 자산에 관하여, IFRIC은 부채의 변경은 종종 재평가잉여금에 반영될 것이라고 언급하였다. 이러한 변경은 이용자에게 중요한 사건으로 반영되며, IFRIC은 자본변동표 (주6)에 그와 같이 별도로 공시하고 기술함으로써 부각시켜야 한다는 것에 동의하였다. [각주 (주6)] 2007년에 IAS 1 개정의 결과로서 그러한 변경은 포괄손익계산서에 표시된다.",
+      "html": "그러나 재평가모형을 사용하여 측정된 자산에 관하여, IFRIC은 부채의 변경은 종종 재평가잉여금에 반영될 것이라고 언급하였다. 이러한 변경은 이용자에게 중요한 사건으로 반영되며, IFRIC은 자본변동표\n  \n  <sup data-id=\"(주6)\">(주6)</sup>에 그와 같이 별도로 공시하고 기술함으로써 부각시켜야 한다는 것에 동의하였다.\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주6)</div><div class=\"para-num-item-para-con\"> 2007년에 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div> 개정의 결과로서 그러한 변경은 포괄손익계산서에 표시된다.\n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주6",
+          "display_text": "(주6)"
+        }
+      ]
+    },
+    {
+      "number": "BC30",
+      "section_id": "I15QzY",
+      "section_title": "경과규정",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|경과규정",
+      "text": "IFRIC은 이미 IFRS를 적용하고 있는 작성자는 보통 소급적용하는 IAS 8에서 요구되는 방법으로 이 해석서를 적용해야 한다는 것에 동의하였다. IFRIC은 특히 IAS 37이 소급적용을 요구하는 경우 다른 적용 방법을 정당화할 수 없었다.",
+      "html": "IFRIC은 이미 IFRS를 적용하고 있는 작성자는 보통 소급적용하는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에서 요구되는 방법으로 이 해석서를 적용해야 한다는 것에 동의하였다. IFRIC은 특히 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>이 소급적용을 요구하는 경우 다른 적용 방법을 정당화할 수 없었다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": null,
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC31",
+      "section_id": "I15QzY",
+      "section_title": "경과규정",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|경과규정",
+      "text": "IFRIC은 이 해석서를 소급적용하기 위해 이 해석서에 의해 요구되었을 변경의 시기와 금액을 결정할 필요가 있다고 보았다. 그러나 IAS 8은 다음과 같이 규정하고 있다. (1) 표시된 모든 기간에 대해 실무적으로 소급적용할 수 없다면, 새로운 회계정책은 실무적으로 적용가능한 가장 이른 날부터 소급적용하여야 한다. (2) 당기 기초시점에 새로운 회계정책 적용의 누적효과를 실무적으로 결정할 수 없다면, 실무적으로 적용할 수 있는 가장 이른 날부터 정책을 전진적용한다.",
+      "html": "IFRIC은 이 해석서를 소급적용하기 위해 이 해석서에 의해 요구되었을 변경의 시기와 금액을 결정할 필요가 있다고 보았다. 그러나 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\"></span><span class=\"std-finder\">IAS 8</span></div>은 다음과 같이 규정하고 있다.\n\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 표시된 모든 기간에 대해 실무적으로 소급적용할 수 없다면, 새로운 회계정책은 실무적으로 적용가능한 가장 이른 날부터 소급적용하여야 한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 당기 기초시점에 새로운 회계정책 적용의 누적효과를 실무적으로 결정할 수 없다면, 실무적으로 적용할 수 있는 가장 이른 날부터 정책을 전진적용한다.</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": null,
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC32",
+      "section_id": "I15QzY",
+      "section_title": "경과규정",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|경과규정",
+      "text": "IFRIC은 IAS 8에서 기업이 모든 합리적인 노력을 했어도 요구사항을 적용할 수 없는 경우에 그 요구사항은 실무적으로 적용할 수 없다고 정의하고 있으며, 실무적으로 적용할 수 없는 경우에 관한 지침을 주고 있다.",
+      "html": "IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에서 기업이 모든 합리적인 노력을 했어도 요구사항을 적용할 수 없는 경우에 그 요구사항은 실무적으로 적용할 수 없다고 정의하고 있으며, 실무적으로 적용할 수 없는 경우에 관한 지침을 주고 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC33",
+      "section_id": "I15QzY",
+      "section_title": "경과규정",
+      "toc_path": "결론도출근거|IFRIC 1  ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'의 결론도출근거|경과규정",
+      "text": "그러나 실무적 적용가능성에 관한 IAS 8의 규정은 IFRS 1에 적용하지 않는다. IFRS 전환일에(면제 항목이 없는 경우 IFRS 1에서 요구하고 있는 것과 같이) 이 해석서를 소급적용하면, 최초적용기업은 과거에 이루어졌어야 할 그러한 모든 조정의 역사적 기록을 구축하여야 할 것이다. 많은 경우 이는 실무적으로 적용할 수 없을 것이다. IFRIC은 소급적용에 대한 대안으로서 전환일 시점의 부채를 그 부채가 최초 발생한 시점으로 할인한 후 감가상각하는 방식으로 계산한 금액을 기업의 전환일 현재 자산의 감가상각후 원가에 포함할 수 있도록 하여야 한다는 점에 동의하였다. 이에 따라 이 해석서는 IFRS 1을 개정한다.",
+      "html": "그러나 실무적 적용가능성에 관한 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>의 규정은 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">한국채택국제회계기준의 최초채택</span><span class=\"std-finder\">IFRS 1</span></div>에 적용하지 않는다. IFRS 전환일에(면제 항목이 없는 경우 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">한국채택국제회계기준의 최초채택</span><span class=\"std-finder\">IFRS 1</span></div>에서 요구하고 있는 것과 같이) 이 해석서를 소급적용하면, 최초적용기업은 과거에 이루어졌어야 할 그러한 모든 조정의 역사적 기록을 구축하여야 할 것이다. 많은 경우 이는 실무적으로 적용할 수 없을 것이다. IFRIC은 소급적용에 대한 대안으로서 전환일 시점의 부채를 그 부채가 최초 발생한 시점으로 할인한 후 감가상각하는 방식으로 계산한 금액을 기업의 전환일 현재 자산의 감가상각후 원가에 포함할 수 있도록 하여야 한다는 점에 동의하였다. 이에 따라 이 해석서는 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">한국채택국제회계기준의 최초채택</span><span class=\"std-finder\">IFRS 1</span></div>을 개정한다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": null,
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 1",
+          "standard_number": null,
+          "standard_title": "한국채택국제회계기준의 최초채택",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 1",
+          "standard_number": null,
+          "standard_title": "한국채택국제회계기준의 최초채택",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 1",
+          "standard_number": null,
+          "standard_title": "한국채택국제회계기준의 최초채택",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2101호와 국제재무보고기준해석 제1호(IFRIC 1) 기업회계기준해석서 제2101호는 국제재무보고기준해석위원회가 제정한 국제재무보고기준해석 제1호(IFRIC 1) ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한2.1과 한9A.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일 및 경과규정과 관련된 문단 9, 9A 및 10이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제재무보고기준해석 제1호(IFRIC 1)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2101호가 IFRIC 1의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2101호를 준수하면 동시에 IFRIC 1을 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2101호와 국제재무보고기준해석 제1호(IFRIC 1) </h3>\n<p>기업회계기준해석서 제2101호는 국제재무보고기준해석위원회가 제정한 국제재무보고기준해석 제1호(IFRIC 1) ‘사후처리 및 복구관련 충당부채의 변경(Changes in Existing Decommissioning, Restoration and Similar Liabilities)'에 대응하는 해석이다.</p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한2.1과 한9A.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일 및 경과규정과 관련된 문단 9, 9A 및 10이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제재무보고기준해석 제1호(IFRIC 1)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2101호가 IFRIC 1의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2101호를 준수하면 동시에 IFRIC 1을 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 ‘사후처리 및 복구관련 충당부채의 변경’에 대한 해석을 제공하기 위하여 제정되었다. ### 1. 적용범위 이 해석서는 사후처리 및 복구관련 충당부채의 측정금액이 변경되는 경우 나타나는 영향에 대한 회계처리 지침을 제공한다. 충당부채의 측정금액은 현금유출의 추정변경, 할인율의 변경, 시간의 경과에 따라 변경될 수 있다. ### 2. 회계처리방법 자산을 원가로 측정하는 경우 부채의 변경은 자산의 원가에 가감한다. 이 경우 원가를 초과하는 차감액은 당기손익으로 인식하며, 부채의 변경으로 자산의 원가가 증가하는 경우에는 새로운 장부금액의 회수가능성을 고려한다. 자산을 재평가금액으로 측정하는 경우, 부채의 변경은 자산에 대하여 인식한 재평가잉여금의 조정으로 회계처리한다. 할인액의 상각은 발생시 금융원가로 당기손익에 인식한다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 ‘사후처리 및 복구관련 충당부채의 변경’에 대한 해석을 제공하기 위하여 제정되었다.</p>\n<h3>1. 적용범위</h3>\n<p>이 해석서는 사후처리 및 복구관련 충당부채의 측정금액이 변경되는 경우 나타나는 영향에 대한 회계처리 지침을 제공한다. 충당부채의 측정금액은 현금유출의 추정변경, 할인율의 변경, 시간의 경과에 따라 변경될 수 있다.</p>\n<h3>2. 회계처리방법</h3>\n<p>자산을 원가로 측정하는 경우 부채의 변경은 자산의 원가에 가감한다. 이 경우 원가를 초과하는 차감액은 당기손익으로 인식하며, 부채의 변경으로 자산의 원가가 증가하는 경우에는 새로운 장부금액의 회수가능성을 고려한다.</p>\n<p>자산을 재평가금액으로 측정하는 경우, 부채의 변경은 자산에 대하여 인식한 재평가잉여금의 조정으로 회계처리한다.</p>\n<p>할인액의 상각은 발생시 금융원가로 당기손익에 인식한다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.\n\n| 제·개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2007.11.23. 제정 | 사후처리 및 복구관련 충당부채의 변경 | IFRIC 1 Changes in Existing Decommissioning, Restoration and Similar Liabilities |\n\n이 기준서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다.\n\n| 제·개정일자 | 타 기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2017.05.22. 제정 | 기업회계기준서 제1116호 '리스' | IFRS 16 Leases |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle1\" style=\"margin: 0pt 0px; padding: 0px; line-height: 24px; font-size: 10pt; font-family: 바탕; font-weight: bold; color: rgb(0, 0, 0);\"><span style=\"font-family: 휴먼명조; font-size: 12pt; font-weight: normal; text-align: justify;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.</span><br></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 132px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: center; line-height: 1.6px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">·개</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: center; line-height: 1.6px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 283px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: center; line-height: 1.6px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 132px; height: 71px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: center; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2007.11.23. 제정</span></p></td><td valign=\"center\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 71px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">사후처리 및 복구관련 충당부채의 변경</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 283px; height: 71px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.6px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 25.6px;\">IFRIC 1 Changes in Existing Decommissioning, Restoration and Similar Liabilities</span></p></td></tr></tbody></table>\n<p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">이 기준서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: center; line-height: 1.6px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">·개</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 183px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: center; line-height: 1.6px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">타 기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 251px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: center; line-height: 1.6px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px 1px; overflow: hidden; width: 131px; height: 46px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2017.05.22. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 183px; height: 46px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1116호</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\"> '리스'</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 251px; height: 46px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 16 Leases</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1016": [
+      "1",
+      "2",
+      "IE6"
+    ],
+    "1037": [
+      "1",
+      "2",
+      "3",
+      "IE13"
+    ],
+    "1116": [
+      "2",
+      "9B"
+    ],
+    "1036": [
+      "5"
+    ],
+    "1001": [
+      "6"
+    ],
+    "1023": [
+      "8"
+    ],
+    "1008": [
+      "IE18"
+    ]
+  },
+  "qna_index": {}
+}
