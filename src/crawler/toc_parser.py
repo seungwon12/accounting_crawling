@@ -213,7 +213,7 @@ async def parse_toc(page: Page) -> tuple[list[TocItem], list[dict]]:
     return toc_tree, raw_items
 
 
-def get_toc_sections(flat_items: list[dict]) -> list[dict]:
+def get_toc_sections(flat_items: list[dict], include_parents: bool = False) -> list[dict]:
     """
     TOC 평탄 목록에서 실제 섹션(문단이 있는 항목)만 추출합니다.
     level 2~5인 항목들이 실제 문단 내용을 가집니다.
@@ -223,6 +223,12 @@ def get_toc_sections(flat_items: list[dict]) -> list[dict]:
     - 이 항목들은 li[data-paranum] 없이 일반 HTML(h3, p, table)로 구성됨
     - 다음 항목의 level >= 2이면 현재 level=1은 자식이 있는 헤더 → 제외
     - 다음 항목의 level <= 1 또는 그룹/null이거나 목록 끝이면 → 리프 → 포함
+
+    Args:
+        flat_items: TOC 평탄 항목 목록 (parse_toc 반환값).
+        include_parents: True이면 리프가 아닌 부모 섹션도 포함.
+            CF(개념체계)처럼 부모 섹션 페이지에 고유 도입 문단이 있는 경우 사용.
+            중복 문단은 orchestrator의 dedup 로직(toc_path 깊이 우선)이 처리.
     """
     sections = []
     # 실제 level 정보가 있는 항목만 추려서 인덱싱
@@ -239,15 +245,9 @@ def get_toc_sections(flat_items: list[dict]) -> list[dict]:
         title, para_range = extract_title_and_range(item.get("title", ""))
 
         if level >= 2:
-            # 리프 체크: 다음 항목의 level이 현재보다 크면 부모(자식 있음) → 제외
-            # level=1 리프 체크와 동일한 패턴 적용
-            next_level = None
-            if pos + 1 < len(level_items):
-                next_raw = level_items[pos + 1][1].get("level")
-                if next_raw is not None:
-                    next_level = float(next_raw)
-            is_leaf = (next_level is None or next_level <= level)
-            if is_leaf:
+            if include_parents:
+                # 부모 섹션도 포함: 리프 여부 관계없이 모두 추가
+                # 중복 문단은 orchestrator dedup(toc_path 깊이 우선)이 처리
                 sections.append({
                     "href": href,
                     "title": title,
@@ -256,6 +256,24 @@ def get_toc_sections(flat_items: list[dict]) -> list[dict]:
                     "section_id": _make_section_id(href, title),
                     "is_free_content": False,  # li[data-paranum] 기반 파싱
                 })
+            else:
+                # 기본 동작: 리프 노드만 포함
+                # 리프 체크: 다음 항목의 level이 현재보다 크면 부모(자식 있음) → 제외
+                next_level = None
+                if pos + 1 < len(level_items):
+                    next_raw = level_items[pos + 1][1].get("level")
+                    if next_raw is not None:
+                        next_level = float(next_raw)
+                is_leaf = (next_level is None or next_level <= level)
+                if is_leaf:
+                    sections.append({
+                        "href": href,
+                        "title": title,
+                        "level": level,
+                        "paragraph_range": para_range,
+                        "section_id": _make_section_id(href, title),
+                        "is_free_content": False,  # li[data-paranum] 기반 파싱
+                    })
         elif 1 <= level < 2:
             # level=1~1.x 중 리프 노드만 포함 (다음 level_item이 level>=2이면 자식 있음 → 헤더)
             next_level = None

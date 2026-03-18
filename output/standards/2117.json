@@ -1,0 +1,2512 @@
+{
+  "standard_id": "2117",
+  "standard_type": "기업회계기준해석서",
+  "title": "소유주에 대한 비현금자산의 분배",
+  "url": "https://db.kasb.or.kr/s/2117",
+  "crawled_at": "2026-03-18T03:34:28.809980+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2117/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2117/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "5KtWRi",
+          "href": "/s/2117/5KtWRi",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "배경",
+          "section_id": "61JKZJ",
+          "href": "/s/2117/61JKZJ",
+          "paragraph_range": "1 ~ 2",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "ktR2wP",
+          "href": "/s/2117/ktR2wP",
+          "paragraph_range": "한3.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "u6kv6s",
+          "href": "/s/2117/u6kv6s",
+          "paragraph_range": "3 ~ 8",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "tou66B",
+          "href": "/s/2117/tou66B",
+          "paragraph_range": "9",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "1g3VaP",
+          "href": "/s/2117/1g3VaP",
+          "paragraph_range": "10 ~ 17",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "미지급배당을 언제 인식하는가?",
+              "section_id": "NOtx20",
+              "href": "/s/2117/NOtx20",
+              "paragraph_range": "10",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "미지급배당의 측정",
+              "section_id": "eL2RfN",
+              "href": "/s/2117/eL2RfN",
+              "paragraph_range": "11 ~ 13",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "기업이 미지급배당을 결제할 때, 분배된 자산의 장부금액과 미지급배당의 장부금액의 차이에 대한 회계처리",
+              "section_id": "ehuWx8",
+              "href": "/s/2117/ehuWx8",
+              "paragraph_range": "14",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "표시와 공시",
+              "section_id": "ZsEqqB",
+              "href": "/s/2117/ZsEqqB",
+              "paragraph_range": "15 ~ 17",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "1PE2z5",
+          "href": "/s/2117/1PE2z5",
+          "paragraph_range": "18 ~ 20",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2117호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "KypkK2",
+          "href": "/s/2117/KypkK2",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "적용사례 실무적용지침",
+      "section_id": "50d7f1b3",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "기업회계기준해석서 제2117호 ‘소유주에 대한 비현금자산의 분배’의 적용사례",
+          "section_id": "hPji1h",
+          "href": "/s/2117/hPji1h",
+          "paragraph_range": "IE1 ~ IE4",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "적용범위(문단 3~8)",
+              "section_id": "edpwDV",
+              "href": "/s/2117/edpwDV",
+              "paragraph_range": "IE1 ~ IE4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2117/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거",
+          "section_id": "FGRx5K",
+          "href": "/s/2117/FGRx5K",
+          "paragraph_range": "BC1 ~ BC66",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "도입",
+              "section_id": "cUkvOj",
+              "href": "/s/2117/cUkvOj",
+              "paragraph_range": "BC1 ~ BC3",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "적용범위(문단 3~8)",
+              "section_id": "HMUmnB",
+              "href": "/s/2117/HMUmnB",
+              "paragraph_range": "BC4 ~ BC17",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "본 해석서가 기업과 소유주간의 모든 거래를 다루어야 하는가?",
+                  "section_id": "HObFQ3",
+                  "href": "/s/2117/HObFQ3",
+                  "paragraph_range": "BC4 ~ BC6",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "이 해석서가 모든 형태의 자산분배를 다루어야 하는가?",
+                  "section_id": "EuCEyO",
+                  "href": "/s/2117/EuCEyO",
+                  "paragraph_range": "BC7 ~ BC8",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+                  "section_id": "FUMfW7",
+                  "href": "/s/2117/FUMfW7",
+                  "paragraph_range": "BC9 ~ BC17",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 2.0,
+              "title": "미지급배당을 인식하는 시점(문단 10) 및 IAS 10에 대한 개정",
+              "section_id": "wIqcsD",
+              "href": "/s/2117/wIqcsD",
+              "paragraph_range": "BC18 ~ BC21",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "미지급배당을 어떻게 측정하여야 하는가?(문단 11~13)",
+                  "section_id": "gRXkwq",
+                  "href": "/s/2117/gRXkwq",
+                  "paragraph_range": "BC21",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 2.0,
+              "title": "미지급배당의 측정에 적합한 IFRS는 무엇인가?",
+              "section_id": "kVE2we",
+              "href": "/s/2117/kVE2we",
+              "paragraph_range": "BC22 ~ BC37",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+                  "section_id": "0gpguQ",
+                  "href": "/s/2117/0gpguQ",
+                  "paragraph_range": "BC28 ~ BC34",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "기업이 미지급배당을 재측정하여야 하는가(문단 13)?",
+                  "section_id": "EVpRSv",
+                  "href": "/s/2117/EVpRSv",
+                  "paragraph_range": "BC35 ~ BC37",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 2.0,
+              "title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+              "section_id": "Ahrceq",
+              "href": "/s/2117/Ahrceq",
+              "paragraph_range": "BC38 ~ BC58",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "IFRS 5의 개정",
+              "section_id": "9hlE9l",
+              "href": "/s/2117/9hlE9l",
+              "paragraph_range": "BC59 ~ BC65",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "해석서 공개초안에 대한 변경 요약",
+              "section_id": "fvUoVL",
+              "href": "/s/2117/fvUoVL",
+              "paragraph_range": "BC66",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2117/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2117/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2117/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "웩1",
+      "section_id": "5KtWRi",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "- 기업회계기준서 제1001호 ‘재무제표 표시’",
+      "html": "<div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 기업회계기준서 제1001호 ‘재무제표 표시’</div><div class=\"para\">- 기업회계기준서 제1010호 ‘보고기간후사건’</div><div class=\"para\">- 기업회계기준서 제1027호 ‘연결재무제표와 별도재무제표’(2008년 11월 개정)</div><div class=\"para\">- 기업회계기준서 제1103호 ‘사업결합’(2008년 전면개정)</div><div class=\"para\">- 기업회계기준서 제1105호 ‘매각예정비유동자산과 중단영업’</div><div class=\"para\">- 기업회계기준서 제1107호 ‘금융상품: 공시’</div><div class=\"para\">- 기업회계기준서 제1110호 ‘연결재무제표’</div><div class=\"para\">- 기업회계기준서 제1113호 ‘공정가치측정’</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "61JKZJ",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "기업은 소유주 (주1)로서의 자격을 행사하는 소유주에게 현금이 아닌 자산(비현금자산)을 배당으로 분배하는 경우가 있다. 그러한 경우에 기업은 비현금자산을 받거나 현금을 받을 수 있는 선택권을 소유주에게 부여할 수도 있다. [각주 (주1)] 기업회계기준서 제1001호는 소유주를 자본으로 분류되는 금융상품의 보유자로 정의한다.",
+      "html": "기업은 소유주\n  <sup>(주1)</sup>로서의 자격을 행사하는 소유주에게 현금이 아닌 자산(비현금자산)을 배당으로 분배하는 경우가 있다. 그러한 경우에 기업은 비현금자산을 받거나 현금을 받을 수 있는 선택권을 소유주에게 부여할 수도 있다.\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div>는 소유주를 자본으로 분류되는 금융상품의 보유자로 정의한다.\n  \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주1",
+          "display_text": "(주1)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "section_id": "61JKZJ",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "한국채택국제회계기준은 소유주에 대한 분배(보통 배당으로 언급됨)를 어떻게 측정하여야 하는지에 대한 지침을 제공하고 있지 않다. 기업회계기준서 제1001호에 따르면, 기업은 소유주에 대한 분배로 인식된 배당내역의 세부사항을 자본변동표 또는 재무제표의 주석에 표시하여야 한다.",
+      "html": "한국채택국제회계기준은 소유주에 대한 분배(보통 배당으로 언급됨)를 어떻게 측정하여야 하는지에 대한 지침을 제공하고 있지 않다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div>에 따르면, 기업은 소유주에 대한 분배로 인식된 배당내역의 세부사항을 자본변동표 또는 재무제표의 주석에 표시하여야 한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한3.1",
+      "section_id": "ktR2wP",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "u6kv6s",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 기업이 소유주로서의 자격을 행사하는 소유주에 대한 자산의 무상분배 중 다음 형태에 적용한다. ⑴ 비현금자산(예: 유형자산 항목, 기업회계기준서 제1103호에서 정의된 사업, 다른 기업에 대한 소유지분 또는 기업회계기준서 제1105호에서 정의된 처분자산집단)의 분배 ⑵ 비현금자산을 받거나 현금을 받을 수 있는 선택권을 소유주에게 부여하는 분배",
+      "html": "이 해석서는 기업이 소유주로서의 자격을 행사하는 소유주에 대한 자산의 무상분배 중 다음 형태에 적용한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 비현금자산(예: 유형자산 항목, \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">기업회계기준서 제1103호</span></div>에서 정의된 사업, 다른 기업에 대한 소유지분 또는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">기업회계기준서 제1105호</span></div>에서 정의된 처분자산집단)의 분배\n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 비현금자산을 받거나 현금을 받을 수 있는 선택권을 소유주에게 부여하는 분배</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1103호",
+          "standard_number": "1103",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1105호",
+          "standard_number": "1105",
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "u6kv6s",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 동일한 종류의 지분상품을 갖고 있는 모든 소유주가 동등하게 취급되는 분배에만 적용한다.",
+      "html": "이 해석서는 동일한 종류의 지분상품을 갖고 있는 모든 소유주가 동등하게 취급되는 분배에만 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "u6kv6s",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 비현금자산의 분배 전·후에 그 자산이 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 경우의 분배에는 적용하지 않는다. 이러한 적용 제외는 그러한 분배를 하는 기업의 별도재무제표, 개별재무제표 그리고 연결재무제표에 해당한다.",
+      "html": "이 해석서는 비현금자산의 분배 전·후에 그 자산이 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 경우의 분배에는 적용하지 않는다. 이러한 적용 제외는 그러한 분배를 하는 기업의 별도재무제표, 개별재무제표 그리고 연결재무제표에 해당한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "u6kv6s",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "문단 5에 따라 비현금자산의 분배 전·후에 그 자산이 궁극적으로 동일한 당사자들에 의해 통제받는 경우에는 이 해석서를 적용하지 않는다. 기업회계기준서 제1103호 문단 B2에서는 ‘개인들의 집단이 계약상 합의의 결과, 기업의 활동에서 효익을 얻기 위하여 재무정책과 영업정책을 집합적으로 결정할 수 있는 능력이 있는 경우, 그 개인집단이 당해 기업을 지배하고 있다고 본다’라고 언급하고 있다. 따라서 동일한 당사자들이 분배 전·후에 자산을 통제한다는 것에 근거하여 이 해석서의 적용범위에서 제외되기 위해서는, 분배 받는 개인주주의 집단이 분배하는 기업에 대해 계약상 약정의 결과로서 그러한 궁극적인 집합적 능력을 가져야 한다.",
+      "html": "<span class=\"mundan-finder\">문단 5</span>에 따라 비현금자산의 분배 전·후에 그 자산이 궁극적으로 동일한 당사자들에 의해 통제받는 경우에는 이 해석서를 적용하지 않는다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">기업회계기준서 제1103호</span></div><span class=\"mundan-finder\"> 문단 B2</span>에서는 ‘개인들의 집단이 계약상 합의의 결과, 기업의 활동에서 효익을 얻기 위하여 재무정책과 영업정책을 집합적으로 결정할 수 있는 능력이 있는 경우, 그 개인집단이 당해 기업을 지배하고 있다고 본다’라고 언급하고 있다. 따라서 동일한 당사자들이 분배 전·후에 자산을 통제한다는 것에 근거하여 이 해석서의 적용범위에서 제외되기 위해서는, 분배 받는 개인주주의 집단이 분배하는 기업에 대해 계약상 약정의 결과로서 그러한 궁극적인 집합적 능력을 가져야 한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1103호",
+          "standard_number": "1103",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 5",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "5",
+          "paragraph_ids": [
+            "5"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 B2",
+          "standard_number": "1103",
+          "standard_title": null,
+          "range": "B2",
+          "paragraph_ids": [
+            "B2"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "u6kv6s",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "문단 5에 따라, 이 해석서는 기업이 종속기업에 대한 소유지분의 일부를 분배하더라도, 그 종속기업의 지배력을 여전히 갖고 있는 경우에는 적용하지 않는다. 기업이 종속기업 지분을 분배하여 종속기업에 대한 비지배지분을 인식하게 되는 경우, 그 분배는 기업회계기준서 제1110호에 따라 회계처리한다.",
+      "html": "<span class=\"mundan-finder\">문단 5</span>에 따라, 이 해석서는 기업이 종속기업에 대한 소유지분의 일부를 분배하더라도, 그 종속기업의 지배력을 여전히 갖고 있는 경우에는 적용하지 않는다. 기업이 종속기업 지분을 분배하여 종속기업에 대한 비지배지분을 인식하게 되는 경우, 그 분배는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">기업회계기준서 제1110호</span></div>에 따라 회계처리한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1110호",
+          "standard_number": "1110",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 5",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "5",
+          "paragraph_ids": [
+            "5"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "u6kv6s",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 비현금자산을 분배하는 기업의 회계처리만을 다룬다. 이 해석서는 그러한 분배를 받는 주주들의 회계처리는 다루지 않는다.",
+      "html": "이 해석서는 비현금자산을 분배하는 기업의 회계처리만을 다룬다. 이 해석서는 그러한 분배를 받는 주주들의 회계처리는 다루지 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "tou66B",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "기업은 분배를 선언하고 소유주에게 관련 자산을 분배할 의무를 부담할 때, 미지급배당을 부채로 인식하여야 한다. 결과적으로 이 해석서는 다음과 같은 회계논제를 다룬다. ⑴ 미지급배당을 언제 인식하여야 하는가? ⑵ 미지급배당을 어떻게 측정하여야 하는가? ⑶ 미지급배당을 결제할 때, 분배되는 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리하여야 하는가?",
+      "html": "기업은 분배를 선언하고 소유주에게 관련 자산을 분배할 의무를 부담할 때, 미지급배당을 부채로 인식하여야 한다. 결과적으로 이 해석서는 다음과 같은 회계논제를 다룬다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 미지급배당을 언제 인식하여야 하는가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 미지급배당을 어떻게 측정하여야 하는가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 미지급배당을 결제할 때, 분배되는 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리하여야 하는가?</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "NOtx20",
+      "section_title": "미지급배당을 언제 인식하는가?",
+      "toc_path": "본문|결론|미지급배당을 언제 인식하는가?",
+      "text": "배당을 지급해야하는 부채는 그 배당이 적절하게 승인되고 더 이상 기업에게 재량이 없는 시점에 인식되며, 그 시점은 다음 중 하나이다. ⑴ 승인이 요구되는 국가의 경우, (예를 들어 경영진이나 이사회에 의한)배당의 선언이 (예를 들어 주주)관련기관에 의해 승인된 때 ⑵ 추가적으로 승인이 요구되지 않는 국가의 경우, (예를 들어, 경영진이나 이사회에 의한)배당이 선언된 때",
+      "html": "배당을 지급해야하는 부채는 그 배당이 적절하게 승인되고 더 이상 기업에게 재량이 없는 시점에 인식되며, 그 시점은 다음 중 하나이다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 승인이 요구되는 국가의 경우, (예를 들어 경영진이나 이사회에 의한)배당의 선언이 (예를 들어 주주)관련기관에 의해 승인된 때</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 추가적으로 승인이 요구되지 않는 국가의 경우, (예를 들어, 경영진이나 이사회에 의한)배당이 선언된 때</div></div>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2023-I-KQA006",
+          "title": "배당기준일이 주주총회일(배당선언일) 이후인 경우 배당수익 인식시기",
+          "url": "/qnas/2023-I-KQA006",
+          "date": "2023-07-27"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "eL2RfN",
+      "section_title": "미지급배당의 측정",
+      "toc_path": "본문|결론|미지급배당의 측정",
+      "text": "소유주에게 배당으로 비현금자산을 분배해야하는 부채는 분배될 자산의 공정가치로 측정한다.",
+      "html": "소유주에게 배당으로 비현금자산을 분배해야하는 부채는 분배될 자산의 공정가치로 측정한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "eL2RfN",
+      "section_title": "미지급배당의 측정",
+      "toc_path": "본문|결론|미지급배당의 측정",
+      "text": "비현금자산을 받거나 현금을 받을 수 있는 선택권을 기업이 소유주에게 부여한다면, 기업은 각 대안의 공정가치와 소유주가 각 대안을 선택할 확률을 고려하여 미지급배당을 추정한다.",
+      "html": "비현금자산을 받거나 현금을 받을 수 있는 선택권을 기업이 소유주에게 부여한다면, 기업은 각 대안의 공정가치와 소유주가 각 대안을 선택할 확률을 고려하여 미지급배당을 추정한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "eL2RfN",
+      "section_title": "미지급배당의 측정",
+      "toc_path": "본문|결론|미지급배당의 측정",
+      "text": "각 보고기간말과 결제일에, 기업은 미지급배당의 장부금액을 검토하고 조정한다. 이 경우 미지급배당의 장부금액 변동은 분배금액에 대한 조정으로 자본에서 인식한다.",
+      "html": "각 보고기간말과 결제일에, 기업은 미지급배당의 장부금액을 검토하고 조정한다. 이 경우 미지급배당의 장부금액 변동은 분배금액에 대한 조정으로 자본에서 인식한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "ehuWx8",
+      "section_title": "기업이 미지급배당을 결제할 때, 분배된 자산의 장부금액과 미지급배당의 장부금액의 차이에 대한 회계처리",
+      "toc_path": "본문|결론|기업이 미지급배당을 결제할 때, 분배된 자산의 장부금액과 미지급배당의 장부금액의 차이에 대한 회계처리",
+      "text": "기업이 미지급배당을 결제할 때, 분배된 자산의 장부금액과 미지급배당의 장부금액이 차이가 있다면 이를 당기손익으로 인식한다.",
+      "html": "기업이 미지급배당을 결제할 때, 분배된 자산의 장부금액과 미지급배당의 장부금액이 차이가 있다면 이를 당기손익으로 인식한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "201301B",
+          "title": "연결재무제표에서 지배주주가 비지배지분을 비현금 대가로 취득한 경우",
+          "url": "/qnas/201301B",
+          "date": "2013-01-31"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "ZsEqqB",
+      "section_title": "표시와 공시",
+      "toc_path": "본문|결론|표시와 공시",
+      "text": "문단 14에 기술된 차이금액은 별도의 당기손익항목으로 표시한다.",
+      "html": "<span class=\"mundan-finder\">문단 14</span>에 기술된 차이금액은 별도의 당기손익항목으로 표시한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "ZsEqqB",
+      "section_title": "표시와 공시",
+      "toc_path": "본문|결론|표시와 공시",
+      "text": "해당되는 경우, 다음의 정보를 공시한다. ⑴ 기초와 기말의 미지급배당의 장부금액 ⑵ 분배될 자산의 공정가치 변동의 결과로 문단 13에 따라 보고기간에 인식한 장부금액의 증감",
+      "html": "해당되는 경우, 다음의 정보를 공시한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 기초와 기말의 미지급배당의 장부금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 분배될 자산의 공정가치 변동의 결과로 \n      <span class=\"mundan-finder\">문단 13</span>에 따라 보고기간에 인식한 장부금액의 증감\n    </div></div>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 13",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "13",
+          "paragraph_ids": [
+            "13"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "17",
+      "section_id": "ZsEqqB",
+      "section_title": "표시와 공시",
+      "toc_path": "본문|결론|표시와 공시",
+      "text": "보고기간말 후부터 재무제표 발행승인일 전 사이에 비현금자산을 분배하는 배당을 선언하는 경우, 다음 사항을 공시한다. ⑴ 분배될 자산의 성격 ⑵ 보고기간말 현재 분배될 자산의 장부금액 ⑶ 보고기간말 현재 분배될 자산의 공정가치가 장부금액과 다른 경우, 그 공정가치 및 기업회계기준서 제1113호 문단 93⑵, ⑷, ⑺, ⑼와 99에서 요구된 공정가치 측정 방법에 관한 정보",
+      "html": "보고기간말 후부터 재무제표 발행승인일 전 사이에 비현금자산을 분배하는 배당을 선언하는 경우, 다음 사항을 공시한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 분배될 자산의 성격</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 보고기간말 현재 분배될 자산의 장부금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 보고기간말 현재 분배될 자산의 공정가치가 장부금액과 다른 경우, 그 공정가치 및 \n  \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div><span class=\"mundan-finder\"> 문단 93⑵, ⑷, ⑺, ⑼와 99</span>에서 요구된 공정가치 측정 방법에 관한 정보\n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 93⑵, ⑷, ⑺, ⑼와 99",
+          "standard_number": "1113",
+          "standard_title": null,
+          "range": "93⑵, ⑷, ⑺, ⑼와 99",
+          "paragraph_ids": [
+            "93⑵",
+            "⑷",
+            "⑺",
+            "⑼와 99"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "18",
+      "section_id": "1PE2z5",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 기준위원회가 삭제함]",
+      "html": "[한국회계기준원 기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한18.1",
+      "section_id": "1PE2z5",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 이 해석서를 다음과 같이 적용할 수 있다. ⑴ 2009년 7월 1일 이후 최초로 개시하는 회계연도 이후에 전진적으로 적용한다. ⑵ 조기적용할 수 있다. 조기적용할 경우, 그 사실을 공시하고, 기업회계기준서 제1103호(2008년 전면개정), 기업회계기준서 제1027호(2008년 11월 개정) 및 기업회계기준서 제1105호(이 해석서에 의해 개정)도 동시에 적용한다.",
+      "html": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 이 해석서를 다음과 같이 적용할 수 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 2009년 7월 1일 이후 최초로 개시하는 회계연도 이후에 전진적으로 적용한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 조기적용할 수 있다. 조기적용할 경우, 그 사실을 공시하고, \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">기업회계기준서 제1103호</span></div>(2008년 전면개정), \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">기업회계기준서 제1027호</span></div>(2008년 11월 개정) 및 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">기업회계기준서 제1105호</span></div>(이 해석서에 의해 개정)도 동시에 적용한다.\n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1103호",
+          "standard_number": "1103",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1027호",
+          "standard_number": "1027",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1105호",
+          "standard_number": "1105",
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "19",
+      "section_id": "1PE2z5",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2012년 11월 발표된 기업회계기준서 제1110호 및 제1111호는 문단 7을 개정하였다. 동 개정내용은 기업회계기준서 제1110호와 제1111호를 적용하는 경우 적용한다.",
+      "html": "2012년 11월 발표된 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">기업회계기준서 제1110호</span></div> 및 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공동약정</span><span class=\"std-finder\">제1111호</span></div>는 \n  <span class=\"mundan-finder\">문단 7</span>을 개정하였다. 동 개정내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">기업회계기준서 제1110호</span></div>와 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공동약정</span><span class=\"std-finder\">제1111호</span></div>를 적용하는 경우 적용한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1110호",
+          "standard_number": "1110",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "제1111호",
+          "standard_number": "1111",
+          "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1110호",
+          "standard_number": "1110",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "제1111호",
+          "standard_number": "1111",
+          "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 7",
+          "standard_number": "1111",
+          "standard_title": null,
+          "range": "7",
+          "paragraph_ids": [
+            "7"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "20",
+      "section_id": "1PE2z5",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2011년 12월에 발표된 기업회계기준 제1113호에 따라 문단 17이 개정되었다. 이러한 개정내용은 기업회계기준서 제1113호를 적용할 때 적용한다.",
+      "html": "2011년 12월에 발표된 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준 제1113호</span></div>에 따라 \n  \n  <span class=\"mundan-finder\">문단 17</span>이 개정되었다. 이러한 개정내용은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div>를 적용할 때 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 17",
+          "standard_number": "1113",
+          "standard_title": null,
+          "range": "17",
+          "paragraph_ids": [
+            "17"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "웩2",
+      "section_id": "KypkK2",
+      "section_title": "기업회계기준해석서 제2117호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준해석서 제2117호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준해석서 제2117호의 제정에 대한 회계기준위원회의 의결(2009년)",
+      "html": "<div value=\"웩2\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2117호의 제정에 대한 회계기준위원회의 의결(2009년)</b></div><br><div class=\"para\">기업회계기준해석서 제2117호 ‘소유주에 대한 비현금자산의 분배’의 제정(2009.06.12.)은 회계기준위원회 위원 7명의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">서정우(위원장), 김찬홍(상임위원), 박영진, 변용희, 손성규, 최  관, 최상태</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE1",
+      "section_id": "edpwDV",
+      "section_title": "적용범위(문단 3~8)",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2117호 ‘소유주에 대한 비현금자산의 분배’의 적용사례|적용범위(문단 3~8)",
+      "text": "기업 A가 일반주주(public shareholders)에 의해 소유된다고 가정한다. 어느 단일 주주도 기업 A를 지배하지 않고, 어느 주주집단도 기업 A를 공동지배하기 위해 함께 행동하기로 하는 계약상 약정에 구속되지 않는다. 기업 A는 특정 자산(예: 매도가능증권)을 주주에게 비례적으로 분배한다. 이러한 거래는 이 해석서의 적용범위에 해당한다.",
+      "html": "기업 A가 일반주주(public shareholders)에 의해 소유된다고 가정한다. 어느 단일 주주도 기업 A를 지배하지 않고, 어느 주주집단도 기업 A를 공동지배하기 위해 함께 행동하기로 하는 계약상 약정에 구속되지 않는다. 기업 A는 특정 자산(예: 매도가능증권)을 주주에게 비례적으로 분배한다. 이러한 거래는 이 해석서의 적용범위에 해당한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE2",
+      "section_id": "edpwDV",
+      "section_title": "적용범위(문단 3~8)",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2117호 ‘소유주에 대한 비현금자산의 분배’의 적용사례|적용범위(문단 3~8)",
+      "text": "그러나 만일 주주들 중 하나(또는 함께 행동하기로 하는 계약상 약정에 의해 구속되는 집단)가 이 거래 전·후에 기업 A를 지배한다면, 전체 거래(비지배 주주에 대한 분배 포함)는 이 해석서의 적용범위에 해당하지 아니한다. 이는 동일한 종류의 지분상품을 갖고 있는 모든 소유주에 대해 비례적으로 분배하는 경우, 지배 주주(또는 주주집단)는 분배 후에도 비현금자산을 계속 통제할 것이기 때문이다.",
+      "html": "그러나 만일 주주들 중 하나(또는 함께 행동하기로 하는 계약상 약정에 의해 구속되는 집단)가 이 거래 전·후에 기업 A를 지배한다면, 전체 거래(비지배 주주에 대한 분배 포함)는 이 해석서의 적용범위에 해당하지 아니한다. 이는 동일한 종류의 지분상품을 갖고 있는 모든 소유주에 대해 비례적으로 분배하는 경우, 지배 주주(또는 주주집단)는 분배 후에도 비현금자산을 계속 통제할 것이기 때문이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "웩4.1",
+      "section_id": "edpwDV",
+      "section_title": "적용범위(문단 3~8)",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2117호 ‘소유주에 대한 비현금자산의 분배’의 적용사례|적용범위(문단 3~8)",
+      "text": "",
+      "html": "<img src=\"/aws/else-content/2117_IE2_im01.jpg\">",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE3",
+      "section_id": "edpwDV",
+      "section_title": "적용범위(문단 3~8)",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2117호 ‘소유주에 대한 비현금자산의 분배’의 적용사례|적용범위(문단 3~8)",
+      "text": "기업 A가 일반주주에 의해 소유된다고 가정한다. 어느 단일 주주도 기업 A를 지배하지 않고, 어느 주주집단도 기업 A를 공동지배하기 위해 함께 행동하기로 하는 계약상 약정에 구속되지 않는다. 기업 A는 종속기업 B의 모든 지분을 소유하고 있다. 기업 A는 종속기업 B에 대한 모든 지분을 자신의 주주들에게 비례적으로 분배하고, 이에 따라 종속기업 B에 대한 지배력을 상실한다. 이 거래는 이 해석서의 적용범위에 해당한다.",
+      "html": "기업 A가 일반주주에 의해 소유된다고 가정한다. 어느 단일 주주도 기업 A를 지배하지 않고, 어느 주주집단도 기업 A를 공동지배하기 위해 함께 행동하기로 하는 계약상 약정에 구속되지 않는다. 기업 A는 종속기업 B의 모든 지분을 소유하고 있다. 기업 A는 종속기업 B에 대한 모든 지분을 자신의 주주들에게 비례적으로 분배하고, 이에 따라 종속기업 B에 대한 지배력을 상실한다. 이 거래는 이 해석서의 적용범위에 해당한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE4",
+      "section_id": "edpwDV",
+      "section_title": "적용범위(문단 3~8)",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2117호 ‘소유주에 대한 비현금자산의 분배’의 적용사례|적용범위(문단 3~8)",
+      "text": "그러나 만일 기업 A가 종속기업 B에 대한 비지배지분으로 표시될 종속기업 B의 지분만을 자신의 주주들에게 분배하고 종속기업 B에 대한 지배력을 유지한다면, 해당 거래는 이 해석서의 적용범위에 해당하지 아니한다. 기업 A는 그러한 분배를 기업회계기준서 제1110호 ‘연결재무제표’에 따라 회계처리한다. 기업 A는 이 거래 전·후에 종속기업 B를 지배하고 있다.",
+      "html": "그러나 만일 기업 A가 종속기업 B에 대한 비지배지분으로 표시될 종속기업 B의 지분만을 자신의 주주들에게 분배하고 종속기업 B에 대한 지배력을 유지한다면, 해당 거래는 이 해석서의 적용범위에 해당하지 아니한다. 기업 A는 그러한 분배를 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">기업회계기준서 제1110호</span></div> ‘연결재무제표’에 따라 회계처리한다. 기업 A는 이 거래 전·후에 종속기업 B를 지배하고 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1110호",
+          "standard_number": "1110",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC1",
+      "section_id": "cUkvOj",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|도입",
+      "text": "IFRIC이 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "html": "IFRIC이 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC2",
+      "section_id": "cUkvOj",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|도입",
+      "text": "현재, IFRS는 기업이 소유주로서의 자격을 행사하는 소유주에 대한 분배(보통 배당으로 언급됨)를 어떻게 측정하여야 하는지에 대해 다루고 있지 않다. IFRIC은 비현금자산 분배를 측정하는 방법이 실무에서 유의적으로 다양한 것을 알고 있다.",
+      "html": "현재, IFRS는 기업이 소유주로서의 자격을 행사하는 소유주에 대한 분배(보통 배당으로 언급됨)를 어떻게 측정하여야 하는지에 대해 다루고 있지 않다. IFRIC은 비현금자산 분배를 측정하는 방법이 실무에서 유의적으로 다양한 것을 알고 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC3",
+      "section_id": "cUkvOj",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|도입",
+      "text": "IFRIC은 외부검토의견을 받기 위해 해석서 공개초안 제23호(D23) ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)’를 2008년 1월에 발표하였고, 그러한 제안에 대해 56개의 외부검토의견서를 받았다.",
+      "html": "IFRIC은 외부검토의견을 받기 위해 해석서 공개초안 제23호(D23) ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)’를 2008년 1월에 발표하였고, 그러한 제안에 대해 56개의 외부검토의견서를 받았다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC4",
+      "section_id": "HObFQ3",
+      "section_title": "본 해석서가 기업과 소유주간의 모든 거래를 다루어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|본 해석서가 기업과 소유주간의 모든 거래를 다루어야 하는가?",
+      "text": "IFRIC은 기업의 소유주에 대한 자산분배는 기업과 소유주간의 거래의 한 가지 사례라고 보았다. 기업과 소유주간의 거래는 일반적으로 다음과 같이 세 가지로 유형화될 수 있다. ⑴ 기업과 그 소유주간의 교환거래 ⑵ 기업의 소유주가 기업에게 행하는 자산의 무상이전. 그러한 이전은 보통 소유주의 출연으로 불리운다. ⑶ 기업이 그 소유주에게 행하는 자산의 무상이전. 그러한 이전은 보통 소유주에 대한 분배로 불리운다.",
+      "html": "IFRIC은 기업의 소유주에 대한 자산분배는 기업과 소유주간의 거래의 한 가지 사례라고 보았다. 기업과 소유주간의 거래는 일반적으로 다음과 같이 세 가지로 유형화될 수 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 기업과 그 소유주간의 교환거래</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 기업의 소유주가 기업에게 행하는 자산의 무상이전. 그러한 이전은 보통 소유주의 출연으로 불리운다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 기업이 그 소유주에게 행하는 자산의 무상이전. 그러한 이전은 보통 소유주에 대한 분배로 불리운다.</div></div>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2020-FSSQA09",
+          "title": "관계기업의 투자기업을 위한 무상 지급보증 회계처리",
+          "url": "/qnas/2020-FSSQA09",
+          "date": "2017-10-31"
+        },
+        {
+          "qna_id": "2022-I-KQA003",
+          "title": "(별도재무제표) 지배기업으로부터 주식매수청구권을 이전받았을 때 회계처리",
+          "url": "/qnas/2022-I-KQA003",
+          "date": "2022-03-10"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "BC5",
+      "section_id": "HObFQ3",
+      "section_title": "본 해석서가 기업과 소유주간의 모든 거래를 다루어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|본 해석서가 기업과 소유주간의 모든 거래를 다루어야 하는가?",
+      "text": "IFRIC은 이 해석서가 기업과 소유주간의 교환거래는 다루지 않아야 한다고 결론내렸다. 만약 이를 다룬다면 모든 특수관계자 거래를 다루게 될 가능성이 높기 때문이었다. IFRIC은 그러한 적용범위는 하나의 해석서에서 다루기에 너무 방대하다고 보았다. 그 대신에 IFRIC은 해석서가 소유주로서의 자격을 행사하는 소유주에 대한 기업의 자산분배에 중점을 두어야 한다고 결론내렸다.",
+      "html": "IFRIC은 이 해석서가 기업과 소유주간의 교환거래는 다루지 않아야 한다고 결론내렸다. 만약 이를 다룬다면 모든 특수관계자 거래를 다루게 될 가능성이 높기 때문이었다. IFRIC은 그러한 적용범위는 하나의 해석서에서 다루기에 너무 방대하다고 보았다. 그 대신에 IFRIC은 해석서가 소유주로서의 자격을 행사하는 소유주에 대한 기업의 자산분배에 중점을 두어야 한다고 결론내렸다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC6",
+      "section_id": "HObFQ3",
+      "section_title": "본 해석서가 기업과 소유주간의 모든 거래를 다루어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|본 해석서가 기업과 소유주간의 모든 거래를 다루어야 하는가?",
+      "text": "또한, IFRIC은 동일한 종류의 지분상품의 소유주가 모두 동등하게 취급되지 않는 분배는 다루지 않아야 한다고 결정하였다. 왜냐하면, 그러한 분배는 적어도 분배를 받는 일부 소유주가 기업이나 다른 소유주에게 실제로 무엇인가를 포기하는 것을 의미할 수 있다고 보았기 때문이다. 다르게 말하자면, 그러한 분배는 교환거래의 성격에 더 가까울 수 있기 때문이다.",
+      "html": "또한, IFRIC은 동일한 종류의 지분상품의 소유주가 모두 동등하게 취급되지 않는 분배는 다루지 않아야 한다고 결정하였다. 왜냐하면, 그러한 분배는 적어도 분배를 받는 일부 소유주가 기업이나 다른 소유주에게 실제로 무엇인가를 포기하는 것을 의미할 수 있다고 보았기 때문이다. 다르게 말하자면, 그러한 분배는 교환거래의 성격에 더 가까울 수 있기 때문이다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2020-FSSQA09",
+          "title": "관계기업의 투자기업을 위한 무상 지급보증 회계처리",
+          "url": "/qnas/2020-FSSQA09",
+          "date": "2017-10-31"
+        },
+        {
+          "qna_id": "2022-I-KQA003",
+          "title": "(별도재무제표) 지배기업으로부터 주식매수청구권을 이전받았을 때 회계처리",
+          "url": "/qnas/2022-I-KQA003",
+          "date": "2022-03-10"
+        },
+        {
+          "qna_id": "SSI-202412034",
+          "title": "복합금융상품에 부여된 제삼자 지정 콜옵션의 양도",
+          "url": "/qnas/SSI-202412034",
+          "date": "2023-12-07"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "BC7",
+      "section_id": "EuCEyO",
+      "section_title": "이 해석서가 모든 형태의 자산분배를 다루어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|이 해석서가 모든 형태의 자산분배를 다루어야 하는가?",
+      "text": "IFRIC은 기업이 소유주로서의 자격을 행사하는 소유주에게 행하는 다음 형태의 자산을 무상분배하는 경우 측정하는 데 유의적인 차이가 있다는 것을 알고 있다. ⑴ 비현금자산(예: 유형자산 항목, IFRS 3에서 정의된 사업, 다른 기업에 대한 소유지분 또는 IFRS 5에서 정의된 처분자산집단)을 소유주에게 분배 ⑵ 비현금자산을 받거나 현금을 받을 수 있는 선택권을 소유주에게 부여하는 분배",
+      "html": "IFRIC은 기업이 소유주로서의 자격을 행사하는 소유주에게 행하는 다음 형태의 자산을 무상분배하는 경우 측정하는 데 유의적인 차이가 있다는 것을 알고 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 비현금자산(예: 유형자산 항목, \n  \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div>에서 정의된 사업, 다른 기업에 대한 소유지분 또는 \n  \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>에서 정의된 처분자산집단)을 소유주에게 분배\n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 비현금자산을 받거나 현금을 받을 수 있는 선택권을 소유주에게 부여하는 분배</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": null,
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC8",
+      "section_id": "EuCEyO",
+      "section_title": "이 해석서가 모든 형태의 자산분배를 다루어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|이 해석서가 모든 형태의 자산분배를 다루어야 하는가?",
+      "text": "IFRIC은 모든 분배는 동일한 목적, 즉 기업의 소유주에게 자산을 분배하는 목적을 갖고 있다고 보았다. 따라서 이 해석서 문단 5에서 제시한 한 가지를 제외한 모든 형태의 자산분배의 측정을 다루어야 한다고 결론내렸다.",
+      "html": "IFRIC은 모든 분배는 동일한 목적, 즉 기업의 소유주에게 자산을 분배하는 목적을 갖고 있다고 보았다. 따라서 이 해석서 \n  <span class=\"mundan-finder\">문단 5</span>에서 제시한 한 가지를 제외한 모든 형태의 자산분배의 측정을 다루어야 한다고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 5",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "5",
+          "paragraph_ids": [
+            "5"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC9",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "IFRIC은 자산의 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산(예: 종속기업에 대한 소유지분)의 분배를 기업이 어떻게 측정하여야 하는지를 이 해석서에서 다루어야 할 것인지 고려하였다. 많은 경우, 그러한 분배는 연결실체(group) 구조조정(예: 두 개의 다른 사업을 두 개의 다른 하위 연결실체로 분리하는 것)의 목적을 위해서 이루어진다. 그러한 분배 후에도 그 자산은 여전히 동일한 당사자 또는 당사자들에 의해 통제된다.",
+      "html": "IFRIC은 자산의 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산(예: 종속기업에 대한 소유지분)의 분배를 기업이 어떻게 측정하여야 하는지를 이 해석서에서 다루어야 할 것인지 고려하였다. 많은 경우, 그러한 분배는 연결실체(group) 구조조정(예: 두 개의 다른 사업을 두 개의 다른 하위 연결실체로 분리하는 것)의 목적을 위해서 이루어진다. 그러한 분배 후에도 그 자산은 여전히 동일한 당사자 또는 당사자들에 의해 통제된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC10",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "추가적으로, IFRIC은 연결실체 내 자산의 분배에 대한 회계처리를 다루는 것은, 자산의 연결실체 내 이전이 연결실체기업들의 별도재무제표나 개별재무제표에서 어떻게 회계처리되어야 하는지에 대해 고려하도록 요구할 것임을 주목하였다.",
+      "html": "추가적으로, IFRIC은 연결실체 내 자산의 분배에 대한 회계처리를 다루는 것은, 자산의 연결실체 내 이전이 연결실체기업들의 별도재무제표나 개별재무제표에서 어떻게 회계처리되어야 하는지에 대해 고려하도록 요구할 것임을 주목하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC11",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "문단 BC9와 BC10에서 기술된 이유에 따라, IFRIC은 이 해석서에서 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들이 통제하는 자산의 분배를 다루어서는 안 된다고 결론내렸다.",
+      "html": "<span class=\"mundan-finder\">문단 BC9와 BC10</span>에서 기술된 이유에 따라, IFRIC은 이 해석서에서 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들이 통제하는 자산의 분배를 다루어서는 안 된다고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC9와 BC10",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "BC9와 BC10",
+          "paragraph_ids": [
+            "BC9와 BC10"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC12",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "해석서 초안에 관하여 접수된 외부검토의견에 대응하여, IFRIC은 자산의 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들이 통제하는 자산의 이전을 포함하기 위해 이 해석서의 적용범위를 확장할 것인지에 대해 재심의 하였다. IASB가 의제에 동일지배거래를 다루는 과제를 추가하기로 한 결정을 고려하여 IFRIC은 이 해석서의 적용범위를 확장시키지 않기로 결정하였다.",
+      "html": "해석서 초안에 관하여 접수된 외부검토의견에 대응하여, IFRIC은 자산의 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들이 통제하는 자산의 이전을 포함하기 위해 이 해석서의 적용범위를 확장할 것인지에 대해 재심의 하였다. IASB가 의제에 동일지배거래를 다루는 과제를 추가하기로 한 결정을 고려하여 IFRIC은 이 해석서의 적용범위를 확장시키지 않기로 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC13",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "IFRIC은 많은 의견제출자들이 소유주에 대한 대부분의 자산 분배가 문단 5에 의해 이 해석서의 적용범위에서 제외될 것으로 믿고 있음에 주목하였다. IFRIC은 이러한 결론에 동의하지 않았다. IFRIC은 IFRS 3(2008년 전면개정) 문단 B2에서 IASB가 개인집단이 계약상 약정의 결과, 기업의 활동에서 효익을 얻기 위하여 재무정책과 영업정책을 집합적으로 결정할 수 있는 능력이 있는 경우, 그 개인집단이 당해 기업을 지배하고 있다고 본다고 결론내렸음을 주목하였다. 추가적으로 2008년 5월 ‘종속기업, 공동지배기업 또는 관계기업에 대한 투자 원가’에서, IASB는 IAS 27 개정에서 기존 지배기업의 소유주에게 지분 교환으로 신지배기업의 지분을 분배하는 것은 동일지배거래가 아니라는 것을 명확히 하였다 (주1). [각주 (주1)] 2011년 5월에 발표된 IFRS 10에 의하여 연결 지침이 IAS 27에서 삭제되었으며 그 기준서는 ‘별도재무제표( Separate Financial Statements)’로 재명명되었다. 소유주간 거래에 대한 회계처리 요구사항은 변경되지 않았다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC13\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC13</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IFRIC은 많은 의견제출자들이 소유주에 대한 대부분의 자산 분배가 \n  <span class=\"mundan-finder\">문단 5</span>에 의해 이 해석서의 적용범위에서 제외될 것으로 믿고 있음에 주목하였다. IFRIC은 이러한 결론에 동의하지 않았다. IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div>(2008년 전면개정) \n  <span class=\"mundan-finder\">문단 B2</span>에서 IASB가 개인집단이 계약상 약정의 결과, 기업의 활동에서 효익을 얻기 위하여 재무정책과 영업정책을 집합적으로 결정할 수 있는 능력이 있는 경우, 그 개인집단이 당해 기업을 지배하고 있다고 본다고 결론내렸음을 주목하였다. 추가적으로 2008년 5월 ‘종속기업, 공동지배기업 또는 관계기업에 대한 투자 원가’에서, IASB는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div> 개정에서 기존 지배기업의 소유주에게 지분 교환으로 신지배기업의 지분을 분배하는 것은 동일지배거래가 아니라는 것을 명확히 하였다  \n  <sup data-id=\"(주1)\">(주1)</sup>.\n</div><div class=\"idt-1 comment\"><div>(주1)</div><div>2011년 5월에 발표된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">IFRS 10</span></div>에 의하여 연결 지침이 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>에서 삭제되었으며 그 기준서는 ‘별도재무제표(\n    <i>Separate Financial Statements</i>)’로 재명명되었다. 소유주간 거래에 대한 회계처리 요구사항은 변경되지 않았다.  \n  </div></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주1",
+          "display_text": "(주1)"
+        }
+      ]
+    },
+    {
+      "number": "BC14",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "결과적으로 IFRIC은 분배하는 기업을 지배하기 위한 계약상 약정이 주주간에 없다면, 연결실체 내의 기업들의 주식이나 사업을 연결실체 외부의 주주에게 배분하는 거래(보통 기업분사, 기업분할 또는 기업분리로 언급됨)는 동일지배하에 있는 기업간 또는 사업간의 거래가 아니라는 것을 이 해석서가 명확히 하여야 한다고 결정하였다. 따라서 그러한 거래들은 이 해석서의 적용범위에 해당한다.",
+      "html": "결과적으로 IFRIC은 분배하는 기업을 지배하기 위한 계약상 약정이 주주간에 없다면, 연결실체 내의 기업들의 주식이나 사업을 연결실체 외부의 주주에게 배분하는 거래(보통 기업분사, 기업분할 또는 기업분리로 언급됨)는 동일지배하에 있는 기업간 또는 사업간의 거래가 아니라는 것을 이 해석서가 명확히 하여야 한다고 결정하였다. 따라서 그러한 거래들은 이 해석서의 적용범위에 해당한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC15",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "D23에 대한 일부 의견제출자들은 기업이 종속기업에 대한 자신의 소유지분의 일부를 분배하고도 지배력을 계속 보유하고 있는 상황에 관해 우려하였다. 그들은 비지배지분에 해당하게 되는 소유지분 분배에 대해 제안된 D23의 회계처리는 IAS 27(2008년 개정)의 요구사항과 일관되지 않는다고 생각하였다. IAS 27은 종속기업에 대한 지배력을 상실하지 않는 지배기업의 소유지분 변동은 자본거래로 회계처리 할 것을 요구하고 있다. IFRIC은 이 해석서가 그러한 거래에 적용되는 것을 의도하지 않았기 때문에 IAS 27의 규정과 상충된다고 생각하지 않았다. 그러한 우려가 표명되었으므로 IFRIC은 이를 명확히 하기 위하여 이 해석서를 수정하였다.",
+      "html": "D23에 대한 일부 의견제출자들은 기업이 종속기업에 대한 자신의 소유지분의 일부를 분배하고도 지배력을 계속 보유하고 있는 상황에 관해 우려하였다. 그들은 비지배지분에 해당하게 되는 소유지분 분배에 대해 제안된 D23의 회계처리는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>(2008년 개정)의 요구사항과 일관되지 않는다고 생각하였다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>은 종속기업에 대한 지배력을 상실하지 않는 지배기업의 소유지분 변동은 자본거래로 회계처리 할 것을 요구하고 있다. IFRIC은 이 해석서가 그러한 거래에 적용되는 것을 의도하지 않았기 때문에 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>의 규정과 상충된다고 생각하지 않았다. 그러한 우려가 표명되었으므로 IFRIC은 이를 명확히 하기 위하여 이 해석서를 수정하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": null,
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": null,
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": null,
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC16",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "D23에 대한 일부 의견제출자들은 또한 비지배지분이 있는 종속기업이 지배기업과 비지배지분 모두에게 자산을 분배하는 상황에 대해 우려하였다. 그들은 지배기업에게 행하는 분배만 이 해석서의 적용범위에서 제외한 이유에 대해 질문하였다. IFRIC은 지배기업이 거래 전·후에 종속기업을 지배하는 경우, 전체 거래(비지배지분에게 행하는 분배 포함)는 이 해석서의 적용범위가 아니고 IAS 27에 따라 회계처리된다고 보았다.",
+      "html": "D23에 대한 일부 의견제출자들은 또한 비지배지분이 있는 종속기업이 지배기업과 비지배지분 모두에게 자산을 분배하는 상황에 대해 우려하였다. 그들은 지배기업에게 행하는 분배만 이 해석서의 적용범위에서 제외한 이유에 대해 질문하였다. IFRIC은 지배기업이 거래 전·후에 종속기업을 지배하는 경우, 전체 거래(비지배지분에게 행하는 분배 포함)는 이 해석서의 적용범위가 아니고 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>에 따라 회계처리된다고 보았다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": null,
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC17",
+      "section_id": "FUMfW7",
+      "section_title": "적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|적용범위(문단 3~8)|적용범위 제외: 분배 전·후에 궁극적으로 동일한 당사자 또는 당사자들에 의해 통제받는 자산의 분배",
+      "text": "소유주에 대한 분배에는 기업 영업의 유의적인 부분을 포함할 수 있다. D23에 대한 일부 의견제출자들은 때로 기업분할(split-off)로 불리우는 경우에, 잔존하는 기업들 중 어느 기업이 분배를 행하였는지 결정하는 것이 어려울 수 있다고 우려하였다. 의견제출자들은 각 잔존 기업이 다른 상대방을 분배한 것으로 인식할 수도 있다고 생각하였다. IFRIC은 일부 상황에서 분배하는 기업을 식별하기 위해 판단이 요구될 수도 있다는 의견제출자들의 의견에 동의하였다. 그러나 IFRIC은 분배는 오로지 한 기업의 재무제표에 인식될 수 있다고 결론내렸다.",
+      "html": "소유주에 대한 분배에는 기업 영업의 유의적인 부분을 포함할 수 있다. D23에 대한 일부 의견제출자들은 때로 기업분할(split-off)로 불리우는 경우에, 잔존하는 기업들 중 어느 기업이 분배를 행하였는지 결정하는 것이 어려울 수 있다고 우려하였다. 의견제출자들은 각 잔존 기업이 다른 상대방을 분배한 것으로 인식할 수도 있다고 생각하였다. IFRIC은 일부 상황에서 분배하는 기업을 식별하기 위해 판단이 요구될 수도 있다는 의견제출자들의 의견에 동의하였다. 그러나 IFRIC은 분배는 오로지 한 기업의 재무제표에 인식될 수 있다고 결론내렸다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC21",
+      "section_id": "gRXkwq",
+      "section_title": "미지급배당을 어떻게 측정하여야 하는가?(문단 11~13)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당을 인식하는 시점(문단 10) 및 IAS 10에 대한 개정|미지급배당을 어떻게 측정하여야 하는가?(문단 11~13)",
+      "text": "IFRS는 소유주에 대한 분배를 어떻게 측정하여야 하는지에 대해 지침을 제공하지 않고 있다. 그러나 IFRIC은 많은 IFRS에서 부채를 어떻게 측정하여야 하는지에 대해 다루고 있다고 보았다. IFRS가 기업이 미지급배당을 어떻게 측정하여야 할지에 대해 특별히 다루고 있지는 않지만, IFRIC은 잠재적으로 적합한 IFRS를 식별할 수 있으며, 적절한 측정 기준을 결정하기 위해 해당 IFRS의 원칙을 적용할 수 있다고 결정하였다.",
+      "html": "IFRS는 소유주에 대한 분배를 어떻게 측정하여야 하는지에 대해 지침을 제공하지 않고 있다. 그러나 IFRIC은 많은 IFRS에서 부채를 어떻게 측정하여야 하는지에 대해 다루고 있다고 보았다. IFRS가 기업이 미지급배당을 어떻게 측정하여야 할지에 대해 특별히 다루고 있지는 않지만, IFRIC은 잠재적으로 적합한 IFRS를 식별할 수 있으며, 적절한 측정 기준을 결정하기 위해 해당 IFRS의 원칙을 적용할 수 있다고 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC28",
+      "section_id": "0gpguQ",
+      "section_title": "분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "text": "일부는 분배될 자산의 공정가치가 모든 경우에 신뢰성 있게 측정될 수는 없다는 점을 우려한다. 그들은 다음 상황은 예외를 두어야 한다고 믿는다. ⑴ 기업이 활성시장에서 거래되지 않는 다른 기업의 소유지분을 분배하는데, 해당 소유지분의 공정가치는 신뢰성 있게 측정될 수 없다. IFRIC은 IAS 39(주3)가 활성시장에서 공시되는 시장가격 (주4)이 없으며, 공정가치가 신뢰성 있게 측정될 수 없는 지분상품에 대한 투자를 공정가치로 측정하는 것을 허용하지 않고 있음에 주목하였다. ⑵ 기업이 활성시장에서 거래되지 않는 무형자산을 분배하므로 IAS 38에 따라 재평가금액을 장부금액으로 하는 것이 허용되지 않는다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC28\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC28</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">일부는 분배될 자산의 공정가치가 모든 경우에 신뢰성 있게 측정될 수는 없다는 점을 우려한다. 그들은 다음 상황은 예외를 두어야 한다고 믿는다.</div><div class=\"idt-1\"><div>⑴</div><div>기업이 활성시장에서 거래되지 않는 다른 기업의 소유지분을 분배하는데, 해당 소유지분의 공정가치는 신뢰성 있게 측정될 수 없다. IFRIC은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup data-id=\"(주3)\">(주3)</sup>가 활성시장에서 공시되는 시장가격\n    <sup data-id=\"(주4)\">(주4)</sup>이 없으며, 공정가치가 신뢰성 있게 측정될 수 없는 지분상품에 대한 투자를 공정가치로 측정하는 것을 허용하지 않고 있음에 주목하였다.\n  </div></div><div class=\"idt-2 comment\"><div>(주3)</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>에서 모든 지분상품에 대한 투자를 공정가치로 측정하도록 규정한다.\n  </div></div><div class=\"idt-2 comment\"><div>(주4)</div><div>2011년 5월에 발표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치를 정의하고 공정가치 측정의 요구사항을 포함하고 있다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>에서 수준 1 투입변수를 동일한 자산이나 부채에 대한 활성시장의 공시가격으로 정의한다. 수준 2 투입변수는 동일한 자산이나 부채에 대한 활성시장이 아닌 시장의 공시가격을 포함한다. 그 결과 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>에서 그러한 지분상품을 ‘동일한 상품에 대해 활성시장에서 공시가격(수준 1 투입변수)이 없는 지분상품’으로 언급하였다.\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>기업이 활성시장에서 거래되지 않는 무형자산을 분배하므로 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에 따라 재평가금액을 장부금액으로 하는 것이 허용되지 않는다.\n  </div></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC29",
+      "section_id": "0gpguQ",
+      "section_title": "분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "text": "IFRIC은 IAS 39 문단 AG80와 AG81 (주5)에 따라, 활성시장에서 공시되는 시장가격 (주6)이 없는 지분상품의 공정가치는 다음 중 하나의 경우에 신뢰성 있게 측정될 수 있다고 보았다. [각주 (주5)] IFRS 9에서 IAS 39 문단 AG80과 AG81을 삭제하였다. 2011년 5월에 발표한 IFRS 13은 공정가치를 정의하고 공정가치 측정의 요구사항을 포함하고 있다. IFRS 13에서 수준 1 투입변수를 동일한 자산이나 부채에 대한 활성시장의 공시가격으로 정의한다. 수준 2 투입변수는 동일한 자산이나 부채에 대한 활성시장이 아닌 시장의 공시가격을 포함한다. 그 결과 IFRS 9에서 그러한 지분상품을 ‘동일한 상품에 대해 활성시장에서 공시가격(수준 1 투입변수)이 없는 지분상품’으로 언급하였다. [각주 (주6)] 2011년 5월 발표된 IFRS 13은 수준 1 투입변수를 동일한 자산이나 부채에 대한 활성시장의 공시가격으로 정의한다. 수준 2 투입변수는 동일한 자산이나 부채에 대한 비활성시장의 공시가격을 포함한다. 그 결과 IFRS 9는 공시가격이 없는 지분상품을 ‘동일한 상품에 대한 활성시장의 공시가격(즉 수준 1 투입변수)이 없는 지분상품’으로 언급한다.",
+      "html": "IFRIC은 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div> 문단 AG80와 AG81\n  <sup>(주5)</sup>에 따라, 활성시장에서 공시되는 시장가격\n  <sup>(주6)</sup>이 없는 지분상품의 공정가치는 다음 중 하나의 경우에 신뢰성 있게 측정될 수 있다고 보았다.\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주5)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>에서 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div> 문단 AG80과 AG81을 삭제하였다. 2011년 5월에 발표한 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치를 정의하고 공정가치 측정의 요구사항을 포함하고 있다. \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>에서 수준 1 투입변수를 동일한 자산이나 부채에 대한 활성시장의 공시가격으로 정의한다. 수준 2 투입변수는 동일한 자산이나 부채에 대한 활성시장이 아닌 시장의 공시가격을 포함한다. 그 결과 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>에서 그러한 지분상품을 ‘동일한 상품에 대해 활성시장에서 공시가격(수준 1 투입변수)이 없는 지분상품’으로 언급하였다.\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주6)</div><div class=\"para-num-item-para-con\"> 2011년 5월 발표된 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 수준 1 투입변수를 동일한 자산이나 부채에 대한 활성시장의 공시가격으로 정의한다. 수준 2 투입변수는 동일한 자산이나 부채에 대한 비활성시장의 공시가격을 포함한다. 그 결과 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 공시가격이 없는 지분상품을 ‘동일한 상품에 대한 활성시장의 공시가격(즉 수준 1 투입변수)이 없는 지분상품’으로 언급한다.\n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": null,
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": null,
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": null,
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주5",
+          "display_text": "(주5)"
+        },
+        {
+          "id": "주6",
+          "display_text": "(주6)"
+        }
+      ]
+    },
+    {
+      "number": "BC30",
+      "section_id": "0gpguQ",
+      "section_title": "분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "text": "IFRIC은 기업의 경영진이 소유주에 대한 비현금자산의 분배를 제안하는 경우, 활성시장에서 공시되는 시장가격이 없는 지분상품의 공정가치에 대한 신뢰성 있는 측정을 결정하는 조건 중 하나 또는 둘 모두를 충족할 가능성이 있다고 보았다. 경영진은 그 자산의 공정가치를 알 것이라고 예상된다. 왜냐하면 경영진은 기업의 모든 소유주가 분배의 가치를 알 수 있도록 하여야 하기 때문이다. 이러한 이유로, 분배될 자산의 공정가치가 신뢰성 있게 결정될 수 없다고 주장하는 것은 어려울 것이다.",
+      "html": "IFRIC은 기업의 경영진이 소유주에 대한 비현금자산의 분배를 제안하는 경우, 활성시장에서 공시되는 시장가격이 없는 지분상품의 공정가치에 대한 신뢰성 있는 측정을 결정하는 조건 중 하나 또는 둘 모두를 충족할 가능성이 있다고 보았다. 경영진은 그 자산의 공정가치를 알 것이라고 예상된다. 왜냐하면 경영진은 기업의 모든 소유주가 분배의 가치를 알 수 있도록 하여야 하기 때문이다. 이러한 이유로, 분배될 자산의 공정가치가 신뢰성 있게 결정될 수 없다고 주장하는 것은 어려울 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC31",
+      "section_id": "0gpguQ",
+      "section_title": "분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "text": "또한, IFRIC은 어떤 경우에는 자산의 공정가치가 반드시 추정되어야 한다는 점을 인식하였다. Framework(주7)의 문단 86에 언급된 바와 같이, 합리적인 추정치의 사용은 재무제표 작성의 필수적인 부분이며 재무제표의 신뢰성을 손상시키지 않는다. [각주 (주7)] 이 결론도출근거에서 언급하는 ‘ Framework’는 IASB가 2001년에 채택하여 이 해석서가 제정되었을 당시 시행 중이었던 IASC의 ‘재무제표의 작성과 표시를 위한 개념체계’를 말한다.",
+      "html": "또한, IFRIC은 어떤 경우에는 자산의 공정가치가 반드시 추정되어야 한다는 점을 인식하였다.   \n  <i>Framework</i><sup>(주7)</sup>의 문단 86에 언급된 바와 같이, 합리적인 추정치의 사용은 재무제표 작성의 필수적인 부분이며 재무제표의 신뢰성을 손상시키지 않는다. \n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주7)</div><div class=\"para-num-item-para-con\"> 이 결론도출근거에서 언급하는 ‘\n      <i>Framework</i>’는 IASB가 2001년에 채택하여 이 해석서가 제정되었을 당시 시행 중이었던 IASC의 ‘재무제표의 작성과 표시를 위한 개념체계’를 말한다.\n    </div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주7",
+          "display_text": "(주7)"
+        }
+      ]
+    },
+    {
+      "number": "BC32",
+      "section_id": "0gpguQ",
+      "section_title": "분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "text": "IFRIC은 IAS 38과 IAS 39(주8)가 역사적원가 기준을 이용하여 일부 자산이 측정되도록 규정하고 있는 이유는 원가·효익을 고려하기 때문이라고 보았다. 활성시장에서 거래되지 않는 자산의 공정가치를 각 보고기간말에 결정하는 데 드는 원가가 효익을 초과할 수 있다. 그러나 분배하는 시점 단 한번에만 분배하는 자산의 공정가치를 결정할 것을 요구받기 때문에, IFRIC은 효익(즉, 분배할 자산의 가치를 재무제표이용자에게 알려주는 것)이 자산의 공정가치를 결정하는 데 드는 원가를 초과한다고 결론내렸다. [각주 (주8)] IFRS 9는 일부 자산에 대하여 역사적 원가기준을 사용하여 측정하도록 하는 IAS 39의 요구사항을 없앴다.",
+      "html": "IFRIC은 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>과 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주8)</sup>가 역사적원가 기준을 이용하여 일부 자산이 측정되도록 규정하고 있는 이유는 원가·효익을 고려하기 때문이라고 보았다. 활성시장에서 거래되지 않는 자산의 공정가치를 각 보고기간말에 결정하는 데 드는 원가가 효익을 초과할 수 있다. 그러나 분배하는 시점 단 한번에만 분배하는 자산의 공정가치를 결정할 것을 요구받기 때문에, IFRIC은 효익(즉, 분배할 자산의 가치를 재무제표이용자에게 알려주는 것)이 자산의 공정가치를 결정하는 데 드는 원가를 초과한다고 결론내렸다.\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주8)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 일부 자산에 대하여 역사적 원가기준을 사용하여 측정하도록 하는 \n    \n    \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 요구사항을 없앴다.\n  \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": null,
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주8",
+          "display_text": "(주8)"
+        }
+      ]
+    },
+    {
+      "number": "BC33",
+      "section_id": "0gpguQ",
+      "section_title": "분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "text": "추가적으로, IFRIC은 현금이나 비현금자산이라는 형태와는 상관없이, 배당수익은 IAS 18(주9)의 적용범위에 해당하고 받는 대가의 공정가치로 측정되는 것이 요구됨을 주목하였다. 이 해석서가 비현금 분배의 수취자의 회계처리는 다루지 않지만, IFRIC은 IFRS가 이미 분배의 수취자에게 요구하는 것 보다 더 부담되는 요구사항을 이 해석서가 분배하는 기업에게 부과하는 것은 아니라고 결론내렸다. [각주 (주9)] 2014년 5월에 공표한 IFRS 15는 IAS 18을 대체하였다. IFRS 15에서는 배당금을 다루지 않는다. 배당금은 IFRS 9나 IAS 39에 따라 회계처리 한다.",
+      "html": "추가적으로, IFRIC은 현금이나 비현금자산이라는 형태와는 상관없이, 배당수익은 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)수익</span><span class=\"std-finder\">IAS 18</span></div><sup>(주9)</sup>의 적용범위에 해당하고 받는 대가의 공정가치로 측정되는 것이 요구됨을 주목하였다. 이 해석서가 비현금 분배의 수취자의 회계처리는 다루지 않지만, IFRIC은 IFRS가 이미 분배의 수취자에게 요구하는 것 보다 더 부담되는 요구사항을 이 해석서가 분배하는 기업에게 부과하는 것은 아니라고 결론내렸다.\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주9)</div><div class=\"para-num-item-para-con\">2014년 5월에 공표한 \n    \n    \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">IFRS 15</span></div>는 \n    \n    \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)수익</span><span class=\"std-finder\">IAS 18</span></div>을 대체하였다. \n    \n    \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">IFRS 15</span></div>에서는 배당금을 다루지 않는다. 배당금은 \n    \n    \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>나 \n    \n    \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 따라 회계처리 한다.\n  \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 18",
+          "standard_number": null,
+          "standard_title": "(구)수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 15",
+          "standard_number": null,
+          "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 18",
+          "standard_number": null,
+          "standard_title": "(구)수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 15",
+          "standard_number": null,
+          "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주9",
+          "display_text": "(주9)"
+        }
+      ]
+    },
+    {
+      "number": "BC34",
+      "section_id": "0gpguQ",
+      "section_title": "분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|분배될 자산의 공정가치로 미지급배당을 측정하는 원칙에 예외를 두어야 하는가?",
+      "text": "문단 BC28~BC33에 기술된 이유에 따라, IFRIC은 미지급배당의 측정에 분배될 자산의 공정가치가 사용되어야 한다는 요구사항에 대하여 예외는 없어야 한다고 결론내렸다.",
+      "html": "<span class=\"mundan-finder\">문단 BC28~BC33</span>에 기술된 이유에 따라, IFRIC은 미지급배당의 측정에 분배될 자산의 공정가치가 사용되어야 한다는 요구사항에 대하여 예외는 없어야 한다고 결론내렸다.\n\n\n\n\n\n\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC28~BC33",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "BC28~BC33",
+          "paragraph_ids": [
+            "BC28",
+            "BC29",
+            "BC30",
+            "BC31",
+            "BC32",
+            "BC33"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC35",
+      "section_id": "EVpRSv",
+      "section_title": "기업이 미지급배당을 재측정하여야 하는가(문단 13)?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|기업이 미지급배당을 재측정하여야 하는가(문단 13)?",
+      "text": "IFRIC은 IAS 37 문단 59가 기업이 매 보고기간말에 부채의 장부금액을 검토하고 부채의 현행 최선의 추정치를 반영하여 조정할 것을 요구하고 있음을 주목하였다. 이와 유사하게 IAS 19와 같은 다른 IFRS는 추정치에 기초하는 부채를 매 보고기간에 조정할 것을 요구하고 있다. 따라서 IFRIC은 분배될 자산의 공정가치에 대한 현행 최선의 추정치를 반영하여 매 보고기간말과 결제일에 미지급배당의 장부금액을 검토하고 조정하도록 결정하였다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC35\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC35</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div><span class=\"mundan-finder\"> 문단 59</span>가 기업이 매 보고기간말에 부채의 장부금액을 검토하고 부채의 현행 최선의 추정치를 반영하여 조정할 것을 요구하고 있음을 주목하였다. 이와 유사하게 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">종업원급여</span><span class=\"std-finder\">IAS 19</span></div>와 같은 다른 IFRS는 추정치에 기초하는 부채를 매 보고기간에 조정할 것을 요구하고 있다. 따라서 IFRIC은 분배될 자산의 공정가치에 대한 현행 최선의 추정치를 반영하여 매 보고기간말과 결제일에 미지급배당의 장부금액을 검토하고 조정하도록 결정하였다.\n</div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC36",
+      "section_id": "EVpRSv",
+      "section_title": "기업이 미지급배당을 재측정하여야 하는가(문단 13)?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|기업이 미지급배당을 재측정하여야 하는가(문단 13)?",
+      "text": "IFRIC은 미지급배당의 최선의 추정치에 대한 조정은 분배의 추정된 가치의 변동을 반영하기 때문에, 그러한 조정은 분배금액에 대한 조정으로서 인식하여야 한다고 결론내렸다. IAS 1(2007년 전면개정)에 따르면, 소유주에 대한 분배는 자본변동표에 직접 인식하여야 한다. 이와 유사하게, 분배금액의 조정도 자본변동표에 직접 인식한다.",
+      "html": "IFRIC은 미지급배당의 최선의 추정치에 대한 조정은 분배의 추정된 가치의 변동을 반영하기 때문에, 그러한 조정은 분배금액에 대한 조정으로서 인식하여야 한다고 결론내렸다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>(2007년 전면개정)에 따르면, 소유주에 대한 분배는 자본변동표에 직접 인식하여야 한다. 이와 유사하게, 분배금액의 조정도 자본변동표에 직접 인식한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC37",
+      "section_id": "EVpRSv",
+      "section_title": "기업이 미지급배당을 재측정하여야 하는가(문단 13)?",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|미지급배당의 측정에 적합한 IFRS는 무엇인가?|기업이 미지급배당을 재측정하여야 하는가(문단 13)?",
+      "text": "일부 의견제출자들은 Framework에서 부채의 변동은 수익이나 비용의 정의를 충족하기 때문에, 분배의 추정된 가치의 변동은 당기손익으로 인식되어야 한다고 주장하였다. 그러나 IFRIC은 분배될 자산에 대한 차손익은 미지급배당이 결제될 때 당기손익으로 인식되어야 한다고 결정하였다. 이는 자산의 제거로부터 발생하는 차손익을 당기손익으로 인식하도록 요구하는 다른 IFRS(IAS 16, IAS 38, IAS 39(주10))와 일관성이 있다. IFRIC은 미지급배당의 결제 전 변동은 분배의 추정치 변동과 관련되며, 미지급배당을 결제할 때까지는 자본(즉, 분배금액의 조정)으로 회계처리한다고 결론내렸다. [각주 (주10)] IFRS 9는 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 포함된 모든 항목에 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC37\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC37</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">일부 의견제출자들은 \n  <i>Framework</i>에서 부채의 변동은 수익이나 비용의 정의를 충족하기 때문에, 분배의 추정된 가치의 변동은 당기손익으로 인식되어야 한다고 주장하였다. 그러나 IFRIC은 분배될 자산에 대한 차손익은 미지급배당이 결제될 때 당기손익으로 인식되어야 한다고 결정하였다. 이는 자산의 제거로부터 발생하는 차손익을 당기손익으로 인식하도록 요구하는 다른 IFRS(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup data-id=\"(주10)\">(주10)</sup>)와 일관성이 있다. IFRIC은 미지급배당의 결제 전 변동은 분배의 추정치 변동과 관련되며, 미지급배당을 결제할 때까지는 자본(즉, 분배금액의 조정)으로 회계처리한다고 결론내렸다.\n</div><div class=\"idt-1 comment\"><div>(주10)</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 포함된 모든 항목에 적용한다.  \n  </div></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주10",
+          "display_text": "(주10)"
+        }
+      ]
+    },
+    {
+      "number": "BC38",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "소유주에게 자산을 분배할 때, 분배되는 자산과 미지급배당을 모두 제거한다.",
+      "html": "소유주에게 자산을 분배할 때, 분배되는 자산과 미지급배당을 모두 제거한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC39",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IFRIC은 적용가능한 다른 기준서에 의해서 요구되는 손상차손의 인식 때문에, 결제시점에 분배될 자산의 장부금액은 일반적으로 미지급배당의 장부금액보다 크지 않을 것임에 주목하였다. 예를 들어, IAS 36 문단 59는 자산의 회수가능액이 장부금액에 미달하는 경우 손상차손을 당기손익으로 인식하도록 요구한다. 자산의 회수가능액은 IAS 36 문단 6에 따라 순공정가치와 사용가치 중 큰 금액이다. 기업이 가까운 미래에 소유주에게 자산을 분배할 의무를 갖는 경우, 자산의 사용가치를 이용하여 손상차손을 측정하는 것은 적절하지 않아 보인다. 게다가, IFRS 5는 자산의 장부금액과 순공정가치 중 작은 금액으로 매각예정자산을 측정할 것을 요구한다. IFRIC은 기업이 미지급배당과 분배될 자산을 제거할 때, 그 차이는 항상 대변잔액(credit balance)일 것이라고 결론내렸다.",
+      "html": "IFRIC은 적용가능한 다른 기준서에 의해서 요구되는 손상차손의 인식 때문에, 결제시점에 분배될 자산의 장부금액은 일반적으로 미지급배당의 장부금액보다 크지 않을 것임에 주목하였다. 예를 들어, \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div><span class=\"mundan-finder\"> 문단 59</span>는 자산의 회수가능액이 장부금액에 미달하는 경우 손상차손을 당기손익으로 인식하도록 요구한다. 자산의 회수가능액은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div><span class=\"mundan-finder\"> 문단 6</span>에 따라 순공정가치와 사용가치 중 큰 금액이다. 기업이 가까운 미래에 소유주에게 자산을 분배할 의무를 갖는 경우, 자산의 사용가치를 이용하여 손상차손을 측정하는 것은 적절하지 않아 보인다. 게다가, \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>는 자산의 장부금액과 순공정가치 중 작은 금액으로 매각예정자산을 측정할 것을 요구한다. IFRIC은 기업이 미지급배당과 분배될 자산을 제거할 때, 그 차이는 항상 대변잔액(credit balance)일 것이라고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": null,
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": null,
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 59",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "59",
+          "paragraph_ids": [
+            "59"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 6",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "6",
+          "paragraph_ids": [
+            "6"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC40",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "대변잔액을 어떻게 회계처리 하여야 하는지를 결정하면서, IFRIC은 소유주 자본변동으로 인식하여야 하는지를 우선 고려하였다.",
+      "html": "대변잔액을 어떻게 회계처리 하여야 하는지를 결정하면서, IFRIC은 소유주 자본변동으로 인식하여야 하는지를 우선 고려하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC41",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IFRIC은 자산분배는 기업과 소유주간의 거래라고 보았다. IFRIC은 또한 소유주에 대한 분배는 IAS 1(2007년 전면개정)에 따라 소유주와의 거래로 인한 자본변동으로 인식한다고 보았다. 그러나 IFRIC은 이 대변잔액이 분배거래로부터 발생하지 않았음에 주목하였다. 오히려 그것은 자산과 관련된 누적 미인식 차익을 나타내었다. 그것은 분배될 때까지 자산을 보유한 기간의 기업 성과를 반영한다.",
+      "html": "IFRIC은 자산분배는 기업과 소유주간의 거래라고 보았다. IFRIC은 또한 소유주에 대한 분배는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>(2007년 전면개정)에 따라 소유주와의 거래로 인한 자본변동으로 인식한다고 보았다. 그러나 IFRIC은 이 대변잔액이 분배거래로부터 발생하지 않았음에 주목하였다. 오히려 그것은 자산과 관련된 누적 미인식 차익을 나타내었다. 그것은 분배될 때까지 자산을 보유한 기간의 기업 성과를 반영한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC42",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "일부에서는 자산분배는 기업의 소유주가 자산의 미래경제적 효익을 잃는 결과가 아니기 때문에, 대변잔액은 바로 자본에서 인식되어야 한다고 주장할 수 있다. 이러한 견해는 보고기업이 소유주로부터 분리된 자신의 실체를 갖고 있지 않다고 보는 소유주관점(proprietary perspective)에 근거할 수 있다. 그러나 IFRIC은 Framework이 재무제표가 작성되는 기업의 관점에서 거래효과를 고려하도록 요구하는 것을 주목하였다. 기업실체관점(entity perspective)에서는, 보고기업이 소유주와 분리된 그 자신의 실체를 갖고 있다. 추가적으로, 두 종류 이상의 지분상품이 있는 경우, 기업의 모든 소유주가 그 자산에 대해 사실상 동일한 지분을 가진다는 주장은 타당하지 않을 것이다.",
+      "html": "일부에서는 자산분배는 기업의 소유주가 자산의 미래경제적 효익을 잃는 결과가 아니기 때문에, 대변잔액은 바로 자본에서 인식되어야 한다고 주장할 수 있다. 이러한 견해는 보고기업이 소유주로부터 분리된 자신의 실체를 갖고 있지 않다고 보는 소유주관점(proprietary perspective)에 근거할 수 있다. 그러나 IFRIC은 \n  <i>Framework</i>이 재무제표가 작성되는 기업의 관점에서 거래효과를 고려하도록 요구하는 것을 주목하였다. 기업실체관점(entity perspective)에서는, 보고기업이 소유주와 분리된 그 자신의 실체를 갖고 있다. 추가적으로, 두 종류 이상의 지분상품이 있는 경우, 기업의 모든 소유주가 그 자산에 대해 사실상 동일한 지분을 가진다는 주장은 타당하지 않을 것이다.\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC43",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "문단 BC41과 BC42에 기술된 이유로, IFRIC은 대변잔액이 소유주 자본변동으로 인식되지 않아야 한다고 결론내렸다.",
+      "html": "<span class=\"mundan-finder\">문단 BC41과 BC42</span>에 기술된 이유로, IFRIC은 대변잔액이 소유주 자본변동으로 인식되지 않아야 한다고 결론내렸다.\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC41과 BC42",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "BC41과 BC42",
+          "paragraph_ids": [
+            "BC41",
+            "BC42"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC44",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IFRIC은, IAS 1의 결론도출근거에서 설명하는 것처럼, 어떤 수익이나 비용(즉, 비소유주와의 거래로 인한 자본변동)을 자본변동표에 직접 인식하는 것을 IASB가 명백하게 금지시켰음을 주목하였다. 그러한 수익이나 비용은 반드시 포괄손익 항목으로 우선 인식되어야 한다.",
+      "html": "IFRIC은, \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>의 결론도출근거에서 설명하는 것처럼, 어떤 수익이나 비용(즉, 비소유주와의 거래로 인한 자본변동)을 자본변동표에 직접 인식하는 것을 IASB가 명백하게 금지시켰음을 주목하였다. 그러한 수익이나 비용은 반드시 포괄손익 항목으로 우선 인식되어야 한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC45",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IAS 1에 따라 포괄손익계산서는 두 가지 구성요소인 당기손익 항목과 기타포괄손익 항목을 포함한다. 따라서 IFRIC은 대변잔액이 당기손익이나 기타포괄손익 중 어디에 인식되어야 하는지 논의하였다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>에 따라 포괄손익계산서는 두 가지 구성요소인 당기손익 항목과 기타포괄손익 항목을 포함한다. 따라서 IFRIC은 대변잔액이 당기손익이나 기타포괄손익 중 어디에 인식되어야 하는지 논의하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC46",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IAS 1은 어떤 항목이 언제 당기손익으로 인식되는지에 대한 기준을 제공하지 않는다. 그러나 IAS 1 문단 88은 ‘한 기간에 인식되는 모든 수익과 비용 항목은 IFRS가 달리 정하지 않는 한 당기손익으로 인식한다’라고 언급하고 있다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>은 어떤 항목이 언제 당기손익으로 인식되는지에 대한 기준을 제공하지 않는다. 그러나 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div><span class=\"mundan-finder\"> 문단 88</span>은 ‘한 기간에 인식되는 모든 수익과 비용 항목은 IFRS가 달리 정하지 않는 한 당기손익으로 인식한다’라고 언급하고 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 88",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "88",
+          "paragraph_ids": [
+            "88"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC47",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IFRIC은 IFRS가 수익과 비용의 항목을 기타포괄손익의 항목으로 인식할 것을 요구하는, 주로 다음과 같은 상황을 고려하였다. (1) IAS 19에서 특정 기준을 충족하는 경우 확정급여부채의 재측정으로부터 발생하는 일부 보험수리적손익 (2) IAS 16에 따라 유형자산 항목의 재평가에서 발생하거나 IAS 38에 따라 무형자산의 재평가에서 발생하는 재평가잉여금 (3) IAS 21에 따라 기업의 성과와 재무상태를 기능통화에서 표시통화로 환산하는 데 발생하는 외환차이 (4) IAS 21에 따라 연결목적으로 해외사업장의 성과와 재무상태를 보고기업의 표시통화로 환산하는 데 발생하는 외환차이 (5) IAS 39에 따른 매도가능 (주11)투자자산의 공정가치 변동 (6) IAS 39(주12)에 따른 현금흐름위험회피회계를 충족하는 위험회피수단의 공정가치 변동",
+      "html": "IFRIC은 IFRS가 수익과 비용의 항목을 기타포괄손익의 항목으로 인식할 것을 요구하는, 주로 다음과 같은 상황을 고려하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">종업원급여</span><span class=\"std-finder\">IAS 19</span></div>에서 특정 기준을 충족하는 경우 확정급여부채의 재측정으로부터 발생하는 일부 보험수리적손익\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 따라 유형자산 항목의 재평가에서 발생하거나 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에 따라 무형자산의 재평가에서 발생하는 재평가잉여금\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에 따라 기업의 성과와 재무상태를 기능통화에서 표시통화로 환산하는 데 발생하는 외환차이\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에 따라 연결목적으로 해외사업장의 성과와 재무상태를 보고기업의 표시통화로 환산하는 데 발생하는 외환차이\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 따른 매도가능\n      \n      <sup>(주11)</sup>투자자산의 공정가치 변동\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(6)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주12)</sup>에 따른 현금흐름위험회피회계를 충족하는 위험회피수단의 공정가치 변동\n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 19",
+          "standard_number": null,
+          "standard_title": "종업원급여",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": null,
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주11",
+          "display_text": "(주11)"
+        },
+        {
+          "id": "주12",
+          "display_text": "(주12)"
+        }
+      ]
+    },
+    {
+      "number": "BC48",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IFRIC은 IAS 1의 규정이 이러한 항목들이 대변잔액을 유추하여 적용되는 것을 금지한다고 결론내렸다. 또한, IFRIC은 문단 BC47(1)~(3)에 기술된 항목을 제외하고, 적용가능한 IFRS가 문단 BC47에 기술된 수익과 비용 항목이 자산이나 부채가 제거될 때 당기손익으로 재분류되어야 한다고 규정하는 것에 주목하였다. 그러한 수익과 비용 항목은 발생할 때 기타포괄손익 항목으로 인식되며, 관련 자산이 제거될 때(또는 관련 부채가 결제될 때)까지는 자본에 이연되고 제거될 때 당기손익으로 재분류된다.",
+      "html": "IFRIC은 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>의 규정이 이러한 항목들이 대변잔액을 유추하여 적용되는 것을 금지한다고 결론내렸다. 또한, IFRIC은 \n  \n  \n  <span class=\"mundan-finder\">문단 BC47(1)~(3)</span>에 기술된 항목을 제외하고, 적용가능한 IFRS가 \n  \n  \n  <span class=\"mundan-finder\">문단 BC47</span>에 기술된 수익과 비용 항목이 자산이나 부채가 제거될 때 당기손익으로 재분류되어야 한다고 규정하는 것에 주목하였다. 그러한 수익과 비용 항목은 발생할 때 기타포괄손익 항목으로 인식되며, 관련 자산이 제거될 때(또는 관련 부채가 결제될 때)까지는 자본에 이연되고 제거될 때 당기손익으로 재분류된다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC47(1)~(3)",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "BC47(1)~(3)",
+          "paragraph_ids": [
+            "BC47~"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC47",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "BC47",
+          "paragraph_ids": [
+            "BC47"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC49",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IFRIC은 미지급배당이 결제될 때 분배되는 자산도 제거된다고 보았다. 따라서 IFRS의 현행 규정을 전제할 때, 대변잔액이 기타포괄손익 항목으로 인식되더라도, 즉시 당기손익으로 재분류되어야만 한다. 결과적으로 대변잔액은 세 번에 걸쳐 포괄손익계산서에 나타난다. 일단 기타포괄손익항목으로 인식되고, 기타포괄손익에서 당기손익으로 재분류되고, 재분류 결과로서 당기손익 항목으로 인식된다. IFRIC은 그러한 표시는 발생한 것을 충실하게 반영하지 않는다고 결론내렸다. 게다가, 재무제표이용자들은 그러한 표시로 인해 혼란스러울 가능성이 있다.",
+      "html": "IFRIC은 미지급배당이 결제될 때 분배되는 자산도 제거된다고 보았다. 따라서 IFRS의 현행 규정을 전제할 때, 대변잔액이 기타포괄손익 항목으로 인식되더라도, 즉시 당기손익으로 재분류되어야만 한다. 결과적으로 대변잔액은 세 번에 걸쳐 포괄손익계산서에 나타난다. 일단 기타포괄손익항목으로 인식되고, 기타포괄손익에서 당기손익으로 재분류되고, 재분류 결과로서 당기손익 항목으로 인식된다. IFRIC은 그러한 표시는 발생한 것을 충실하게 반영하지 않는다고 결론내렸다. 게다가, 재무제표이용자들은 그러한 표시로 인해 혼란스러울 가능성이 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC50",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "더욱이, 기업이 소유주에게 자산을 분배할 때, 기업은 분배될 자산과 관련된 미래경제적효익을 상실하고 그러한 자산들을 제거한다. 그러한 결과는 일반적으로 자산처분의 결과와 유사하다. IFRS(예: IAS 16, IAS 38, IAS 39(주13) 및 IFRS 5)는 기업이 자산의 제거로부터 발생하는 모든 차손익을 당기손익으로 인식하도록 요구한다. IFRS는 또한 그러한 차손익은 자산이 제거될 때 인식하도록 요구한다. 문단 BC42에 언급된 바와 같이, Framework은 재무제표를 작성하는 기업실체의 관점에서 거래효과를 고려하도록 요구한다. 그러한 이유에서, IFRIC은 대변잔액과 자산 제거 차손익은 동일한 방법으로 회계처리 되어야 한다고 결론내렸다. [각주 (주13)] IFRS 9는 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 포함된 모든 항목에 적용한다.",
+      "html": "더욱이, 기업이 소유주에게 자산을 분배할 때, 기업은 분배될 자산과 관련된 미래경제적효익을 상실하고 그러한 자산들을 제거한다. 그러한 결과는 일반적으로 자산처분의 결과와 유사하다. IFRS(예: \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주13)</sup> 및 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>)는 기업이 자산의 제거로부터 발생하는 모든 차손익을 당기손익으로 인식하도록 요구한다. IFRS는 또한 그러한 차손익은 자산이 제거될 때 인식하도록 요구한다. \n  <span class=\"mundan-finder\">문단 BC42</span>에 언급된 바와 같이, \n  <i>Framework</i>은 재무제표를 작성하는 기업실체의 관점에서 거래효과를 고려하도록 요구한다. 그러한 이유에서, IFRIC은 대변잔액과 자산 제거 차손익은 동일한 방법으로 회계처리 되어야 한다고 결론내렸다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주13)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 포함된 모든 항목에 적용한다.           \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": null,
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC42",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "BC42",
+          "paragraph_ids": [
+            "BC42"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주13",
+          "display_text": "(주13)"
+        }
+      ]
+    },
+    {
+      "number": "BC51",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "추가적으로, Framework 문단 92는 ‘ 수익은 자산의 증가나 부채의 감소와 관련하여 미래경제적효익이 증가하고 이를 신뢰성 있게 측정할 수 있을 때 포괄손익계산서에 인식된다’고 언급하고 있다[기울임꼴로 표시된 부분은 강조된 부분임]. 미지급배당을 결제할 때, 부채의 감소가 명확히 존재한다. 따라서 대변잔액은 Framework 문단 92에 따라 당기손익으로 인식되어야 한다. 일부는 소유주에게 자산을 분배할 때, 기업은 추가적인 경제적효익을 받지 않는다고 주장할 수 있다. 문단 BC41에 언급되었듯이, 대변잔액은 기업에 대한 추가적인 경제적효익을 나타내지 않는다. 대신에, 대변잔액은 자산의 보유기간 동안 기업이 얻은 인식되지 않은 경제적효익을 나타낸다.",
+      "html": "추가적으로,   \n  <i>Framework</i> 문단 92는 ‘\n  <i>수익은 자산의 증가나 부채의 감소</i>와 관련하여 미래경제적효익이 증가하고 이를 신뢰성 있게 측정할 수 있을 때 포괄손익계산서에 인식된다’고 언급하고 있다[기울임꼴로 표시된 부분은 강조된 부분임]. 미지급배당을 결제할 때, 부채의 감소가 명확히 존재한다. 따라서 대변잔액은 \n  <i>Framework</i> 문단 92에 따라 당기손익으로 인식되어야 한다. 일부는 소유주에게 자산을 분배할 때, 기업은 추가적인 경제적효익을 받지 않는다고 주장할 수 있다. \n  <span class=\"mundan-finder\">문단 BC41</span>에 언급되었듯이, 대변잔액은 기업에 대한 추가적인 경제적효익을 나타내지 않는다. 대신에, 대변잔액은 자산의 보유기간 동안 기업이 얻은 인식되지 않은 경제적효익을 나타낸다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC41",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "BC41",
+          "paragraph_ids": [
+            "BC41"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC52",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IFRIC은 또한 Framework의 문단 55에서 ‘자산이 갖는 미래경제적효익은 다양한 형태로 기업에 유입될 수 있다. 예를 들면, 다음과 같다. (1) 자산은 기업이 판매하는 재화나 용역의 생산에 개별적으로 또는 그 밖의 자산과 복합적으로 사용된다. (2) 자산은 다른 자산과 교환된다. (3) 자산은 부채를 상환하는 데 사용된다. (4) 자산은 기업의 소유주에게 분배된다.[기울임꼴로 표시된 부분은 강조된 부분임]’라고 언급하고 있음을 주목하였다.",
+      "html": "IFRIC은 또한   \n  \n  <i>Framework</i>의 문단 55에서 ‘자산이 갖는 미래경제적효익은 다양한 형태로 기업에 유입될 수 있다. 예를 들면, 다음과 같다. (1) 자산은 기업이 판매하는 재화나 용역의 생산에 개별적으로 또는 그 밖의 자산과 복합적으로 사용된다. (2) 자산은 다른 자산과 교환된다. (3) 자산은 부채를 상환하는 데 사용된다. (4) \n  \n  <i>자산은 기업의 소유주에게 분배된다</i>.[기울임꼴로 표시된 부분은 강조된 부분임]’라고 언급하고 있음을 주목하였다.\n\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC53",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "이러한 요구사항에 맞게, IFRIC은 D23에서 대변잔액은 당기손익으로 인식되어야 한다고 결론내렸다. 이러한 처리는 소유주에게 비현금자산을 분배하든지 비현금자산을 먼저 매각하고 받은 현금을 소유주에게 분배하든지에 상관없이 동일한 회계결과를 가져온다. D23에 대해 대부분의 의견제출자는 IFRIC의 결론과 근거를 지지하였다.",
+      "html": "이러한 요구사항에 맞게, IFRIC은 D23에서 대변잔액은 당기손익으로 인식되어야 한다고 결론내렸다. 이러한 처리는 소유주에게 비현금자산을 분배하든지 비현금자산을 먼저 매각하고 받은 현금을 소유주에게 분배하든지에 상관없이 동일한 회계결과를 가져온다. D23에 대해 대부분의 의견제출자는 IFRIC의 결론과 근거를 지지하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC54",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "일부 IFRIC 위원은 분배를 소유주와의 단일거래로서 처리하는 것이 보다 적절하므로 대변잔액을 자본에 직접 인식하는 것이 보다 적절하다고 믿었다. 이러한 대체적인 견해가 D23에 포함되었고 이에 대해 외부검토의견을 특별히 요청하였다. 그러나 이러한 견해는 의견제출자들에 의해 지지받지 못하였다. 자본에 직접 인식되려면, 대변잔액은 IAS 1에 따라 소유주 자본변동으로 고려되어야 한다. IFRIC은 대변잔액은 분배거래로부터 발생하지 않는다고 결정하였다. 오히려 대변잔액은 자산의 가치 증가를 나타낸다. 자산의 가치 증가는 IAS 1에 따라 소유주 자본변동의 정의를 충족하지 않는다. 오히려 수익의 정의를 충족하며 당기손익으로 인식되어야 한다.",
+      "html": "일부 IFRIC 위원은 분배를 소유주와의 단일거래로서 처리하는 것이 보다 적절하므로 대변잔액을 자본에 직접 인식하는 것이 보다 적절하다고 믿었다. 이러한 대체적인 견해가 D23에 포함되었고 이에 대해 외부검토의견을 특별히 요청하였다. 그러나 이러한 견해는 의견제출자들에 의해 지지받지 못하였다. 자본에 직접 인식되려면, 대변잔액은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>에 따라 소유주 자본변동으로 고려되어야 한다. IFRIC은 대변잔액은 분배거래로부터 발생하지 않는다고 결정하였다. 오히려 대변잔액은 자산의 가치 증가를 나타낸다. 자산의 가치 증가는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>에 따라 소유주 자본변동의 정의를 충족하지 않는다. 오히려 수익의 정의를 충족하며 당기손익으로 인식되어야 한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC55",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "IFRIC은 분배될 자산을 장부금액으로 측정하면서 미지급배당은 공정가치로 측정함에 따른 자본에서의 잠재적 ‘회계불일치’에 대한 의견제출자들의 우려를 인식하였다. 그에 따라 IFRIC은 분배될 자산의 공정가치 측정을 IFRS 5가 요구하도록 IASB에게 개정을 권고하여야 하는지를 고려하였다.",
+      "html": "IFRIC은 분배될 자산을 장부금액으로 측정하면서 미지급배당은 공정가치로 측정함에 따른 자본에서의 잠재적 ‘회계불일치’에 대한 의견제출자들의 우려를 인식하였다. 그에 따라 IFRIC은 분배될 자산의 공정가치 측정을 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>가 요구하도록 IASB에게 개정을 권고하여야 하는지를 고려하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC56",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "일반적으로, IFRS는 거래나 손상의 결과로만 자산의 재측정을 허용한다. 이에 대한 예외로는 IFRS가 IAS 39와 IAS 41에서 지속적인 현행 측정을 규정하거나, IAS 16, IAS 38 및 IAS 40에서 회계정책의 선택으로 허용하는 경우가 있다. 재심의 결과, IFRIC은 자산의 분배결정을 이유로 재측정을 요구하는 것은 IFRS에 근거가 없다고 결론내렸다. IFRIC은 우려하는 불일치는 아직 공정가치를 장부금액으로 하지 않는 자산과 관련하여서만 발생한다고 보았다. IFRIC은 회계불일치는 서로 다른 자산과 부채의 재측정을 위하여, 상이한 시점에 상이한 이유에서 상이한 측정속성을 사용하고 있는 IFRS의 불가피한 귀결로 보았다.",
+      "html": "일반적으로, IFRS는 거래나 손상의 결과로만 자산의 재측정을 허용한다. 이에 대한 예외로는 IFRS가 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>와 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">IAS 41</span></div>에서 지속적인 현행 측정을 규정하거나, \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>, \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div> 및 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">투자부동산</span><span class=\"std-finder\">IAS 40</span></div>에서 회계정책의 선택으로 허용하는 경우가 있다. 재심의 결과, IFRIC은 자산의 분배결정을 이유로 재측정을 요구하는 것은 IFRS에 근거가 없다고 결론내렸다. IFRIC은 우려하는 불일치는 아직 공정가치를 장부금액으로 하지 않는 자산과 관련하여서만 발생한다고 보았다. IFRIC은 회계불일치는 서로 다른 자산과 부채의 재측정을 위하여, 상이한 시점에 상이한 이유에서 상이한 측정속성을 사용하고 있는 IFRS의 불가피한 귀결로 보았다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": null,
+          "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": null,
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": null,
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 40",
+          "standard_number": null,
+          "standard_title": "투자부동산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC57",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "만일 사업이 분배된다면, 공정가치는 분배될 사업의 공정가치를 의미한다. 따라서 공정가치는 영업권과 무형자산을 포함한다. 그러나 내부적으로 창출된 영업권은 자산으로 인식하는 것이 허용되지 않는다(IAS 38 문단 48). 내부적으로 창출된 브랜드, 제호, 출판표제, 고객 목록 및 이와 실질이 유사한 항목은 무형자산으로 인식하지 아니한다(IAS 38 문단 63). IAS 38에 따라 내부적으로 창출된 무형자산의 장부금액은 일반적으로 기업에 의해 발생된 지출의 합계액까지 제한된다. 결과적으로, 사업인 자산의 재측정을 규정한다면 IAS 38의 관련 규정과 모순될 수 있다.",
+      "html": "만일 사업이 분배된다면, 공정가치는 분배될 사업의 공정가치를 의미한다. 따라서 공정가치는 영업권과 무형자산을 포함한다. 그러나 내부적으로 창출된 영업권은 자산으로 인식하는 것이 허용되지 않는다(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 48</span>). 내부적으로 창출된 브랜드, 제호, 출판표제, 고객 목록 및 이와 실질이 유사한 항목은 무형자산으로 인식하지 아니한다(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 63</span>). \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에 따라 내부적으로 창출된 무형자산의 장부금액은 일반적으로 기업에 의해 발생된 지출의 합계액까지 제한된다. 결과적으로, 사업인 자산의 재측정을 규정한다면 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>의 관련 규정과 모순될 수 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": null,
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": null,
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": null,
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": null,
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 48",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "48",
+          "paragraph_ids": [
+            "48"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 63",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "63",
+          "paragraph_ids": [
+            "63"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC58",
+      "section_id": "Ahrceq",
+      "section_title": "기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|기업이 미지급배당을 결제하는 경우, 분배될 자산의 장부금액과 미지급배당의 장부금액의 차이를 어떻게 회계처리 하여야 하는가?(문단 14)",
+      "text": "다른 IFRS와의 일관성 결여뿐만 아니라, 더 나아가 IFRS 5를 이 방향(즉, 소유주에게 분배예정인 자산을 공정가치로 재측정하도록 요구하는 것)으로 변경하는 것은 IFRS 5내에서의 불일치를 야기할 것이다. IFRS 5가 매각예정자산은 순공정가치와 장부금액 중 작은 금액으로 측정하지만, 소유주에게 분배할 자산은 공정가치로 측정하도록 요구할 수 있는 이유를 설명할 수 있는 합리적인 근거는 없다. IFRIC은 또한 이러한 ‘불일치’는 보통 미지급배당이 인식되는 시점과 결제되는 시점 사이의 짧은 기간에만 발생하는 것으로 보았다. 이 기간의 길이는 흔히 경영진의 통제 안에 있을 것이다. 따라서 IFRIC은 IASB에게 분배예정자산을 공정가치로 측정할 것을 요구하도록 IFRS 5를 개정하는 것을 권고하지 않기로 결정하였다.",
+      "html": "다른 IFRS와의 일관성 결여뿐만 아니라, 더 나아가 IFRS 5를 이 방향(즉, 소유주에게 분배예정인 자산을 공정가치로 재측정하도록 요구하는 것)으로 변경하는 것은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>내에서의 불일치를 야기할 것이다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>가 매각예정자산은 순공정가치와 장부금액 중 작은 금액으로 측정하지만, 소유주에게 분배할 자산은 공정가치로 측정하도록 요구할 수 있는 이유를 설명할 수 있는 합리적인 근거는 없다. IFRIC은 또한 이러한 ‘불일치’는 보통 미지급배당이 인식되는 시점과 결제되는 시점 사이의 짧은 기간에만 발생하는 것으로 보았다. 이 기간의 길이는 흔히 경영진의 통제 안에 있을 것이다. 따라서 IFRIC은 IASB에게 분배예정자산을 공정가치로 측정할 것을 요구하도록 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>를 개정하는 것을 권고하지 않기로 결정하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC59",
+      "section_id": "9hlE9l",
+      "section_title": "IFRS 5의 개정",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|IFRS 5의 개정",
+      "text": "IFRS 5는 비유동자산(또는 처분자산집단)의 장부금액이 계속 사용이 아닌 매각거래를 통하여 주로 회수될 것이라면 이를 매각예정으로 분류하도록 요구한다. IFRS 5는 또한 중단영업의 표시와 공시에 관한 요구사항을 정하고 있다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>는 비유동자산(또는 처분자산집단)의 장부금액이 계속 사용이 아닌 매각거래를 통하여 주로 회수될 것이라면 이를 매각예정으로 분류하도록 요구한다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>는 또한 중단영업의 표시와 공시에 관한 요구사항을 정하고 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC60",
+      "section_id": "9hlE9l",
+      "section_title": "IFRS 5의 개정",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|IFRS 5의 개정",
+      "text": "기업이 소유주에게 자산을 분배할 의무를 갖고 있는 경우, 그 자산의 장부금액은 더 이상 주로 계속 사용을 통하여 회수될 수는 없을 것이다. IFRIC은 IFRS 5에 의해 요구되는 정보는 거래의 형식에 상관없이 재무제표이용자들에게 중요하다고 결정하였다. 따라서 IFRIC은 매각예정으로 분류된 비유동자산(또는 처분자산집단)과 중단영업에 적용가능한 IFRS 5의 요구사항은 또한 소유주에 대한 분배예정자산(또는 처분자산집단)에도 적용하여야 한다고 결론내렸다.",
+      "html": "기업이 소유주에게 자산을 분배할 의무를 갖고 있는 경우, 그 자산의 장부금액은 더 이상 주로 계속 사용을 통하여 회수될 수는 없을 것이다. IFRIC은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>에 의해 요구되는 정보는 거래의 형식에 상관없이 재무제표이용자들에게 중요하다고 결정하였다. 따라서 IFRIC은 매각예정으로 분류된 비유동자산(또는 처분자산집단)과 중단영업에 적용가능한 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>의 요구사항은 또한 소유주에 대한 분배예정자산(또는 처분자산집단)에도 적용하여야 한다고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC61",
+      "section_id": "9hlE9l",
+      "section_title": "IFRS 5의 개정",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|IFRS 5의 개정",
+      "text": "그러나 IFRIC은 IFRS 5를 소유주에게 분배예정인 비유동자산(처분자산집단)에 적용할 것을 요구하는 것은 IFRS 5의 개정을 필요로 한다고 결론내렸다. 이는 IFRIC의 견해에 따르면, 현행 IFRS 5는 매각예정인 비유동자산(처분자산집단)에만 적용되기 때문이다.",
+      "html": "그러나 IFRIC은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>를 소유주에게 분배예정인 비유동자산(처분자산집단)에 적용할 것을 요구하는 것은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>의 개정을 필요로 한다고 결론내렸다. 이는 IFRIC의 견해에 따르면, 현행 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>는 매각예정인 비유동자산(처분자산집단)에만 적용되기 때문이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC62",
+      "section_id": "9hlE9l",
+      "section_title": "IFRS 5의 개정",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|IFRS 5의 개정",
+      "text": "2007년 12월 회의에서 IASB는 IFRIC의 제안을 논의하였다. IASB는 소유주에게 분배예정인 비유동자산을 매각예정자산처럼 적용할 수 있도록 IFRS 5를 개정하여야 한다는 IFRIC의 결론에 동의하였다. 그러나 IASB는 매각가능성이 매우 높고 기업이 매각계획을 확약할 때 비유동자산을 매각예정으로 분류할 것을 IFRS 5가 요구하고 있음을 주목하였다[기울임꼴로 표시된 부분은 강조된 부분임]. 결과적으로 IASB는 IFRIC에게 다음의 질문에 대한 외부검토의견을 요청하도록 지시하였다. (1) 분배하기로 확약하는 시점과 관련 자산을 분배하는 의무를 부담하는 시점 중 언제 IFRS 5를 적용하여야 하는가? (2) 상기한 두 시점에 차이가 있는가? (3) 의견제출자들이 그러한 시점에 차이가 있고 기업이 IFRS 5를 확약시점에 적용하여야 한다고 믿는다면, 그 차이는 무엇인가? 기업이 그러한 시점을 결정하는 것을 돕는 어떤 지표가 IFRS 5에 포함되어야 하는가?",
+      "html": "2007년 12월 회의에서 IASB는 IFRIC의 제안을 논의하였다. IASB는 소유주에게 분배예정인 비유동자산을 매각예정자산처럼 적용할 수 있도록 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>를 개정하여야 한다는 IFRIC의 결론에 동의하였다. 그러나 IASB는 매각가능성이 매우 높고 기업이 매각계획을 \n  \n  <i>확약</i>할 때 비유동자산을 매각예정으로 분류할 것을 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>가 요구하고 있음을 주목하였다[기울임꼴로 표시된 부분은 강조된 부분임]. 결과적으로 IASB는 IFRIC에게 다음의 질문에 대한 외부검토의견을 요청하도록 지시하였다.\n\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 분배하기로 확약하는 시점과 관련 자산을 분배하는 의무를 부담하는 시점 중 언제 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>를 적용하여야 하는가?\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 상기한 두 시점에 차이가 있는가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 의견제출자들이 그러한 시점에 차이가 있고 기업이 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>를 확약시점에 적용하여야 한다고 믿는다면, 그 차이는 무엇인가? 기업이 그러한 시점을 결정하는 것을 돕는 어떤 지표가 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>에 포함되어야 하는가?        \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC63",
+      "section_id": "9hlE9l",
+      "section_title": "IFRS 5의 개정",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|IFRS 5의 개정",
+      "text": "접수된 외부검토의견을 근거로, IFRIC은 많은 국가에서 분배를 하는 데 주주의 승인이 요구된다고 보았다. 그러므로 그러한 국가에서는 확약시점(즉, 경영진이 배당할 것을 확약하는 시점)과 의무시점(즉, 주주에 의해 배당이 승인되는 시점) 간에 차이가 있을 수 있다. 반면에 일부 의견제출자들은 분배에 주주의 승인이 요구되는 경우, 기업이 승인을 얻을 때까지는 확약할 수 없다고 생각한다. 그러한 경우에는 두 시점 간에 차이가 없을 것이다.",
+      "html": "접수된 외부검토의견을 근거로, IFRIC은 많은 국가에서 분배를 하는 데 주주의 승인이 요구된다고 보았다. 그러므로 그러한 국가에서는 확약시점(즉, 경영진이 배당할 것을 확약하는 시점)과 의무시점(즉, 주주에 의해 배당이 승인되는 시점) 간에 차이가 있을 수 있다. 반면에 일부 의견제출자들은 분배에 주주의 승인이 요구되는 경우, 기업이 승인을 얻을 때까지는 확약할 수 없다고 생각한다. 그러한 경우에는 두 시점 간에 차이가 없을 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC64",
+      "section_id": "9hlE9l",
+      "section_title": "IFRS 5의 개정",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|IFRS 5의 개정",
+      "text": "IFRIC은 자산이 현 상태로 즉시 분배가 가능하고 분배 가능성이 매우 높을 때 IFRS 5가 확약시점에 적용되어야 한다고 결론내렸다. 분배 가능성이 매우 높기 위해서는, 매각예정자산에 대해 요구되는 것과 실질적으로 동일한 조건을 충족하여야 한다. 추가적으로 IFRIC은 주주의 승인(그러한 승인이 요구되는 국가의 경우) 가능성은 분배 가능성이 매우 높은지 여부에 대한 검토의 일부로 고려되어야 한다고 결론내렸다. IFRIC은 주주 승인은 또한 일부 국가에서는 자산의 매각에도 요구된다고 보았고 그러한 승인의 가능성에 대한 유사한 고려가 매각예정자산에 대해 요구되어야 한다고 결론내렸다.",
+      "html": "IFRIC은 자산이 현 상태로 즉시 분배가 가능하고 분배 가능성이 매우 높을 때 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>가 확약시점에 적용되어야 한다고 결론내렸다. 분배 가능성이 매우 높기 위해서는, 매각예정자산에 대해 요구되는 것과 실질적으로 동일한 조건을 충족하여야 한다. 추가적으로 IFRIC은 주주의 승인(그러한 승인이 요구되는 국가의 경우) 가능성은 분배 가능성이 매우 높은지 여부에 대한 검토의 일부로 고려되어야 한다고 결론내렸다. IFRIC은 주주 승인은 또한 일부 국가에서는 자산의 매각에도 요구된다고 보았고 그러한 승인의 가능성에 대한 유사한 고려가 매각예정자산에 대해 요구되어야 한다고 결론내렸다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC65",
+      "section_id": "9hlE9l",
+      "section_title": "IFRS 5의 개정",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|IFRS 5의 개정",
+      "text": "IASB는 IFRIC의 결론에 동의하고 이 해석서에 대한 승인의 일부로서 IFRS 5를 개정하였다.",
+      "html": "IASB는 IFRIC의 결론에 동의하고 이 해석서에 대한 승인의 일부로서 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>를 개정하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC66",
+      "section_id": "fvUoVL",
+      "section_title": "해석서 공개초안에 대한 변경 요약",
+      "toc_path": "결론도출근거|IFRIC 17 ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)의 결론도출근거|해석서 공개초안에 대한 변경 요약",
+      "text": "IFRIC의 제안서 D23의 제안에 대한 주요 변경사항은 다음과 같다. (1)문단 3~8이 이 해석서의 적용범위를 명확히 하기 위해 수정되었다. (2)문단 10은 언제 미지급배당을 인식하는지를 명확히 한다. (3)문단 11~13은 공정가치가 모든 개별 기준서에 가장 적합한 측정속성이라는 IFRIC의 결론과 연계시키지 않고 미지급배당이 분배될 자산의 공정가치로 측정하도록 요구하는 것으로 수정되었다. (4) 적용사례는 이 해석서의 적용범위를 명확하게 하기 위해 확장되었다. (5) 이 해석서는 IFRS 5와 IAS 10의 개정을 포함하고 있다. (6) IFRIC의 결론에 대한 이유를 좀 더 명확하게 보이기 위해 결론도출근거를 변경하였다.",
+      "html": "IFRIC의 제안서 D23의 제안에 대한 주요 변경사항은 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 3~8</span>이 이 해석서의 적용범위를 명확히 하기 위해 수정되었다.\n    \n    \n    \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 10</span>은 언제 미지급배당을 인식하는지를 명확히 한다.\n    \n    \n    \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 11~13</span>은 공정가치가 모든 개별 기준서에 가장 적합한 측정속성이라는 IFRIC의 결론과 연계시키지 않고 미지급배당이 분배될 자산의 공정가치로 측정하도록 요구하는 것으로 수정되었다. \n    \n    \n    \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 적용사례는 이 해석서의 적용범위를 명확하게 하기 위해 확장되었다. </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\"> 이 해석서는 \n  \n      \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>와 \n  \n      \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보고기간후사건</span><span class=\"std-finder\">IAS 10</span></div>의 개정을 포함하고 있다.\n    \n    \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(6)</div><div class=\"para-num-item-para-con\"> IFRIC의 결론에 대한 이유를 좀 더 명확하게 보이기 위해 결론도출근거를 변경하였다.</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": null,
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 10",
+          "standard_number": null,
+          "standard_title": "보고기간후사건",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3~8",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "3~8",
+          "paragraph_ids": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 10",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "10",
+          "paragraph_ids": [
+            "10"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 11~13",
+          "standard_number": "2117",
+          "standard_title": null,
+          "range": "11~13",
+          "paragraph_ids": [
+            "11",
+            "12",
+            "13"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2117호와 국제재무보고기준해석 제17호(IFRIC 17) 기업회계기준해석서 제2117호는 국제재무보고기준해석위원회(International Financial Reporting Interpretations Committee: IFRIC)가 제정한 국제재무보고기준해석 제17호(IFRIC 17) ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)'에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한18.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 해석서를 적용하게 됨에 따라 시행일 및 경과규정과 관련된 문단 18이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제재무보고기준해석 제17호(IFRIC 17)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2117호가 IFRIC 17의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2117호를 준수하면 동시에 IFRIC 17을 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2117호와 국제재무보고기준해석 제17호(IFRIC 17)</h3>\n<p>기업회계기준해석서 제2117호는 국제재무보고기준해석위원회(International Financial Reporting Interpretations Committee: IFRIC)가 제정한 국제재무보고기준해석 제17호(IFRIC 17) ‘소유주에 대한 비현금자산의 분배(Distributions of Non-cash Assets to Owners)'에 대응하는 해석이다.</p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한18.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 해석서를 적용하게 됨에 따라 시행일 및 경과규정과 관련된 문단 18이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제재무보고기준해석 제17호(IFRIC 17)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2117호가 IFRIC 17의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2117호를 준수하면 동시에 IFRIC 17을 준수하는 것이 된다.</p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 ‘소유주에 대한 비현금자산의 분배’에 대한 지침을 제공하고 있다. ### 1. 회계논제 ### 2. 결론 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 ‘소유주에 대한 비현금자산의 분배’에 대한 지침을 제공하고 있다.</p>\n<h3>1. 회계논제</h3>\n<h3>2. 결론</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.\n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2009. 6.12. 제정 | 소유주에 대한 비현금자산의 분배 | IFRIC 17 Distributions of Non-cash Assets to Owners |\n\n이 해석서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다.\n\n| 제․개정일자 | 타 기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2018.11.14. 개정 | 한국채택국제회계기준에서 개념체계의 참조에 대한 개정 | Amendments to References to the Conceptual Framework in IFRS Standards |\n| 2015.11. 6. 제정 | 기업회계기준서 제1115호 고객과의 계약에서 생기는 수익 | IFRS 15 Revenue from Contracts with Customers |\n| 2015. 9.25. 제정 | 기업회계기준서 제1109호 금융상품 | IFRS 9 Financial Instruments |\n| 2011.11.18. 제정 | 기업회계기준서 제1110호 연결재무제표 | IFRS 10 Consolidated Financial Statements |\n| 2011.11.18. 제정 | 기업회계기준서 제1113호 공정가치측정 | IFRS 13 Fair Value Measurement |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 191px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 49px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2009. 6.12. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 191px; height: 49px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle1\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">소유주에 대한 비현금자산의 분배</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 49px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRIC 17 Distributions of Non-cash Assets to Owners</span></p></td></tr></tbody></table>\n<p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">이 해석서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">타 기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2018.11.14. 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">한국채택국제회계기준에서 개념체계의 참조에 대한 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">Amendments to References to the Conceptual Framework in IFRS Standards</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2015.11. 6. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1115호 고객과의 계약에서 생기는 수익</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 15 Revenue from Contracts with Customers</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 42px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2015. 9.25. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 42px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1109호 금융상품</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 42px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 9 Financial Instruments</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2011.11.18. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1110호 연결재무제표</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 10 Consolidated Financial Statements</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 48px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2011.11.18. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 48px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1113호 공정가치측정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 48px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 13 Fair Value Measurement</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1001": [
+      "1",
+      "2"
+    ],
+    "1103": [
+      "3",
+      "6",
+      "한18.1"
+    ],
+    "1105": [
+      "3",
+      "한18.1"
+    ],
+    "1110": [
+      "7",
+      "19",
+      "IE4"
+    ],
+    "1113": [
+      "17",
+      "20"
+    ],
+    "1027": [
+      "한18.1"
+    ],
+    "1111": [
+      "19"
+    ]
+  },
+  "qna_index": {
+    "2023-I-KQA006": [
+      "10"
+    ],
+    "201301B": [
+      "14"
+    ],
+    "2020-FSSQA09": [
+      "BC4",
+      "BC6"
+    ],
+    "2022-I-KQA003": [
+      "BC4",
+      "BC6"
+    ],
+    "SSI-202412034": [
+      "BC6"
+    ]
+  }
+}

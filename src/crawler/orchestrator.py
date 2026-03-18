@@ -27,7 +27,7 @@ from typing import Optional
 from playwright.async_api import Page
 
 from src.config import (
-    BASE_URL, KIFRS_STANDARDS, KIFRIC_STANDARDS, CONCEPTUAL_FRAMEWORK,
+    BASE_URL, KIFRS_STANDARDS, KIFRIC_STANDARDS, CONCEPTUAL_FRAMEWORK, SPECIAL_DOCUMENTS,
     INTER_STANDARD_DELAY, MAX_RETRIES, RETRY_DELAYS,
 )
 from src.models import CrossReference, Paragraph, QnAReference, Standard, TocItem
@@ -44,35 +44,62 @@ def _get_standard_type(standard_id: str) -> str:
 
     반환 규칙:
         - "CF" → "개념체계"
+        - "MC", "MP" → "번역서"
+        - "AO" → "적용의견서"
         - "1XXX" (첫 자리 1) → "기업회계기준서"
-        - "2XXX", "4XXX" (첫 자리 2 또는 4) → "기업회계기준해석서"
+        - "2XXX" (첫 자리 2) → "기업회계기준해석서"
         - 그 외 → "기타"
 
     Args:
-        standard_id: 기준서 번호 문자열 (예: "1001", "2101", "CF").
+        standard_id: 기준서 번호 문자열 (예: "1001", "2101", "CF", "AO").
 
     Returns:
         유형 문자열 (예: "기업회계기준서").
     """
-    if standard_id == "CF":
-        return "개념체계"
+    # 특수문서 유형 매핑
+    SPECIAL_TYPE_MAP = {
+        "CF": "개념체계",
+        "MC": "번역서",
+        "MP": "번역서",
+        "AO": "적용의견서",
+    }
+    if standard_id in SPECIAL_TYPE_MAP:
+        return SPECIAL_TYPE_MAP[standard_id]
     prefix = standard_id[:1]
     if prefix == "1":
         return "기업회계기준서"
-    if prefix in ("2", "4"):
+    if prefix == "2":
         return "기업회계기준해석서"
     return "기타"
 
 
 def _get_standard_url(standard_id: str) -> str:
-    """기준서 ID로 URL을 생성합니다."""
-    return f"{BASE_URL}/s/{standard_id}"
+    """기준서 ID로 URL을 생성합니다.
+
+    논리 ID와 사이트 내부 ID가 다른 경우 INTERNAL_ID_MAP으로 변환합니다.
+    - CF → /s/1000 (개념체계)
+    - MC → /s/1191 (경영진설명서)
+    - MP → /s/1192 (중요성판단)
+    - AO → /s/10121 (적용의견서)
+    """
+    # 논리 ID → 사이트 내부 ID 매핑
+    INTERNAL_ID_MAP = {
+        "CF": "1000",
+        "MC": "1191",
+        "MP": "1192",
+        "AO": "10121",
+    }
+    internal_id = INTERNAL_ID_MAP.get(standard_id, standard_id)
+    return f"{BASE_URL}/s/{internal_id}"
 
 
-async def _extract_standard_title(page: Page) -> str:
+async def _extract_standard_title(page: Page, standard_id: str = "") -> str:
     """
     현재 페이지에서 기준서 제목을 추출합니다.
     사이트에서 제목은 "1001 - 재무제표 표시" 형태의 span에 있습니다.
+
+    적용의견서(AO/10121) 등 특수문서는 번호-제목 패턴이 없으므로
+    페이지 상단 h1/h2 또는 첫 번째 의미있는 제목 텍스트를 fallback으로 사용합니다.
     """
     title = await page.evaluate("""
         () => {
@@ -82,9 +109,26 @@ async def _extract_standard_title(page: Page) -> str:
             for (const el of allEls) {
                 const text = el.textContent?.trim() || '';
                 // "1001 - 재무제표 표시" 또는 "CF - 재무보고를 위한 개념체계" 형태
-                const match = text.match(/^([0-9]{4}|CF)\\s*-\\s*(.+)$/);
+                const match = text.match(/^([0-9]{4,5}|CF)\\s*-\\s*(.+)$/);
                 if (match && text.length < 100 && el.children.length === 0) {
                     return match[2].trim();
+                }
+            }
+            // 패턴 2 (CF fallback): 번호 없이 "재무보고를 위한 개념체계" 형태의 span
+            // CF 페이지는 내부 ID 1000으로 접근하므로 "1000 - ..." 패턴이 없을 수 있음
+            const cfEl = allEls.find(el => {
+                const text = el.textContent?.trim() || '';
+                return text === '재무보고를 위한 개념체계' && el.children.length === 0;
+            });
+            if (cfEl) return cfEl.textContent.trim();
+            // 패턴 3 (특수문서 fallback): h1 또는 h2의 첫 번째 의미있는 텍스트
+            // 적용의견서(10121) 등 번호-제목 패턴이 없는 문서용
+            const headings = Array.from(document.querySelectorAll('h1, h2'));
+            for (const h of headings) {
+                const text = h.textContent?.trim() || '';
+                // "공유하기" 등 UI 버튼 텍스트 제외
+                if (text && text.length > 2 && text.length < 100 && !text.includes('공유하기')) {
+                    return text;
                 }
             }
             return '';
@@ -238,8 +282,13 @@ async def crawl_standard(
         logger.error("기준서 페이지 이동 실패: %s", url)
         return None
 
-    # 2. 기준서 제목 추출
-    title = await _extract_standard_title(page)
+    # 2. 기준서 제목 추출 (특수문서는 standard_id 전달로 fallback 활성화)
+    title = await _extract_standard_title(page, standard_id)
+    # 제목 추출 실패 시 SPECIAL_DOCUMENTS 설정값 사용
+    if title == "제목 미확인":
+        special_doc = next((d for d in SPECIAL_DOCUMENTS if d["id"] == standard_id), None)
+        if special_doc:
+            title = special_doc["title"]
     logger.info("제목: %s", title)
 
     # 3. TOC 파싱
@@ -247,11 +296,15 @@ async def crawl_standard(
     logger.info("TOC 항목 수: %d (트리 루트: %d개)", len(flat_items), len(toc_tree))
 
     # 4. 실제 섹션 목록 추출 (level 2 이상)
-    sections = get_toc_sections(flat_items)
+    # CF(개념체계)는 부모 섹션 페이지에 고유 도입 문단이 있으므로 부모도 포함
+    include_parents = (standard_id == "CF")
+    sections = get_toc_sections(flat_items, include_parents=include_parents)
     logger.info("파싱할 섹션 수: %d개", len(sections))
 
     if not sections:
         logger.warning("섹션을 찾을 수 없습니다: %s", standard_id)
+        checkpoint.mark_standard_failed(standard_id, "섹션 없음 — URL 또는 파싱 오류")
+        return None
 
     # 5. 섹션별 문단 파싱
     all_paragraphs: list[Paragraph] = []
@@ -375,7 +428,13 @@ async def crawl_all(
     if target_standard:
         all_standards = [target_standard]
     else:
-        all_standards = KIFRS_STANDARDS + KIFRIC_STANDARDS + CONCEPTUAL_FRAMEWORK
+        # 기준서 + 해석서 + 개념체계 + 특수문서(경영진설명서, 중요성판단, 적용의견서)
+        all_standards = (
+            KIFRS_STANDARDS
+            + KIFRIC_STANDARDS
+            + CONCEPTUAL_FRAMEWORK
+            + [d["id"] for d in SPECIAL_DOCUMENTS]
+        )
 
     logger.info("크롤링 대상: %d개 기준서", len(all_standards))
 

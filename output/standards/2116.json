@@ -1,0 +1,2188 @@
+{
+  "standard_id": "2116",
+  "standard_type": "기업회계기준해석서",
+  "title": "해외사업장순투자의 위험회피",
+  "url": "https://db.kasb.or.kr/s/2116",
+  "crawled_at": "2026-03-18T03:33:35.255460+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2116/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2116/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "O98Ovl",
+          "href": "/s/2116/O98Ovl",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "배경",
+          "section_id": "RenEHQ",
+          "href": "/s/2116/RenEHQ",
+          "paragraph_range": "1 ~ 6",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "iROd7J",
+          "href": "/s/2116/iROd7J",
+          "paragraph_range": "한7.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "nn6CYF",
+          "href": "/s/2116/nn6CYF",
+          "paragraph_range": "7 ~ 8",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "h9is0c",
+          "href": "/s/2116/h9is0c",
+          "paragraph_range": "9",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "HFEwSr",
+          "href": "/s/2116/HFEwSr",
+          "paragraph_range": "10 ~ 17",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+              "section_id": "oC7BwD",
+              "href": "/s/2116/oC7BwD",
+              "paragraph_range": "10 ~ 13",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "위험회피수단을 보유할 수 있는 기업",
+              "section_id": "67TB4G",
+              "href": "/s/2116/67TB4G",
+              "paragraph_range": "14 ~ 15",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "위험회피된 해외사업장의 처분",
+              "section_id": "wGyHZj",
+              "href": "/s/2116/wGyHZj",
+              "paragraph_range": "16 ~ 17",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "8kr8Ra",
+          "href": "/s/2116/8kr8Ra",
+          "paragraph_range": "18 ~ 18B",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "경과규정",
+          "section_id": "4Yzqx6",
+          "href": "/s/2116/4Yzqx6",
+          "paragraph_range": "19",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1.5,
+      "title": "부록. 적용지침",
+      "section_id": "WvrtZP",
+      "href": "/s/2116/WvrtZP",
+      "paragraph_range": "AG1 ~ AG15",
+      "children": [
+        {
+          "level": 3.0,
+          "title": "위험회피관계로 지정할 수 있는 회피대상위험의 성격(문단 10~13)",
+          "section_id": "aq7IB4",
+          "href": "/s/2116/aq7IB4",
+          "paragraph_range": "AG2",
+          "children": []
+        },
+        {
+          "level": 3.0,
+          "title": "위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+          "section_id": "vFMVub",
+          "href": "/s/2116/vFMVub",
+          "paragraph_range": "AG3 ~ AG6",
+          "children": []
+        },
+        {
+          "level": 3.0,
+          "title": "연결실체내의 어느 기업이 위험회피수단을 보유할 수 있는가(문단 14와 15)?",
+          "section_id": "6duUe5",
+          "href": "/s/2116/6duUe5",
+          "paragraph_range": "AG7",
+          "children": []
+        },
+        {
+          "level": 3.0,
+          "title": "해외사업장의 처분 시 당기손익으로 재분류되는 금액(문단 16과 17)",
+          "section_id": "WtXMAh",
+          "href": "/s/2116/WtXMAh",
+          "paragraph_range": "AG8",
+          "children": []
+        },
+        {
+          "level": 3.0,
+          "title": "하나 이상의 해외사업장을 위험회피하는 경우(문단 11, 13 및 15)",
+          "section_id": "yOILv3",
+          "href": "/s/2116/yOILv3",
+          "paragraph_range": "AG9 ~ AG15",
+          "children": [
+            {
+              "level": 4.0,
+              "title": "지배기업이 미국 달러화와 영국 파운드화에 대한 위험회피수단을 모두 보유하는 경우",
+              "section_id": "91dWfj",
+              "href": "/s/2116/91dWfj",
+              "paragraph_range": "AG10 ~ AG12",
+              "children": []
+            },
+            {
+              "level": 4.0,
+              "title": "종속기업 B가 미국 달러화 위험회피수단을 보유하는 경우",
+              "section_id": "zWZeGg",
+              "href": "/s/2116/zWZeGg",
+              "paragraph_range": "AG13 ~ AG15",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2116호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "nvNc00",
+          "href": "/s/2116/nvNc00",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "적용사례 실무적용지침",
+      "section_id": "50d7f1b3",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "기업회계기준해석서 제2116호 ‘해외사업장순투자의 위험회피’의 적용사례",
+          "section_id": "qSjgiH",
+          "href": "/s/2116/qSjgiH",
+          "paragraph_range": "IE1 ~ IE5",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "해외사업장의 처분(문단 16과17)",
+              "section_id": "5lchoN",
+              "href": "/s/2116/5lchoN",
+              "paragraph_range": "IE1 ~ IE5",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "배경",
+                  "section_id": "osMMKD",
+                  "href": "/s/2116/osMMKD",
+                  "paragraph_range": "IE2 ~ IE5",
+                  "children": [
+                    {
+                      "level": 4.0,
+                      "title": "재분류",
+                      "section_id": "JggX2i",
+                      "href": "/s/2116/JggX2i",
+                      "paragraph_range": "IE5",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2116/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거",
+          "section_id": "ozIl8U",
+          "href": "/s/2116/ozIl8U",
+          "paragraph_range": "BC1 ~ BC41",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "도입",
+              "section_id": "zSTgc6",
+              "href": "/s/2116/zSTgc6",
+              "paragraph_range": "BC1",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "배경",
+              "section_id": "94O8Tv",
+              "href": "/s/2116/94O8Tv",
+              "paragraph_range": "BC2 ~ BC5",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "결론",
+              "section_id": "CBZdd0",
+              "href": "/s/2116/CBZdd0",
+              "paragraph_range": "BC6 ~ BC41",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "회피대상위험과 위험회피대상항목",
+                  "section_id": "m6zDt6",
+                  "href": "/s/2116/m6zDt6",
+                  "paragraph_range": "BC6 ~ BC21",
+                  "children": [
+                    {
+                      "level": 4.0,
+                      "title": "기능통화 대 표시통화(문단 10)",
+                      "section_id": "F1XXmE",
+                      "href": "/s/2116/F1XXmE",
+                      "paragraph_range": "BC6 ~ BC14",
+                      "children": []
+                    },
+                    {
+                      "level": 4.0,
+                      "title": "적용조건을 충족하는 위험(문단 12)",
+                      "section_id": "Aecdiu",
+                      "href": "/s/2116/Aecdiu",
+                      "paragraph_range": "BC15 ~ BC18",
+                      "children": []
+                    },
+                    {
+                      "level": 4.0,
+                      "title": "위험회피될 수 있는 위험회피대상항목의 금액(문단 11과 13)",
+                      "section_id": "V5PeaU",
+                      "href": "/s/2116/V5PeaU",
+                      "paragraph_range": "BC19 ~ BC21",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "level": 3.0,
+                  "title": "위험회피수단",
+                  "section_id": "ojiEDp",
+                  "href": "/s/2116/ojiEDp",
+                  "paragraph_range": "BC22 ~ BC32",
+                  "children": [
+                    {
+                      "level": 4.0,
+                      "title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+                      "section_id": "Eju80Y",
+                      "href": "/s/2116/Eju80Y",
+                      "paragraph_range": "BC22 ~ BC32",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "level": 3.0,
+                  "title": "기타포괄손익에서 당기손익으로의 재분류(문단 16과 17)",
+                  "section_id": "w7rle1",
+                  "href": "/s/2116/w7rle1",
+                  "paragraph_range": "BC33 ~ BC34",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "연결방법의 영향",
+                  "section_id": "InTnP6",
+                  "href": "/s/2116/InTnP6",
+                  "paragraph_range": "BC35 ~ BC39",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "경과규정(문단 19)",
+                  "section_id": "d5jgDb",
+                  "href": "/s/2116/d5jgDb",
+                  "paragraph_range": "BC40 ~ BC40A",
+                  "children": [
+                    {
+                      "level": 4.0,
+                      "title": "개정된 문단 14의 시행일",
+                      "section_id": "N5ChJT",
+                      "href": "/s/2116/N5ChJT",
+                      "paragraph_range": "BC40A",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "level": 3.0,
+                  "title": "해석서 초안의 주요 변경사항 요약",
+                  "section_id": "Sz5OP0",
+                  "href": "/s/2116/Sz5OP0",
+                  "paragraph_range": "BC41",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2116/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2116/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2116/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "웩1",
+      "section_id": "O98Ovl",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "- 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’",
+      "html": "<div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’</div><div class=\"para\">- 기업회계기준서 제1021호 ‘환율변동효과’</div><div class=\"para\">- 기업회계기준서 제1109호 ‘금융상품’</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "RenEHQ",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "많은 보고기업은 (기업회계기준서 제1021호 문단 8에 정의된 바와 같이) 해외사업장에 투자하고 있다. 그러한 해외사업장은 종속기업, 관계기업, 공동기업 또는 지점일 수 있다. 기업회계기준서 제1021호에 따르면, 기업은 해당 사업장의 주된 경제 환경의 통화로 각 해외사업장의 기능통화를 결정하여야 한다. 해외사업장의 경영성과와 재무상태를 표시통화로 환산하는 경우, 기업은 외환차이를 해외사업장의 처분전까지 기타포괄손익으로 인식하여야 한다.",
+      "html": "많은 보고기업은 (<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div><span class=\"mundan-finder\"> 문단 8</span>에 정의된 바와 같이) 해외사업장에 투자하고 있다. 그러한 해외사업장은 종속기업, 관계기업, 공동기업 또는 지점일 수 있다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div>에 따르면, 기업은 해당 사업장의 주된 경제 환경의 통화로 각 해외사업장의 기능통화를 결정하여야 한다. 해외사업장의 경영성과와 재무상태를 표시통화로 환산하는 경우, 기업은 외환차이를 해외사업장의 처분전까지 기타포괄손익으로 인식하여야 한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1021호",
+          "standard_number": "1021",
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1021호",
+          "standard_number": "1021",
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 8",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "8",
+          "paragraph_ids": [
+            "8"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "RenEHQ",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "해외사업장순투자에서 발생하는 외화위험에 대한 위험회피회계는 그 해외사업장의 순자산이 재무제표 (주1)에 포함되는 경우에만 적용될 것이다. 해외사업장순투자에서 발생하는 외화위험에 대하여 위험회피되는 항목은 그 해외사업장 순자산의 장부금액과 같거나 더 작은 순자산금액이 될 수 있다. [각주 (주1)] 이것은 연결재무제표, 관계기업이나 공동기업 같은 투자에 대해 지분법을 사용하여 회계처리하는 재무제표 및 지점 또는 기업회계기준서 제1111호 ‘공동약정’에서 정의된 공동영업을 포함하는 재무제표의 경우일 것이다.",
+      "html": "해외사업장순투자에서 발생하는 외화위험에 대한 위험회피회계는 그 해외사업장의 순자산이 재무제표\n  <sup>(주1)</sup>에 포함되는 경우에만 적용될 것이다. 해외사업장순투자에서 발생하는 외화위험에 대하여 위험회피되는 항목은 그 해외사업장 순자산의 장부금액과 같거나 더 작은 순자산금액이 될 수 있다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\">이것은 연결재무제표, 관계기업이나 공동기업 같은 투자에 대해 지분법을 사용하여 회계처리하는 재무제표 및 지점 또는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공동약정</span><span class=\"std-finder\">기업회계기준서 제1111호</span></div> ‘공동약정’에서 정의된 공동영업을 포함하는 재무제표의 경우일 것이다.    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1111호",
+          "standard_number": "1111",
+          "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주1",
+          "display_text": "(주1)"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "section_id": "RenEHQ",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "기업회계기준서 제1109호에서는 위험회피회계관계에서 적용조건을 충족하는 위험회피대상항목과 적용조건을 충족하는 위험회피수단의 지정을 요구한다. 순투자 위험회피의 경우 지정된 위험회피관계가 있다면 순투자에 대한 효과적인 위험회피로 결정된 위험회피수단의 손익은 해외사업장의 경영성과와 재무상태의 환산에서 발생한 외환차이와 함께 기타포괄손익에 인식한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에서는 위험회피회계관계에서 적용조건을 충족하는 위험회피대상항목과 적용조건을 충족하는 위험회피수단의 지정을 요구한다. 순투자 위험회피의 경우 지정된 위험회피관계가 있다면 순투자에 대한 효과적인 위험회피로 결정된 위험회피수단의 손익은 해외사업장의 경영성과와 재무상태의 환산에서 발생한 외환차이와 함께 기타포괄손익에 인식한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "RenEHQ",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "해외사업장이 많이 있는 기업은 많은 수의 외화위험에 노출되어 있을 수 있다. 이 해석서는 해외사업장순투자의 위험회피에서 회피대상위험으로 지정할 수 있는 외화위험을 식별하는 것에 대한 지침을 제공한다.",
+      "html": "해외사업장이 많이 있는 기업은 많은 수의 외화위험에 노출되어 있을 수 있다. 이 해석서는 해외사업장순투자의 위험회피에서 회피대상위험으로 지정할 수 있는 외화위험을 식별하는 것에 대한 지침을 제공한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "RenEHQ",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "기업회계기준서 제1109호에 의하면, 기업은 외화위험에 대한 위험회피수단으로 파생금융상품이나 비파생금융상품(또는 파생금융상품과 비파생금융상품의 조합)을 지정할 수 있다. 이 해석서는 위험회피회계의 적용조건을 충족하기 위해 해외사업장순투자에 대한 위험을 회피하는 위험회피수단을 연결실체내의 어느 기업이 보유할 수 있는지에 대한 지침을 제공한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 의하면, 기업은 외화위험에 대한 위험회피수단으로 파생금융상품이나 비파생금융상품(또는 파생금융상품과 비파생금융상품의 조합)을 지정할 수 있다. 이 해석서는 위험회피회계의 적용조건을 충족하기 위해 해외사업장순투자에 대한 위험을 회피하는 위험회피수단을 연결실체내의 어느 기업이 보유할 수 있는지에 대한 지침을 제공한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "RenEHQ",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "기업회계기준서 제1021호와 기업회계기준서 제1109호에 의하면, 해외사업장의 경영성과와 재무상태의 환산으로 인한 외환차이와 순투자에 대한 효과적인 위험회피로 결정된 위험회피수단의 손익과 관련하여 기타포괄손익에 인식된 누적금액은 지배기업이 해외사업장을 처분하는 시점에 재분류조정으로 자본에서 당기손익으로 재분류한다. 이 해석서는 기업이 위험회피수단과 위험회피대상항목 모두에 대하여 자본에서 당기손익으로 재분류할 금액을 어떻게 결정해야 하는지에 대한 지침을 제공한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div>와 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 의하면, 해외사업장의 경영성과와 재무상태의 환산으로 인한 외환차이와 순투자에 대한 효과적인 위험회피로 결정된 위험회피수단의 손익과 관련하여 기타포괄손익에 인식된 누적금액은 지배기업이 해외사업장을 처분하는 시점에 재분류조정으로 자본에서 당기손익으로 재분류한다. 이 해석서는 기업이 위험회피수단과 위험회피대상항목 모두에 대하여 자본에서 당기손익으로 재분류할 금액을 어떻게 결정해야 하는지에 대한 지침을 제공한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1021호",
+          "standard_number": "1021",
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한7.1",
+      "section_id": "iROd7J",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "nn6CYF",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 해외사업장순투자에서 발생하는 외화위험을 회피하고 기업회계기준서 제1109호에 따라 위험회피회계의 적용조건을 충족시키고자 하는 기업에 적용한다. 편의상 이 해석서는 그러한 기업을 지배기업으로 부르고 해외사업장의 순자산이 포함되어 있는 재무제표를 연결재무제표라고 부른다. 지배기업에 언급되는 모든 사항은 공동기업, 관계기업 또는 지점인 해외사업장에 대한 순투자가 있는 기업에 동일하게 적용된다.",
+      "html": "이 해석서는 해외사업장순투자에서 발생하는 외화위험을 회피하고 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 따라 위험회피회계의 적용조건을 충족시키고자 하는 기업에 적용한다. 편의상 이 해석서는 그러한 기업을 지배기업으로 부르고 해외사업장의 순자산이 포함되어 있는 재무제표를 연결재무제표라고 부른다. 지배기업에 언급되는 모든 사항은 공동기업, 관계기업 또는 지점인 해외사업장에 대한 순투자가 있는 기업에 동일하게 적용된다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "nn6CYF",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 해외사업장순투자의 위험회피에만 적용한다. 따라서 다른 유형의 위험회피회계에 유추하여 적용하지 아니한다.",
+      "html": "이 해석서는 해외사업장순투자의 위험회피에만 적용한다. 따라서 다른 유형의 위험회피회계에 유추하여 적용하지 아니한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "h9is0c",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "해외사업장에 대한 투자는 지배기업에 의해 직접으로 또는 종속기업이나 종속기업들에 의해 간접으로 보유될 수 있다. 이 해석서가 다루고 있는 회계논제는 다음과 같다. ⑴ 위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액 ㈎ 지배기업이 지배기업의 기능통화와 해외사업장의 기능통화간의 차이에서 발생하는 외환차이만을 회피대상위험으로 지정할 수 있는지, 또는 지배기업의 연결재무제표의 표시통화와 해외사업장의 기능통화와의 차이에서 발생하는 외환차이도 회피대상위험으로 지정할 수 있는지 ㈏ 지배기업이 간접으로 해외사업장을 보유하는 경우, 회피대상위험은 해외사업장의 기능통화와 그 해외사업장의 가장 가까운 상위의 지배기업의 기능통화의 차이에서 발생한 외환차이만을 포함하는지, 또는 회피대상위험이 해외사업장의 기능통화와 중간지배기업 또는 최상위지배기업의 기능통화의 차이에서 발생하는 외환차이도 포함하는지(즉, 해외사업장순투자를 중간지배기업을 통해 보유한다는 사실이 최상위지배기업의 경제적 위험에 영향을 미치는지) ⑵ 위험회피수단을 보유할 수 있는 연결실체내의 기업 ㈎ 순투자에 대해 위험회피하는 기업이 위험회피수단의 계약당사자인 경우에만 적용조건을 충족하는 위험회피회계관계가 성립하는지 또는 연결실체내의 기업은 어느 기업이든지 그 기업의 기능통화에 관계없이 위험회피수단을 보유할 수 있는지 ㈏ 위험회피수단의 성격(파생상품 또는 비파생상품)이나 연결방법이 위험회피효과의 평가에 영향을 미치는지 ⑶ 해외사업장의 처분 시점에 재분류조정으로 자본에서 당기손익으로 재분류해야 하는 금액 ㈎ 위험회피된 해외사업장을 처분하는 경우, 위험회피수단과 해외사업장에 대한 지배기업의 외화환산적립금 중 지배기업의 연결재무제표상 자본에서 당기손익으로 재분류해야 하는 금액은 어떤 금액인지 ㈏ 연결방법이 자본에서 당기손익으로 재분류해야 하는 금액의 결정에 영향을 미치는지",
+      "html": "해외사업장에 대한 투자는 지배기업에 의해 직접으로 또는 종속기업이나 종속기업들에 의해 간접으로 보유될 수 있다. 이 해석서가 다루고 있는 회계논제는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈎</div><div class=\"para-num-item-para-con\"> 지배기업이 지배기업의 기능통화와 해외사업장의 기능통화간의 차이에서 발생하는 외환차이만을 회피대상위험으로 지정할 수 있는지, 또는 지배기업의 연결재무제표의 표시통화와 해외사업장의 기능통화와의 차이에서 발생하는 외환차이도 회피대상위험으로 지정할 수 있는지</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈏</div><div class=\"para-num-item-para-con\"> 지배기업이 간접으로 해외사업장을 보유하는 경우, 회피대상위험은 해외사업장의 기능통화와 그 해외사업장의 가장 가까운 상위의 지배기업의 기능통화의 차이에서 발생한 외환차이만을 포함하는지, 또는 회피대상위험이 해외사업장의 기능통화와 중간지배기업 또는 최상위지배기업의 기능통화의 차이에서 발생하는 외환차이도 포함하는지(즉, 해외사업장순투자를 중간지배기업을 통해 보유한다는 사실이 최상위지배기업의 경제적 위험에 영향을 미치는지)</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 위험회피수단을 보유할 수 있는 연결실체내의 기업</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈎</div><div class=\"para-num-item-para-con\"> 순투자에 대해 위험회피하는 기업이 위험회피수단의 계약당사자인 경우에만 적용조건을 충족하는 위험회피회계관계가 성립하는지 또는 연결실체내의 기업은 어느 기업이든지 그 기업의 기능통화에 관계없이 위험회피수단을 보유할 수 있는지</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈏</div><div class=\"para-num-item-para-con\"> 위험회피수단의 성격(파생상품 또는 비파생상품)이나 연결방법이 위험회피효과의 평가에 영향을 미치는지</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 해외사업장의 처분 시점에 재분류조정으로 자본에서 당기손익으로 재분류해야 하는 금액</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈎</div><div class=\"para-num-item-para-con\"> 위험회피된 해외사업장을 처분하는 경우, 위험회피수단과 해외사업장에 대한 지배기업의 외화환산적립금 중 지배기업의 연결재무제표상 자본에서 당기손익으로 재분류해야 하는 금액은 어떤 금액인지</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈏</div><div class=\"para-num-item-para-con\"> 연결방법이 자본에서 당기손익으로 재분류해야 하는 금액의 결정에 영향을 미치는지</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "oC7BwD",
+      "section_title": "위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+      "toc_path": "본문|결론|위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+      "text": "위험회피회계는 해외사업장의 기능통화와 지배기업의 기능통화의 차이에서 발생하는 외환차이에 대해서만 적용할 수 있다.",
+      "html": "위험회피회계는 해외사업장의 기능통화와 지배기업의 기능통화의 차이에서 발생하는 외환차이에 대해서만 적용할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "oC7BwD",
+      "section_title": "위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+      "toc_path": "본문|결론|위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+      "text": "해외사업장순투자에서 발생하는 외화위험에 대한 위험회피에서, 위험회피대상항목은 지배기업의 연결재무제표상 해외사업장 순자산의 장부금액과 같거나 작은 순자산금액이 될 수 있다. 지배기업의 연결재무제표에서 위험회피대상항목으로 지정할 수 있는 해외사업장의 순자산의 장부금액은, 그 해외사업장의 보다 낮은 수준의 지배기업이 그 해외사업장의 순자산의 전부 또는 일부에 대해 이미 위험회피회계를 적용하고 있는지 그리고 그러한 회계처리가 지배기업의 연결재무제표에서 유지되고 있는지에 좌우된다.",
+      "html": "해외사업장순투자에서 발생하는 외화위험에 대한 위험회피에서, 위험회피대상항목은 지배기업의 연결재무제표상 해외사업장 순자산의 장부금액과 같거나 작은 순자산금액이 될 수 있다. 지배기업의 연결재무제표에서 위험회피대상항목으로 지정할 수 있는 해외사업장의 순자산의 장부금액은, 그 해외사업장의 보다 낮은 수준의 지배기업이 그 해외사업장의 순자산의 전부 또는 일부에 대해 이미 위험회피회계를 적용하고 있는지 그리고 그러한 회계처리가 지배기업의 연결재무제표에서 유지되고 있는지에 좌우된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "oC7BwD",
+      "section_title": "위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+      "toc_path": "본문|결론|위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+      "text": "어느 지배기업(가장 가까운 상위의 지배기업, 중간지배기업 또는 최상위지배기업)이든 그 기업의 기능통화와 해외사업장의 기능통화간 차이에서 발생하는 외화노출정도를 회피대상위험으로 지정할 수 있다. 순투자를 중간지배기업을 통해 가지고 있다는 사실이 최상위지배기업의 외화노출정도에서 발생하는 경제적 위험의 성격에 영향을 미치지 않는다.",
+      "html": "어느 지배기업(가장 가까운 상위의 지배기업, 중간지배기업 또는 최상위지배기업)이든 그 기업의 기능통화와 해외사업장의 기능통화간 차이에서 발생하는 외화노출정도를 회피대상위험으로 지정할 수 있다. 순투자를 중간지배기업을 통해 가지고 있다는 사실이 최상위지배기업의 외화노출정도에서 발생하는 경제적 위험의 성격에 영향을 미치지 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "oC7BwD",
+      "section_title": "위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+      "toc_path": "본문|결론|위험회피관계로 지정할 수 있는 회피대상위험의 성격과 위험회피대상항목의 금액",
+      "text": "해외사업장순투자에서 발생하는 외화위험의 노출정도는 연결재무제표상 단 한번만 위험회피회계를 적용할 수 있다. 따라서 해외사업장의 동일한 순자산이 동일한 위험에 대하여 연결실체내 둘 이상의 지배기업에 의해(예를 들어 직접적인 지배기업과 간접적인 지배기업 모두에 의해) 위험회피된다면 최상위지배기업의 연결재무제표상 오직 하나의 위험회피관계에 대해서만 위험회피회계가 적용될 수 있다. 연결재무제표상 하나의 지배기업이 지정한 위험회피관계가 더 높은 수준의 다른 지배기업에 의해 유지될 필요는 없다. 그러나 그러한 위험회피관계가 더 높은 수준의 지배기업에 의해 유지되지 않는 경우, 더 낮은 수준의 지배기업이 적용한 위험회피회계는 더 높은 수준의 지배기업의 위험회피회계가 인식되기 전에 환원되어야 한다.",
+      "html": "해외사업장순투자에서 발생하는 외화위험의 노출정도는 연결재무제표상 단 한번만 위험회피회계를 적용할 수 있다. 따라서 해외사업장의 동일한 순자산이 동일한 위험에 대하여 연결실체내 둘 이상의 지배기업에 의해(예를 들어 직접적인 지배기업과 간접적인 지배기업 모두에 의해) 위험회피된다면 최상위지배기업의 연결재무제표상 오직 하나의 위험회피관계에 대해서만 위험회피회계가 적용될 수 있다. 연결재무제표상 하나의 지배기업이 지정한 위험회피관계가 더 높은 수준의 다른 지배기업에 의해 유지될 필요는 없다. 그러나 그러한 위험회피관계가 더 높은 수준의 지배기업에 의해 유지되지 않는 경우, 더 낮은 수준의 지배기업이 적용한 위험회피회계는 더 높은 수준의 지배기업의 위험회피회계가 인식되기 전에 환원되어야 한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "67TB4G",
+      "section_title": "위험회피수단을 보유할 수 있는 기업",
+      "toc_path": "본문|결론|위험회피수단을 보유할 수 있는 기업",
+      "text": "파생상품이나 비파생상품(또는 파생상품과 비파생상품의 조합)이 해외사업장순투자의 위험회피에서 위험회피수단으로 지정될 수 있다. 순투자 위험회피와 관련된 기업회계기준서 제1109호 문단 6.4.1의 지정, 문서화 그리고 위험회피효과에 대한 요구사항을 충족하는 한, 연결실체내 하나의 기업 또는 복수의 기업이 위험회피수단을 보유할 수 있다. 특히, 연결실체의 위험회피전략은 명백히 문서화되어야 하는데, 이는 연결실체의 다른 수준에서 서로 다르게 지정할 수 있기 때문이다.",
+      "html": "파생상품이나 비파생상품(또는 파생상품과 비파생상품의 조합)이 해외사업장순투자의 위험회피에서 위험회피수단으로 지정될 수 있다. 순투자 위험회피와 관련된 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div><span class=\"mundan-finder\"> 문단 6.4.1</span>의 지정, 문서화 그리고 위험회피효과에 대한 요구사항을 충족하는 한, 연결실체내 하나의 기업 또는 복수의 기업이 위험회피수단을 보유할 수 있다. 특히, 연결실체의 위험회피전략은 명백히 문서화되어야 하는데, 이는 연결실체의 다른 수준에서 서로 다르게 지정할 수 있기 때문이다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 6.4.1",
+          "standard_number": "1109",
+          "standard_title": null,
+          "range": "6.4.1",
+          "paragraph_ids": [
+            "6.4.1"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "67TB4G",
+      "section_title": "위험회피수단을 보유할 수 있는 기업",
+      "toc_path": "본문|결론|위험회피수단을 보유할 수 있는 기업",
+      "text": "위험회피효과를 평가하기 위해서는, 외환위험으로 인한 위험회피수단의 가치변동은 회피대상위험이 측정되는 기능통화에 대한 지배기업의 기능통화를 참조하여 위험회피회계의 문서에 따라 계산한다. 위험회피회계가 이루어지지 않는다면 어느 기업이 위험회피수단을 보유하느냐에 따라 전체 가치의 변동은 당기손익이나 기타포괄손익 또는 그 둘 모두에 인식될 수 있다. 그러나 위험회피효과의 평가는 위험회피수단의 가치변동을 당기손익으로 인식하는지 또는 기타포괄손익으로 인식하는 지에 영향받지 않는다. 위험회피회계 적용의 일환으로 가치변동 중 효과적인 모든 부분은 기타포괄손익에 포함시킨다. 위험회피효과의 평가는 위험회피수단이 파생상품인지 비파생상품인지 또는 연결방법이 무엇인지에 의해 영향 받지 않는다.",
+      "html": "위험회피효과를 평가하기 위해서는, 외환위험으로 인한 위험회피수단의 가치변동은 회피대상위험이 측정되는 기능통화에 대한 지배기업의 기능통화를 참조하여 위험회피회계의 문서에 따라 계산한다. 위험회피회계가 이루어지지 않는다면 어느 기업이 위험회피수단을 보유하느냐에 따라 전체 가치의 변동은 당기손익이나 기타포괄손익 또는 그 둘 모두에 인식될 수 있다. 그러나 위험회피효과의 평가는 위험회피수단의 가치변동을 당기손익으로 인식하는지 또는 기타포괄손익으로 인식하는 지에 영향받지 않는다. 위험회피회계 적용의 일환으로 가치변동 중 효과적인 모든 부분은 기타포괄손익에 포함시킨다. 위험회피효과의 평가는 위험회피수단이 파생상품인지 비파생상품인지 또는 연결방법이 무엇인지에 의해 영향 받지 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "wGyHZj",
+      "section_title": "위험회피된 해외사업장의 처분",
+      "toc_path": "본문|결론|위험회피된 해외사업장의 처분",
+      "text": "위험회피된 해외사업장을 처분하는 경우, 위험회피수단과 관련하여 지배기업의 연결재무제표상 외화환산적립금에서 재분류조정을 통해 당기손익으로 재분류해야 하는 금액은 기업회계기준서 제1109호 문단 6.5.14에 따라 식별해야 하는 금액이다. 그 금액은 효과적인 위험회피로 결정되었던 위험회피수단에 대한 누적손익이다.",
+      "html": "위험회피된 해외사업장을 처분하는 경우, 위험회피수단과 관련하여 지배기업의 연결재무제표상 외화환산적립금에서 재분류조정을 통해 당기손익으로 재분류해야 하는 금액은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div><span class=\"mundan-finder\"> 문단 6.5.14</span>에 따라 식별해야 하는 금액이다. 그 금액은 효과적인 위험회피로 결정되었던 위험회피수단에 대한 누적손익이다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 6.5.14",
+          "standard_number": "1109",
+          "standard_title": null,
+          "range": "6.5.14",
+          "paragraph_ids": [
+            "6.5.14"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "17",
+      "section_id": "wGyHZj",
+      "section_title": "위험회피된 해외사업장의 처분",
+      "toc_path": "본문|결론|위험회피된 해외사업장의 처분",
+      "text": "기업회계기준서 제1021호 문단 48에 따라 지배기업의 연결재무제표상 해당 해외사업장순투자 관련 외화환산적립금에서 당기손익으로 재분류하는 금액은 그 해외사업장과 관련하여 지배기업의 외화환산적립금에 포함된 금액이다. 최상위지배기업의 연결재무제표에서, 모든 해외사업장과 관련하여 외화환산적립금으로 인식한 순액의 총 합계는 연결방법에 영향 받지 않는다. 그러나 최상위지배기업이 직접연결법을 사용하는지 또는 단계연결법을 사용하는지 (주2)가 개별 해외사업장과 관련하여 외화환산적립금에 포함되는 금액에 영향을 미칠 수는 있다. 단계연결법을 사용할 경우 위험회피효과를 결정하기 위해 사용한 금액과 다른 금액을 당기손익으로 재분류하게 될 수 있다. 이러한 차이는 직접연결법을 사용했더라면 산출되었을 해당 해외사업장과 관련된 금액을 결정함으로써 제거할 수 있다. 이러한 조정이 기업회계기준서 제1021호에 의해 요구되는 것은 아니다. 그러나 이러한 조정은 모든 순투자에 일관성있게 적용해야 하는 회계정책의 선택이다. [각주 (주2)] 직접연결법은 해외사업장의 재무제표를 최상위지배기업의 기능통화로 직접 환산하는 연결방법이다. 단계연결법은 해외사업장의 재무제표를 먼저 중간지배기업의 기능통화로 환산하고 이후 최상위지배기업의 기능통화(최상위지배기업의 기능통화와 표시통화가 만일 다르다면 표시통화)로 환산하는 연결방법이다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"17\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">17</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div><span class=\"mundan-finder\"> 문단 48</span>에 따라 지배기업의 연결재무제표상 해당 해외사업장순투자 관련 외화환산적립금에서 당기손익으로 재분류하는 금액은 그 해외사업장과 관련하여 지배기업의 외화환산적립금에 포함된 금액이다. 최상위지배기업의 연결재무제표에서, 모든 해외사업장과 관련하여 외화환산적립금으로 인식한 순액의 총 합계는 연결방법에 영향 받지 않는다. 그러나 최상위지배기업이 직접연결법을 사용하는지 또는 단계연결법을 사용하는지\n  <sup data-id=\"(주2)\">(주2)</sup>가 개별 해외사업장과 관련하여 외화환산적립금에 포함되는 금액에 영향을 미칠 수는 있다. 단계연결법을 사용할 경우 위험회피효과를 결정하기 위해 사용한 금액과 다른 금액을 당기손익으로 재분류하게 될 수 있다. 이러한 차이는 직접연결법을 사용했더라면 산출되었을 해당 해외사업장과 관련된 금액을 결정함으로써 제거할 수 있다. 이러한 조정이 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div>에 의해 요구되는 것은 아니다. 그러나 이러한 조정은 모든 순투자에 일관성있게 적용해야 하는 회계정책의 선택이다.\n</div><div class=\"idt-1 comment\"><div>(주2)</div><div>직접연결법은 해외사업장의 재무제표를 최상위지배기업의 기능통화로 직접 환산하는 연결방법이다. 단계연결법은 해외사업장의 재무제표를 먼저 중간지배기업의 기능통화로 환산하고 이후 최상위지배기업의 기능통화(최상위지배기업의 기능통화와 표시통화가 만일 다르다면 표시통화)로 환산하는 연결방법이다.</div></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주2",
+          "display_text": "(주2)"
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "section_id": "8kr8Ra",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한18.1",
+      "section_id": "8kr8Ra",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 이 해석서를 2009년 1월 1일 이후 개시하는 회계연도부터 적용하는 경우에는 문단 한18.2를 적용한다.",
+      "html": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 이 해석서를 2009년 1월 1일 이후 개시하는 회계연도부터 적용하는 경우에는 \n  <span class=\"mundan-finder\">문단 한18.2</span>를 적용한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 한18.2",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "한18.2",
+          "paragraph_ids": [
+            "한18.2"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한18.2",
+      "section_id": "8kr8Ra",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2009년 7월 1일 이후 개시하는 회계연도부터, 2009년 6월에 발표된 한국채택국제회계기준 연차개선을 통해 개정된 문단 14를 적용한다. 조기적용은 허용된다. 문단 14의 개정 내용을 2009년 7월 1일 전에 개시하는 회계연도부터 적용하고자 하는 경우에는 그 사실을 공시한다.",
+      "html": "2009년 7월 1일 이후 개시하는 회계연도부터, 2009년 6월에 발표된 한국채택국제회계기준 연차개선을 통해 개정된 \n  <span class=\"mundan-finder\">문단 14</span>를 적용한다. 조기적용은 허용된다. \n  <span class=\"mundan-finder\">문단 14</span>의 개정 내용을 2009년 7월 1일 전에 개시하는 회계연도부터 적용하고자 하는 경우에는 그 사실을 공시한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "18A",
+      "section_id": "8kr8Ra",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "18B",
+      "section_id": "8kr8Ra",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2015년 12월에 발표된 기업회계기준서 제1109호에 따라 문단 3, 5∼7, 14, 16, AG1, AG8을 개정하고 문단 18A를 삭제하였다. 이러한 개정내용은 기업회계기준서 제1109호를 적용할 때 적용한다.",
+      "html": "2015년 12월에 발표된 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 따라 \n  \n  <span class=\"mundan-finder\">문단 3, 5∼7, 14, 16, AG1, AG8</span>을 개정하고 \n  \n  <span class=\"mundan-finder\">문단 18A</span>를 삭제하였다. 이러한 개정내용은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>를 적용할 때 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3, 5∼7, 14, 16, AG1, AG8",
+          "standard_number": "1109",
+          "standard_title": null,
+          "range": "3, 5∼7, 14, 16, AG1, AG8",
+          "paragraph_ids": [
+            "3",
+            "5∼7",
+            "14",
+            "16",
+            "AG1",
+            "AG8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 18A",
+          "standard_number": "1109",
+          "standard_title": null,
+          "range": "18A",
+          "paragraph_ids": [
+            "18A"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "19",
+      "section_id": "4Yzqx6",
+      "section_title": "경과규정",
+      "toc_path": "본문|경과규정",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG2",
+      "section_id": "aq7IB4",
+      "section_title": "위험회피관계로 지정할 수 있는 회피대상위험의 성격(문단 10~13)",
+      "toc_path": "부록. 적용지침|위험회피관계로 지정할 수 있는 회피대상위험의 성격(문단 10~13)",
+      "text": "지배기업은 각 종속기업 A, B 및 C에 대한 순투자를 각 기능통화(일본 엔화(JPY), 영국 파운드화, 미국 달러화)와 유로화 사이의 외환위험에 대하여 위험회피할 수 있다. 또한, 지배기업은 종속기업 B와 종속기업 C의 기능통화 사이의 외환위험(영국 파운드화 대비 미국 달러화)을 회피할 수 있다. 연결재무제표에서 종속기업 B는 종속기업 C에 대한 순투자를 기능통화(미국 달러화와 영국 파운드화) 사이의 외환위험에 대해 위험회피할 수 있다. 다음의 예들에서 위험회피수단은 파생상품이 아니므로, 회피대상으로 지정된 위험은 현물외환위험이다. 만일 위험회피수단이 선도계약이라면 지배기업은 선도환위험을 지정할 수 있다.",
+      "html": "지배기업은 각 종속기업 A, B 및 C에 대한 순투자를 각 기능통화(일본 엔화(JPY), 영국 파운드화, 미국 달러화)와 유로화 사이의 외환위험에 대하여 위험회피할 수 있다. 또한, 지배기업은 종속기업 B와 종속기업 C의 기능통화 사이의 외환위험(영국 파운드화 대비 미국 달러화)을 회피할 수 있다. 연결재무제표에서 종속기업 B는 종속기업 C에 대한 순투자를 기능통화(미국 달러화와 영국 파운드화) 사이의 외환위험에 대해 위험회피할 수 있다. 다음의 예들에서 위험회피수단은 파생상품이 아니므로, 회피대상으로 지정된 위험은 현물외환위험이다. 만일 위험회피수단이 선도계약이라면 지배기업은 선도환위험을 지정할 수 있다.\n<img src=\"/aws/else-content/2116_img_1.jpg\">",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG3",
+      "section_id": "vFMVub",
+      "section_title": "위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+      "toc_path": "부록. 적용지침|위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+      "text": "지배기업은 종속기업 C에 대한 순투자로 인한 외환위험을 회피하고자 한다. 종속기업 A에는 외부 차입금 USD300백만이 있다고 가정하자. 보고기간 초 종속기업 A의 순자산은 외부 차입으로 인한 유입액 USD300백만을 포함하여 JPY400,000백만이다.",
+      "html": "지배기업은 종속기업 C에 대한 순투자로 인한 외환위험을 회피하고자 한다. 종속기업 A에는 외부 차입금 USD300백만이 있다고 가정하자. 보고기간 초 종속기업 A의 순자산은 외부 차입으로 인한 유입액 USD300백만을 포함하여 JPY400,000백만이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG4",
+      "section_id": "vFMVub",
+      "section_title": "위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+      "toc_path": "부록. 적용지침|위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+      "text": "위험회피대상항목은, 연결재무제표상 종속기업 C에 대한 지배기업의 순투자의 장부금액(USD300백만)보다 같거나 작은 순자산 금액이 될 수 있다. 지배기업은 지배기업의 연결재무제표에서 종속기업 A의 외부차입금 USD300백만을, 종속기업 C의 순자산(USD300백만)에 대한 순투자로 인한 미국 달러화 대비 유로화의 현물외환위험에 대한 위험회피수단으로 지정할 수 있다. 이 경우, 종속기업 A의 외부차입금 USD300백만에 대한 미국 달러화 대비 유로화의 외환차이와 종속기업 C에 대한 순투자 USD300백만에 대한 미국 달러화 대비 유로화의 외환차이는 위험회피회계 적용 후 지배기업의 연결재무제표상에 외화환산적립금에 포함된다.",
+      "html": "위험회피대상항목은, 연결재무제표상 종속기업 C에 대한 지배기업의 순투자의 장부금액(USD300백만)보다 같거나 작은 순자산 금액이 될 수 있다. 지배기업은 지배기업의 연결재무제표에서 종속기업 A의 외부차입금 USD300백만을, 종속기업 C의 순자산(USD300백만)에 대한 순투자로 인한 미국 달러화 대비 유로화의 현물외환위험에 대한 위험회피수단으로 지정할 수 있다. 이 경우, 종속기업 A의 외부차입금 USD300백만에 대한 미국 달러화 대비 유로화의 외환차이와 종속기업 C에 대한 순투자 USD300백만에 대한 미국 달러화 대비 유로화의 외환차이는 위험회피회계 적용 후 지배기업의 연결재무제표상에 외화환산적립금에 포함된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG5",
+      "section_id": "vFMVub",
+      "section_title": "위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+      "toc_path": "부록. 적용지침|위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+      "text": "위험회피회계를 적용하지 않는다면, 종속기업 A의 외부차입금 USD300백만에 대한 유로화 대비 미국 달러화의 외환차이는 지배기업의 연결재무제표에서 다음과 같이 인식될 것이다. ㆍ 일본 엔화 대비 미국 달러화의 현물환율의 변동은 유로화로 환산하여 당기손익으로 인식된다. ㆍ 유로화 대비 일본 엔화의 현물환율의 변동은 기타포괄손익으로 인식된다. 문단 AG4의 지정 대신에, 지배기업은 종속기업 C와 종속기업 B간의 미국 달러화 대비 영국 파운드화의 현물외환위험을 회피하기 위해 연결재무제표상 종속기업 A의 외부차입금 USD300백만을 지정할 수 있다. 이 경우, 종속기업 A의 외부차입금 USD300백만의 유로화 대비 미국 달러화의 전체 외환차이는 지배기업의 연결재무제표에서 다음과 같이 인식될 것이다. ㆍ 미국 달러화 대비 영국 파운드화의 현물환율변동은 종속기업 C에 대한 외화환산적립금에 인식된다. ㆍ 일본 엔화 대비 영국 파운드화의 현물환율의 변동은 유로화로 환산하여 당기손익에 인식된다. ㆍ 유로화 대비 일본 엔화의 현물환율의 변동은 기타포괄손익에 인식된다.",
+      "html": "위험회피회계를 적용하지 않는다면, 종속기업 A의 외부차입금 USD300백만에 대한 유로화 대비 미국 달러화의 외환차이는 지배기업의 연결재무제표에서 다음과 같이 인식될 것이다.\n<span class=\"mundan-finder\">문단 AG4</span>의 지정 대신에, 지배기업은 종속기업 C와 종속기업 B간의 미국 달러화 대비 영국 파운드화의 현물외환위험을 회피하기 위해 연결재무제표상 종속기업 A의 외부차입금 USD300백만을 지정할 수 있다. 이 경우, 종속기업 A의 외부차입금 USD300백만의 유로화 대비 미국 달러화의 전체 외환차이는 지배기업의 연결재무제표에서 다음과 같이 인식될 것이다.\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">ㆍ</div><div class=\"para-num-item-para-con\"> 일본 엔화 대비 미국 달러화의 현물환율의 변동은 유로화로 환산하여 당기손익으로 인식된다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">ㆍ</div><div class=\"para-num-item-para-con\"> 유로화 대비 일본 엔화의 현물환율의 변동은 기타포괄손익으로 인식된다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">ㆍ</div><div class=\"para-num-item-para-con\"> 미국 달러화 대비 영국 파운드화의 현물환율변동은 종속기업 C에 대한 외화환산적립금에 인식된다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">ㆍ</div><div class=\"para-num-item-para-con\"> 일본 엔화 대비 영국 파운드화의 현물환율의 변동은 유로화로 환산하여 당기손익에 인식된다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">ㆍ</div><div class=\"para-num-item-para-con\"> 유로화 대비 일본 엔화의 현물환율의 변동은 기타포괄손익에 인식된다.</div></div>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 AG4",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "AG4",
+          "paragraph_ids": [
+            "AG4"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG6",
+      "section_id": "vFMVub",
+      "section_title": "위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+      "toc_path": "부록. 적용지침|위험회피관계로 지정할 수 있는 위험회피대상항목의 금액(문단 10~13)",
+      "text": "지배기업은 연결재무제표상 종속기업의 외부차입금 USD300백만을 미국 달러화 대비 유로화의 현물외환위험과 미국 달러화 대비 영국 파운드화의 현물외환위험 모두에 대한 위험회피수단으로 지정할 수 없다. 하나의 위험회피수단은 회피대상위험으로 지정된 동일한 위험을 오직 한번만 위험회피할 수 있다. 위험회피수단이 종속기업 B와 종속기업 C를 포함하는 연결실체 밖에서 보유되고 있기 때문에 종속기업 B는 자신의 연결재무제표에서 위험회피회계를 적용할 수 없다.",
+      "html": "지배기업은 연결재무제표상 종속기업의 외부차입금 USD300백만을 미국 달러화 대비 유로화의 현물외환위험과 미국 달러화 대비 영국 파운드화의 현물외환위험 모두에 대한 위험회피수단으로 지정할 수 없다. 하나의 위험회피수단은 회피대상위험으로 지정된 동일한 위험을 오직 한번만 위험회피할 수 있다. 위험회피수단이 종속기업 B와 종속기업 C를 포함하는 연결실체 밖에서 보유되고 있기 때문에 종속기업 B는 자신의 연결재무제표에서 위험회피회계를 적용할 수 없다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG7",
+      "section_id": "6duUe5",
+      "section_title": "연결실체내의 어느 기업이 위험회피수단을 보유할 수 있는가(문단 14와 15)?",
+      "toc_path": "부록. 적용지침|연결실체내의 어느 기업이 위험회피수단을 보유할 수 있는가(문단 14와 15)?",
+      "text": "문단 AG5에서 언급한 것과 같이, 위험회피회계를 적용하지 않는다면 종속기업 A의 외부차입금 USD300백만의 외환위험에 대한 전체 가치변동은 지배기업의 연결재무제표상 당기손익(일본 엔화 대비 미국 달러화의 현물 위험)과 기타포괄손익(일본 엔화 대비 유로화의 현물 위험)으로 기록될 것이다. 위험회피수단과 위험회피대상항목의 가치변동은 위험회피의 문서에 따라 종속기업 C의 기능통화인 미국 달러화 대비 지배기업의 기능통화인 유로화를 기준으로 계산되기 때문에 두 금액은 문단 AG4에서 지정된 위험회피의 효과를 평가하는 데 포함된다. 연결방법(직접연결법 또는 단계연결법)은 위험회피효과를 평가하는 데 영향을 미치지 않는다.",
+      "html": "<span class=\"mundan-finder\">문단 AG5</span>에서 언급한 것과 같이, 위험회피회계를 적용하지 않는다면 종속기업 A의 외부차입금 USD300백만의 외환위험에 대한 전체 가치변동은 지배기업의 연결재무제표상 당기손익(일본 엔화 대비 미국 달러화의 현물 위험)과 기타포괄손익(일본 엔화 대비 유로화의 현물 위험)으로 기록될 것이다. 위험회피수단과 위험회피대상항목의 가치변동은 위험회피의 문서에 따라 종속기업 C의 기능통화인 미국 달러화 대비 지배기업의 기능통화인 유로화를 기준으로 계산되기 때문에 두 금액은 \n  <span class=\"mundan-finder\">문단 AG4</span>에서 지정된 위험회피의 효과를 평가하는 데 포함된다. 연결방법(직접연결법 또는 단계연결법)은 위험회피효과를 평가하는 데 영향을 미치지 않는다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 AG5",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "AG5",
+          "paragraph_ids": [
+            "AG5"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 AG4",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "AG4",
+          "paragraph_ids": [
+            "AG4"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG8",
+      "section_id": "WtXMAh",
+      "section_title": "해외사업장의 처분 시 당기손익으로 재분류되는 금액(문단 16과 17)",
+      "toc_path": "부록. 적용지침|해외사업장의 처분 시 당기손익으로 재분류되는 금액(문단 16과 17)",
+      "text": "종속기업 C가 처분되는 경우, 지배기업의 연결재무제표상 외화환산적립금에서 당기손익으로 재분류되는 금액은 다음의 ⑴과 ⑵이다. ⑴ 종속기업 A의 외부차입금 USD300백만에 대하여 기업회계기준서 제1109호에 따라 식별해야 하는 금액. 즉 위험회피에 효과적인 부분으로서 기타포괄손익에 인식되었던 외환위험과 관련된 가치변동 전체 ⑵ 종속기업 C에 대한 USD300백만의 순투자와 관련하여, 기업의 연결방법에 의해 결정된 금액. 지배기업이 직접연결법을 사용한다면, 종속기업 C에 대한 외화환산적립금은 미국 달러화 대비 유로화의 환율에 의해 직접 결정될 것이다. 지배기업이 단계연결법을 사용한다면 종속기업 C에 대한 외화환산적립금은 종속기업 B가 미국 달러화 대비 영국 파운드화의 환율을 반영하여 인식한 외화환산적립금에 의해 결정될 것이며, 영국 파운드화 대비 유로화의 환율을 사용하여 지배기업의 기능통화로 환산될 것이다. 지배기업이 과거 기간에 단계연결법을 사용했다고 해서, 종속기업 C의 처분 시점에 재분류되어야 하는 외화환산적립금의 금액을 지배기업의 회계정책에 따라 직접법을 항상 사용해 왔더라면 인식했었을 금액으로 결정해야 한다거나 결정하지 말아야 하는 것은 아니다.",
+      "html": "종속기업 C가 처분되는 경우, 지배기업의 연결재무제표상 외화환산적립금에서 당기손익으로 재분류되는 금액은 다음의 ⑴과 ⑵이다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 종속기업 A의 외부차입금 USD300백만에 대하여 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 따라 식별해야 하는 금액. 즉 위험회피에 효과적인 부분으로서 기타포괄손익에 인식되었던 외환위험과 관련된 가치변동 전체\n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 종속기업 C에 대한 USD300백만의 순투자와 관련하여, 기업의 연결방법에 의해 결정된 금액. 지배기업이 직접연결법을 사용한다면, 종속기업 C에 대한 외화환산적립금은 미국 달러화 대비 유로화의 환율에 의해 직접 결정될 것이다. 지배기업이 단계연결법을 사용한다면 종속기업 C에 대한 외화환산적립금은 종속기업 B가 미국 달러화 대비 영국 파운드화의 환율을 반영하여 인식한 외화환산적립금에 의해 결정될 것이며, 영국 파운드화 대비 유로화의 환율을 사용하여 지배기업의 기능통화로 환산될 것이다. 지배기업이 과거 기간에 단계연결법을 사용했다고 해서, 종속기업 C의 처분 시점에 재분류되어야 하는 외화환산적립금의 금액을 지배기업의 회계정책에 따라 직접법을 항상 사용해 왔더라면 인식했었을 금액으로 결정해야 한다거나 결정하지 말아야 하는 것은 아니다.</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG10",
+      "section_id": "91dWfj",
+      "section_title": "지배기업이 미국 달러화와 영국 파운드화에 대한 위험회피수단을 모두 보유하는 경우",
+      "toc_path": "부록. 적용지침|하나 이상의 해외사업장을 위험회피하는 경우(문단 11, 13 및 15)|지배기업이 미국 달러화와 영국 파운드화에 대한 위험회피수단을 모두 보유하는 경우",
+      "text": "지배기업은 종속기업 C에 대한 순투자 뿐만 아니라 종속기업 B에 대한 순투자와 관련된 외환위험을 회피하고자 할 수 있다. 종속기업 B와 종속기업 C에 대한 순투자의 위험회피에 미국 달러화와 영국 파운드화로 표시된 적절한 위험회피수단을 지배기업이 보유하고 있다고 가정하자. 지배기업은 연결재무제표에서 다음과 같이 지정할 수 있으며, 이에 한정되지 않고 그 밖의 방법으로도 지정할 수 있다. ⑴ 지배기업과 종속기업 C 사이의 현물외환위험(미국 달러화 대비 유로화)을 갖고 있는 종속기업 C에 대한 순투자 USD300백만의 위험회피수단으로 USD300백만을 지정하고, 지배기업과 종속기업 B 사이의 현물외환위험(영국 파운드화 대비 유로화)을 갖고 있는 종속기업 B에 대한 순투자 GBP341백만의 위험회피수단으로 GBP341백만까지를 지정한다. ⑵ 종속기업 B와 종속기업 C 사이의 현물외환위험(미국 달러화 대비 영국 파운드화)을 갖고 있는 종속기업 C에 대한 순투자 USD300백만의 위험회피수단으로 USD300백만을 지정하고, 지배기업과 종속기업 B 사이의 현물외환위험(영국 파운드화 대비 유로화)을 갖고 있는 종속기업 B에 대한 순투자 GBP500백만의 위험회피수단으로 GBP500백만까지를 지정한다.",
+      "html": "지배기업은 종속기업 C에 대한 순투자 뿐만 아니라 종속기업 B에 대한 순투자와 관련된 외환위험을 회피하고자 할 수 있다. 종속기업 B와 종속기업 C에 대한 순투자의 위험회피에 미국 달러화와 영국 파운드화로 표시된 적절한 위험회피수단을 지배기업이 보유하고 있다고 가정하자. 지배기업은 연결재무제표에서 다음과 같이 지정할 수 있으며, 이에 한정되지 않고 그 밖의 방법으로도 지정할 수 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 지배기업과 종속기업 C 사이의 현물외환위험(미국 달러화 대비 유로화)을 갖고 있는 종속기업 C에 대한 순투자 USD300백만의 위험회피수단으로 USD300백만을 지정하고, 지배기업과 종속기업 B 사이의 현물외환위험(영국 파운드화 대비 유로화)을 갖고 있는 종속기업 B에 대한 순투자 GBP341백만의 위험회피수단으로 GBP341백만까지를 지정한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 종속기업 B와 종속기업 C 사이의 현물외환위험(미국 달러화 대비 영국 파운드화)을 갖고 있는 종속기업 C에 대한 순투자 USD300백만의 위험회피수단으로 USD300백만을 지정하고, 지배기업과 종속기업 B 사이의 현물외환위험(영국 파운드화 대비 유로화)을 갖고 있는 종속기업 B에 대한 순투자 GBP500백만의 위험회피수단으로 GBP500백만까지를 지정한다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG11",
+      "section_id": "91dWfj",
+      "section_title": "지배기업이 미국 달러화와 영국 파운드화에 대한 위험회피수단을 모두 보유하는 경우",
+      "toc_path": "부록. 적용지침|하나 이상의 해외사업장을 위험회피하는 경우(문단 11, 13 및 15)|지배기업이 미국 달러화와 영국 파운드화에 대한 위험회피수단을 모두 보유하는 경우",
+      "text": "종속기업 C에 대한 지배기업의 순투자로 인한 미국 달러화 대비 유로화의 위험은 종속기업 B에 대한 지배기업의 순투자로 인한 영국 파운드화 대비 유로화로 인한 위험과 다르다. 그러나 문단 AG10⑴의 사례에서, 지배기업은 보유하고 있는 미국 달러화 위험회피수단을 지정함으로써 종속기업 C에 대한 순투자로 인한 미국 달러화 대비 유로화의 위험을 이미 완전히 위험회피하였다. 또한 만일 지배기업이 종속기업 B에 대한 GBP500백만의 순투자를 위험회피하기 위해 보유하고 있는 영국 파운드화 위험회피수단을 지정한다면, 종속기업 C에 대한 미국 달러화 순투자와 동일한 영국 파운드화 금액인 GBP159백만의 순투자를 유로화 대비 영국 파운드화의 위험에 대해 지배기업의 연결재무제표에서 두 번 위험회피하게 된다.",
+      "html": "종속기업 C에 대한 지배기업의 순투자로 인한 미국 달러화 대비 유로화의 위험은 종속기업 B에 대한 지배기업의 순투자로 인한 영국 파운드화 대비 유로화로 인한 위험과 다르다. 그러나 \n  <span class=\"mundan-finder\">문단 AG10⑴</span>의 사례에서, 지배기업은 보유하고 있는 미국 달러화 위험회피수단을 지정함으로써 종속기업 C에 대한 순투자로 인한 미국 달러화 대비 유로화의 위험을 이미 완전히 위험회피하였다. 또한 만일 지배기업이 종속기업 B에 대한 GBP500백만의 순투자를 위험회피하기 위해 보유하고 있는 영국 파운드화 위험회피수단을 지정한다면, 종속기업 C에 대한 미국 달러화 순투자와 동일한 영국 파운드화 금액인 GBP159백만의 순투자를 유로화 대비 영국 파운드화의 위험에 대해 지배기업의 연결재무제표에서 두 번 위험회피하게 된다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 AG10⑴",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "AG10⑴",
+          "paragraph_ids": [
+            "AG10⑴"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG12",
+      "section_id": "91dWfj",
+      "section_title": "지배기업이 미국 달러화와 영국 파운드화에 대한 위험회피수단을 모두 보유하는 경우",
+      "toc_path": "부록. 적용지침|하나 이상의 해외사업장을 위험회피하는 경우(문단 11, 13 및 15)|지배기업이 미국 달러화와 영국 파운드화에 대한 위험회피수단을 모두 보유하는 경우",
+      "text": "문단 AG10⑵의 사례에서, 지배기업이 종속기업 B와 종속기업 C 사이의 현물외환위험(미국 달러화 대비 영국 파운드화)을 회피대상위험으로 지정한다면 USD300백만의 위험회피수단의 가치변동 중 미국 달러화 대비 영국 파운드화에 해당하는 부분만이 종속기업 C와 관련된 지배기업의 외화환산적립금에 포함된다. 가치변동의 나머지 부분(GBP159백만에 대한 유로화 대비 영국 파운드화의 변동에 해당하는 부분)은 문단 AG5와 같이 지배기업의 연결당기손익에 포함된다. 종속기업 B와 C 사이의 영국 파운드화 대비 미국 달러화의 위험에 대한 지정은 유로화 대비 영국 파운드화의 위험에 포함되지 않기 때문에, 지배기업은 지배기업과 종속기업 B 사이의 현물외환위험(유로화 대비 영국 파운드화)에 대해서도 종속기업 B에 대한 순투자 GBP500백만까지 지정할 수 있다.",
+      "html": "<span class=\"mundan-finder\">문단 AG10⑵</span>의 사례에서, 지배기업이 종속기업 B와 종속기업 C 사이의 현물외환위험(미국 달러화 대비 영국 파운드화)을 회피대상위험으로 지정한다면 USD300백만의 위험회피수단의 가치변동 중 미국 달러화 대비 영국 파운드화에 해당하는 부분만이 종속기업 C와 관련된 지배기업의 외화환산적립금에 포함된다. 가치변동의 나머지 부분(GBP159백만에 대한 유로화 대비 영국 파운드화의 변동에 해당하는 부분)은 \n  <span class=\"mundan-finder\">문단 AG5</span>와 같이 지배기업의 연결당기손익에 포함된다. 종속기업 B와 C 사이의 영국 파운드화 대비 미국 달러화의 위험에 대한 지정은 유로화 대비 영국 파운드화의 위험에 포함되지 않기 때문에, 지배기업은 지배기업과 종속기업 B 사이의 현물외환위험(유로화 대비 영국 파운드화)에 대해서도 종속기업 B에 대한 순투자 GBP500백만까지 지정할 수 있다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 AG10⑵",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "AG10⑵",
+          "paragraph_ids": [
+            "AG10⑵"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 AG5",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "AG5",
+          "paragraph_ids": [
+            "AG5"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG13",
+      "section_id": "zWZeGg",
+      "section_title": "종속기업 B가 미국 달러화 위험회피수단을 보유하는 경우",
+      "toc_path": "부록. 적용지침|하나 이상의 해외사업장을 위험회피하는 경우(문단 11, 13 및 15)|종속기업 B가 미국 달러화 위험회피수단을 보유하는 경우",
+      "text": "종속기업 B가 USD300백만을 외부에서 차입하여 그 유입액을 영국 파운드화 표시 기업간 대여금으로 지배기업에 이전하였다고 가정하자. 종속기업 B의 자산과 부채가 모두 GBP159백만 만큼 증가했기 때문에 종속기업 B의 순자산은 변동하지 않는다. 종속기업 B는 종속기업 B의 연결재무제표에서 종속기업 C에 대한 순투자로 인한 미국 달러화 대비 영국 파운드화의 위험을 회피하기 위해 외부 차입금을 지정할 수 있다. 지배기업은 종속기업 C에 대한 순투자 USD300백만의 미국 달러화 대비 영국 파운드화의 위험을 회피하기 위하여 이러한 위험회피수단에 대한 종속기업 B의 지정을 유지할 수 있으며(문단 13 참조), 지배기업은 종속기업 B에 대한 GBP500백만의 순투자 전체의 위험을 회피하기 위해 보유하고 있는 영국 파운드화 위험회피수단을 지정할 수 있다. 종속기업 B가 지정한 첫 번째 위험회피는 종속기업 B의 기능통화(영국 파운드화)에 의해 평가될 것이며 지배기업이 지정한 두 번째 위험회피는 지배기업의 기능통화(유로화)로 평가될 것이다. 이 경우 지배기업의 연결재무제표에서는 지배기업의 종속기업 C에 대한 순투자로 인한 (미국 달러화 대비 유로화의 전체 위험이 아닌) 미국 달러화 대비 영국 파운드화의 위험만이 미국 달러화 위험회피수단에 의해 위험회피되었다. 따라서 종속기업 B에 대한 지배기업의 GBP500백만 순투자로 인한 영국 파운드화 대비 유로화의 전체 위험은 지배기업의 연결재무제표에서 위험회피될 수 있다.",
+      "html": "종속기업 B가 USD300백만을 외부에서 차입하여 그 유입액을 영국 파운드화 표시 기업간 대여금으로 지배기업에 이전하였다고 가정하자. 종속기업 B의 자산과 부채가 모두 GBP159백만 만큼 증가했기 때문에 종속기업 B의 순자산은 변동하지 않는다. 종속기업 B는 종속기업 B의 연결재무제표에서 종속기업 C에 대한 순투자로 인한 미국 달러화 대비 영국 파운드화의 위험을 회피하기 위해 외부 차입금을 지정할 수 있다. 지배기업은 종속기업 C에 대한 순투자 USD300백만의 미국 달러화 대비 영국 파운드화의 위험을 회피하기 위하여 이러한 위험회피수단에 대한 종속기업 B의 지정을 유지할 수 있으며(<span class=\"mundan-finder\">문단 13</span> 참조), 지배기업은 종속기업 B에 대한 GBP500백만의 순투자 전체의 위험을 회피하기 위해 보유하고 있는 영국 파운드화 위험회피수단을 지정할 수 있다. 종속기업 B가 지정한 첫 번째 위험회피는 종속기업 B의 기능통화(영국 파운드화)에 의해 평가될 것이며 지배기업이 지정한 두 번째 위험회피는 지배기업의 기능통화(유로화)로 평가될 것이다. 이 경우 지배기업의 연결재무제표에서는 지배기업의 종속기업 C에 대한 순투자로 인한 (미국 달러화 대비 유로화의 전체 위험이 아닌) 미국 달러화 대비 영국 파운드화의 위험만이 미국 달러화 위험회피수단에 의해 위험회피되었다. 따라서 종속기업 B에 대한 지배기업의 GBP500백만 순투자로 인한 영국 파운드화 대비 유로화의 전체 위험은 지배기업의 연결재무제표에서 위험회피될 수 있다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 13",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "13",
+          "paragraph_ids": [
+            "13"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG14",
+      "section_id": "zWZeGg",
+      "section_title": "종속기업 B가 미국 달러화 위험회피수단을 보유하는 경우",
+      "toc_path": "부록. 적용지침|하나 이상의 해외사업장을 위험회피하는 경우(문단 11, 13 및 15)|종속기업 B가 미국 달러화 위험회피수단을 보유하는 경우",
+      "text": "그러나 종속기업 B에 지급할 지배기업의 GBP159백만의 차입금에 대한 회계처리 또한 고려되어야 한다. 만일 지배기업의 차입금이 기업회계기준서 제1021호의 문단 15의 조건을 충족하지 않기 때문에 종속기업 B에 대한 순투자의 일부로 간주되지 않는다면, 차입금을 환산하면서 발생되는 유로화 대비 영국 파운드화의 외환차이는 지배기업의 연결당기손익에 포함될 것이다. 만일 종속기업 B에 대한 GBP159백만의 차입금이 지배기업의 순투자의 일부로 간주된다면, 순투자는 GBP341백만에 불과하며 이에 따라 지배기업이 유로화 대비 영국 파운드화의 위험에 대해 위험회피대상항목으로 지정할 수 있는 금액은 GBP500백만에서 GBP341백만으로 줄어들 것이다.",
+      "html": "그러나 종속기업 B에 지급할 지배기업의 GBP159백만의 차입금에 대한 회계처리 또한 고려되어야 한다. 만일 지배기업의 차입금이 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div>의 \n  \n  <span class=\"mundan-finder\">문단 15</span>의 조건을 충족하지 않기 때문에 종속기업 B에 대한 순투자의 일부로 간주되지 않는다면, 차입금을 환산하면서 발생되는 유로화 대비 영국 파운드화의 외환차이는 지배기업의 연결당기손익에 포함될 것이다. 만일 종속기업 B에 대한 GBP159백만의 차입금이 지배기업의 순투자의 일부로 간주된다면, 순투자는 GBP341백만에 불과하며 이에 따라 지배기업이 유로화 대비 영국 파운드화의 위험에 대해 위험회피대상항목으로 지정할 수 있는 금액은 GBP500백만에서 GBP341백만으로 줄어들 것이다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1021호",
+          "standard_number": "1021",
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 15",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "15",
+          "paragraph_ids": [
+            "15"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "AG15",
+      "section_id": "zWZeGg",
+      "section_title": "종속기업 B가 미국 달러화 위험회피수단을 보유하는 경우",
+      "toc_path": "부록. 적용지침|하나 이상의 해외사업장을 위험회피하는 경우(문단 11, 13 및 15)|종속기업 B가 미국 달러화 위험회피수단을 보유하는 경우",
+      "text": "지배기업이 종속기업 B가 지정한 위험회피관계를 환원시킨다면, 지배기업은 종속기업 B가 유지하고 있는 USD300백만의 외부차입금을 종속기업 C에 대한 순투자 USD300백만에 대한 미국 달러화 대비 유로화의 위험에 대한 위험회피수단으로 지정하고, 종속기업 B에 대한 순투자 GBP341백만까지에 대해서만 보유하고 있는 영국 파운드화 위험회피수단을 지정할 수 있다. 이 경우 두 위험회피의 위험회피효과는 지배기업의 기능통화(유로화)로 계산될 것이다. 결과적으로, 종속기업 B가 유지하고 있는 외부차입금의 영국 파운드화 대비 미국 달러화의 가치변동과 종속기업 B에 대한 지배기업의 차입금의 유로화 대비 영국 파운드화의 가치변동(양자의 합계는 유로화 대비 미국 달러화의 가치변동과 동등함)은 지배기업의 연결재무제표상 외화환산적립금에 포함될 것이다. 지배기업은 이미 종속기업 C에 대한 순투자로 인한 미국 달러화 대비 유로화의 위험을 완전히 회피했기 때문에, 종속기업 B에 대한 순투자의 영국 파운드화 대비 유로화의 위험에 대해 GBP341백만까지만 위험회피할 수 있다.",
+      "html": "지배기업이 종속기업 B가 지정한 위험회피관계를 환원시킨다면, 지배기업은 종속기업 B가 유지하고 있는 USD300백만의 외부차입금을 종속기업 C에 대한 순투자 USD300백만에 대한 미국 달러화 대비 유로화의 위험에 대한 위험회피수단으로 지정하고, 종속기업 B에 대한 순투자 GBP341백만까지에 대해서만 보유하고 있는 영국 파운드화 위험회피수단을 지정할 수 있다. 이 경우 두 위험회피의 위험회피효과는 지배기업의 기능통화(유로화)로 계산될 것이다. 결과적으로, 종속기업 B가 유지하고 있는 외부차입금의 영국 파운드화 대비 미국 달러화의 가치변동과 종속기업 B에 대한 지배기업의 차입금의 유로화 대비 영국 파운드화의 가치변동(양자의 합계는 유로화 대비 미국 달러화의 가치변동과 동등함)은 지배기업의 연결재무제표상 외화환산적립금에 포함될 것이다. 지배기업은 이미 종속기업 C에 대한 순투자로 인한 미국 달러화 대비 유로화의 위험을 완전히 회피했기 때문에, 종속기업 B에 대한 순투자의 영국 파운드화 대비 유로화의 위험에 대해 GBP341백만까지만 위험회피할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "웩2",
+      "section_id": "nvNc00",
+      "section_title": "기업회계기준해석서 제2116호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "부록. 적용지침|기업회계기준해석서 제2116호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준해석서 제2116호의 제정에 대한 회계기준위원회의 의결(2008년)",
+      "html": "<div value=\"웩2\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2116호의 제정에 대한 회계기준위원회의 의결(2008년)</b></div><br><div class=\"para\">기업회계기준해석서 제2116호 ‘해외사업장순투자의 위험회피’의 제정(2008.12.12.)은 회계기준위원회 위원 7명 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원: </div><div class=\"para\">서정우(위원장), 김찬홍(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE5",
+      "section_id": "JggX2i",
+      "section_title": "재분류",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2116호 ‘해외사업장순투자의 위험회피’의 적용사례|해외사업장의 처분(문단 16과17)|배경|재분류",
+      "text": "종속기업 C에 대한 투자를 처분한 경우, 기업회계기준서 제1109호는 위험회피수단에 대한 EUR24백만의 이익 전부를 당기손익으로 재분류하도록 요구하고 있다. 단계연결법을 사용할 경우 종속기업 C에 대한 순투자와 관련해 당기손익으로 재분류되는 금액은 단지 EUR11백만의 손실일 것이다. 지배기업은 직접연결법이 지배기업의 회계정책이어서 이것이 사용되었다면 조정했었을 금액과 위험회피수단 및 순투자와 관련하여 재분류되는 금액을 일치시키기 위하여 종속기업 B와 C의 외화환산적립금 모두에서 EUR13백만 만큼을 조정할 수 있다. 순투자에 대해 위험회피하지 않은 기업은 동일한 재분류를 할 수 있다.",
+      "html": "종속기업 C에 대한 투자를 처분한 경우, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>는 위험회피수단에 대한 EUR24백만의 이익 전부를 당기손익으로 재분류하도록 요구하고 있다. 단계연결법을 사용할 경우 종속기업 C에 대한 순투자와 관련해 당기손익으로 재분류되는 금액은 단지 EUR11백만의 손실일 것이다. 지배기업은 직접연결법이 지배기업의 회계정책이어서 이것이 사용되었다면 조정했었을 금액과 위험회피수단 및 순투자와 관련하여 재분류되는 금액을 일치시키기 위하여 종속기업 B와 C의 외화환산적립금 모두에서 EUR13백만 만큼을 조정할 수 있다. 순투자에 대해 위험회피하지 않은 기업은 동일한 재분류를 할 수 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC1",
+      "section_id": "zSTgc6",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|도입",
+      "text": "IFRIC이 결론을 도출하는 과정에서 고려한 사항들을 이 ‘결론도출근거’에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "html": "IFRIC이 결론을 도출하는 과정에서 고려한 사항들을 이 ‘결론도출근거’에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC2",
+      "section_id": "94O8Tv",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|배경",
+      "text": "IFRIC은 연결재무제표에서 해외사업장순투자 위험회피의 회계처리에 대한 지침을 요청받았다. 위험회피회계의 목적상 적용조건을 충족하는 위험에 대하여 이해관계자들은 서로 다른 관점을 가지고 있었다. 회계논제 중 하나는, 위험이 해외사업장과 지배기업의 기능통화에 대한 외화 노출정도에서 발생하는지 또는 해외사업장의 기능통화와 지배기업의 연결재무제표의 표시통화에 대한 외화 노출정도에서 발생하는지이다.",
+      "html": "IFRIC은 연결재무제표에서 해외사업장순투자 위험회피의 회계처리에 대한 지침을 요청받았다. 위험회피회계의 목적상 적용조건을 충족하는 위험에 대하여 이해관계자들은 서로 다른 관점을 가지고 있었다. 회계논제 중 하나는, 위험이 해외사업장과 지배기업의 기능통화에 대한 외화 노출정도에서 발생하는지 또는 해외사업장의 기능통화와 지배기업의 연결재무제표의 표시통화에 대한 외화 노출정도에서 발생하는지이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC3",
+      "section_id": "94O8Tv",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|배경",
+      "text": "또한 해외사업장순투자의 위험회피에서 연결실체내의 어느 기업이 위험회피수단을 보유할 수 있는지 그리고 특히 해외사업장에 대한 순투자가 있는 지배기업이 위험회피수단을 보유해야만 하는지에 대한 우려가 제기되었다.",
+      "html": "또한 해외사업장순투자의 위험회피에서 연결실체내의 어느 기업이 위험회피수단을 보유할 수 있는지 그리고 특히 해외사업장에 대한 순투자가 있는 지배기업이 위험회피수단을 보유해야만 하는지에 대한 우려가 제기되었다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC4",
+      "section_id": "94O8Tv",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|배경",
+      "text": "이에 따라, IFRIC은 해외사업장순투자에서 발생하는 외화위험의 회피에 대한 회계처리의 지침을 마련하기로 결정했다.",
+      "html": "이에 따라, IFRIC은 해외사업장순투자에서 발생하는 외화위험의 회피에 대한 회계처리의 지침을 마련하기로 결정했다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC5",
+      "section_id": "94O8Tv",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|배경",
+      "text": "2007년 7월에 외부검토의견을 위해 IFRIC은 해석서 초안 제22호(D22) ‘해외사업장순투자의 위험회피(Interpretation D22 Hedges of a Net Investment in a Foreign Operation)’를 발표하고 이 제안에 대해 45개의 외부검토의견을 받았다.",
+      "html": "2007년 7월에 외부검토의견을 위해 IFRIC은 해석서 초안 제22호(D22) ‘해외사업장순투자의 위험회피(Interpretation D22 Hedges of a Net Investment in a Foreign Operation)’를 발표하고 이 제안에 대해 45개의 외부검토의견을 받았다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC6",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "IFRIC은 해외사업장순투자의 위험회피에서 연결방법이 회피대상위험의 결정에 영향을 미칠 수 있다는 외부검토의견을 받았다. 이 외부검토의견에서는 연결이 직접법이나 단계법에 의해 이루어 질 수 있다는 점이 언급되었다. 직접연결법에 따라 연결재무제표를 작성하는 경우 연결실체내의 개별기업은 최상위지배기업의 표시통화로 직접 연결된다. 단계연결법의 경우 개별 중간지배기업이 연결재무제표를 작성하고 이 연결재무제표는 최상위지배기업이 연결재무제표를 작성할 때까지 중간지배기업의 지배기업으로 연결된다.",
+      "html": "IFRIC은 해외사업장순투자의 위험회피에서 연결방법이 회피대상위험의 결정에 영향을 미칠 수 있다는 외부검토의견을 받았다. 이 외부검토의견에서는 연결이 직접법이나 단계법에 의해 이루어 질 수 있다는 점이 언급되었다. 직접연결법에 따라 연결재무제표를 작성하는 경우 연결실체내의 개별기업은 최상위지배기업의 표시통화로 직접 연결된다. 단계연결법의 경우 개별 중간지배기업이 연결재무제표를 작성하고 이 연결재무제표는 최상위지배기업이 연결재무제표를 작성할 때까지 중간지배기업의 지배기업으로 연결된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC7",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "이 외부검토의견에서는 직접법이 요구된다면 해외사업장순투자의 위험회피에서 위험회피회계의 적용조건을 충족하는 위험은 해외사업장의 기능통화와 연결실체의 표시통화 사이의 노출정도에서만 발생될 것이라고 언급했다. 이는 각 해외사업장은 표시통화로 단 한번만 환산되기 때문이다. 반대로, 단계법이 요구된다면 위험회피회계의 적용조건을 충족하는 회피대상위험은 해외사업장의 기능통화와 해외사업장이 연결되는 가장 가까운 상위의 지배기업의 기능통화 사이의 위험이라고 언급했다. 이는 각 해외사업장은 가장 가까운 상위의 지배기업에 직접 연결되기 때문이다.",
+      "html": "이 외부검토의견에서는 직접법이 요구된다면 해외사업장순투자의 위험회피에서 위험회피회계의 적용조건을 충족하는 위험은 해외사업장의 기능통화와 연결실체의 표시통화 사이의 노출정도에서만 발생될 것이라고 언급했다. 이는 각 해외사업장은 표시통화로 단 한번만 환산되기 때문이다. 반대로, 단계법이 요구된다면 위험회피회계의 적용조건을 충족하는 회피대상위험은 해외사업장의 기능통화와 해외사업장이 연결되는 가장 가까운 상위의 지배기업의 기능통화 사이의 위험이라고 언급했다. 이는 각 해외사업장은 가장 가까운 상위의 지배기업에 직접 연결되기 때문이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC8",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "이에 대해 IFRIC은 IAS 21에서 해외사업장에 대한 연결방법을 특정하지 않는다는 점에 주목했다. 더구나 IAS 21의 결론도출근거의 문단 BC18 에서는, 직접법이 사용되든 단계법이 사용되든 관계없이, 재무제표를 환산하면 표시통화로는 동일한 금액이 나타날 것이라고 언급하고 있다. 따라서 IFRIC은 연결하는 방법에 따라 해외사업장순투자의 위험회피에 대해 위험회피회계의 적용조건을 충족할 수 있는 위험이 달라져서는 안된다고 결론내렸다.",
+      "html": "이에 대해 IFRIC은 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에서 해외사업장에 대한 연결방법을 특정하지 않는다는 점에 주목했다. 더구나 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>의 결론도출근거의 \n  \n  <span class=\"mundan-finder\">문단 BC18</span>\n에서는, 직접법이 사용되든 단계법이 사용되든 관계없이, 재무제표를 환산하면 표시통화로는 동일한 금액이 나타날 것이라고 언급하고 있다. 따라서 IFRIC은 연결하는 방법에 따라 해외사업장순투자의 위험회피에 대해 위험회피회계의 적용조건을 충족할 수 있는 위험이 달라져서는 안된다고 결론내렸다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC18",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "BC18",
+          "paragraph_ids": [
+            "BC18"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC9",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "그러나 IFRIC은 이러한 결론이 해외사업장순투자의 위험회피에서 위험회피관계로 지정할 수 있는 외화위험에 대한 다양한 관점을 해결하지는 못할 것이라고 보았다. 따라서 IFRIC은 해석서가 필요하다고 결정하였다.",
+      "html": "그러나 IFRIC은 이러한 결론이 해외사업장순투자의 위험회피에서 위험회피관계로 지정할 수 있는 외화위험에 대한 다양한 관점을 해결하지는 못할 것이라고 보았다. 따라서 IFRIC은 해석서가 필요하다고 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC10",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "IFRIC은 해외사업장순투자의 위험회피에서 위험회피회계의 적용조건을 충족하는 위험이, 해외사업장의 기능통화와 연결실체의 표시통화와의 노출정도에서 발생하는지, 해외사업장의 기능통화와 지배기업의 기능통화와의 노출정도에서 발생하는지 또는 두 경우 모두에서 발생하는지에 대해 고려하였다.",
+      "html": "IFRIC은 해외사업장순투자의 위험회피에서 위험회피회계의 적용조건을 충족하는 위험이, 해외사업장의 기능통화와 연결실체의 표시통화와의 노출정도에서 발생하는지, 해외사업장의 기능통화와 지배기업의 기능통화와의 노출정도에서 발생하는지 또는 두 경우 모두에서 발생하는지에 대해 고려하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC11",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "이 질문에 대한 해답은 연결실체의 표시통화가 중간지배기업이나 최상위지배기업의 기능통화와 다른 경우 중요하다. 연결실체의 표시통화와 지배기업의 기능통화가 동일하다면, 위험회피되는 환율은 지배기업의 기능통화와 해외사업장의 기능통화간의 환율로 식별될 수 있을 것이고, 연결재무제표를 작성할 때 환산조정이 추가로 필요하지는 않을 것이다. 그러나 지배기업의 기능통화가 연결실체의 표시통화와 다른 경우에는, 그 다른 표시통화로 연결재무제표를 표시하기 위해 환산조정이 기타포괄손익에 포함될 것이다. 따라서 회계논제는 IAS 39(주3)를 따를 경우, 해외사업장순투자의 위험회피에서 어떠한 외화위험을 회피대상위험으로 지정할 수 있는지를 어떻게 결정할 것인지이다. [각주 (주3)] IFRS 9는 IAS 39를 대체하였다. 그러나 해외사업장 순투자의 위험회피와 관련된 요구사항은 유지하고 IAS 39에서 IFRS 9로 재배치하였다.",
+      "html": "이 질문에 대한 해답은 연결실체의 표시통화가 중간지배기업이나 최상위지배기업의 기능통화와 다른 경우 중요하다. 연결실체의 표시통화와 지배기업의 기능통화가 동일하다면, 위험회피되는 환율은 지배기업의 기능통화와 해외사업장의 기능통화간의 환율로 식별될 수 있을 것이고, 연결재무제표를 작성할 때 환산조정이 추가로 필요하지는 않을 것이다. 그러나 지배기업의 기능통화가 연결실체의 표시통화와 다른 경우에는, 그 다른 표시통화로 연결재무제표를 표시하기 위해 환산조정이 기타포괄손익에 포함될 것이다. 따라서 회계논제는 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주3)</sup>를 따를 경우, 해외사업장순투자의 위험회피에서 어떠한 외화위험을 회피대상위험으로 지정할 수 있는지를 어떻게 결정할 것인지이다.\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주3)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. 그러나 해외사업장 순투자의 위험회피와 관련된 요구사항은 유지하고 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에서 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>로 재배치하였다.\n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": null,
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주3",
+          "display_text": "(주3)"
+        }
+      ]
+    },
+    {
+      "number": "BC12",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "IFRIC은 표시통화에 대한 위험회피에 위험회피회계를 허용해야 한다는 다음의 주장을 고려하였다. ⑴ 연결실체의 표시통화가 최상위지배기업의 기능통화와 다른 경우, 환산에 따른 차이가 발생하며 이는 기타포괄손익에 인식된다. 해외사업장순투자에 위험회피회계를 허용하는 이유는 표시통화로 환산함으로써 초래되는 변동성을 재무제표에서 제거하기 위해서이다. 만일 연결실체의 표시통화와 지배기업의 기능통화가 다른 경우, 연결실체의 표시통화에 대한 노출정도에 대해 위험회피회계의 적용을 허용하지 않는다면, 위험회피회계에 의해 상쇄될 수 없는 금액이 기타포괄손익에 포함될 수 있다. ⑵IAS 21에 따르면, 기업은 해외사업장의 처분 시 기타포괄손익에 포함된 외화환산손익을 재분류조정을 통해 자본에서 당기손익으로 재분류해야 한다. 그러므로 표시통화가 달라서 발생된 기타포괄손익의 금액은 처분 시점에 당기손익으로 재분류되는 금액에 포함된다. 일정 단계에서 그 금액이 다른 재분류된 환산금액과 함께 인식된다면 기업은 위험회피관계에서 그 금액을 포함시킬 수 있어야만 한다.",
+      "html": "IFRIC은 표시통화에 대한 위험회피에 위험회피회계를 허용해야 한다는 다음의 주장을 고려하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 연결실체의 표시통화가 최상위지배기업의 기능통화와 다른 경우, 환산에 따른 차이가 발생하며 이는 기타포괄손익에 인식된다. 해외사업장순투자에 위험회피회계를 허용하는 이유는 표시통화로 환산함으로써 초래되는 변동성을 재무제표에서 제거하기 위해서이다. 만일 연결실체의 표시통화와 지배기업의 기능통화가 다른 경우, 연결실체의 표시통화에 대한 노출정도에 대해 위험회피회계의 적용을 허용하지 않는다면, 위험회피회계에 의해 상쇄될 수 없는 금액이 기타포괄손익에 포함될 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에 따르면, 기업은 해외사업장의 처분 시 기타포괄손익에 포함된 외화환산손익을 재분류조정을 통해 자본에서 당기손익으로 재분류해야 한다. 그러므로 표시통화가 달라서 발생된 기타포괄손익의 금액은 처분 시점에 당기손익으로 재분류되는 금액에 포함된다. 일정 단계에서 그 금액이 다른 재분류된 환산금액과 함께 인식된다면 기업은 위험회피관계에서 그 금액을 포함시킬 수 있어야만 한다.\n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC13",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "IFRIC은 기능통화간의 차이에 대해서만 위험회피관계를 지정할 수 있도록 허용해야 한다는 다음의 주장에 주목하였다. ⑴ 기업의 기능통화는 기업의 영업활동이 이루어지는 주된 경제 환경(즉, 현금을 창출하고 사용하는 환경)에 근거하여 결정된다. 그러나 표시통화는 어느 때든 변경될 수 있는 선택적인 통화이다. 표시통화로 금액을 표시하는 것은 해외사업장을 포함하는 재무제표의 작성에 필요한 수치적 관행에 불과하다. 표시통화는 지배기업에 경제적 영향을 미치지 않을 것이다. 사실상, 지배기업은 하나 이상의 표시통화로 재무제표를 작성하기로 선택할 수 있지만 기능통화는 하나일 뿐이다. ⑵IAS 39에 따르면, 위험회피관계는 회피대상위험으로 인한 공정가치나 현금흐름의 변동을 상쇄하는 데 효과적이어야 한다. 해외사업장순투자는 지배기업에 환율변동위험에 대한 노출정도를 야기한다. 경제적 환율 위험은 표시통화가 아니라 둘 이상의 기능통화간의 노출정도에서만 발생한다.",
+      "html": "IFRIC은 기능통화간의 차이에 대해서만 위험회피관계를 지정할 수 있도록 허용해야 한다는 다음의 주장에 주목하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 기업의 기능통화는 기업의 영업활동이 이루어지는 주된 경제 환경(즉, 현금을 창출하고 사용하는 환경)에 근거하여 결정된다. 그러나 표시통화는 어느 때든 변경될 수 있는 선택적인 통화이다. 표시통화로 금액을 표시하는 것은 해외사업장을 포함하는 재무제표의 작성에 필요한 수치적 관행에 불과하다. 표시통화는 지배기업에 경제적 영향을 미치지 않을 것이다. 사실상, 지배기업은 하나 이상의 표시통화로 재무제표를 작성하기로 선택할 수 있지만 기능통화는 하나일 뿐이다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 따르면, 위험회피관계는 회피대상위험으로 인한 공정가치나 현금흐름의 변동을 상쇄하는 데 효과적이어야 한다. 해외사업장순투자는 지배기업에 환율변동위험에 대한 노출정도를 야기한다. 경제적 환율 위험은 표시통화가 아니라 둘 이상의 기능통화간의 노출정도에서만 발생한다.\n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC14",
+      "section_id": "F1XXmE",
+      "section_title": "기능통화 대 표시통화(문단 10)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|기능통화 대 표시통화(문단 10)",
+      "text": "IFRIC은 문단 BC12와 BC13의 주장을 비교하면서, 표시통화는 기업이 위험회피회계를 적용할 수 있는 노출정도를 발생시키지 않는다고 결론내렸다. 기능통화는 기업의 영업활동이 이루어지는 주요 경제환경에 근거하여 결정된다. 따라서 기능통화는 현금흐름이나 공정가치의 변동에 경제적 노출정도를 발생시킨다. 표시통화는 결코 그렇지 않다. 해석서 초안에 대한 의견제출자 중 어느 누구도 IFRIC의 결론에 반대하지 않았다.",
+      "html": "IFRIC은 \n  <span class=\"mundan-finder\">문단 BC12와 BC13</span>의 주장을 비교하면서, 표시통화는 기업이 위험회피회계를 적용할 수 있는 노출정도를 발생시키지 않는다고 결론내렸다. 기능통화는 기업의 영업활동이 이루어지는 주요 경제환경에 근거하여 결정된다. 따라서 기능통화는 현금흐름이나 공정가치의 변동에 경제적 노출정도를 발생시킨다. 표시통화는 결코 그렇지 않다. 해석서 초안에 대한 의견제출자 중 어느 누구도 IFRIC의 결론에 반대하지 않았다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC12와 BC13",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "BC12와 BC13",
+          "paragraph_ids": [
+            "BC12와 BC13"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC15",
+      "section_id": "Aecdiu",
+      "section_title": "적용조건을 충족하는 위험(문단 12)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|적용조건을 충족하는 위험(문단 12)",
+      "text": "IFRIC은 순투자의 위험회피에서 회피대상위험의 결정을 위해 어느 기업(또는 기업들)의 기능통화가 기준점으로 사용될 수 있는지를 고려했다. 위험은 다음 중 어느 기업의 기능통화에서 발생하는가? ⑴ 해외사업장을 직접 보유하는 가장 가까운 상위의 지배기업 ⑵ 재무제표를 작성하는 최상위지배기업 ⑶ 가장 가까운 상위의 지배기업, 중간지배기업 또는 최상위지배기업. 기업이 위험회피개시시점에 지정했던, 위험회피하기로 결정한 위험이 무엇인지에 좌우된다.",
+      "html": "IFRIC은 순투자의 위험회피에서 회피대상위험의 결정을 위해 어느 기업(또는 기업들)의 기능통화가 기준점으로 사용될 수 있는지를 고려했다. 위험은 다음 중 어느 기업의 기능통화에서 발생하는가?\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 해외사업장을 직접 보유하는 가장 가까운 상위의 지배기업</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 재무제표를 작성하는 최상위지배기업</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 가장 가까운 상위의 지배기업, 중간지배기업 또는 최상위지배기업. 기업이 위험회피개시시점에 지정했던, 위험회피하기로 결정한 위험이 무엇인지에 좌우된다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC16",
+      "section_id": "Aecdiu",
+      "section_title": "적용조건을 충족하는 위험(문단 12)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|적용조건을 충족하는 위험(문단 12)",
+      "text": "IFRIC은 서로 다른 기능통화에 대한 노출정도에서 발생하는 위험은 어느 지배기업이든 그 기능통화가 식별된 해외사업장의 기능통화와 다를 때 발생한다고 결론내렸다. 가장 가까운 상위의 지배기업은 직접 보유한 해외사업장의 기능통화의 환율변동에 노출되어 있다. 그러나 간접적으로 최상위지배기업에 이르는 모든 기업 역시 해외사업장의 기능통화의 환율변동에 노출되어 있다.",
+      "html": "IFRIC은 서로 다른 기능통화에 대한 노출정도에서 발생하는 위험은 어느 지배기업이든 그 기능통화가 식별된 해외사업장의 기능통화와 다를 때 발생한다고 결론내렸다. 가장 가까운 상위의 지배기업은 직접 보유한 해외사업장의 기능통화의 환율변동에 노출되어 있다. 그러나 간접적으로 최상위지배기업에 이르는 모든 기업 역시 해외사업장의 기능통화의 환율변동에 노출되어 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC17",
+      "section_id": "Aecdiu",
+      "section_title": "적용조건을 충족하는 위험(문단 12)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|적용조건을 충족하는 위험(문단 12)",
+      "text": "최상위지배기업에만 순투자의 위험회피를 허용하는 것은 기업의 다른 부분에서 발생하는 순투자의 노출정도를 무시하는 것일 수 있다. 반대로, 가장 가까운 상위의 지배기업에만 순투자 위험회피를 허용하는 것은 간접투자는 간접지배기업에 대해 외화 노출정도를 발생시키지 않는다는 것을 의미하게 될 것이다.",
+      "html": "최상위지배기업에만 순투자의 위험회피를 허용하는 것은 기업의 다른 부분에서 발생하는 순투자의 노출정도를 무시하는 것일 수 있다. 반대로, 가장 가까운 상위의 지배기업에만 순투자 위험회피를 허용하는 것은 간접투자는 간접지배기업에 대해 외화 노출정도를 발생시키지 않는다는 것을 의미하게 될 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC18",
+      "section_id": "Aecdiu",
+      "section_title": "적용조건을 충족하는 위험(문단 12)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|적용조건을 충족하는 위험(문단 12)",
+      "text": "IFRIC은 연결실체가 어떠한 위험(즉, 어느 지배기업의 기능통화와 어느 해외사업장순투자의 기능통화)이 회피대상위험인지를 식별해야 한다고 결론내렸다. 특정한 지배기업, 회피대상위험 및 위험회피수단 모두가 위험회피관계의 개시시점에 지정되고 문서화되어야 한다. 해석서 초안에 대한 외부검토의견을 받은 후, IFRIC은 이러한 문서화에는 위험회피를 수행하는 기업의 전략이 IAS 39에 따라 포함되어야 한다고 강조하기로 결정했다.",
+      "html": "IFRIC은 연결실체가 어떠한 위험(즉, 어느 지배기업의 기능통화와 어느 해외사업장순투자의 기능통화)이 회피대상위험인지를 식별해야 한다고 결론내렸다. 특정한 지배기업, 회피대상위험 및 위험회피수단 모두가 위험회피관계의 개시시점에 지정되고 문서화되어야 한다. 해석서 초안에 대한 외부검토의견을 받은 후, IFRIC은 이러한 문서화에는 위험회피를 수행하는 기업의 전략이 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 따라 포함되어야 한다고 강조하기로 결정했다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC19",
+      "section_id": "V5PeaU",
+      "section_title": "위험회피될 수 있는 위험회피대상항목의 금액(문단 11과 13)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|위험회피될 수 있는 위험회피대상항목의 금액(문단 11과 13)",
+      "text": "해석서 초안에서 IFRIC은, 해외사업장을 포함하는 재무제표에서 기업은 동일한 위험을 두 번 이상 위험회피할 수 없다는 점을 언급했다. 이러한 언급으로 IAS 39는 동일한 위험에 대한 복수의 위험회피를 허용하지 않는다는 것을 기업에 상기시키고자 하였다. 일부 의견검토자들은 동일한 위험이 두 번 이상 위험회피되었다고 IFRIC이 간주하는 상황을 명백히 해줄 것을 요청했다. 특히, 회피대상위험의 금액이 중복되지 않는 한 연결실체내의 다른 기업들에 의해 동일 위험이 위험회피될 수 있는지에 대한 질문을 받았다.",
+      "html": "해석서 초안에서 IFRIC은, 해외사업장을 포함하는 재무제표에서 기업은 동일한 위험을 두 번 이상 위험회피할 수 없다는 점을 언급했다. 이러한 언급으로 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>는 동일한 위험에 대한 복수의 위험회피를 허용하지 않는다는 것을 기업에 상기시키고자 하였다. 일부 의견검토자들은 동일한 위험이 두 번 이상 위험회피되었다고 IFRIC이 간주하는 상황을 명백히 해줄 것을 요청했다. 특히, 회피대상위험의 금액이 중복되지 않는 한 연결실체내의 다른 기업들에 의해 동일 위험이 위험회피될 수 있는지에 대한 질문을 받았다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC20",
+      "section_id": "V5PeaU",
+      "section_title": "위험회피될 수 있는 위험회피대상항목의 금액(문단 11과 13)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|위험회피될 수 있는 위험회피대상항목의 금액(문단 11과 13)",
+      "text": "재심의 과정에서, IFRIC은 지배기업의 연결재무제표에서 위험회피될 수 있는 해외사업장의 순자산의 장부금액은 해외사업장에 대해 더 낮은 수준의 지배기업이 해외사업장의 순자산의 전부 또는 일부를 위험회피했는지 그리고 그러한 회계처리가 지배기업의 연결재무제표에서 유지되는지에 좌우된다는 점을 명백히 하기로 결정했다. 중간지배기업은 그 자신의 연결재무제표에서 해외사업장의 순투자에 대한 위험 중 일부 또는 전부를 위험회피할 수 있다. 그러나 만일 최상위지배기업 역시 동일 위험을 위험회피했다면 최상위지배기업 수준에서 그러한 위험회피는 위험회피회계의 적용조건을 충족하지 못할 것이다. 달리 표현하면 만일 위험이 최상위지배기업이나 다른 중간지배기업에 의해 위험회피되지 않았다면, 가장 가까운 상위의 지배기업의 연결재무제표에서 적용조건을 충족하는 위험회피관계는 최상위지배기업의 연결재무제표에서 역시 적용조건을 충족할 것이다.",
+      "html": "재심의 과정에서, IFRIC은 지배기업의 연결재무제표에서 위험회피될 수 있는 해외사업장의 순자산의 장부금액은 해외사업장에 대해 더 낮은 수준의 지배기업이 해외사업장의 순자산의 전부 또는 일부를 위험회피했는지 그리고 그러한 회계처리가 지배기업의 연결재무제표에서 유지되는지에 좌우된다는 점을 명백히 하기로 결정했다. 중간지배기업은 그 자신의 연결재무제표에서 해외사업장의 순투자에 대한 위험 중 일부 또는 전부를 위험회피할 수 있다. 그러나 만일 최상위지배기업 역시 동일 위험을 위험회피했다면 최상위지배기업 수준에서 그러한 위험회피는 위험회피회계의 적용조건을 충족하지 못할 것이다. 달리 표현하면 만일 위험이 최상위지배기업이나 다른 중간지배기업에 의해 위험회피되지 않았다면, 가장 가까운 상위의 지배기업의 연결재무제표에서 적용조건을 충족하는 위험회피관계는 최상위지배기업의 연결재무제표에서 역시 적용조건을 충족할 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC21",
+      "section_id": "V5PeaU",
+      "section_title": "위험회피될 수 있는 위험회피대상항목의 금액(문단 11과 13)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|회피대상위험과 위험회피대상항목|위험회피될 수 있는 위험회피대상항목의 금액(문단 11과 13)",
+      "text": "재심의 과정에서, IFRIC은 또한 연결실체내의 개별기업이 회피대상위험의 금액을 신중하게 지정하는 것이 중요하다는 것을 설명하기 위해 이 해석서에 지침을 추가하기로 결정했다.",
+      "html": "재심의 과정에서, IFRIC은 또한 연결실체내의 개별기업이 회피대상위험의 금액을 신중하게 지정하는 것이 중요하다는 것을 설명하기 위해 이 해석서에 지침을 추가하기로 결정했다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC22",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "IFRIC은 해외사업장순투자의 위험회피를 위해 연결실체의 구조 상 어느 기업이 위험회피수단을 보유할 수 있는지에 대해 논의하였다. 해외사업장순투자의 위험회피에 대한 지침은 본래 IAS 21에 포함되어 있었다. 이 지침은 IAS 39의 문단 88에 포함된 위험회피회계의 지침을 해외사업장순투자의 위험회피에도 적용할 수 있도록 하기 위해 IAS 39로 이전되었다.",
+      "html": "IFRIC은 해외사업장순투자의 위험회피를 위해 연결실체의 구조 상 어느 기업이 위험회피수단을 보유할 수 있는지에 대해 논의하였다. 해외사업장순투자의 위험회피에 대한 지침은 본래 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에 포함되어 있었다. 이 지침은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 \n  \n  <span class=\"mundan-finder\">문단 88</span>에 포함된 위험회피회계의 지침을 해외사업장순투자의 위험회피에도 적용할 수 있도록 하기 위해 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>로 이전되었다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 88",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "88",
+          "paragraph_ids": [
+            "88"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC23",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "IFRIC은 위험회피수단이 해외사업장의 기능통화와 특정 지배기업의 기능통화의 노출정도에서 발생하는 위험을 상쇄하는 데 효과적인 한, 위험회피되는 해외사업장을 제외한 연결실체내의 어느 기업이든 위험회피수단을 보유할 수 있다고 결론내렸다. 위험회피수단을 보유하는 기업의 기능통화는 위험회피효과의 결정에 무관하다.",
+      "html": "IFRIC은 위험회피수단이 해외사업장의 기능통화와 특정 지배기업의 기능통화의 노출정도에서 발생하는 위험을 상쇄하는 데 효과적인 한, 위험회피되는 해외사업장을 제외한 연결실체내의 어느 기업이든 위험회피수단을 보유할 수 있다고 결론내렸다. 위험회피수단을 보유하는 기업의 기능통화는 위험회피효과의 결정에 무관하다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC24A",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "개정 전 IFRIC 16의 문단 14에서는 해외사업장의 순투자가 위험회피되는 경우에 당해 해외사업장은 위험회피수단을 보유할 수 없다고 언급했었다. 그러한 제한은 (IFRIC 16으로 개발된) 해석서 공개초안 D22에 포함되어 있었으나 이에 대한 외부의견제출자의 의견은 거의 없었다. 종전 문단 BC24에서 설명되었던 것처럼 IFRIC은 재심의를 하면서, 지배기업의 기능통화와 순투자의 기능통화 및 위험회피수단 간의 외환차이는 연결과정에서 연결실체의 외화환산적립금에 자동적으로 포함될 것이기 때문에 그러한 제한은 적절하다고 결론내렸다.",
+      "html": "개정 전 IFRIC 16의 \n  <span class=\"mundan-finder\">문단 14</span>에서는 해외사업장의 순투자가 위험회피되는 경우에 당해 해외사업장은 위험회피수단을 보유할 수 없다고 언급했었다. 그러한 제한은 (IFRIC 16으로 개발된) 해석서 공개초안 D22에 포함되어 있었으나 이에 대한 외부의견제출자의 의견은 거의 없었다. 종전 문단 BC24에서 설명되었던 것처럼 IFRIC은 재심의를 하면서, 지배기업의 기능통화와 순투자의 기능통화 및 위험회피수단 간의 외환차이는 연결과정에서 연결실체의 외화환산적립금에 자동적으로 포함될 것이기 때문에 그러한 제한은 적절하다고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC24B",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "IFRIC 16이 발표된 후, IASB는 이러한 결론이 옳지 않다고 생각했다. 위험회피회계가 없다면, 위험회피수단에서 발생하는 외환차이부분은 연결당기손익에 포함될 것이다. 따라서 IASB는 위험회피수단을 보유할 수 있는 기업에 대한 제한을 없애기 위해 2009년 4월에 발표된 IFRS 연차개선에서 IFRIC 16의 문단 14를 개정하고 문단 BC24를 삭제하였다.",
+      "html": "IFRIC 16이 발표된 후, IASB는 이러한 결론이 옳지 않다고 생각했다. 위험회피회계가 없다면, 위험회피수단에서 발생하는 외환차이부분은 연결당기손익에 포함될 것이다. 따라서 IASB는 위험회피수단을 보유할 수 있는 기업에 대한 제한을 없애기 위해 2009년 4월에 발표된 IFRS 연차개선에서 IFRIC 16의 \n  <span class=\"mundan-finder\">문단 14</span>를 개정하고 문단 BC24를 삭제하였다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC24C",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "2009년 1월에 발표된 공개초안 ‘IFRIC 해석서에 대한 실무적용 이후 개정(Post-implementation Revisions to IFRIC Interpretations)’에 대해 일부 외부의견제출자는 지배기업은 위험회피대상인 해외사업장이 보유하는 파생상품을 해외사업장순투자의 위험회피를 위해 이용할 수 있어야 한다는 데 동의하였다. 그러나, 그 의견제출자들은 개정 내용을 위험회피대상인 해외사업장이 보유하는 파생상품에만 적용해야 한다고 제안하였다. 비파생금융상품은 해외사업장의 기능통화로 해외사업장에 의해 발행된 경우에만 순투자의 위험회피에 효과적일 것이며 연결실체의 당기손익에 외화로 인한 영향을 미치지 않을 것이라고 주장하였다. 결론적으로 그들은 개정 내용을 뒷받침하기 위해 기술된 문단 BC24B의 논리는 비파생상품에는 적용되지 않는다고 생각하였다.",
+      "html": "2009년 1월에 발표된 공개초안 ‘IFRIC 해석서에 대한 실무적용 이후 개정(Post-implementation Revisions to IFRIC Interpretations)’에 대해 일부 외부의견제출자는 지배기업은 위험회피대상인 해외사업장이 보유하는 파생상품을 해외사업장순투자의 위험회피를 위해 이용할 수 있어야 한다는 데 동의하였다. 그러나, 그 의견제출자들은 개정 내용을 위험회피대상인 해외사업장이 보유하는 파생상품에만 적용해야 한다고 제안하였다. 비파생금융상품은 해외사업장의 기능통화로 해외사업장에 의해 발행된 경우에만 순투자의 위험회피에 효과적일 것이며 연결실체의 당기손익에 외화로 인한 영향을 미치지 않을 것이라고 주장하였다. 결론적으로 그들은 개정 내용을 뒷받침하기 위해 기술된 \n  <span class=\"mundan-finder\">문단 BC24B</span>의 논리는 비파생상품에는 적용되지 않는다고 생각하였다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC24B",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "BC24B",
+          "paragraph_ids": [
+            "BC24B"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC24D",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "재심의 과정에서, IASB는 개정 내용이 파생상품에만 국한되어서는 안된다는 이전의 결정을 확인하였다. IASB는 해외사업장이 보유하는 비파생상품이 지배기업의 순투자의 일부로 간주되어야 할 필요는 없다는 것을 IFRIC 16의 문단 AG13~AG15가 설명하고 있다는 점에 주목하였다. 결론적으로 비파생상품이 해외사업장의 기능통화로 표시되는 경우에도 비파생상품은 여전히 연결실체의 당기손익에 영향을 미칠 수 있다. 즉, 개정 내용이 비파생금융상품을 위험회피를 위해 지정할 수 있도록 허용할 필요가 있는지는 논쟁이 될 수 있더라도, IASB는 공개초안이 변경되어서는 안된다고 결론내렸다.",
+      "html": "재심의 과정에서, IASB는 개정 내용이 파생상품에만 국한되어서는 안된다는 이전의 결정을 확인하였다. IASB는 해외사업장이 보유하는 비파생상품이 지배기업의 순투자의 일부로 간주되어야 할 필요는 없다는 것을 IFRIC 16의 \n  <span class=\"mundan-finder\">문단 AG13~AG15</span>가 설명하고 있다는 점에 주목하였다. 결론적으로 비파생상품이 해외사업장의 기능통화로 표시되는 경우에도 비파생상품은 여전히 연결실체의 당기손익에 영향을 미칠 수 있다. 즉, 개정 내용이 비파생금융상품을 위험회피를 위해 지정할 수 있도록 허용할 필요가 있는지는 논쟁이 될 수 있더라도, IASB는 공개초안이 변경되어서는 안된다고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 AG13~AG15",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "AG13~AG15",
+          "paragraph_ids": [
+            "AG13",
+            "AG14",
+            "AG15"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC25",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "IFRIC은 순투자 위험회피에서 위험회피수단의 위험회피효과를 결정할 때 문단 BC23의 결론을 적용하기 위해, 기업은 위험회피 문서에 따라 회피대상위험이 측정되는 기능통화 대비 지배기업의 기능통화를 참조하여 위험회피수단에 대한 손익을 계산한다고 결론내렸다. 이 결론은 이용되는 위험회피수단의 종류에 관계없이 동일하다. 이 결론에 따라 위험회피수단의 위험회피효과는 문서화된 대로 위험회피수단의 공정가치나 현금흐름의 변동과 순투자의 변동을 비교하여 결정하게 된다. 따라서, 어떠한 위험회피효과의 평가도 위험회피수단을 보유하고 있는 기업의 기능통화에 좌우되지 않는다. 다시 말하면, 위험회피수단의 변동 중 일부는 연결실체내의 한 기업에 의해 당기손익으로 인식되고 일부는 다른 기업에 의해 기타포괄손익으로 인식된다는 사실은 위험회피효과의 평가에 영향을 미치지 않는다.",
+      "html": "IFRIC은 순투자 위험회피에서 위험회피수단의 위험회피효과를 결정할 때 \n  <span class=\"mundan-finder\">문단 BC23</span>의 결론을 적용하기 위해, 기업은 위험회피 문서에 따라 회피대상위험이 측정되는 기능통화 대비 지배기업의 기능통화를 참조하여 위험회피수단에 대한 손익을 계산한다고 결론내렸다. 이 결론은 이용되는 위험회피수단의 종류에 관계없이 동일하다. 이 결론에 따라 위험회피수단의 위험회피효과는 문서화된 대로 위험회피수단의 공정가치나 현금흐름의 변동과 순투자의 변동을 비교하여 결정하게 된다. 따라서, 어떠한 위험회피효과의 평가도 위험회피수단을 보유하고 있는 기업의 기능통화에 좌우되지 않는다. 다시 말하면, 위험회피수단의 변동 중 일부는 연결실체내의 한 기업에 의해 당기손익으로 인식되고 일부는 다른 기업에 의해 기타포괄손익으로 인식된다는 사실은 위험회피효과의 평가에 영향을 미치지 않는다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC23",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "BC23",
+          "paragraph_ids": [
+            "BC23"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC26",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "해석서 초안에서 IFRIC은 위험회피수단의 소재와 관련하여 IAS 39의 실무적용지침 F.2.14를 언급하고 그 지침을 순투자 위험회피에 유추하여 적용할 수 있는지를 고려하였다. F.2.14의 결론은 다음과 같다. IAS 39는 회피대상위험에 노출되어 있는 영업단위가 위험회피수단의 계약당사자일 것을 요구하지 않는다. [각주 (주4)] IFRS 9는 IAS 39를 대체한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC26\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC26</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">해석서 초안에서 IFRIC은 위험회피수단의 소재와 관련하여 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 실무적용지침 F.2.14를 언급하고 그 지침을 순투자 위험회피에 유추하여 적용할 수 있는지를 고려하였다. F.2.14의 결론은 다음과 같다.\n</div><br><div class=\"idt-1\"><div></div><div><i><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>는 회피대상위험에 노출되어 있는 영업단위가 위험회피수단의 계약당사자일 것을 요구하지 않는다.\n    </i></div></div><br><div class=\"para\">이는 해석서 초안에서 어떤 기업이 위험회피수단을 보유할 수 있는지에 대한 IFRIC의 유일한 결론도출근거였다. 일부 외부의견검토자들은 해석서의 중요한 결론에 대한 유일한 근거로 실무적용지침이 언급되어서는 안된다고 주장했다.  \n  <sup data-id=\"(주4)\">(주4)</sup></div><div class=\"idt-1 comment\"><div>(주4)</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체한다.  \n  </div></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC27",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "재심의 과정에서 IFRIC은 (IAS 39의 실무적용지침뿐만 아니라) IASB의 IAS 21에 대한 2005년의 개정과 IAS 39에 기술된 순투자의 위험회피의 목적을 고려했다.",
+      "html": "재심의 과정에서 IFRIC은 (<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 실무적용지침뿐만 아니라) IASB의 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에 대한 2005년의 개정과 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 기술된 순투자의 위험회피의 목적을 고려했다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC28",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "2005년에 IASB는 IAS 21에서 어떤 기업이 보고기업이며 어떤 금융상품이 해외사업장에 대한 보고기업의 순투자의 일부로 간주될 수 있는지 분명히 해달라는 요청을 받았다. 특히, 관계자들은 IAS 21의 문단 15에 따라 순투자의 일부로 간주되기 위해서는 해외사업장과 보고기업 사이에 화폐성항목이 거래되어야만 하는지 또는 연결실체 중 어느 기업과 해외사업장 사이에 화폐성항목이 거래될 수 있는지에 대하여 질문하였다.",
+      "html": "2005년에 IASB는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에서 어떤 기업이 보고기업이며 어떤 금융상품이 해외사업장에 대한 보고기업의 순투자의 일부로 간주될 수 있는지 분명히 해달라는 요청을 받았다. 특히, 관계자들은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>의 \n  \n  <span class=\"mundan-finder\">문단 15</span>에 따라 순투자의 일부로 간주되기 위해서는 해외사업장과 보고기업 사이에 화폐성항목이 거래되어야만 하는지 또는 연결실체 중 어느 기업과 해외사업장 사이에 화폐성항목이 거래될 수 있는지에 대하여 질문하였다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 15",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "15",
+          "paragraph_ids": [
+            "15"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC29",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "이에 대하여 IASB는 ‘ 문단 15에서 언급한 해외사업장으로부터 수취하거나 해외사업장에 지급할 화폐성항목을 보유하는 기업은 연결실체의 어떤 종속기업이든 가능하다’는 것을 분명히 하기 위해 IAS 21에 문단 15A를 추가하였다. IASB는 결론도출근거 문단 BC25D에서 이러한 개정에 대한 이유를 설명했다. IASB는 연결재무제표에서의 회계처리는 화폐성항목을 표시하는 통화나 연결실체내의 어떤 기업이 해외사업장과 거래를 하느냐에 종속되어서는 안 된다는 결론을 내렸다. 다시 말하면, 관련 보고기업은 개별 기업이 아닌 연결실체이며 순투자는 연결실체 관점에서 보아야 한다고 IASB는 결론내렸다. 따라서 해외사업장에 대한 연결실체의 순투자와 외화 노출정도는 관련 지배기업의 수준에서만 결정될 수 있다. IFRIC은 이와 유사하게 중간지배기업을 통해 순투자가 유지되고 있다는 사실이 경제적 위험에 영향을 미치지는 않는다고 결론내렸다.",
+      "html": "이에 대하여 IASB는 ‘\n  <span class=\"mundan-finder\">문단 15</span>에서 언급한 해외사업장으로부터 수취하거나 해외사업장에 지급할 화폐성항목을 보유하는 기업은 연결실체의 어떤 종속기업이든 가능하다’는 것을 분명히 하기 위해 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에 \n  <span class=\"mundan-finder\">문단 15A</span>를 추가하였다. IASB는 결론도출근거 \n  <span class=\"mundan-finder\">문단 BC25D</span>에서 이러한 개정에 대한 이유를 설명했다.\n\n다시 말하면, 관련 보고기업은 개별 기업이 아닌 연결실체이며 순투자는 연결실체 관점에서 보아야 한다고 IASB는 결론내렸다. 따라서 해외사업장에 대한 연결실체의 순투자와 외화 노출정도는 관련 지배기업의 수준에서만 결정될 수 있다. IFRIC은 이와 유사하게 중간지배기업을 통해 순투자가 유지되고 있다는 사실이 경제적 위험에 영향을 미치지는 않는다고 결론내렸다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\"><i>IASB는 연결재무제표에서의 회계처리는 화폐성항목을 표시하는 통화나 연결실체내의 어떤 기업이 해외사업장과 거래를 하느냐에 종속되어서는 안 된다는 결론을 내렸다.</i></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 15",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "15",
+          "paragraph_ids": [
+            "15"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 15A",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "15A",
+          "paragraph_ids": [
+            "15A"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC25D",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "BC25D",
+          "paragraph_ids": [
+            "BC25D"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC30",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "순투자의 일부인 화폐성항목에 대한 IASB의 결론과 일관되게, IFRIC은 순투자위험회피에서 위험회피수단인 화폐성항목(또는 파생상품)은 연결실체내의 어느 기업에 의해서든 보유될 수 있으며 화폐성항목을 보유하고 있는 기업의 기능통화는 지배기업이나 해외사업장의 기능통화와 다를 수 있다고 결론내렸다. IASB와 마찬가지로, IFRIC은 기업의 기능통화가 아닌 통화로 표시된 위험회피대상항목은 그 금융상품이 기업의 기능통화로 표시된 경우보다 더 큰 외환차이를 연결실체에 노출시키지는 않는다고 언급한 관계자들에 동의했다.",
+      "html": "순투자의 일부인 화폐성항목에 대한 IASB의 결론과 일관되게, IFRIC은 순투자위험회피에서 위험회피수단인 화폐성항목(또는 파생상품)은 연결실체내의 어느 기업에 의해서든 보유될 수 있으며 화폐성항목을 보유하고 있는 기업의 기능통화는 지배기업이나 해외사업장의 기능통화와 다를 수 있다고 결론내렸다. IASB와 마찬가지로, IFRIC은 기업의 기능통화가 아닌 통화로 표시된 위험회피대상항목은 그 금융상품이 기업의 기능통화로 표시된 경우보다 더 큰 외환차이를 연결실체에 노출시키지는 않는다고 언급한 관계자들에 동의했다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC31",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "IFRIC은 연결실체내의 어느 기업이든 위험회피수단을 보유할 수 있으며 외화는 관련 지배기업의 수준에서 결정된다는 결론은 회피대상위험의 지정에 영향을 미친다는 점에 주목했다. 적용지침 문단 AG5에서 설명된 바와 같이, 이러한 결론은 위험회피대상항목이나 해외사업장의 통화에서는 나타나지 않는 회피대상위험을 지정하는 것을 가능하게 한다. 순투자의 위험회피에만 이러한 가능성이 있다. 따라서 IFRIC은 이 해석서의 결론이 다른 유형의 위험회피회계에 유추하여 적용되어서는 안된다는 점을 분명히 했다.",
+      "html": "IFRIC은 연결실체내의 어느 기업이든 위험회피수단을 보유할 수 있으며 외화는 관련 지배기업의 수준에서 결정된다는 결론은 회피대상위험의 지정에 영향을 미친다는 점에 주목했다. 적용지침 \n  <span class=\"mundan-finder\">문단 AG5</span>에서 설명된 바와 같이, 이러한 결론은 위험회피대상항목이나 해외사업장의 통화에서는 나타나지 않는 회피대상위험을 지정하는 것을 가능하게 한다. 순투자의 위험회피에만 이러한 가능성이 있다. 따라서 IFRIC은 이 해석서의 결론이 다른 유형의 위험회피회계에 유추하여 적용되어서는 안된다는 점을 분명히 했다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 AG5",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "AG5",
+          "paragraph_ids": [
+            "AG5"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC32",
+      "section_id": "Eju80Y",
+      "section_title": "위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|위험회피수단|위험회피수단의 소재(문단 14)와 위험회피효과의 평가(문단 15)",
+      "text": "또한 IFRIC은 IAS 39에 규정되어 있는 바와 같이 위험회피회계의 목적은 위험회피수단의 가치변동과 회피대상위험으로 인한 순투자의 가치변동을 상쇄하는 것이라는 점에 주목했다. 환율의 변동은 위험회피회계가 없다면 IAS 21에 따라 당기손익으로 인식해야하는 부분뿐만 아니라 지배기업의 연결재무제표에서 기타포괄손익으로 인식해야 하는 부분에 이르기까지 해외사업장의 전체 순투자의 가치에 영향을 미친다. 문단 BC25에서 언급했듯이, 관련이 있는 것은 인식된 포괄손익항목이 아니라, 회피대상위험이 측정되는 지배기업의 기능통화와 관련된 환율변동으로 인한 위험회피수단의 전체 변동이다.",
+      "html": "또한 IFRIC은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 규정되어 있는 바와 같이 위험회피회계의 목적은 위험회피수단의 가치변동과 회피대상위험으로 인한 순투자의 가치변동을 상쇄하는 것이라는 점에 주목했다. 환율의 변동은 위험회피회계가 없다면 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에 따라 당기손익으로 인식해야하는 부분뿐만 아니라 지배기업의 연결재무제표에서 기타포괄손익으로 인식해야 하는 부분에 이르기까지 해외사업장의 전체 순투자의 가치에 영향을 미친다. \n  \n  <span class=\"mundan-finder\">문단 BC25</span>에서 언급했듯이, 관련이 있는 것은 인식된 포괄손익항목이 아니라, 회피대상위험이 측정되는 지배기업의 기능통화와 관련된 환율변동으로 인한 위험회피수단의 전체 변동이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC25",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "BC25",
+          "paragraph_ids": [
+            "BC25"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC33",
+      "section_id": "w7rle1",
+      "section_title": "기타포괄손익에서 당기손익으로의 재분류(문단 16과 17)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|기타포괄손익에서 당기손익으로의 재분류(문단 16과 17)",
+      "text": "IFRIC은 규정을 명확히 해달라는 일부 의견제출자들의 요구에 따라, 지배기업이 위험회피된 해외사업장을 처분하는 경우, 지배기업의 연결재무제표에서 위험회피수단 및 해외사업장과 관련된 외화환산적립금 중 얼마의 금액을 당기손익으로 인식해야 하는지를 논의했다. IFRIC은 처분 시 재분류조정으로 자본에서 당기손익으로 재분류해야 하는 금액은 다음의 ⑴과 ⑵라고 보았다. ⑴ 위험회피에 효과적인 부분으로 결정된 위험회피수단의 누적손익으로서 기타포괄손익에 반영해 온 누적금액(IAS 39의 문단 102) ⑵ 해외사업장과 관련하여 외화환산적립금에 반영해 온 누적금액(IAS 21의 문단 48)",
+      "html": "IFRIC은 규정을 명확히 해달라는 일부 의견제출자들의 요구에 따라, 지배기업이 위험회피된 해외사업장을 처분하는 경우, 지배기업의 연결재무제표에서 위험회피수단 및 해외사업장과 관련된 외화환산적립금 중 얼마의 금액을 당기손익으로 인식해야 하는지를 논의했다. IFRIC은 처분 시 재분류조정으로 자본에서 당기손익으로 재분류해야 하는 금액은 다음의 ⑴과 ⑵라고 보았다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 위험회피에 효과적인 부분으로 결정된 위험회피수단의 누적손익으로서 기타포괄손익에 반영해 온 누적금액(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 \n      <span class=\"mundan-finder\">문단 102</span>)    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 해외사업장과 관련하여 외화환산적립금에 반영해 온 누적금액(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>의 \n      <span class=\"mundan-finder\">문단 48</span>)    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 102",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "102",
+          "paragraph_ids": [
+            "102"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 48",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "48",
+          "paragraph_ids": [
+            "48"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC34",
+      "section_id": "w7rle1",
+      "section_title": "기타포괄손익에서 당기손익으로의 재분류(문단 16과 17)",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|기타포괄손익에서 당기손익으로의 재분류(문단 16과 17)",
+      "text": "기업이 해외사업장순투자에 대해 위험회피를 하는 경우 IAS 39에 따라 위험회피회계를 적용한 결과로서 연결실체의 외화환산적립금에 포함시킨 누적금액(즉, 위험회피에 효과적인 부분)을 식별해야 한다는 점에 주목하였다. 따라서 위험회피된 해외사업장을 처분하는 경우 지배기업의 연결재무제표에서 위험회피수단과 관련하여 외화환산적립금에서 당기손익으로 재분류하는 금액은 IAS 39에 따라 식별해야 하는 금액이어야 한다고 결론내렸다.",
+      "html": "기업이 해외사업장순투자에 대해 위험회피를 하는 경우 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 따라 위험회피회계를 적용한 결과로서 연결실체의 외화환산적립금에 포함시킨 누적금액(즉, 위험회피에 효과적인 부분)을 식별해야 한다는 점에 주목하였다. 따라서 위험회피된 해외사업장을 처분하는 경우 지배기업의 연결재무제표에서 위험회피수단과 관련하여 외화환산적립금에서 당기손익으로 재분류하는 금액은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 따라 식별해야 하는 금액이어야 한다고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC35",
+      "section_id": "InTnP6",
+      "section_title": "연결방법의 영향",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|연결방법의 영향",
+      "text": "해석서 초안에 대한 일부 의견제출자들은 연결방법이 중간지배기업을 통해 보유되는 개별 해외사업장에 대한 최상위지배기업의 외화환산적립금에 포함되는 금액에 차이를 발생시킨다고 주장했다. 이 의견제출자들은 이러한 차이는 최상위지배기업이 2차 종속기업(즉, 간접종속기업)을 처분하는 경우에만 명백해질 수 있다고 지적하였다.",
+      "html": "해석서 초안에 대한 일부 의견제출자들은 연결방법이 중간지배기업을 통해 보유되는 개별 해외사업장에 대한 최상위지배기업의 외화환산적립금에 포함되는 금액에 차이를 발생시킨다고 주장했다. 이 의견제출자들은 이러한 차이는 최상위지배기업이 2차 종속기업(즉, 간접종속기업)을 처분하는 경우에만 명백해질 수 있다고 지적하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC36",
+      "section_id": "InTnP6",
+      "section_title": "연결방법의 영향",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|연결방법의 영향",
+      "text": "그 차이는 후속적으로 당기손익으로 재분류되는 외화환산적립금의 금액을 결정할 때 분명해진다. 직접연결법을 사용하는 최상위지배기업은 자신의 기능통화와 해외사업장의 기능통화간의 차이로 발생한 누적 외화환산적립금을 재분류할 것이다. 단계연결법을 사용하는 최상위지배기업은 중간지배기업이 재무제표에 반영한 누적외화환산적립금(즉, 중간지배기업의 기능통화와 해외사업장의 기능통화간의 차이로 발생한 금액)을 최상위지배기업의 기능통화로 환산하여 재분류할 수 있다.",
+      "html": "그 차이는 후속적으로 당기손익으로 재분류되는 외화환산적립금의 금액을 결정할 때 분명해진다. 직접연결법을 사용하는 최상위지배기업은 자신의 기능통화와 해외사업장의 기능통화간의 차이로 발생한 누적 외화환산적립금을 재분류할 것이다. 단계연결법을 사용하는 최상위지배기업은 중간지배기업이 재무제표에 반영한 누적외화환산적립금(즉, 중간지배기업의 기능통화와 해외사업장의 기능통화간의 차이로 발생한 금액)을 최상위지배기업의 기능통화로 환산하여 재분류할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC37",
+      "section_id": "InTnP6",
+      "section_title": "연결방법의 영향",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|연결방법의 영향",
+      "text": "재심의 과정에서, IFRIC은 직접연결법을 사용하든 단계연결법을 사용하든 모든 해외사업장에 대한 외화환산적립금의 순액의 총 합계는 동일하더라도, 단계연결법을 사용한다면 개별 해외사업장에 대해 그러한 차이가 발생한다는 것에 주목했다. 이와 동시에 IFRIC은 경제적 위험은 최상위지배기업의 기능통화와 관련하여 결정된다는 결론에 근거하여, 연결방법은 개별 해외사업장에 대해 그러한 차이를 발생시켜서는 안된다고 보았다.",
+      "html": "재심의 과정에서, IFRIC은 직접연결법을 사용하든 단계연결법을 사용하든 모든 해외사업장에 대한 외화환산적립금의 순액의 총 합계는 동일하더라도, 단계연결법을 사용한다면 개별 해외사업장에 대해 그러한 차이가 발생한다는 것에 주목했다. 이와 동시에 IFRIC은 경제적 위험은 최상위지배기업의 기능통화와 관련하여 결정된다는 결론에 근거하여, 연결방법은 개별 해외사업장에 대해 그러한 차이를 발생시켜서는 안된다고 보았다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC38",
+      "section_id": "InTnP6",
+      "section_title": "연결방법의 영향",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|연결방법의 영향",
+      "text": "IFRIC은 직접연결법에 의해 결정된 개별 해외사업장에 대한 외화환산적립금은 (만일 지배기업의 기능통화와 표시통화가 동일하다면) 해외사업장과 최상위지배기업의 기능통화간의 경제적 위험을 반영한다는 점에 주목했다. 그러나 IFRIC은 IAS 21은 기업이 이 방법을 사용하도록 요구하지도 않으며 동일한 결과가 나타나도록 조정을 요구하지도 않는다는 점에 주목했다. 또한 IFRIC은 지배기업은 적절한 금액을 당기손익으로 재분류하기 위하여 처분되는 해외사업장과 관련된 외화환산적립금을 마치 직접연결법을 사용했었던 것처럼 결정하는 것도 가능하다는 점에 주목했다. 그러나 IFRIC은 해외사업장의 처분 시 그러한 조정을 하는 것은 회계정책의 선택이며 모든 순투자의 처분에 대해 일관되게 적용해야 한다고 보았다.",
+      "html": "IFRIC은 직접연결법에 의해 결정된 개별 해외사업장에 대한 외화환산적립금은 (만일 지배기업의 기능통화와 표시통화가 동일하다면) 해외사업장과 최상위지배기업의 기능통화간의 경제적 위험을 반영한다는 점에 주목했다. 그러나 IFRIC은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>은 기업이 이 방법을 사용하도록 요구하지도 않으며 동일한 결과가 나타나도록 조정을 요구하지도 않는다는 점에 주목했다. 또한 IFRIC은 지배기업은 적절한 금액을 당기손익으로 재분류하기 위하여 처분되는 해외사업장과 관련된 외화환산적립금을 마치 직접연결법을 사용했었던 것처럼 결정하는 것도 가능하다는 점에 주목했다. 그러나 IFRIC은 해외사업장의 처분 시 그러한 조정을 하는 것은 회계정책의 선택이며 모든 순투자의 처분에 대해 일관되게 적용해야 한다고 보았다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": null,
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC39",
+      "section_id": "InTnP6",
+      "section_title": "연결방법의 영향",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|연결방법의 영향",
+      "text": "이러한 회계논제는 처분되는 순투자를 위험회피하지 않았을 경우 발생하며 따라서 명백히 이 해석서의 적용범위에 포함되지 않는다고 보았다. 그러나 이 회계논제는 상당한 혼란과 논쟁의 주제였기 때문에 IFRIC은 그러한 결론을 예시하는 간단한 사례를 포함하기로 결정했다.",
+      "html": "이러한 회계논제는 처분되는 순투자를 위험회피하지 않았을 경우 발생하며 따라서 명백히 이 해석서의 적용범위에 포함되지 않는다고 보았다. 그러나 이 회계논제는 상당한 혼란과 논쟁의 주제였기 때문에 IFRIC은 그러한 결론을 예시하는 간단한 사례를 포함하기로 결정했다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC40A",
+      "section_id": "N5ChJT",
+      "section_title": "개정된 문단 14의 시행일",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|경과규정(문단 19)|개정된 문단 14의 시행일",
+      "text": "IASB는 2009년 4월에 문단 14를 개정하였다. IASB는 2009년 1월에 발표된 공개초안에서 개정 내용은 IFRIC 16과 동일하게 2008년 10월 1일 이후 개시하는 회계연도부터 유효해야 한다고 제안하였다. 공개초안에 대한 외부의견제출자들은 개정 내용이 발표되기 전에 적용을 허용하는 것은 IAS 39의 요구사항과 달리 위험회피관계가 소급하여 지정될 수 있는 것으로 해석될 수 있다고 우려하였다. 따라서, IASB는 2009년 7월 1일 이후 개시하는 회계연도부터 2009년 4월에 개정된 문단 14를 적용하도록 결정하였다. 또한, IASB는 조기적용은 허용되지만 조기적용을 위해서는 IAS 39의 문단 88과 IFRIC 16의 지정, 문서화와 위험회피효과에 대한 요구사항이 적용 시점에 충족되어야만 한다고 보았다.",
+      "html": "IASB는 2009년 4월에 \n  \n  \n  <span class=\"mundan-finder\">문단 14</span>를 개정하였다. IASB는 2009년 1월에 발표된 공개초안에서 개정 내용은 IFRIC 16과 동일하게 2008년 10월 1일 이후 개시하는 회계연도부터 유효해야 한다고 제안하였다. 공개초안에 대한 외부의견제출자들은 개정 내용이 발표되기 전에 적용을 허용하는 것은 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 요구사항과 달리 위험회피관계가 소급하여 지정될 수 있는 것으로 해석될 수 있다고 우려하였다. 따라서, IASB는 2009년 7월 1일 이후 개시하는 회계연도부터 2009년 4월에 개정된 \n  \n  \n  <span class=\"mundan-finder\">문단 14</span>를 적용하도록 결정하였다. 또한, IASB는 조기적용은 허용되지만 조기적용을 위해서는 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 \n  \n  \n  <span class=\"mundan-finder\">문단 88</span>과 IFRIC 16의 지정, 문서화와 위험회피효과에 대한 요구사항이 적용 시점에 충족되어야만 한다고 보았다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 88",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "88",
+          "paragraph_ids": [
+            "88"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC41",
+      "section_id": "Sz5OP0",
+      "section_title": "해석서 초안의 주요 변경사항 요약",
+      "toc_path": "결론도출근거|IFRIC 16 ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'의 결론도출근거|결론|해석서 초안의 주요 변경사항 요약",
+      "text": "IFRIC의 제안사항에서 변경된 주요 사항은 다음과 같다. ⑴문단 11에서 지배기업의 연결재무제표에서 위험회피될 수 있는 해외사업장 순자산의 장부금액은 해외사업장에 대한 보다 낮은 수준의 지배기업이 그 해외사업장의 순자산의 전부 또는 일부에 대해 이미 위험회피했는지 그리고 그러한 회계처리가 지배기업의 연결재무제표에서 유지되고 있는지에 좌우된다는 점을 명확히 하고 있다. ⑵문단 15에서 위험회피효과의 평가는 위험회피수단이 파생상품인지 비파생상품인지 또는 연결방법이 무엇인지에 영향 받지 않는다는 점을 명확히 하고 있다. ⑶문단 16과 17 및 적용사례에서 해외사업장의 처분 시 재분류조정으로 자본에서 당기손익으로 재분류해야 하는 금액은 얼마인지를 명확히 하고 있다. ⑷문단 19에서 경과규정을 명확히 하고 있다. ⑸ 부록인 적용지침이 이 해석서에 추가되었다. 해석서 공개초안에 있던 적용사례는 삭제되었다. ⑹ IFRIC의 결론에 대한 근거를 더 명확히 하기 위해 결론도출근거를 변경했다.",
+      "html": "IFRIC의 제안사항에서 변경된 주요 사항은 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 11</span>에서 지배기업의 연결재무제표에서 위험회피될 수 있는 해외사업장 순자산의 장부금액은 해외사업장에 대한 보다 낮은 수준의 지배기업이 그 해외사업장의 순자산의 전부 또는 일부에 대해 이미 위험회피했는지 그리고 그러한 회계처리가 지배기업의 연결재무제표에서 유지되고 있는지에 좌우된다는 점을 명확히 하고 있다.\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 15</span>에서 위험회피효과의 평가는 위험회피수단이 파생상품인지 비파생상품인지 또는 연결방법이 무엇인지에 영향 받지 않는다는 점을 명확히 하고 있다.\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 16과 17</span> 및 적용사례에서 해외사업장의 처분 시 재분류조정으로 자본에서 당기손익으로 재분류해야 하는 금액은 얼마인지를 명확히 하고 있다.\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑷</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 19</span>에서 경과규정을 명확히 하고 있다.\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑸</div><div class=\"para-num-item-para-con\"> 부록인 적용지침이 이 해석서에 추가되었다. 해석서 공개초안에 있던 적용사례는 삭제되었다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑹</div><div class=\"para-num-item-para-con\"> IFRIC의 결론에 대한 근거를 더 명확히 하기 위해 결론도출근거를 변경했다.</div></div>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 11",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "11",
+          "paragraph_ids": [
+            "11"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 15",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "15",
+          "paragraph_ids": [
+            "15"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 16과 17",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "16과 17",
+          "paragraph_ids": [
+            "16",
+            "17"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 19",
+          "standard_number": "2116",
+          "standard_title": null,
+          "range": "19",
+          "paragraph_ids": [
+            "19"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2116호와 국제재무보고기준해석 제16호(IFRIC 16) 기업회계기준해석서 제2116호는 국제재무보고기준해석위원회가 제정한 국제재무보고기준해석 제16호(IFRIC 16) ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한7.1과 한18.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 해석서를 적용하게 됨에 따라 시행일 및 경과규정과 관련된 문단 18, 19가 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제재무보고기준해석 제16호(IFRIC 16)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2116호가 IFRIC 16의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2116호를 준수하면 동시에 IFRIC 16을 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2116호와 국제재무보고기준해석 제16호(IFRIC 16)</h3>\n<p>기업회계기준해석서 제2116호는 국제재무보고기준해석위원회가 제정한 국제재무보고기준해석 제16호(IFRIC 16) ‘해외사업장순투자의 위험회피(Hedges of a Net Investment in a Foreign Operation)'에 대응하는 해석이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한7.1과 한18.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 해석서를 적용하게 됨에 따라 시행일 및 경과규정과 관련된 문단 18, 19가 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제재무보고기준해석 제16호(IFRIC 16)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2116호가 IFRIC 16의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2116호를 준수하면 동시에 IFRIC 16을 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 해외사업장순투자의 위험회피에서 회피대상위험으로 지정할 수 있는 외화위험을 식별하는 것에 대한 지침을 제공하고 있다. ### 1. 회계논제 해외사업장에 대한 투자는 지배기업에 의해 직접으로 또는 종속기업이나 종속기업들에 의해 간접으로 보유될 수 있다. 이러한 해외사업장의 순투자와 관련하여 이 해석서는 다음을 회계논제로 한다. ### 2. 결론 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 해외사업장순투자의 위험회피에서 회피대상위험으로 지정할 수 있는 외화위험을 식별하는 것에 대한 지침을 제공하고 있다.</p>\n<h3>1. 회계논제</h3>\n<p>해외사업장에 대한 투자는 지배기업에 의해 직접으로 또는 종속기업이나 종속기업들에 의해 간접으로 보유될 수 있다. 이러한 해외사업장의 순투자와 관련하여 이 해석서는 다음을 회계논제로 한다.</p>\n<h3>2. 결론</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.\n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2009.06.26. 개정 | 한국채택국제회계기준 연차개선 | Improvements to IFRSs |\n| 2008.12.12. 제정 | 해외사업장순투자의 위험회피 | IFRIC 16 Hedges of a Net Investment in a Foreign Operation |\n\n이 해석서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다.\n\n| 제․개정일자 | 타 기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2015.09.25. | 기업회계기준서 제1109호금융상품 | IFRS 9 Financial Instruments |\n| 2011.11.18. | 기업회계기준서 제1111호 공동약정 | IFRS 11 Joint Arrangements |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 206px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 240px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2009.06.26. 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 206px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">한국채택국제회계기준 연차개선</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 240px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 1.7pt 0pt 5.9pt; padding: 0px; text-align: justify; text-indent: -5.9pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">Improvements to IFRSs</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 71px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2008.12.12. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 206px; height: 71px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">해외사업장순투자의 위험회피</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 240px; height: 71px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 25.6px;\">IFRIC 16 Hedges of a Net Investment in a Foreign Operation</span></p></td></tr></tbody></table>\n<p class=\"HStyle1\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">이 해석서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 191px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">타 기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 255px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2015.09.25.&nbsp;</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 191px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1109호</span></p><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">금융상품</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 255px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 6.7pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 9 Financial Instruments</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2011.11.18.&nbsp;</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 191px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 </span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">제1111호 공동약정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 255px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 5.9pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 11 Joint Arrangements</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1021": [
+      "1",
+      "6",
+      "AG14"
+    ],
+    "1111": [
+      "2"
+    ],
+    "1109": [
+      "3",
+      "5",
+      "6",
+      "7",
+      "14",
+      "16",
+      "18B",
+      "AG8",
+      "IE5"
+    ]
+  },
+  "qna_index": {}
+}

@@ -131,38 +131,115 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                 // → 뒤에서부터 탐색하여 텍스트가 있는 첫 번째 것을 사용
                 const allInnerParas = li.querySelectorAll('.para-inner-para');
 
-                // .para-inner-para가 없는 경우: 재무제표 테이블 직접 포함 문단
-                // (예: data-paranum="웩15" 등 — HTML 테이블만 있고 wrapper 없음)
+                // .para-inner-para가 없는 경우: 두 가지 대체 구조 처리
                 if (allInnerParas.length === 0) {
                     const table = li.querySelector('table');
-                    if (!table) return;
-                    const asciiText = tableToMarkdown(table);
-                    if (asciiText) {
-                        // 테이블 내 각주 참조도 추출
-                        const tableFnRefs = [];
-                        const seenTableFnIds = new Set();
-                        table.querySelectorAll('sup').forEach(sup => {
+                    const paraDiv = li.querySelector('div.para');
+
+                    if (table) {
+                        // 케이스 1: 재무제표 테이블 직접 포함 문단
+                        // (예: data-paranum="웩15" 등 — HTML 테이블만 있고 wrapper 없음)
+                        const asciiText = tableToMarkdown(table);
+                        if (asciiText) {
+                            // 테이블 내 각주 참조도 추출
+                            const tableFnRefs = [];
+                            const seenTableFnIds = new Set();
+                            table.querySelectorAll('sup').forEach(sup => {
+                                const supText = sup.textContent?.trim() || '';
+                                const fnMatch = supText.match(/^\\((한|주)\\d+\\)$/);
+                                if (fnMatch) {
+                                    const id = supText.replace(/[()]/g, '');
+                                    if (!seenTableFnIds.has(id)) {
+                                        seenTableFnIds.add(id);
+                                        tableFnRefs.push({ id, display_text: supText });
+                                    }
+                                }
+                            });
+                            results.push({
+                                number: paraNum,
+                                html: table.outerHTML,
+                                text: asciiText,
+                                std_refs: [],
+                                para_refs: [],
+                                qna_refs: [],
+                                footnote_refs: tableFnRefs,
+                            });
+                        }
+                        return;
+                    } else if (paraDiv) {
+                        // 케이스 2: div.para + div.idt-1 구조
+                        // (예: CF 1.2, 1.4 — 본문 텍스트 + 하위항목 목록 + 각주)
+                        // div.para: 텍스트 노드와 <sup> 각주가 인라인으로 섞인 본문
+                        // div.idt-1: (번호) + 내용 쌍, .comment이면 각주 설명
+                        const textParts2 = [];
+                        const fnRefs2 = [];
+                        const seenFnIds2 = new Set();
+
+                        // div.para 본문 텍스트 추출 (tooltip 제거 후)
+                        const clonedPara = paraDiv.cloneNode(true);
+                        clonedPara.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                        const paraText = clonedPara.textContent?.trim() || '';
+                        if (paraText) textParts2.push(paraText);
+
+                        // div.para 내 각주 참조 (sup) 수집
+                        paraDiv.querySelectorAll('sup').forEach(sup => {
                             const supText = sup.textContent?.trim() || '';
                             const fnMatch = supText.match(/^\\((한|주)\\d+\\)$/);
                             if (fnMatch) {
                                 const id = supText.replace(/[()]/g, '');
-                                if (!seenTableFnIds.has(id)) {
-                                    seenTableFnIds.add(id);
-                                    tableFnRefs.push({ id, display_text: supText });
+                                if (!seenFnIds2.has(id)) {
+                                    seenFnIds2.add(id);
+                                    fnRefs2.push({ id, display_text: supText });
                                 }
                             }
                         });
+
+                        // div.idt-1 항목 처리: 일반 항목은 textParts에, comment는 각주로
+                        const footnoteItems2 = [];
+                        li.querySelectorAll('div.idt-1').forEach(idt => {
+                            const isComment = idt.classList.contains('comment');
+                            const children = Array.from(idt.children);
+                            const label = children[0]?.textContent?.trim() || '';
+                            const contentEl = children[1];
+                            const clonedContent = contentEl ? contentEl.cloneNode(true) : null;
+                            if (clonedContent) {
+                                clonedContent.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                            }
+                            const content = clonedContent?.textContent?.trim() || '';
+
+                            if (isComment) {
+                                if (label || content) footnoteItems2.push({ label, content });
+                            } else {
+                                if (label || content) {
+                                    textParts2.push((label ? label + ' ' : '') + content);
+                                }
+                            }
+                        });
+
+                        // 각주 내용을 맨 끝에 추가
+                        if (footnoteItems2.length > 0) {
+                            textParts2.push(
+                                footnoteItems2.map(item => '[각주 ' + item.label + '] ' + item.content).join('\\n\\n')
+                            );
+                        }
+
+                        const finalText2 = textParts2.join('\\n');
+                        if (!finalText2) return;
+
                         results.push({
                             number: paraNum,
-                            html: table.outerHTML,
-                            text: asciiText,
+                            html: li.innerHTML,
+                            text: finalText2,
                             std_refs: [],
                             para_refs: [],
                             qna_refs: [],
-                            footnote_refs: tableFnRefs,
+                            footnote_refs: fnRefs2,
                         });
+                        return;
+                    } else {
+                        // 알 수 없는 구조: 스킵
+                        return;
                     }
-                    return;
                 }
 
                 // DOM 순서대로 pip + number-items를 인터리빙하여 텍스트 수집

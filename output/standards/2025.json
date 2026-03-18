@@ -1,0 +1,271 @@
+{
+  "standard_id": "2025",
+  "standard_type": "기업회계기준해석서",
+  "title": "법인세: 기업이나 주주의 납세지위 변동",
+  "url": "https://db.kasb.or.kr/s/2025",
+  "crawled_at": "2026-03-18T03:29:43.330534+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2025/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2025/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "aRE1bI",
+          "href": "/s/2025/aRE1bI",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "O0GXOG",
+          "href": "/s/2025/O0GXOG",
+          "paragraph_range": "한1.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "I4cguz",
+          "href": "/s/2025/I4cguz",
+          "paragraph_range": "1 ~ 3",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "2XkcKh",
+          "href": "/s/2025/2XkcKh",
+          "paragraph_range": "4",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "4fFf3b",
+          "href": "/s/2025/4fFf3b",
+          "paragraph_range": "한4.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2025호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "7icolP",
+          "href": "/s/2025/7icolP",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2025/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "SIC 25 ‘법인세: 기업이나 주주의 납세지위 변동(Income Taxes - Changes in the Tax Status of an Entity or its Shareholders)'의 결론도출근거",
+          "section_id": "dilqnI",
+          "href": "/s/2025/dilqnI",
+          "paragraph_range": "5 ~ 8",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2025/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2025/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2025/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "웩1",
+      "section_id": "aRE1bI",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "- 기업회계기준서 제1001호 ‘재무제표 표시’",
+      "html": "<div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 기업회계기준서 제1001호 ‘재무제표 표시’</div><div class=\"para\">- 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’</div><div class=\"para\">- 기업회계기준서 제1012호 ‘법인세’</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한1.1",
+      "section_id": "O0GXOG",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "I4cguz",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "기업이나 주주의 납세지위가 변동하는 경우 당해 기업의 법인세 부채나 자산이 증가되거나 감소되기도 한다. 이러한 예는 기업의 지분상품이 상장되거나 자본이 재조정되는 경우에 발생할 수 있다. 또한 지배주주가 외국으로 이전한 경우에도 발생할 수 있다. 그러한 사건의 결과로 기업은 다르게 과세될 수 있다. 예를 들어 미래에 과세혜택을 받거나 잃을 수 있고 적용될 세율이 달라질 수도 있다.",
+      "html": "기업이나 주주의 납세지위가 변동하는 경우 당해 기업의 법인세 부채나 자산이 증가되거나 감소되기도 한다. 이러한 예는 기업의 지분상품이 상장되거나 자본이 재조정되는 경우에 발생할 수 있다. 또한 지배주주가 외국으로 이전한 경우에도 발생할 수 있다. 그러한 사건의 결과로 기업은 다르게 과세될 수 있다. 예를 들어 미래에 과세혜택을 받거나 잃을 수 있고 적용될 세율이 달라질 수도 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "I4cguz",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "기업이나 주주의 납세지위 변동은 기업의 당기법인세 부채나 자산에 즉시 영향을 주기도 한다. 또한 납세지위의 변동이 자산과 부채의 장부금액을 회수하거나 결제함으로 인해 발생할 세효과에 미치는 영향에 따라, 기업이 인식한 이연법인세 부채와 자산은 증가되거나 감소될 수도 있다.",
+      "html": "기업이나 주주의 납세지위 변동은 기업의 당기법인세 부채나 자산에 즉시 영향을 주기도 한다. 또한 납세지위의 변동이 자산과 부채의 장부금액을 회수하거나 결제함으로 인해 발생할 세효과에 미치는 영향에 따라, 기업이 인식한 이연법인세 부채와 자산은 증가되거나 감소될 수도 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "I4cguz",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "회계논제는 기업이나 주주의 납세지위가 변동됨에 따른 세효과를 어떻게 회계처리 하는가에 대한 것이다.",
+      "html": "회계논제는 기업이나 주주의 납세지위가 변동됨에 따른 세효과를 어떻게 회계처리 하는가에 대한 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "2XkcKh",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "기업이나 주주의 납세지위 변동은 당기손익 이외의 항목으로 인식한 금액을 증가시키거나 감소시키지 아니한다. 납세지위 변동에 따른 당기법인세 및 이연법인세 효과는 당기손익에 포함되어야 한다. 다만, 거래 및 사건과 관련된 당해 세효과가 동일 기간 또는 다른 기간에 자본으로 인식된 금액에 직접 가감되는 경우나 기타포괄손익으로 인식되는 금액은 제외한다. 동일 기간 또는 다른 기간에 자본으로 인식된 금액(손익에 포함되지 않은 금액)의 변동과 관련된 당해 세효과는 자본에서 직접 가감하여야 한다. 기타포괄손익으로 인식되는 금액과 관련된 세효과는 기타포괄손익으로 인식하여야 한다.",
+      "html": "기업이나 주주의 납세지위 변동은 당기손익 이외의 항목으로 인식한 금액을 증가시키거나 감소시키지 아니한다. 납세지위 변동에 따른 당기법인세 및 이연법인세 효과는 당기손익에 포함되어야 한다. 다만, 거래 및 사건과 관련된 당해 세효과가 동일 기간 또는 다른 기간에 자본으로 인식된 금액에 직접 가감되는 경우나 기타포괄손익으로 인식되는 금액은 제외한다. 동일 기간 또는 다른 기간에 자본으로 인식된 금액(손익에 포함되지 않은 금액)의 변동과 관련된 당해 세효과는 자본에서 직접 가감하여야 한다. 기타포괄손익으로 인식되는 금액과 관련된 세효과는 기타포괄손익으로 인식하여야 한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "웩2",
+      "section_id": "4fFf3b",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한4.1",
+      "section_id": "4fFf3b",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "html": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "웩3,1",
+      "section_id": "7icolP",
+      "section_title": "기업회계기준해석서 제2025호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준해석서 제2025호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준해석서 제2025호의 제정에 대한 회계기준위원회의 의결(2007년)",
+      "html": "<div value=\"웩3,1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2025호의 제정에 대한 회계기준위원회의 의결(2007년)</b></div><br><div class=\"para\">기업회계기준해석서 제2025호 ‘법인세: 기업이나 주주의 납세지위 변동’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원: </div><div class=\"para\">이효익(위원장), 서정우(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "dilqnI",
+      "section_id": "dilqnI",
+      "section_title": "SIC 25 ‘법인세: 기업이나 주주의 납세지위 변동(Income Taxes - Changes in the Tax Status of an Entity or its Shareholders)'의 결론도출근거",
+      "toc_path": "결론도출근거|SIC 25 ‘법인세: 기업이나 주주의 납세지위 변동(Income Taxes - Changes in the Tax Status of an Entity or its Shareholders)'의 결론도출근거",
+      "text": "## SIC 25 ‘법인세: 기업이나 주주의 납세지위 변동(Income Taxes - Changes in the Tax Status of an Entity or its Shareholders)'의 결론도출근거 - 이 결론도출근거는 법인세: 기업이나 주주의 납세지위 변동SIC 25에 첨부되지만, 이 해석서의 일부를 구성하는 것은 아니다. - [원문에 2003년의 법인세IAS 12의 개정과 2004년 무형자산IAS 38의 개정, 2007년 재무제표 표시IAS 1의 개정을 반영하기 위해 표시하였다. 추가된 부분은 밑줄로 표시하고 삭제된 부분은 취소선으로 표시한다 (한1).] (한1)한 원문에 따라 취소선 표시 등을 반영함. - 책갈피 추가/삭제5법인세IAS 12 문단 58은 동일 회계기간 또는 다른 회계기간에 순당기손익 이외의 항목으로 기타포괄손익이나 자본에 직접 인식되는 거래나 사건으로부터 발생하는 세액(또는 취득인 사업결합에서 발생하는 세액)을 제외하고, 당기법인세와 이연법인세를 당기손익에 포함하도록 규정하고 있다. 또한 동 기준서의 문단 61A는 동일 회계기간 또는 다른 회계기간에 당기손익 이외로 자본에 직접 가감된 인식되는 항목과 관련된 당기법인세와 이연법인세를 자본에 직접 가감하도록 당기손익 이외의 항목으로 인식하도록 요구하고 있다. - 책갈피 추가/삭제5A법인세IAS 12 문단 62는 다른 IFRS에서 기타포괄손익으로 인식할 것을 허용하거나 요구하고 있는 거래나 사건이 발생하는 상황의 예를 들고 있다. 이러한 모든 상황에서는 기타포괄손익을 인식함으로써 인식된 자본 금액이 변동한다. - 책갈피 추가/삭제6법인세IAS 12 문단 62 A는 다른 IFRS에서 자본에 직접 인식하도록 요구하거나 허용하는 거래나 사건이 발생하는 상황의 예를 들고 있다. 이러한 모든 상황에서는 자본에 직접 가감하여 인식함으로써 인식된 자본 금액이 변동한다. - 책갈피 추가/삭제7법인세IAS 12 문단 65는 재평가된 자산의 세무기준액이 변동된다면, 이와 관련하여 회계상 재평가금액을 자본에 직접 기타포괄손익(재평가잉여금)으로 인식했거나 인식할 것으로 예상되는 범위까지만 그 세효과를 자본으로 기타포괄손익으로 인식하도록 설명하고 있다. - 책갈피 추가/삭제8당기손익 이외의 항목으로 기타포괄손익이나 자본에 직접 인식한 세효과는 동일 회계기간 또는 다른 회계기간에 자본에 직접 당기손익 이외의 항목으로 인식된 거래나 사건과 반드시 관련이 있으므로, 자본에 직접 가감된 당기손익 이외의 항목으로 인식된 누적 과세금액은 과거에 새로운 납세지위가 적용되었더라면 자본에 직접 가감될 항목의 당기손익 이외의 항목으로 인식되었을 금액과 동일할 것으로 예상할 수 있다. 법인세IAS 12 문단 63(2)에 따르면 세율이나 기타 세법상의 변화가 이연법인세 자산이나 부채에 영향을 미치고 과거 자본에서 가감한 항목 당기손익 이외의 항목과 관련된 경우 이로 인한 세효과를 결정하는 것이 어려울 수 있음을 인정하고 있다. 법인세IAS 12 문단 63에서는 이러한 이유로 배분이 필요할 수 있다고 언급하고 있다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>SIC 25 ‘법인세: 기업이나 주주의 납세지위 변동(Income Taxes - Changes in the Tax Status of an Entity or its Shareholders)'의 결론도출근거</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩4\"><div value=\"웩4\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\"><i>이 결론도출근거는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세: 기업이나 주주의 납세지위 변동</span><span class=\"std-finder\">SIC 25</span></div>에 첨부되지만, 이 해석서의 일부를 구성하는 것은 아니다.\n  </i><div></div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩5\"><div value=\"웩5\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\"><i>[원문에 2003년의 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>의 개정과 2004년 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>의 개정, 2007년 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>의 개정을 반영하기 위해 표시하였다. 추가된 부분은 밑줄로 표시하고 삭제된 부분은 취소선으로 표시한다        \n    <sup data-id=\"(한1)\">(한1)</sup>.]    \n  </i></div><div class=\"idt-1 comment\"><div>(한1)</div><div>한 원문에 따라 취소선 표시 등을 반영함.</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"5\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"5\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">5</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12 </span></div><span class=\"mundan-finder\">문단 58</span>은 동일 회계기간 또는 다른 회계기간에                 \n  <strike>순</strike><u>당기손익 이외의 항목으로 기타포괄손익이나</u> 자본에 직접 인식되는 거래나 사건으로부터 발생하는 세액(또는                 \n  <strike>취득인</strike> 사업결합에서 발생하는 세액)을 제외하고, 당기법인세와 이연법인세를 당기손익에 포함하도록 규정하고 있다. 또한 동 기준서의 \n  <span class=\"mundan-finder\">문단 \n    <u>61A</u></span><u>는</u> 동일 회계기간 또는 다른 회계기간에                 \n  <u>당기손익 이외로</u><strike> 자본에 직접 가감된 </strike><u>인식되는</u> 항목과 관련된 당기법인세와 이연법인세를                 \n  <strike>자본에 직접 가감하도록 </strike><u> 당기손익 이외의 항목으로 인식하도록</u> 요구하고 있다.\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"5A\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"5A\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">5A</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\"><u><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12 </span></div><span class=\"mundan-finder\">문단 62</span>는 다른 IFRS에서 기타포괄손익으로 인식할 것을 허용하거나 요구하고 있는 거래나 사건이 발생하는 상황의 예를 들고 있다. 이러한 모든 상황에서는 기타포괄손익을 인식함으로써 인식된 자본 금액이 변동한다.\n  </u></div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"6\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"6\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">6</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12 </span></div><span class=\"mundan-finder\">문단 62\n    <u>A</u></span>는 다른 IFRS에서 자본에 직접 인식하도록 요구하거나 허용하는 거래나 사건이 발생하는 상황의 예를 들고 있다. 이러한 모든 상황에서는 자본에 직접 가감하여 인식함으로써 인식된 자본 금액이 변동한다.\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"7\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"7\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">7</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12 </span></div><span class=\"mundan-finder\">문단 65</span>는 재평가된 자산의 세무기준액이 변동된다면, 이와 관련하여 회계상 재평가금액을   \n  <strike>자본에 직접 </strike><u>기타포괄손익(재평가잉여금)으로</u> 인식했거나 인식할 것으로 예상되는 범위까지만 그 세효과를   \n  <strike>자본으로 </strike><u>기타포괄손익으로</u> 인식하도록 설명하고 있다.\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"8\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"8\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">8</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\"><u>당기손익 이외의 항목으로 기타포괄손익이나</u> 자본에 직접 인식한 세효과는 동일 회계기간 또는 다른 회계기간에     \n  <strike>자본에 직접 </strike><u>당기손익 이외의 항목으로</u> 인식된 거래나 사건과 반드시 관련이 있으므로,     \n  <strike>자본에 직접 가감된 </strike><u>당기손익 이외의 항목으로 인식된</u> 누적 과세금액은 과거에 새로운 납세지위가 적용되었더라면     \n  <strike>자본에 직접 가감될 항목의 </strike><u>당기손익 이외의 항목으로 인식되었을</u> 금액과 동일할 것으로 예상할 수 있다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12 </span></div><span class=\"mundan-finder\">문단 63(2)</span>에 따르면 세율이나 기타 세법상의 변화가 이연법인세 자산이나 부채에 영향을 미치고 과거     \n  <strike>자본에서 가감한 항목 </strike><u>당기손익 이외의 항목</u>과 관련된 경우 이로 인한 세효과를 결정하는 것이 어려울 수 있음을 인정하고 있다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12 </span></div><span class=\"mundan-finder\">문단 63</span>에서는 이러한 이유로 배분이 필요할 수 있다고 언급하고 있다.\n</div></div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2025호와 국제회계기준해석 제25호(SIC 25) 기업회계기준해석서 제2025호는 상설해석위원회가 제정한 국제회계기준해석 제25호(SIC 25) ‘법인세: 기업이나 주주의 납세지위 변동(Income Taxes -Changes in the Tax Status of an Entity or its Shareholders)'에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한4.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일과 관련된 문단이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제회계기준해석 제25호(SIC 25)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2025호가 SIC 25의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제2025호를 준수하면 동시에 SIC 25를 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2025호와 국제회계기준해석 제25호(SIC 25) </h3>\n<p>기업회계기준해석서 제2025호는 상설해석위원회가 제정한 국제회계기준해석 제25호(SIC 25) ‘법인세: 기업이나 주주의 납세지위 변동(Income Taxes -Changes in the Tax Status of an Entity or its Shareholders)'에 대응하는 해석이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한4.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일과 관련된 문단이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제회계기준해석 제25호(SIC 25)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2025호가 SIC 25의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제2025호를 준수하면 동시에 SIC 25를 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 ‘법인세: 기업이나 주주의 납세지위 변동’에 대한 사항을 정하고 있다. ### 1. 주요 요구사항 기업이나 주주의 납세지위 변동은 당기손익 이외의 항목으로 인식한 금액을 증가시키거나 감소시키지 아니한다. 납세지위 변동에 따른 당기법인세 및 이연법인세 효과는 당기손익에 포함되어야 한다. 다만, 거래 및 사건과 관련된 당해 세효과가 동일 기간 또는 다른 기간에 자본으로 인식된 금액에 직접 가감되는 경우나 기타포괄손익으로 인식되는 금액은 제외한다. 동일 기간 또는 다른 기간에 자본으로 인식된 금액(손익에 포함되지 않은 금액)의 변동과 관련된 당해 세효과는 자본에서 직접 가감하여야 한다. 기타포괄손익으로 인식되는 금액과 관련된 세효과는 기타포괄손익으로 인식하여야 한다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 ‘법인세: 기업이나 주주의 납세지위 변동’에 대한 사항을 정하고 있다.</p>\n<h3>1. 주요 요구사항</h3>\n<p>기업이나 주주의 납세지위 변동은 당기손익 이외의 항목으로 인식한 금액을 증가시키거나 감소시키지 아니한다. 납세지위 변동에 따른 당기법인세 및 이연법인세 효과는 당기손익에 포함되어야 한다. 다만, 거래 및 사건과 관련된 당해 세효과가 동일 기간 또는 다른 기간에 자본으로 인식된 금액에 직접 가감되는 경우나 기타포괄손익으로 인식되는 금액은 제외한다. 동일 기간 또는 다른 기간에 자본으로 인식된 금액(손익에 포함되지 않은 금액)의 변동과 관련된 당해 세효과는 자본에서 직접 가감하여야 한다. 기타포괄손익으로 인식되는 금액과 관련된 세효과는 기타포괄손익으로 인식하여야 한다.</p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.\n\n| 제·개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2007.11.23. 제정 | 법인세: 기업이나 주주의 납세지위 변동 | Income Taxes-Changes in the Taxes Status of an Entity or its Shareholders. |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">·개</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 28.8px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2007.11.23. 제정</span></p></td><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">법인세: 기업이나 주주의 납세지위 변동</span></p></td><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">Income Taxes-Changes in the Taxes Status of an Entity or its Shareholders.</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {},
+  "qna_index": {}
+}
