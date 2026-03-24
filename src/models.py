@@ -67,7 +67,7 @@ class Paragraph(BaseModel):
     text 필드는 tooltip 텍스트가 제거된 순수 텍스트이며,
     HTML 테이블은 Markdown 형식으로 변환되어 포함됩니다.
     """
-    number: str  # 문단 번호 (예: "2", "BC1", "한138.6")
+    number: str  # 문단 번호 (예: "2", "BC1", "한138.6", "IE15") — KASB 원시 "웩" 접두사는 "IE"로 변환됨
     section_id: str  # 소속 섹션 ID
     section_title: str  # 소속 섹션 제목
     toc_path: str  # 목차 경로 (예: "본문/적용범위")

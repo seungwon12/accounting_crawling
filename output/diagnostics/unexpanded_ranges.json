@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-03-23T01:01:15.801928+00:00",
+  "standards_scanned": 7,
+  "total_cases": 10,
+  "summary": {
+    "by_cause": {
+      "A_cross_standard_ref": 2,
+      "B_subitem_misparsing": 3,
+      "C_paragraph_missing": 3,
+      "D_separator_missing": 1,
+      "E_prefix_residual": 1
+    },
+    "by_standard": {
+      "1001": 1,
+      "1007": 2,
+      "1008": 3,
+      "1012": 1,
+      "1016": 3
+    }
+  },
+  "cases": [
+    {
+      "source_standard": "1001",
+      "source_paragraph": "IG10",
+      "target_standard": "1007",
+      "is_self_ref": false,
+      "display_text": "문단 44A~44E",
+      "range": "44A~44E",
+      "unexpanded_id": "44A~44E",
+      "cause_type": "A_cross_standard_ref",
+      "cause_detail": "타 기준서(1007) 참조: ['44A', '44E'] 모두 현재 기준서(1001)에 미존재"
+    },
+    {
+      "source_standard": "1007",
+      "source_paragraph": "63",
+      "target_standard": "1007",
+      "is_self_ref": true,
+      "display_text": "문단 44H⑵㈏~㈐",
+      "range": "44H⑵㈏~㈐",
+      "unexpanded_id": "44H~",
+      "cause_type": "B_subitem_misparsing",
+      "cause_detail": "서브아이템 과다 제거로 end가 빈 문자열: '44H~'"
+    },
+    {
+      "source_standard": "1007",
+      "source_paragraph": "BC41",
+      "target_standard": "1007",
+      "is_self_ref": true,
+      "display_text": "문단 44H⑵㈏~㈐",
+      "range": "44H⑵㈏~㈐",
+      "unexpanded_id": "44H~",
+      "cause_type": "B_subitem_misparsing",
+      "cause_detail": "서브아이템 과다 제거로 end가 빈 문자열: '44H~'"
+    },
+    {
+      "source_standard": "1008",
+      "source_paragraph": "BC4",
+      "target_standard": "1008",
+      "is_self_ref": true,
+      "display_text": "문단 54~57",
+      "range": "54~57",
+      "unexpanded_id": "54~57",
+      "cause_type": "C_paragraph_missing",
+      "cause_detail": "자기참조이나 문단 미존재: ['57']이 현재 기준서(1008) 문단 목록에 없음"
+    },
+    {
+      "source_standard": "1008",
+      "source_paragraph": "BC21A",
+      "target_standard": "1008",
+      "is_self_ref": true,
+      "display_text": "문단 BC13A~BC13T",
+      "range": "BC13A~BC13T",
+      "unexpanded_id": "BC13A~BC13T",
+      "cause_type": "C_paragraph_missing",
+      "cause_detail": "자기참조이나 문단 미존재: ['BC13A', 'BC13T']이 현재 기준서(1008) 문단 목록에 없음"
+    },
+    {
+      "source_standard": "1008",
+      "source_paragraph": "BC24",
+      "target_standard": "1008",
+      "is_self_ref": true,
+      "display_text": "문단 23~25, 39, 그리고 43~45",
+      "range": "23~25, 39, 그리고 43~45",
+      "unexpanded_id": "그리고 43~45",
+      "cause_type": "D_separator_missing",
+      "cause_detail": "비등록 접속사 '그리고'로 시작: '그리고 43~45'"
+    },
+    {
+      "source_standard": "1012",
+      "source_paragraph": "IE10",
+      "target_standard": "1012",
+      "is_self_ref": true,
+      "display_text": "문단 B56~B62",
+      "range": "B56~B62",
+      "unexpanded_id": "B56~B62",
+      "cause_type": "C_paragraph_missing",
+      "cause_detail": "자기참조이나 문단 미존재: ['B56', 'B62']이 현재 기준서(1012) 문단 목록에 없음"
+    },
+    {
+      "source_standard": "1016",
+      "source_paragraph": "6",
+      "target_standard": "1041",
+      "is_self_ref": false,
+      "display_text": "문단 5A~5B",
+      "range": "5A~5B",
+      "unexpanded_id": "5A~5B",
+      "cause_type": "A_cross_standard_ref",
+      "cause_detail": "타 기준서(1041) 참조: ['5A', '5B'] 모두 현재 기준서(1016)에 미존재"
+    },
+    {
+      "source_standard": "1016",
+      "source_paragraph": "78",
+      "target_standard": "1036",
+      "is_self_ref": false,
+      "display_text": "문단 73(5)(라)~(바)",
+      "range": "73(5)(라)~(바)",
+      "unexpanded_id": "73~",
+      "cause_type": "B_subitem_misparsing",
+      "cause_detail": "서브아이템 과다 제거로 end가 빈 문자열: '73~'"
+    },
+    {
+      "source_standard": "1016",
+      "source_paragraph": "81K",
+      "target_standard": "1016",
+      "is_self_ref": true,
+      "display_text": "문단 22A와 문단 80B~80C",
+      "range": "22A와 문단 80B~80C",
+      "unexpanded_id": "문단 80B~80C",
+      "cause_type": "E_prefix_residual",
+      "cause_detail": "'문단' 접두사 잔류: '문단 80B~80C'"
+    }
+  ]
+}

@@ -29,6 +29,64 @@ from src.utils import logger, clean_text, extract_standard_number, extract_parag
 from src.browser import navigate_with_retry
 
 
+def _process_raw_text(raw_text: str) -> str:
+    """JS에서 추출한 원시 텍스트를 정리합니다.
+
+    \u2029 (Paragraph Separator): textParts 블록 경계 → \n으로 join
+    \u2028 (Line Separator): smartTableToContent 단락 경계 → 각 단락 독립 clean_text 후 \n\n으로 join
+
+    smartTableToContent 결과(\u2028 포함 세그먼트)와 일반 pip 세그먼트 사이에는
+    \n\n(이중 개행)을 사용하여 블록 구분을 명확히 합니다.
+    """
+    if "\u2029" in raw_text:
+        segments = raw_text.split("\u2029")
+    else:
+        segments = [raw_text]
+
+    # 각 세그먼트를 처리하면서 smartTableToContent 여부를 함께 기록
+    cleaned_parts = []  # (text, is_smart_table) 튜플 리스트
+    for seg in segments:
+        if "\u2028" in seg:
+            # smartTableToContent 단락 경계: 각 단락을 독립적으로 clean_text 처리 후 \n\n으로 재결합
+            paras = [clean_text(p) for p in seg.split("\u2028")]
+            text = "\n\n".join(p for p in paras if p)
+            is_smart_table = True
+        else:
+            text = clean_text(seg)
+            is_smart_table = False
+        if text:
+            cleaned_parts.append((text, is_smart_table))
+
+    # 조립: smartTableToContent 세그먼트 앞뒤에는 \n\n, 일반 pip 간에는 \n
+    if not cleaned_parts:
+        return ""
+
+    result = cleaned_parts[0][0]
+    for i in range(1, len(cleaned_parts)):
+        prev_is_table = cleaned_parts[i - 1][1]
+        curr_is_table = cleaned_parts[i][1]
+        sep = "\n\n" if (prev_is_table or curr_is_table) else "\n"
+        result += sep + cleaned_parts[i][0]
+
+    return result
+
+
+def _normalize_paranum(number: str) -> str:
+    """KASB 내부 문단 접두사를 IFRS 표준 접두사로 변환합니다.
+
+    KASB 웹사이트는 '웩'이라는 불투명한 접두사를 사용합니다.
+    - '웩의결' → '의결': 한국 고유 "회계기준위원회 의결" 섹션
+    - '웩' + 나머지 → 'IE' + 나머지: IFRS Illustrative Examples(적용사례) 접두사
+
+    '웩의결'을 먼저 검사해야 이후 '웩' 패턴이 '의결' 부분을 덮어쓰지 않음.
+    """
+    if number.startswith("웩의결"):
+        return number.replace("웩의결", "의결", 1)
+    if number.startswith("웩"):
+        return number.replace("웩", "IE", 1)
+    return number
+
+
 async def _expand_qna_buttons(page: Page) -> None:
     """
     페이지 내 모든 질의회신 접이식 버튼을 클릭하여 확장합니다.
@@ -118,6 +176,179 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                 return lines.join('\\n');
             }
 
+            // div.temp 전용 스마트 테이블 변환
+            // 테이블 유형을 먼저 판별(Pre-scan)한 후 적합한 방식으로 변환:
+            //
+            // [테이블 유형 분류]
+            //   - ALL TEXT     : 숫자 셀이 전혀 없음 → 전체 평문 출력 (\\n\\n 구분)
+            //   - PURE FINANCIAL: 긴 텍스트 행 < 3개 → 모든 행을 재무제표로 처리 (단일 마크다운 테이블)
+            //   - MIXED        : 긴 텍스트 행 >= 3개 → 텍스트/재무제표 행 분리 출력
+            //
+            // [행 분류 기준 - MIXED 모드]
+            //   1. spacer: tr.height < 8pt 또는 모든 셀이 비어있음 → 무시
+            //   2. text:   숫자 전용 셀이 없고 비빈 셀이 왼쪽 1/3 열 영역에 있음
+            //   3. financial: 그 외 (숫자 셀 있음, 또는 비빈 셀이 우측 열에만 있음)
+            //
+            // [출력]
+            //   - text 행 → "\\n\\n"으로 결합한 평문 (마크다운 문단 구분)
+            //   - financial 행 → 빈 열 제거 후 마크다운 테이블
+            //   - 블록 사이 "\\n\\n"으로 구분
+            function smartTableToContent(table) {
+                // 1. 전체 열 수 계산 (colspan 합계의 최댓값)
+                let totalCols = 0;
+                table.querySelectorAll('tr').forEach(tr => {
+                    let rowCols = 0;
+                    tr.querySelectorAll('th, td').forEach(td => {
+                        rowCols += parseInt(td.getAttribute('colspan') || '1', 10);
+                    });
+                    if (rowCols > totalCols) totalCols = rowCols;
+                });
+                if (totalCols === 0) return '';
+
+                // 텍스트 행 판정: 비빈 셀이 전체 열의 왼쪽 1/3 영역에 있으면 텍스트 행
+                const leftThreshold = Math.floor(totalCols / 3);
+
+                // 재무제표 숫자 패턴: 1,000 / (90) / 6.6 / - 등
+                const numericPattern = /^[\\d,.()\\ \\-]+$/;
+
+                // spacer 행 판별 헬퍼 (height < 8pt 또는 모든 셀 비어있음)
+                const isSpacerRow = (tr) => {
+                    const heightStr = tr.style.height || '';
+                    const heightPt = parseFloat(heightStr);
+                    if (heightPt > 0 && heightPt < 8) return true;
+                    const cells = Array.from(tr.querySelectorAll('th, td'));
+                    return cells.every(td =>
+                        td.textContent.replace(/[\\r\\n\\t]+/g, ' ').replace(/\\s+/g, ' ').trim() === ''
+                    );
+                };
+
+                // 셀 텍스트 데이터 추출 헬퍼 (colspan 포함)
+                const getCellData = (tr) => {
+                    const cellData = [];
+                    let colIdx = 0;
+                    tr.querySelectorAll('th, td').forEach(td => {
+                        const text = td.textContent.replace(/[\\r\\n\\t]+/g, ' ').replace(/\\s+/g, ' ').trim();
+                        const colspan = parseInt(td.getAttribute('colspan') || '1', 10);
+                        cellData.push({ text, colspan, startCol: colIdx });
+                        colIdx += colspan;
+                    });
+                    return cellData;
+                };
+
+                // 2. Pre-scan: 테이블 유형 판별
+                //    - numericRowExists: 숫자 셀이 있는 행 존재 여부
+                //    - longTextRowCount: 숫자 셀 없는 행 중 최대 셀 길이 > 40ch인 행 수
+                let numericRowExists = false;
+                let longTextRowCount = 0;
+                table.querySelectorAll('tr').forEach(tr => {
+                    if (isSpacerRow(tr)) return;
+                    const cellData = getCellData(tr);
+                    if (cellData.every(c => c.text === '')) return;
+                    const hasNumeric = cellData.some(c => c.text !== '' && numericPattern.test(c.text));
+                    if (hasNumeric) {
+                        numericRowExists = true;
+                    } else {
+                        const maxLen = Math.max(...cellData.map(c => c.text.length));
+                        if (maxLen > 40) longTextRowCount++;
+                    }
+                });
+
+                // 3. ALL TEXT 모드: 숫자 행이 전혀 없음 (IG11 등)
+                if (!numericRowExists) {
+                    const textLines = [];
+                    table.querySelectorAll('tr').forEach(tr => {
+                        if (isSpacerRow(tr)) return;
+                        const cellData = getCellData(tr);
+                        const nonEmpty = cellData.filter(c => c.text !== '');
+                        if (nonEmpty.length === 0) return;
+                        textLines.push(nonEmpty.map(c => c.text).join(' '));
+                    });
+                    return textLines.join('\\u2028');
+                }
+
+                // 4. 행 분류: PURE FINANCIAL vs MIXED 모드
+                //    PURE FINANCIAL(longTextRowCount < 3): 모든 비spacer 행을 financial로 처리
+                //    MIXED(longTextRowCount >= 3): 기존 leftThreshold 기반 text/financial 분리
+                const isMixed = longTextRowCount >= 3;
+                const classifiedRows = [];
+                table.querySelectorAll('tr').forEach(tr => {
+                    if (isSpacerRow(tr)) return;
+                    const cellData = getCellData(tr);
+                    if (cellData.every(c => c.text === '')) return;
+
+                    const hasNumericCell = cellData.some(c => c.text !== '' && numericPattern.test(c.text));
+                    const hasLeftContent = cellData.some(c => c.text !== '' && c.startCol <= leftThreshold);
+
+                    if (isMixed && !hasNumericCell && hasLeftContent) {
+                        // MIXED 모드: 텍스트 행
+                        const text = cellData.filter(c => c.text !== '').map(c => c.text).join(' ');
+                        classifiedRows.push({ type: 'text', text });
+                    } else {
+                        // PURE FINANCIAL 또는 MIXED의 재무제표 행: colspan 확장
+                        const expanded = [];
+                        cellData.forEach(c => {
+                            expanded.push(c.text);
+                            for (let i = 1; i < c.colspan; i++) expanded.push('');
+                        });
+                        classifiedRows.push({ type: 'financial', cells: expanded });
+                    }
+                });
+
+                if (classifiedRows.length === 0) return '';
+
+                // 5. 연속 같은 타입끼리 블록으로 묶기
+                const blocks = [];
+                let curBlock = null;
+                classifiedRows.forEach(row => {
+                    if (!curBlock || curBlock.type !== row.type) {
+                        curBlock = { type: row.type, rows: [] };
+                        blocks.push(curBlock);
+                    }
+                    curBlock.rows.push(row);
+                });
+
+                // 6. 블록별 출력 조립
+                const parts = [];
+                blocks.forEach(block => {
+                    if (block.type === 'text') {
+                        // 평문: 각 행을 이중 줄바꿈으로 연결 (마크다운 문단 구분)
+                        parts.push(block.rows.map(r => r.text).join('\\u2028'));
+                    } else {
+                        // 재무제표: 빈 열 제거 후 마크다운 테이블
+                        const allCells = block.rows.map(r => r.cells);
+                        const maxCols = Math.max(...allCells.map(c => c.length));
+
+                        // 전체 financial 행에서 항상 비어있는 열 인덱스 찾기
+                        const emptyCols = new Set();
+                        for (let j = 0; j < maxCols; j++) {
+                            if (allCells.every(row => !(row[j] || '').trim())) {
+                                emptyCols.add(j);
+                            }
+                        }
+
+                        // 활성 열 인덱스 목록
+                        const activeCols = [];
+                        for (let j = 0; j < maxCols; j++) {
+                            if (!emptyCols.has(j)) activeCols.push(j);
+                        }
+                        if (activeCols.length === 0) return;
+
+                        const lines = [];
+                        allCells.forEach((row, i) => {
+                            const cells = activeCols.map(j => (row[j] || '').replace(/\\|/g, '\\\\|'));
+                            lines.push('| ' + cells.join(' | ') + ' |');
+                            if (i === 0) {
+                                lines.push('| ' + activeCols.map(() => '---').join(' | ') + ' |');
+                            }
+                        });
+                        parts.push(lines.join('\\n'));
+                    }
+                });
+
+                // 블록 간 단락 경계 마커로 구분 (Python에서 개행으로 복원)
+                return parts.join('\\u2028');
+            }
+
             // li[data-paranum] 선택자로 모든 문단 항목 찾기
             const paragraphItems = document.querySelectorAll('li[data-paranum]');
 
@@ -138,32 +369,190 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
 
                     if (table) {
                         // 케이스 1: 재무제표 테이블 직접 포함 문단
-                        // (예: data-paranum="웩15" 등 — HTML 테이블만 있고 wrapper 없음)
-                        const asciiText = tableToMarkdown(table);
-                        if (asciiText) {
-                            // 테이블 내 각주 참조도 추출
-                            const tableFnRefs = [];
-                            const seenTableFnIds = new Set();
-                            table.querySelectorAll('sup').forEach(sup => {
-                                const supText = sup.textContent?.trim() || '';
-                                const fnMatch = supText.match(/^\\((한|주)\\d+\\)$/);
-                                if (fnMatch) {
-                                    const id = supText.replace(/[()]/g, '');
-                                    if (!seenTableFnIds.has(id)) {
-                                        seenTableFnIds.add(id);
-                                        tableFnRefs.push({ id, display_text: supText });
-                                    }
+                        // (예: data-paranum="IE15", "IE15.1" 등 — 원시값 "웩15"는 _normalize_paranum에서 변환됨)
+                        // div.sc-drlKqa.temp 래퍼가 있는 경우 다중 테이블 처리,
+                        // 없는 경우 단순 단일 테이블 fallback 처리
+
+                        // 원문자(⑴~⑳) 각주 참조 ID 추출 헬퍼
+                        // U+2460(⑴) ~ U+2473(⑳) 범위
+                        const circledNums = '⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇';
+
+                        // sup 텍스트에서 footnote_references ID 추출
+                        // (한N)/(주N) 또는 원문자 단일 문자를 인식
+                        const extractFnId = (supText) => {
+                            if (!supText) return null;
+                            const stdMatch = supText.match(/^\\((한|주)\\d+\\)$/);
+                            if (stdMatch) return { id: supText.replace(/[()]/g, ''), display_text: supText };
+                            if (supText.length === 1 && circledNums.includes(supText)) {
+                                return { id: supText, display_text: supText };
+                            }
+                            return null;
+                        };
+
+                        // pipParent: div.sc-drlKqa.temp의 직계 부모 요소
+                        // 없으면 li 자체를 부모로 사용
+                        const firstTempDiv = li.querySelector('div.sc-drlKqa.temp');
+                        const pipParent1 = firstTempDiv ? firstTempDiv.parentElement : null;
+
+                        if (pipParent1) {
+                            // ── 다중 테이블 처리 (IE15.1 등; 원시 "웩15.1"은 Python에서 변환됨) ────
+                            // 테이블을 만날 때마다 이전 청크(테이블+직후 각주)를 확정(flush)하는 방식.
+                            // 원문자 각주(⑴~⑳)는 테이블마다 다른 내용이므로 중복 허용;
+                            // (한N)/(주N)만 seenFnIds1로 문단 내 중복 제거.
+                            const htmlParts1 = [];
+                            const textParts1 = [];
+                            const allFnRefs1 = [];
+                            const seenFnIds1 = new Set(); // (한N)/(주N)만 중복 제거
+                            const paraRefs1 = [];
+                            const stdRefs1 = [];
+                            let lastStdNum1 = null;
+
+                            // 현재 처리 중인 테이블 청크 변수
+                            let currentTableMd = null;
+                            let currentTableHtml = null;
+                            let currentFootnotes = []; // { label, content }
+                            let currentFnRefs = [];    // 현재 테이블의 sup 각주 참조
+
+                            // 현재 청크(테이블+각주)를 textParts1/htmlParts1에 확정
+                            const flushChunk = () => {
+                                if (currentTableMd === null) return;
+                                let chunkText = currentTableMd;
+                                if (currentFootnotes.length > 0) {
+                                    chunkText += '\\n\\n' + currentFootnotes.map(item =>
+                                        '[각주 ' + item.label + '] ' + item.content
+                                    ).join('\\n\\n');
+                                }
+                                textParts1.push(chunkText);
+                                htmlParts1.push(currentTableHtml);
+                                // currentFnRefs는 이미 seenFnIds1 처리 완료된 상태로 추가
+                                currentFnRefs.forEach(fn => allFnRefs1.push(fn));
+                                currentTableMd = null;
+                                currentTableHtml = null;
+                                currentFootnotes = [];
+                                currentFnRefs = [];
+                            };
+
+                            Array.from(pipParent1.children).forEach(child => {
+                                const tag = child.tagName?.toUpperCase();
+                                const cls = child.className || '';
+
+                                if (tag === 'BR') return; // 줄 바꿈 무시
+
+                                if (child.classList.contains('sc-drlKqa') && child.classList.contains('temp')) {
+                                    // 새 테이블 컨테이너 → 이전 청크 flush 후 새 청크 시작
+                                    flushChunk();
+                                    const tbl = child.querySelector('table');
+                                    if (!tbl) return;
+                                    const md = smartTableToContent(tbl);
+                                    if (!md) return;
+                                    currentTableMd = md;
+                                    currentTableHtml = tbl.outerHTML;
+                                    // 테이블 내 sup 각주 참조 수집
+                                    tbl.querySelectorAll('sup').forEach(sup => {
+                                        const supText = sup.textContent?.trim() || '';
+                                        const fn = extractFnId(supText);
+                                        if (!fn) return;
+                                        // (한N)/(주N): 문단 내 중복 제거
+                                        // 원문자(⑴~⑳): 테이블마다 다른 내용이므로 중복 허용
+                                        const isStdFn = /^(한|주)\\d+$/.test(fn.id);
+                                        if (isStdFn) {
+                                            if (!seenFnIds1.has(fn.id)) {
+                                                seenFnIds1.add(fn.id);
+                                                currentFnRefs.push(fn);
+                                            }
+                                        } else {
+                                            currentFnRefs.push(fn);
+                                        }
+                                    });
+                                } else if (/^idt-\\d/.test(cls) && child.classList.contains('comment')) {
+                                    // 각주 설명 div → 현재 청크의 각주 목록에 추가
+                                    const labelEl = child.children[0];
+                                    const contentEl = child.children[1];
+                                    const label = labelEl?.textContent?.trim() || '';
+                                    const clonedContent = contentEl ? contentEl.cloneNode(true) : null;
+                                    if (clonedContent) clonedContent.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                                    const content = clonedContent?.textContent?.trim() || '';
+                                    if (label || content) currentFootnotes.push({ label, content });
+
+                                    // 각주 내부 mundan-finder / std-finder 교차참조 수집
+                                    child.querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
+                                        if (el.classList.contains('std-finder')) {
+                                            const displayText = el.textContent?.trim() || '';
+                                            const container = el.closest('div') || el.parentElement;
+                                            const tooltipEl = container?.querySelector('.tooltip-content');
+                                            const tooltip = tooltipEl?.textContent?.trim() || '';
+                                            const stdMatch = displayText.match(/제(\\d+)호/);
+                                            lastStdNum1 = stdMatch ? stdMatch[1] : null;
+                                            stdRefs1.push({ display_text: displayText, tooltip });
+                                        } else if (el.classList.contains('mundan-finder')) {
+                                            paraRefs1.push({ text: el.textContent?.trim() || '', associated_standard: lastStdNum1 });
+                                        }
+                                    });
                                 }
                             });
-                            results.push({
-                                number: paraNum,
-                                html: table.outerHTML,
-                                text: asciiText,
-                                std_refs: [],
-                                para_refs: [],
-                                qna_refs: [],
-                                footnote_refs: tableFnRefs,
-                            });
+
+                            // 마지막 청크 flush
+                            flushChunk();
+
+                            // 각 청크에 이미 각주가 포함되어 있으므로 단순 join
+                            const finalText1 = textParts1.join('\\n\\n');
+
+                            if (finalText1) {
+                                results.push({
+                                    number: paraNum,
+                                    html: htmlParts1.join('\\n'),
+                                    text: finalText1,
+                                    std_refs: stdRefs1,
+                                    para_refs: paraRefs1,
+                                    qna_refs: [],
+                                    footnote_refs: allFnRefs1,
+                                });
+                            }
+                        } else {
+                            // ── 단순 단일 테이블 fallback (IE15 등; 원시 "웩15"는 Python에서 변환됨) ─
+                            const asciiText = smartTableToContent(table);
+                            if (asciiText) {
+                                const tableFnRefs = [];
+                                const seenTableFnIds = new Set();
+                                table.querySelectorAll('sup').forEach(sup => {
+                                    const supText = sup.textContent?.trim() || '';
+                                    const fn = extractFnId(supText);
+                                    if (fn && !seenTableFnIds.has(fn.id)) {
+                                        seenTableFnIds.add(fn.id);
+                                        tableFnRefs.push(fn);
+                                    }
+                                });
+                                // idt-N.comment 각주 내용 수집
+                                const footnoteItemsFb = [];
+                                li.querySelectorAll('div').forEach(div => {
+                                    if (!/^idt-\\d/.test(div.className || '')) return;
+                                    if (!div.classList.contains('comment')) return;
+                                    const labelEl = div.children[0];
+                                    const contentEl = div.children[1];
+                                    const label = labelEl?.textContent?.trim() || '';
+                                    const clonedContent = contentEl ? contentEl.cloneNode(true) : null;
+                                    if (clonedContent) clonedContent.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                                    const content = clonedContent?.textContent?.trim() || '';
+                                    if (label || content) footnoteItemsFb.push({ label, content });
+                                });
+
+                                let finalTextFb = asciiText;
+                                if (footnoteItemsFb.length > 0) {
+                                    finalTextFb += '\\n\\n' + footnoteItemsFb.map(item =>
+                                        '[각주 ' + item.label + '] ' + item.content
+                                    ).join('\\n\\n');
+                                }
+
+                                results.push({
+                                    number: paraNum,
+                                    html: table.outerHTML,
+                                    text: finalTextFb,
+                                    std_refs: [],
+                                    para_refs: [],
+                                    qna_refs: [],
+                                    footnote_refs: tableFnRefs,
+                                });
+                            }
                         }
                         return;
                     } else if (paraDiv) {
@@ -175,9 +564,11 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                         const fnRefs2 = [];
                         const seenFnIds2 = new Set();
 
-                        // div.para 본문 텍스트 추출 (tooltip 제거 후)
+                        // div.para 본문 텍스트 추출 (tooltip + 각주 영역 제거 후)
+                        // .para-inner-number 전체를 제거하여 각주 설명이 평문으로 누출되지 않도록 함
                         const clonedPara = paraDiv.cloneNode(true);
                         clonedPara.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                        clonedPara.querySelectorAll('.para-inner-number').forEach(el => el.remove());
                         const paraText = clonedPara.textContent?.trim() || '';
                         if (paraText) textParts2.push(paraText);
 
@@ -194,9 +585,41 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             }
                         });
 
-                        // div.idt-1 항목 처리: 일반 항목은 textParts에, comment는 각주로
+                        // 교차참조 수집: std-finder → mundan-finder 연결
+                        const stdRefs2 = [];
+                        const paraRefs2 = [];
+                        let lastStdNum2 = null;
+                        li.querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
+                            if (el.classList.contains('std-finder')) {
+                                const displayText = el.textContent?.trim() || '';
+                                const container = el.closest('div') || el.parentElement;
+                                const tooltipEl = container?.querySelector('.tooltip-content');
+                                const tooltip = tooltipEl?.textContent?.trim() || '';
+                                const stdMatch = displayText.match(/제(\\d+)호/);
+                                lastStdNum2 = stdMatch ? stdMatch[1] : null;
+                                stdRefs2.push({ display_text: displayText, tooltip });
+                            } else if (el.classList.contains('mundan-finder')) {
+                                paraRefs2.push({ text: el.textContent?.trim() || '', associated_standard: lastStdNum2 });
+                            }
+                        });
+
+                        // QnA 참조 수집
+                        const qnaRefs2 = [];
+                        li.querySelectorAll('a[href^="/qnas/"]').forEach(a => {
+                            const href = a.getAttribute('href') || '';
+                            const qnaId = href.split('/qnas/')[1] || '';
+                            if (!qnaId) return;
+                            const titleEl = a.querySelector('h5') || a.querySelector('span');
+                            const title = (titleEl?.textContent?.trim() || a.textContent?.trim() || '')
+                                .replace(/^[-\\s]+/, '').trim();
+                            const dateEl = a.querySelector('time');
+                            const date = dateEl?.getAttribute('datetime') || dateEl?.textContent?.trim() || '';
+                            qnaRefs2.push({ qna_id: qnaId, title, url: href, date });
+                        });
+
+                        // div.idt-N 항목 처리: 일반 항목은 textParts에, comment는 각주로
                         const footnoteItems2 = [];
-                        li.querySelectorAll('div.idt-1').forEach(idt => {
+                        li.querySelectorAll('div[class^="idt-"]').forEach(idt => {
                             const isComment = idt.classList.contains('comment');
                             const children = Array.from(idt.children);
                             const label = children[0]?.textContent?.trim() || '';
@@ -216,6 +639,18 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             }
                         });
 
+                        // .para-inner-number-item.comment / .para-inner-number-hanguel-item.comment 처리
+                        // div.idt-1 구조가 아닌 para-inner-number 내부 comment 항목 (BC13A 등)
+                        li.querySelectorAll('.para-inner-number-item.comment, .para-inner-number-hanguel-item.comment').forEach(item => {
+                            const labelEl = item.querySelector('.para-number-para-num');
+                            const contentEl = item.querySelector('.para-num-item-para-con');
+                            const label = labelEl?.textContent?.trim() || '';
+                            const clonedContent = contentEl ? contentEl.cloneNode(true) : null;
+                            if (clonedContent) clonedContent.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                            const content = clonedContent?.textContent?.trim() || '';
+                            if (label || content) footnoteItems2.push({ label, content });
+                        });
+
                         // 각주 내용을 맨 끝에 추가
                         if (footnoteItems2.length > 0) {
                             textParts2.push(
@@ -230,10 +665,80 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             number: paraNum,
                             html: li.innerHTML,
                             text: finalText2,
+                            std_refs: stdRefs2,
+                            para_refs: paraRefs2,
+                            qna_refs: qnaRefs2,
+                            footnote_refs: fnRefs2,
+                        });
+                        return;
+                    } else if (li.querySelector('.sc-erNlkL')) {
+                        // 케이스 3: .sc-erNlkL 구조 — .para-inner-para 없이 직접 텍스트만 있는 문단
+                        // (예: 한139.4 경과규정 단문, 139D 삭제 마커 등)
+                        // 각주 comment 항목을 먼저 원본 li에서 수집 (139R, 139V 등)
+                        const commentItems3 = li.querySelectorAll('.para-inner-number-item.comment, .para-inner-number-hanguel-item.comment');
+                        const footnoteItems3 = [];
+                        commentItems3.forEach(item => {
+                            const labelEl = item.querySelector('.para-number-para-num');
+                            const contentEl = item.querySelector('.para-num-item-para-con');
+                            const label = labelEl?.textContent?.trim() || '';
+                            const clonedContent = contentEl ? contentEl.cloneNode(true) : null;
+                            if (clonedContent) clonedContent.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                            const content = clonedContent?.textContent?.trim() || '';
+                            if (label || content) footnoteItems3.push({ label, content });
+                        });
+
+                        // 각주 참조 (sup) 수집: <sup>(한4)</sup>, <sup>(주N)</sup> 형태
+                        const fnRefs3 = [];
+                        const seenFnIds3 = new Set();
+                        li.querySelectorAll('sup').forEach(sup => {
+                            const supText = sup.textContent?.trim() || '';
+                            const fnMatch = supText.match(/^\\((한|주)\\d+\\)$/);
+                            if (fnMatch) {
+                                const id = supText.replace(/[()]/g, '');
+                                if (!seenFnIds3.has(id)) {
+                                    seenFnIds3.add(id);
+                                    fnRefs3.push({ id, display_text: supText });
+                                }
+                            }
+                        });
+
+                        const erEl = li.querySelector('.sc-erNlkL');
+                        const cloned3 = erEl.cloneNode(true);
+                        // tooltip + 각주 comment 항목 제거 → 순수 본문 텍스트만 추출
+                        cloned3.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                        cloned3.querySelectorAll('.para-inner-number-item.comment, .para-inner-number-hanguel-item.comment').forEach(el => el.remove());
+                        const text3 = cloned3.textContent?.trim() || '';
+                        if (!text3 && footnoteItems3.length === 0) return;
+
+                        // 각주 내용을 [각주 (한4)] 형식으로 맨 끝에 추가
+                        let finalText3 = text3;
+                        if (footnoteItems3.length > 0) {
+                            finalText3 += (text3 ? '\\n\\n' : '') + footnoteItems3.map(item => '[각주 ' + item.label + '] ' + item.content).join('\\n\\n');
+                        }
+                        if (!finalText3) return;
+
+                        // QnA 참조 수집
+                        const qnaRefs3 = [];
+                        li.querySelectorAll('a[href^="/qnas/"]').forEach(a => {
+                            const href = a.getAttribute('href') || '';
+                            const qnaId = href.split('/qnas/')[1] || '';
+                            if (!qnaId) return;
+                            const titleEl = a.querySelector('h5') || a.querySelector('span');
+                            const title = (titleEl?.textContent?.trim() || a.textContent?.trim() || '')
+                                .replace(/^[-\\s]+/, '').trim();
+                            const dateEl = a.querySelector('time');
+                            const date = dateEl?.getAttribute('datetime') || dateEl?.textContent?.trim() || '';
+                            qnaRefs3.push({ qna_id: qnaId, title, url: href, date });
+                        });
+
+                        results.push({
+                            number: paraNum,
+                            html: erEl.innerHTML,
+                            text: finalText3,
                             std_refs: [],
                             para_refs: [],
-                            qna_refs: [],
-                            footnote_refs: fnRefs2,
+                            qna_refs: qnaRefs3,
+                            footnote_refs: fnRefs3,
                         });
                         return;
                     } else {
@@ -251,14 +756,29 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                 const footnoteRefs = [];
                 const seenFnIds = new Set();
                 const numberItems = [];  // 각주(comment) 구분용
+                let sharedLastStdNum = null;  // pip↔number-item 간 std-finder 컨텍스트 공유
 
                 const pipParent = allInnerParas[0]?.parentElement;
 
                 // pip 하나를 처리: textParts/allHtmls/stdRefs/paraRefs/footnoteRefs 갱신
                 const processPip = (pip) => {
+                    // pip 내부에 .para-inner-number-item.comment가 있는 경우 (BC1 패턴):
+                    // pip 전체 textContent에 각주 설명이 포함되지 않도록 먼저 추출 후 제거
+                    pip.querySelectorAll('.para-inner-number-item.comment, .para-inner-number-hanguel-item.comment').forEach(item => {
+                        const labelEl = item.querySelector('.para-number-para-num');
+                        const contentEl = item.querySelector('.para-num-item-para-con');
+                        const label = labelEl?.textContent?.trim() || '';
+                        const clonedContent = contentEl ? contentEl.cloneNode(true) : null;
+                        if (clonedContent) clonedContent.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                        const content = clonedContent?.textContent?.trim() || '';
+                        if (label || content) numberItems.push({ label, content, isComment: true, outerHTML: item.outerHTML });
+                    });
+
                     allHtmls.push(pip.innerHTML);
                     const cloned = pip.cloneNode(true);
                     cloned.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                    // pip 내부 comment 항목 제거 (이미 numberItems에 추가됨)
+                    cloned.querySelectorAll('.para-inner-number-item.comment, .para-inner-number-hanguel-item.comment').forEach(el => el.remove());
                     // Excel HTML 삽입 문단에서 CSS 규칙이 textContent에 포함되지 않도록 제거
                     cloned.querySelectorAll('style, head, meta, link, script').forEach(el => el.remove());
                     cloned.querySelectorAll('table').forEach(table => {
@@ -271,7 +791,7 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                     if (t) textParts.push({ type: 'pip', text: t });
 
                     // 기준서/문단 교차참조 수집: DOM 순서대로 순회하여 std-finder → mundan-finder 연결
-                    let lastStdNum = null;
+                    let lastStdNum = sharedLastStdNum;
                     pip.querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
                         if (el.classList.contains('std-finder')) {
                             const displayText = el.textContent?.trim() || '';
@@ -285,6 +805,7 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             paraRefs.push({ text: el.textContent?.trim() || '', associated_standard: lastStdNum });
                         }
                     });
+                    sharedLastStdNum = lastStdNum;
 
                     // 각주 참조 수집: <sup>(한N)</sup>, <sup>(주N)</sup> 형태
                     pip.querySelectorAll('sup').forEach(sup => {
@@ -322,7 +843,7 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                     }
 
                     // number-item 내 교차참조 수집
-                    let itemLastStdNum = null;
+                    let itemLastStdNum = sharedLastStdNum;
                     item.querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
                         if (el.classList.contains('std-finder')) {
                             const displayText = el.textContent?.trim() || '';
@@ -336,6 +857,7 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             paraRefs.push({ text: el.textContent?.trim() || '', associated_standard: itemLastStdNum });
                         }
                     });
+                    sharedLastStdNum = itemLastStdNum;
 
                     // number-item 내 각주 참조 수집
                     item.querySelectorAll('sup').forEach(sup => {
@@ -351,14 +873,85 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                     });
                 };
 
+                // idt-N 항목 하나를 처리: textParts/stdRefs/paraRefs 갱신
+                // idt 구조: <div class="idt-N"><div>레이블</div><div>내용(std-finder 포함 가능)</div></div>
+                // .comment 클래스가 있으면 각주로 처리 (139R의 .idt-1.comment 패턴)
+                const processIdtItem = (idt) => {
+                    const labelEl = idt.children[0];
+                    const contentEl = idt.children[1];
+                    const label = labelEl?.textContent?.trim() || '';
+                    // tooltip 제거 후 텍스트 추출
+                    const clonedContent = contentEl ? contentEl.cloneNode(true) : null;
+                    if (clonedContent) {
+                        clonedContent.querySelectorAll('.tooltip-content').forEach(el => el.remove());
+                    }
+                    const content = clonedContent?.textContent?.trim() || '';
+                    const isIdtComment = idt.classList.contains('comment');
+                    if (isIdtComment) {
+                        // 각주: numberItems에 추가 (textParts에는 추가 안 함, 맨 끝에 [각주 ...] 형식으로 출력)
+                        if (label || content) numberItems.push({ label, content, isComment: true, outerHTML: idt.outerHTML });
+                    } else if (label || content) {
+                        textParts.push({ type: 'num', text: (label ? label + ' ' : '') + content });
+                    }
+                    // idt 내 교차참조 수집
+                    let idtLastStdNum = sharedLastStdNum;
+                    (contentEl || idt).querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
+                        if (el.classList.contains('std-finder')) {
+                            const displayText = el.textContent?.trim() || '';
+                            const container = el.closest('div') || el.parentElement;
+                            const tooltipEl = container?.querySelector('.tooltip-content');
+                            const tooltip = tooltipEl?.textContent?.trim() || '';
+                            const stdMatch = displayText.match(/제(\\d+)호/);
+                            idtLastStdNum = stdMatch ? stdMatch[1] : null;
+                            stdRefs.push({ display_text: displayText, tooltip });
+                        } else if (el.classList.contains('mundan-finder')) {
+                            paraRefs.push({ text: el.textContent?.trim() || '', associated_standard: idtLastStdNum });
+                        }
+                    });
+                    sharedLastStdNum = idtLastStdNum;
+                };
+
+                // .para-inner-number 블록의 children을 순회 (중첩 재귀 지원)
+                // BC13H처럼 외부 number 블록 내부에 중첩된 number 블록이 있는 경우를 처리
+                const processNumberBlock = (numberBlock) => {
+                    for (const item of numberBlock.children) {
+                        if (item.classList.contains('para-inner-number-item') ||
+                            item.classList.contains('para-inner-number-hanguel-item')) {
+                            processNumberItem(item);
+                        } else if (/^idt-\\d/.test(item.className)) {
+                            processIdtItem(item);
+                        } else if (item.classList.contains('para-inner-number')) {
+                            processNumberBlock(item); // 중첩 재귀
+                        }
+                    }
+                };
+
                 // parent의 직접 children을 DOM 순서대로 처리 (<b> 등 래퍼 요소 재귀 포함)
                 const processChildren = (parent) => {
                     for (const child of parent.children) {
                         if (child.classList.contains('para-inner-para')) {
                             processPip(child);
                         } else if (child.classList.contains('para-inner-number')) {
-                            // number 블록: 하위 number-item들을 DOM 순서대로 처리
-                            child.querySelectorAll('.para-inner-number-item').forEach(processNumberItem);
+                            processNumberBlock(child);
+                        } else if (/^idt-\\d/.test(child.className)) {
+                            // idt-1, idt-2 등 들여쓰기 하위 항목 (㈎/㈏, (1-1) 등)
+                            processIdtItem(child);
+                        } else if (child.classList.contains('para-inner-number-item') ||
+                                   child.classList.contains('para-inner-number-hanguel-item')) {
+                            // para-inner-number 래퍼 없이 para-inner-para와 형제로 위치한 경우
+                            // (예: 문단 102/103 — (한2)/(한3) 각주 내용)
+                            processNumberItem(child);
+                        } else if (child.classList.contains('temp')) {
+                            // div.sc-drlKqa.temp: 외부 .htm 삽입 테이블 (IG10/IG11 등)
+                            // .para-inner-para와 형제로 위치하며, 별도 선택자 조건이 없어 기존 코드에서 무시됨
+                            const tbl = child.querySelector('table');
+                            if (tbl) {
+                                const md = smartTableToContent(tbl);
+                                if (md) {
+                                    allHtmls.push(child.innerHTML);
+                                    textParts.push({ type: 'pip', text: md });
+                                }
+                            }
                         } else if (child.querySelector('.para-inner-para, .para-inner-number')) {
                             // <b> 등 래퍼 요소: 내부에 pip/number가 있으면 재귀 처리
                             processChildren(child);
@@ -369,14 +962,13 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                 if (pipParent) processChildren(pipParent);
 
                 // text 조립: DOM 순서 텍스트 + 각주 내용은 맨 끝에
-                // pip↔pip 사이는 '\\n\\n', number-item 관련 전환은 '\\n'
+                // 블록 경계: '\\u2029' (Unicode Paragraph Separator) 사용 — Python에서 분할 후 개별 clean_text 적용
                 let finalText = '';
                 for (let i = 0; i < textParts.length; i++) {
                     if (i === 0) {
                         finalText = textParts[i].text;
                     } else {
-                        const sep = (textParts[i].type === 'num' || textParts[i-1].type === 'num') ? '\\n' : '\\n\\n';
-                        finalText += sep + textParts[i].text;
+                        finalText += '\\u2029' + textParts[i].text;
                     }
                 }
 
@@ -608,7 +1200,49 @@ def _build_cross_references(raw: dict) -> list[CrossReference]:
             paragraph_ids=ids,
         ))
 
-    return refs
+    # 1차 dedup: type="standard"는 standard_number 기준, type="paragraph"는 (standard_number, range) 기준
+    deduped: list[CrossReference] = []
+    seen_std: set[str | None] = set()
+    seen_para: set[tuple[str | None, str | None]] = set()
+
+    for ref in refs:
+        if ref.type == "standard":
+            if ref.standard_number in seen_std:
+                continue
+            seen_std.add(ref.standard_number)
+        elif ref.type == "paragraph":
+            key = (ref.standard_number, ref.range)
+            if key in seen_para:
+                continue
+            seen_para.add(key)
+        deduped.append(ref)
+
+    # 2차 dedup: paragraph_ids가 이미 커버된 집합의 부분집합인 경우 제거
+    # 예: ["7","93"] 가 먼저 커버되면 ["7"], ["93"] 는 제거됨
+    # (동일 span이 분할 표현으로 DOM에 여러 번 등장하는 경우 처리)
+    covered: dict[str | None, set[str]] = {}  # standard_number → 커버된 paragraph_ids 집합
+    para_refs_final: list[CrossReference] = []
+    para_deduped = [r for r in deduped if r.type == "paragraph"]
+    # paragraph_ids 개수 내림차순 정렬 (포괄적인 ref 먼저 처리)
+    para_deduped_sorted = sorted(para_deduped, key=lambda r: -len(r.paragraph_ids))
+
+    for ref in para_deduped_sorted:
+        std = ref.standard_number
+        if std not in covered:
+            covered[std] = set()
+        new_ids = set(ref.paragraph_ids)
+        if new_ids and new_ids.issubset(covered[std]):
+            continue  # 이미 커버된 부분집합 → 스킵
+        covered[std].update(new_ids)
+        para_refs_final.append(ref)
+
+    # 원래 DOM 순서 복원
+    order = {id(r): i for i, r in enumerate(deduped)}
+    para_refs_final.sort(key=lambda r: order[id(r)])
+
+    # 최종 목록: standard refs + 2차 dedup된 paragraph refs
+    std_refs = [r for r in deduped if r.type == "standard"]
+    return std_refs + para_refs_final
 
 
 def _build_qna_references(raw: dict) -> list[QnAReference]:
@@ -720,8 +1354,10 @@ async def parse_section(
         number = raw.get("number", "")
         if not number:
             continue
+        number = _normalize_paranum(number)
 
-        text = clean_text(raw.get("text", ""))
+        raw_text = raw.get("text", "")
+        text = _process_raw_text(raw_text)
         html = raw.get("html", "")
         cross_refs = _build_cross_references(raw)
         qna_refs = _build_qna_references(raw)
@@ -772,8 +1408,10 @@ async def parse_section_from_current_page(
         number = raw.get("number", "")
         if not number:
             continue
+        number = _normalize_paranum(number)
 
-        text = clean_text(raw.get("text", ""))
+        raw_text = raw.get("text", "")
+        text = _process_raw_text(raw_text)
         html = raw.get("html", "")
         cross_refs = _build_cross_references(raw)
         qna_refs = _build_qna_references(raw)
