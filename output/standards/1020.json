@@ -1,0 +1,1220 @@
+{
+  "standard_id": "1020",
+  "standard_type": "기업회계기준서",
+  "title": "정부보조금의 회계처리와 정부지원의 공시",
+  "url": "https://db.kasb.or.kr/s/1020",
+  "crawled_at": "2026-03-24T04:46:19.184139+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/1020/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/1020/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "L9EBcR",
+          "href": "/s/1020/L9EBcR",
+          "paragraph_range": "한1.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "3srOeL",
+          "href": "/s/1020/3srOeL",
+          "paragraph_range": "1 ~ 2",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "용어의 정의",
+          "section_id": "tB6gYE",
+          "href": "/s/1020/tB6gYE",
+          "paragraph_range": "3 ~ 6",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "정부보조금",
+          "section_id": "Y2CbrH",
+          "href": "/s/1020/Y2CbrH",
+          "paragraph_range": "7 ~ 33",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "비화폐성 정부보조금",
+              "section_id": "uJuGZU",
+              "href": "/s/1020/uJuGZU",
+              "paragraph_range": "23",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "자산관련보조금의 표시",
+              "section_id": "s5c97Z",
+              "href": "/s/1020/s5c97Z",
+              "paragraph_range": "24 ~ 28",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "수익관련보조금의 표시",
+              "section_id": "sU05c4",
+              "href": "/s/1020/sU05c4",
+              "paragraph_range": "29 ~ 31",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "정부보조금의 상환",
+              "section_id": "Mskd3f",
+              "href": "/s/1020/Mskd3f",
+              "paragraph_range": "32 ~ 33",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2.0,
+          "title": "정부지원",
+          "section_id": "rzS6w5",
+          "href": "/s/1020/rzS6w5",
+          "paragraph_range": "34 ~ 38",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "공시",
+          "section_id": "ODwaAJ",
+          "href": "/s/1020/ODwaAJ",
+          "paragraph_range": "39",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "경과규정",
+          "section_id": "AXfrAL",
+          "href": "/s/1020/AXfrAL",
+          "paragraph_range": "40",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "bU2zdD",
+          "href": "/s/1020/bU2zdD",
+          "paragraph_range": "41 ~ 48",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준서 제1020호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "T1e7RG",
+          "href": "/s/1020/T1e7RG",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/1020/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IAS 20 ‘정부보조금의 회계처리와 정부지원의 공시(Accounting for Government Grants and Disclosure of Government Assistance)’의 결론도출근거",
+          "section_id": "DM0EU4",
+          "href": "/s/1020/DM0EU4",
+          "paragraph_range": "BC1 ~ BC5",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "시장이자율보다 낮은 이자율의 정부대여금에 대한 회계처리",
+              "section_id": "hN5mXO",
+              "href": "/s/1020/hN5mXO",
+              "paragraph_range": "BC3 ~ BC5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/1020/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 기준서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/1020/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/1020/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "한1.1",
+      "section_id": "L9EBcR",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 기준서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "<b>이 기준서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.</b>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "3srOeL",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 정부보조금의 회계처리와 공시 및 그 밖의 형태의 정부지원에 대한 공시에 적용한다.",
+      "html": "<b>이 기준서는 정부보조금의 회계처리와 공시 및 그 밖의 형태의 정부지원에 대한 공시에 적용한다.</b>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "3srOeL",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 다음과 같은 사항은 다루지 아니한다.\n(1) 가격의 변동 효과를 반영하는 재무제표나 유사한 성격의 보충정보에서 정부보조금을 회계처리할 때 발생하는 특수한 문제\n(2) 과세소득 또는 세무상결손금을 결정할 때 이용할 수 있는 효익이나 법인세부채에 기초하여 결정되거나 제한되는 효익의 형식으로 제공되는 정부지원. 이러한 효익의 예에는 법인세 감면, 투자세액공제, 가속상각 및 법인세율 인하가 있다.\n(3) 기업의 지분에 대한 정부의 참여\n(4) 기업회계기준서 제1041호 ‘농림어업’이 적용되는 정부보조금",
+      "html": "이 기준서는 다음과 같은 사항은 다루지 아니한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 가격의 변동 효과를 반영하는 재무제표나 유사한 성격의 보충정보에서 정부보조금을 회계처리할 때 발생하는 특수한 문제</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 과세소득 또는 세무상결손금을 결정할 때 이용할 수 있는 효익이나 법인세부채에 기초하여 결정되거나 제한되는 효익의 형식으로 제공되는 정부지원. 이러한 효익의 예에는 법인세 감면, 투자세액공제, 가속상각 및 법인세율 인하가 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 기업의 지분에 대한 정부의 참여</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">기업회계기준서 제1041호</span></div> ‘농림어업’이 적용되는 정부보조금\n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1041호",
+          "standard_number": "1041",
+          "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "tB6gYE",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "이 기준서에서 사용되는 용어의 정의는 다음과 같다. ⑴ ‘과세대상수익’을 ’과세소득 또는 세무상결손금‘으로 개정 ⑵ ‘수익/비용으로 인식된’을 ‘당기손익으로 인식된’으로 개정 ⑶ ‘주주지분에 직접 인식된’을 ‘당기손익 이외의 항목으로 인식된’으로 개정 ⑷ ‘회계추정의 변경(revision to an accounting estimate)’을 ‘회계추정치의 변경(change in accounting estimate)’으로 개정\n[각주 (주1)] 2008년 5월에 발표된 IFRS 연차개선(Improvements to IFRSs)의 일부로서 다른 한국채택국제회계기준과 일관되도록 이 기준서에 사용되는 용어를 다음과 같이 개정하였다. ⑴ ‘과세대상수익’을 ’과세소득 또는 세무상결손금‘으로 개정⑵‘수익/비용으로 인식된’을 ‘당기손익으로 인식된’으로 개정⑶‘주주지분에 직접 인식된’을 ‘당기손익 이외의 항목으로 인식된’으로 개정⑷‘회계추정의 변경(revision to an accounting estimate)’을 ‘회계추정치의 변경(change in accounting estimate)’으로 개정\n[각주 (주2)] 기업회계기준해석서 제2010호 ‘정부지원: 영업활동과 특정한 관련이 없는 경우’ 참조",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"3\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">3</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>이 기준서에서 사용되는 용어의 정의는 다음과 같다.</b></div><br><div class=\"idt-1 comment\"><div>(주1)</div><div>2008년 5월에 발표된             \n    <i>IFRS 연차개선(Improvements to IFRSs)</i>의 일부로서 다른 한국채택국제회계기준과 일관되도록 이 기준서에 사용되는 용어를 다음과 같이 개정하였다.                \n    <div class=\"idt-1\"><div>⑴</div><div> ‘과세대상수익’을 ’과세소득 또는 세무상결손금‘으로 개정</div></div><div class=\"idt-1\"><div>⑵</div><div>‘수익/비용으로 인식된’을 ‘당기손익으로 인식된’으로 개정</div></div><div class=\"idt-1\"><div>⑶</div><div>‘주주지분에 직접 인식된’을 ‘당기손익 이외의 항목으로 인식된’으로 개정</div></div><div class=\"idt-1\"><div>⑷</div><div>‘회계추정의 변경(revision to an accounting estimate)’을 ‘회계추정치의 변경(change in accounting estimate)’으로 개정</div></div></div></div><br><b><div class=\"para\"><i>정부</i>: 지방자치단체, 중앙정부 또는 국제기구인 정부, 정부기관 및 이와 유사한 단체  \n  </div><br><div class=\"para\"><i>정부지원</i>: 일정한 기준을 충족하는 기업에게 경제적효익을 제공하기 위한 정부의 행위. 개발지역에 기반시설을 제공하거나 경쟁자에게 거래상 제약을 부과하는 등 일반적인 거래조건에 영향을 주는 행위를 통해 간접적으로만 제공하는 효익은 이 기준서가 적용되는 정부지원이 아니다.                \n    <sup data-id=\"(주2)\">(주2)</sup></div></b><div class=\"idt-1 comment\"><div>(주2)</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부지원: 영업활동과 특정한 관련이 없는 경우</span><span class=\"std-finder\">기업회계기준해석서 제2010호</span></div> ‘정부지원: 영업활동과 특정한 관련이 없는 경우’ 참조              \n  </div></div><br><b><div class=\"para\"><i>정부보조금</i>: 기업의 영업활동과 관련하여 과거나 미래에 일정한 조건을 충족하였거나 충족할 경우 기업에게 자원을 이전하는 형식의 정부지원. 합리적으로 가치를 산정할 수 없는 정부지원과 기업의 정상적인 거래와 구분할 수 없는 정부와의 거래는 제외한다.  \n  </div><br><div class=\"para\"><i>자산관련보조금</i>: 정부지원의 요건을 충족하는 기업이 장기성 자산을 매입, 건설하거나 다른 방법으로 취득하여야 하는 일차적 조건이 있는 정부보조금. 부수조건으로 해당 자산의 유형이나 위치 또는 자산의 취득기간이나 보유기간을 제한할 수 있다.  \n  </div><br><div class=\"para\"><i>수익관련보조금</i>: 자산관련보조금 이외의 정부보조금  \n  </div><br><div class=\"para\"><i>상환면제가능대출</i>: 대여자가 규정된 일정한 조건에 따라 상환받는 것을 포기하는 경우의 대출  \n  </div><br></b><div class=\"para\"><b><i>공정가치</i>: 측정일에 시장참여자 사이의 정상거래에서 자산을 매도할 때 받거나 부채를 이전할 때 지급하게 될 가격\n  </b>(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div>‘공정가치 측정’ 참조)  \n</div></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 4개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"정부보조금의 회계처리와 정부지원의 공시\n– 상환해야 하는 현금 수취액\" target=\"_blank\" href=\"/qnas/201605A\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 정부보조금의 회계처리와 정부지원의 공시\n– 상환해야 하는 현금 수취액</h5><time class=\"sc-gacfCG bRMfLY\">2016-05-31</time></article></a></li><li><a title=\"정부보조금의 표시\" target=\"_blank\" href=\"/qnas/SSI-35587\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 정부보조금의 표시</h5><time class=\"sc-gacfCG bRMfLY\">2019-04-10</time></article></a></li><li><a title=\"회사가 직접 수취하지 않는 자산관련보조금의 회계처리\" target=\"_blank\" href=\"/qnas/SSI-38548\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 회사가 직접 수취하지 않는 자산관련보조금의 회계처리</h5><time class=\"sc-gacfCG bRMfLY\">2018-01-04</time></article></a></li><li><a title=\"정부지원금(이자지원) 회계처리\" target=\"_blank\" href=\"/qnas/2022-I-KQA011\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 정부지원금(이자지원) 회계처리</h5><time class=\"sc-gacfCG bRMfLY\">2022-11-18</time></article></a></li></ul></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준해석서 제2010호",
+          "standard_number": "2010",
+          "standard_title": "정부지원: 영업활동과 특정한 관련이 없는 경우",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "201605A",
+          "title": "정부보조금의 회계처리와 정부지원의 공시\n– 상환해야 하는 현금 수취액",
+          "url": "/qnas/201605A",
+          "date": "2016-05-31"
+        },
+        {
+          "qna_id": "SSI-35587",
+          "title": "정부보조금의 표시",
+          "url": "/qnas/SSI-35587",
+          "date": "2019-04-10"
+        },
+        {
+          "qna_id": "SSI-38548",
+          "title": "회사가 직접 수취하지 않는 자산관련보조금의 회계처리",
+          "url": "/qnas/SSI-38548",
+          "date": "2018-01-04"
+        },
+        {
+          "qna_id": "2022-I-KQA011",
+          "title": "정부지원금(이자지원) 회계처리",
+          "url": "/qnas/2022-I-KQA011",
+          "date": "2022-11-18"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "tB6gYE",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "정부지원은 제공되는 지원의 성격과 일반적으로 부수되는 조건에 따라 매우 다양한 형식을 취한다. 지원의 목적은 지원이 제공되지 않을 경우 정상적으로 수행되지 않는 활동에 기업의 진출을 장려하는 것일 수 있다.",
+      "html": "정부지원은 제공되는 지원의 성격과 일반적으로 부수되는 조건에 따라 매우 다양한 형식을 취한다. 지원의 목적은 지원이 제공되지 않을 경우 정상적으로 수행되지 않는 활동에 기업의 진출을 장려하는 것일 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "tB6gYE",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "기업이 정부지원을 받는 것은 두 가지 이유에서 재무제표의 작성에 유의적일 수 있다. 첫째, 자원이 이전되는 경우 해당 이전에 대한 적절한 회계처리방법이 있어야 한다. 둘째, 보고기간 중 이러한 지원에서 얻은 효익의 정도를 나타내는 것이 바람직하다. 이에 따라 기업의 재무제표를 과거기간 및 다른 기업의 재무제표와 비교할 수 있게 된다.",
+      "html": "기업이 정부지원을 받는 것은 두 가지 이유에서 재무제표의 작성에 유의적일 수 있다. 첫째, 자원이 이전되는 경우 해당 이전에 대한 적절한 회계처리방법이 있어야 한다. 둘째, 보고기간 중 이러한 지원에서 얻은 효익의 정도를 나타내는 것이 바람직하다. 이에 따라 기업의 재무제표를 과거기간 및 다른 기업의 재무제표와 비교할 수 있게 된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "tB6gYE",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "정부보조금은 보상금, 조성금 또는 장려금 등의 명칭으로도 불린다.",
+      "html": "정부보조금은 보상금, 조성금 또는 장려금 등의 명칭으로도 불린다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "정부보조금(공정가치로 측정되는 비화폐성 보조금 포함)은 다음 모두에 대한 합리적인 확신이 있을 때까지 인식하지 아니한다.\n(1) 정부보조금에 부수되는 조건의 준수\n(2) 보조금의 수취",
+      "html": "정부보조금(공정가치로 측정되는 비화폐성 보조금 포함)은 다음 모두에 대한 합리적인 확신이 있을 때까지 인식하지 아니한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 정부보조금에 부수되는 조건의 준수</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 보조금의 수취</div></div>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-38463",
+          "title": "신재생에너지 공급인증서(REC)의 회계처리",
+          "url": "/qnas/SSI-38463",
+          "date": "2018-02-07"
+        },
+        {
+          "qna_id": "2022-I-KQA011",
+          "title": "정부지원금(이자지원) 회계처리",
+          "url": "/qnas/2022-I-KQA011",
+          "date": "2022-11-18"
+        },
+        {
+          "qna_id": "SSI-202312046",
+          "title": "후속적으로 충족한 정부보조금 인식요건",
+          "url": "/qnas/SSI-202312046",
+          "date": "2022-01-06"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "정부보조금에 부수되는 조건의 준수와 보조금 수취에 대한 합리적인 확신이 있을 경우에만 정부보조금을 인식한다. 보조금의 수취 자체가 보조금에 부수되는 조건이 이행되었거나 이행될 것이라는 결정적인 증거를 제공하지는 않는다.",
+      "html": "정부보조금에 부수되는 조건의 준수와 보조금 수취에 대한 합리적인 확신이 있을 경우에만 정부보조금을 인식한다. 보조금의 수취 자체가 보조금에 부수되는 조건이 이행되었거나 이행될 것이라는 결정적인 증거를 제공하지는 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "보조금을 수취하는 방법은 보조금에 적용되는 회계처리방법에 영향을 미치지 않는다. 따라서 보조금을 현금으로 수취하는지 또는 정부에 대한 부채를 감소시키는지에 관계없이 동일한 방법으로 회계처리한다.",
+      "html": "보조금을 수취하는 방법은 보조금에 적용되는 회계처리방법에 영향을 미치지 않는다. 따라서 보조금을 현금으로 수취하는지 또는 정부에 대한 부채를 감소시키는지에 관계없이 동일한 방법으로 회계처리한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "정부의 상환면제가능대출은 당해 기업이 대출의 상환면제조건을 충족할 것이라는 합리적인 확신이 있을 때 정부보조금으로 처리한다.",
+      "html": "정부의 상환면제가능대출은 당해 기업이 대출의 상환면제조건을 충족할 것이라는 합리적인 확신이 있을 때 정부보조금으로 처리한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "201605A",
+          "title": "정부보조금의 회계처리와 정부지원의 공시\n– 상환해야 하는 현금 수취액",
+          "url": "/qnas/201605A",
+          "date": "2016-05-31"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "10A",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "시장이자율보다 낮은 이자율의 정부대여금의 효익은 정부보조금으로 처리한다. 그 대여금은 기업회계기준서 제1109호 ‘금융상품’에 따라 인식하고 측정한다. 시장이자율보다 낮은 이자율의 효익은 기업회계기준서 제1109호에 따라 산정되는 정부대여금의 최초 장부금액과 수취한 대가의 차이로 측정한다. 그 효익은 이 기준서에 따라 회계처리한다. 기업은 정부 대여금의 효익으로 보전하고자 하는 원가를 식별할 때 충족되었거나 충족되어야 하는 조건과 의무를 고려한다.",
+      "html": "시장이자율보다 낮은 이자율의 정부대여금의 효익은 정부보조금으로 처리한다. 그 대여금은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호 </span></div>‘금융상품’에 따라 인식하고 측정한다. 시장이자율보다 낮은 이자율의 효익은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 따라 산정되는 정부대여금의 최초 장부금액과 수취한 대가의 차이로 측정한다. 그 효익은 이 기준서에 따라 회계처리한다. 기업은 정부 대여금의 효익으로 보전하고자 하는 원가를 식별할 때 충족되었거나 충족되어야 하는 조건과 의무를 고려한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "정부보조금을 인식하는 경우 관련된 우발부채나 우발자산은 기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’에 따라 처리한다.",
+      "html": "정부보조금을 인식하는 경우 관련된 우발부채나 우발자산은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준서 제1037호</span></div> ‘충당부채, 우발부채, 우발자산’에 따라 처리한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1037호",
+          "standard_number": "1037",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "정부보조금으로 보전하려 하는 관련원가를 비용으로 인식하는 기간에 걸쳐 체계적인 기준에 따라 정부보조금을 당기손익으로 인식한다.",
+      "html": "<b>정부보조금으로 보전하려 하는 관련원가를 비용으로 인식하는 기간에 걸쳐 체계적인 기준에 따라 정부보조금을 당기손익으로 인식한다.</b>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2019-I-KQA012",
+          "title": "토지 재평가손실 인식 시 정부보조금의 손익인식",
+          "url": "/qnas/2019-I-KQA012",
+          "date": "2019-04-09"
+        },
+        {
+          "qna_id": "SSI-35587",
+          "title": "정부보조금의 표시",
+          "url": "/qnas/SSI-35587",
+          "date": "2019-04-10"
+        },
+        {
+          "qna_id": "SSI-38463",
+          "title": "신재생에너지 공급인증서(REC)의 회계처리",
+          "url": "/qnas/SSI-38463",
+          "date": "2018-02-07"
+        },
+        {
+          "qna_id": "2022-I-KQA011",
+          "title": "정부지원금(이자지원) 회계처리",
+          "url": "/qnas/2022-I-KQA011",
+          "date": "2022-11-18"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "정부보조금의 회계처리는 다음과 같은 두 가지 접근방법이 있다.\n(1) 자본접근법: 보조금을 당기손익 이외의 항목으로 인식한다.\n(2) 수익접근법: 보조금을 하나 이상의 회계기간에 걸쳐 당기손익으로 인식한다.",
+      "html": "정부보조금의 회계처리는 다음과 같은 두 가지 접근방법이 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 자본접근법: 보조금을 당기손익 이외의 항목으로 인식한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 수익접근법: 보조금을 하나 이상의 회계기간에 걸쳐 당기손익으로 인식한다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "자본접근법을 지지하는 논거는 다음과 같다.\n(1) 정부보조금은 하나의 금융수단이므로 관련된 비용항목과 상계하기 위해 당기손익으로 인식하지 않고 재무상태표에 자금조달로 처리하여야 한다. 상환이 예상되지 않기 때문에 그러한 정부보조금은 당기손익 이외의 항목으로 인식한다.\n(2) 정부보조금은 수익을 창출한 것이 아니라 관련원가 없이 정부에게서 받은 장려금이기 때문에 정부보조금을 당기손익으로 인식하는 것은 적절하지 않다.",
+      "html": "자본접근법을 지지하는 논거는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 정부보조금은 하나의 금융수단이므로 관련된 비용항목과 상계하기 위해 당기손익으로 인식하지 않고 재무상태표에 자금조달로 처리하여야 한다. 상환이 예상되지 않기 때문에 그러한 정부보조금은 당기손익 이외의 항목으로 인식한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 정부보조금은 수익을 창출한 것이 아니라 관련원가 없이 정부에게서 받은 장려금이기 때문에 정부보조금을 당기손익으로 인식하는 것은 적절하지 않다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "수익접근법을 지지하는 논거는 다음과 같다.\n(1) 정부보조금은 주주 이외의 원천으로부터 수취하기 때문에 자본으로 직접 인식할 수 없으며 적절한 기간에 당기손익으로 인식한다.\n(2) 정부보조금은 무상으로 지급되는 경우가 거의 없다. 정부보조금은 조건을 준수하고 부여된 의무를 충족함으로 얻는다. 따라서 정부보조금으로 보전하려고 하는 관련원가를 비용으로 인식하는 기간에 걸쳐 당기손익으로 인식하여야 한다.\n(3) 법인세와 그 밖의 세금은 비용이기 때문에 재정정책의 일환인 정부보조금도 당기손익에 표시하는 것이 논리적이다.",
+      "html": "수익접근법을 지지하는 논거는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 정부보조금은 주주 이외의 원천으로부터 수취하기 때문에 자본으로 직접 인식할 수 없으며 적절한 기간에 당기손익으로 인식한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 정부보조금은 무상으로 지급되는 경우가 거의 없다. 정부보조금은 조건을 준수하고 부여된 의무를 충족함으로 얻는다. 따라서 정부보조금으로 보전하려고 하는 관련원가를 비용으로 인식하는 기간에 걸쳐 당기손익으로 인식하여야 한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 법인세와 그 밖의 세금은 비용이기 때문에 재정정책의 일환인 정부보조금도 당기손익에 표시하는 것이 논리적이다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "수익접근법에서는 정부보조금으로 보전하려 하는 관련원가를 비용으로 인식하는 기간에 걸쳐 체계적인 기준에 따라 정부보조금을 당기손익으로 인식해야 하는 것이 중요하다. 수취기준에 따라 정부보조금을 당기손익으로 인식하는 것은 발생기준회계의 가정(기업회계기준서 제1001호 ‘재무제표 표시’ 참조)에 따른 것이 아니며 정부보조금을 수취한 회계기간 이외의 회계기간에 보조금을 배분하는 기준이 존재하지 않는 경우에만 인정될 수 있다.",
+      "html": "수익접근법에서는 정부보조금으로 보전하려 하는 관련원가를 비용으로 인식하는 기간에 걸쳐 체계적인 기준에 따라 정부보조금을 당기손익으로 인식해야 하는 것이 중요하다. 수취기준에 따라 정부보조금을 당기손익으로 인식하는 것은 발생기준회계의 가정(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div> ‘재무제표 표시’ 참조)에 따른 것이 아니며 정부보조금을 수취한 회계기간 이외의 회계기간에 보조금을 배분하는 기준이 존재하지 않는 경우에만 인정될 수 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "17",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "대부분의 경우 정부보조금과 관련된 원가나 비용을 인식하는 기간은 쉽게 확정할 수 있으므로 특정 비용을 인식하는 기간에 보조금을 당기손익으로 인식한다. 이와 유사하게 감가상각자산과 관련된 정부보조금은 일반적으로 이러한 자산의 감가상각비가 인식되는 비율에 따라 인식기간에 걸쳐 당기손익으로 인식한다.",
+      "html": "대부분의 경우 정부보조금과 관련된 원가나 비용을 인식하는 기간은 쉽게 확정할 수 있으므로 특정 비용을 인식하는 기간에 보조금을 당기손익으로 인식한다. 이와 유사하게 감가상각자산과 관련된 정부보조금은 일반적으로 이러한 자산의 감가상각비가 인식되는 비율에 따라 인식기간에 걸쳐 당기손익으로 인식한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "18",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "비상각자산과 관련된 정부보조금이 일정한 의무의 이행도 요구한다면 그 의무를 충족시키기 위한 원가를 부담하는 기간에 그 정부보조금을 당기손익으로 인식한다. 예를 들어 건물을 건설하는 조건으로 토지를 보조금으로 받은 경우 건물의 내용연수동안 보조금을 당기손익으로 인식하는 것이 적절할 수 있다.",
+      "html": "비상각자산과 관련된 정부보조금이 일정한 의무의 이행도 요구한다면 그 의무를 충족시키기 위한 원가를 부담하는 기간에 그 정부보조금을 당기손익으로 인식한다. 예를 들어 건물을 건설하는 조건으로 토지를 보조금으로 받은 경우 건물의 내용연수동안 보조금을 당기손익으로 인식하는 것이 적절할 수 있다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2019-I-KQA012",
+          "title": "토지 재평가손실 인식 시 정부보조금의 손익인식",
+          "url": "/qnas/2019-I-KQA012",
+          "date": "2019-04-09"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "19",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "때때로 여러 가지 조건이 부수되는 금융지원 또는 재정지원의 종합계획의 일환으로 보조금을 수취하는 경우가 있다. 이 경우 원가와 비용을 발생시키며 보조금의 인식기간을 결정하는 조건을 식별하는 데 유의하여야 한다. 보조금을 구성하는 각 부분을 서로 다른 기준에 따라 배분하는 것이 적절할 수 있다.",
+      "html": "때때로 여러 가지 조건이 부수되는 금융지원 또는 재정지원의 종합계획의 일환으로 보조금을 수취하는 경우가 있다. 이 경우 원가와 비용을 발생시키며 보조금의 인식기간을 결정하는 조건을 식별하는 데 유의하여야 한다. 보조금을 구성하는 각 부분을 서로 다른 기준에 따라 배분하는 것이 적절할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "20",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "이미 발생한 비용이나 손실에 대한 보전 또는 향후의 관련원가 없이 기업에 제공되는 즉각적인 금융지원으로 수취하는 정부보조금은 정부보조금을 수취할 권리가 발생하는 기간에 당기손익으로 인식한다.",
+      "html": "<b>이미 발생한 비용이나 손실에 대한 보전 또는 향후의 관련원가 없이 기업에 제공되는 즉각적인 금융지원으로 수취하는 정부보조금은 정부보조금을 수취할 권리가 발생하는 기간에 당기손익으로 인식한다.</b>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "201605A",
+          "title": "정부보조금의 회계처리와 정부지원의 공시\n– 상환해야 하는 현금 수취액",
+          "url": "/qnas/201605A",
+          "date": "2016-05-31"
+        },
+        {
+          "qna_id": "SSI-202312046",
+          "title": "후속적으로 충족한 정부보조금 인식요건",
+          "url": "/qnas/SSI-202312046",
+          "date": "2022-01-06"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "21",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "어떤 상황에서는 정부보조금이 특정 지출행위에 대한 인센티브가 아니라 즉각적인 금융지원을 위해 지급되는 경우가 있다. 이러한 보조금은 특정 기업에 한정될 수 있으며 모든 수혜자에게 적용되지 않을 수 있다. 이러한 상황은 보조금의 효과를 명확하게 이해할 수 있도록 하는 공시와 함께 보조금을 수취할 조건을 충족하는 기간에 당기손익으로 인식하는 것을 정당화시킬 수 있다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"21\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">21</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">어떤 상황에서는 정부보조금이 특정 지출행위에 대한 인센티브가 아니라 즉각적인 금융지원을 위해 지급되는 경우가 있다. 이러한 보조금은 특정 기업에 한정될 수 있으며 모든 수혜자에게 적용되지 않을 수 있다. 이러한 상황은 보조금의 효과를 명확하게 이해할 수 있도록 하는 공시와 함께 보조금을 수취할 조건을 충족하는 기간에 당기손익으로 인식하는 것을 정당화시킬 수 있다.</div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "22",
+      "section_id": "Y2CbrH",
+      "section_title": "정부보조금",
+      "toc_path": "본문|정부보조금",
+      "text": "과거기간에 발생한 비용이나 손실에 대한 보전으로 정부보조금을 수취하게 되는 경우가 있다. 이러한 정부보조금은 수취할 권리가 발생하는 기간에 그 효과를 명확하게 이해할 수 있도록 하는 공시와 함께 당기손익으로 인식한다.",
+      "html": "과거기간에 발생한 비용이나 손실에 대한 보전으로 정부보조금을 수취하게 되는 경우가 있다. 이러한 정부보조금은 수취할 권리가 발생하는 기간에 그 효과를 명확하게 이해할 수 있도록 하는 공시와 함께 당기손익으로 인식한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "23",
+      "section_id": "uJuGZU",
+      "section_title": "비화폐성 정부보조금",
+      "toc_path": "본문|정부보조금|비화폐성 정부보조금",
+      "text": "정부보조금은 토지나 그 밖의 자원과 같은 비화폐성자산을 기업이 사용하도록 이전하는 형식을 취할 수 있다. 이러한 상황에서는 일반적으로 비화폐성자산의 공정가치를 평가하여 보조금과 자산 모두를 그 공정가치로 회계처리한다. 경우에 따라서 대체적인 방법으로 자산과 보조금을 명목금액으로 기록하기도 한다.",
+      "html": "정부보조금은 토지나 그 밖의 자원과 같은 비화폐성자산을 기업이 사용하도록 이전하는 형식을 취할 수 있다. 이러한 상황에서는 일반적으로 비화폐성자산의 공정가치를 평가하여 보조금과 자산 모두를 그 공정가치로 회계처리한다. 경우에 따라서 대체적인 방법으로 자산과 보조금을 명목금액으로 기록하기도 한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "24",
+      "section_id": "s5c97Z",
+      "section_title": "자산관련보조금의 표시",
+      "toc_path": "본문|정부보조금|자산관련보조금의 표시",
+      "text": "자산관련정부보조금(공정가치로 측정되는 비화폐성 보조금 포함)은 재무상태표에 이연수익으로 표시하거나 자산의 장부금액을 결정할 때 차감하여 표시한다.",
+      "html": "<b>자산관련정부보조금(공정가치로 측정되는 비화폐성 보조금 포함)은 재무상태표에 이연수익으로 표시하거나 자산의 장부금액을 결정할 때 차감하여 표시한다.</b>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-38548",
+          "title": "회사가 직접 수취하지 않는 자산관련보조금의 회계처리",
+          "url": "/qnas/SSI-38548",
+          "date": "2018-01-04"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "25",
+      "section_id": "s5c97Z",
+      "section_title": "자산관련보조금의 표시",
+      "toc_path": "본문|정부보조금|자산관련보조금의 표시",
+      "text": "자산관련보조금(또는 보조금의 적절한 부분)을 재무제표에 표시하는 두 가지 방법이 모두 인정된다.",
+      "html": "자산관련보조금(또는 보조금의 적절한 부분)을 재무제표에 표시하는 두 가지 방법이 모두 인정된다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-202312046",
+          "title": "후속적으로 충족한 정부보조금 인식요건",
+          "url": "/qnas/SSI-202312046",
+          "date": "2022-01-06"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "26",
+      "section_id": "s5c97Z",
+      "section_title": "자산관련보조금의 표시",
+      "toc_path": "본문|정부보조금|자산관련보조금의 표시",
+      "text": "한 가지 방법은 보조금을 이연수익으로 인식하여 자산의 내용연수에 걸쳐 체계적인 기준으로 당기손익에 인식하는 방법이다.",
+      "html": "한 가지 방법은 보조금을 이연수익으로 인식하여 자산의 내용연수에 걸쳐 체계적인 기준으로 당기손익에 인식하는 방법이다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-202312046",
+          "title": "후속적으로 충족한 정부보조금 인식요건",
+          "url": "/qnas/SSI-202312046",
+          "date": "2022-01-06"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "27",
+      "section_id": "s5c97Z",
+      "section_title": "자산관련보조금의 표시",
+      "toc_path": "본문|정부보조금|자산관련보조금의 표시",
+      "text": "다른 방법은 자산의 장부금액을 계산할 때 보조금을 차감하는 방법이다. 보조금은 감가상각자산의 내용연수에 걸쳐 감가상각비를 감소시키는 방식으로 당기손익으로 인식한다.",
+      "html": "다른 방법은 자산의 장부금액을 계산할 때 보조금을 차감하는 방법이다. 보조금은 감가상각자산의 내용연수에 걸쳐 감가상각비를 감소시키는 방식으로 당기손익으로 인식한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-202312046",
+          "title": "후속적으로 충족한 정부보조금 인식요건",
+          "url": "/qnas/SSI-202312046",
+          "date": "2022-01-06"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "28",
+      "section_id": "s5c97Z",
+      "section_title": "자산관련보조금의 표시",
+      "toc_path": "본문|정부보조금|자산관련보조금의 표시",
+      "text": "자산의 취득과 이와 관련된 보조금의 수취는 기업의 현금흐름에 중요한 변동을 일으킨다. 따라서 재무상태표에 보조금이 관련 자산에서 차감하여 표시되는지와 관계없이 자산의 총투자를 보여주기 위해 이러한 변동을 현금흐름표에 별도 항목으로 표시한다.",
+      "html": "자산의 취득과 이와 관련된 보조금의 수취는 기업의 현금흐름에 중요한 변동을 일으킨다. 따라서 재무상태표에 보조금이 관련 자산에서 차감하여 표시되는지와 관계없이 자산의 총투자를 보여주기 위해 이러한 변동을 현금흐름표에 별도 항목으로 표시한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "29",
+      "section_id": "sU05c4",
+      "section_title": "수익관련보조금의 표시",
+      "toc_path": "본문|정부보조금|수익관련보조금의 표시",
+      "text": "수익관련보조금은 당기손익의 일부로 별도의 계정이나 ‘기타수익’과 같은 일반계정으로 표시한다. 대체적인 방법으로 관련비용에서 보조금을 차감할 수도 있다.",
+      "html": "수익관련보조금은 당기손익의 일부로 별도의 계정이나 ‘기타수익’과 같은 일반계정으로 표시한다. 대체적인 방법으로 관련비용에서 보조금을 차감할 수도 있다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-35587",
+          "title": "정부보조금의 표시",
+          "url": "/qnas/SSI-35587",
+          "date": "2019-04-10"
+        },
+        {
+          "qna_id": "2022-I-KQA011",
+          "title": "정부지원금(이자지원) 회계처리",
+          "url": "/qnas/2022-I-KQA011",
+          "date": "2022-11-18"
+        },
+        {
+          "qna_id": "2023-I-KQA003",
+          "title": "정부보조금의 영업손익 분류 및 표시",
+          "url": "/qnas/2023-I-KQA003",
+          "date": "2023-02-24"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "30",
+      "section_id": "sU05c4",
+      "section_title": "수익관련보조금의 표시",
+      "toc_path": "본문|정부보조금|수익관련보조금의 표시",
+      "text": "첫 번째 방법의 지지자들은 수익항목과 비용항목을 상계하는 것은 적절하지 않으며, 보조금을 관련 비용과 분리하는 것이 보조금의 영향을 받지 않는 기타 비용과의 비교를 용이하게 한다고 주장한다. 두 번째 방법의 지지자들은 보조금을 이용할 수 없었다면 기업이 비용을 발생시키지 않았을 것이므로 비용을 보조금과 상계하지 않고 표시하는 것은 이용자의 오해를 유발할 수 있다고 주장한다.",
+      "html": "첫 번째 방법의 지지자들은 수익항목과 비용항목을 상계하는 것은 적절하지 않으며, 보조금을 관련 비용과 분리하는 것이 보조금의 영향을 받지 않는 기타 비용과의 비교를 용이하게 한다고 주장한다. 두 번째 방법의 지지자들은 보조금을 이용할 수 없었다면 기업이 비용을 발생시키지 않았을 것이므로 비용을 보조금과 상계하지 않고 표시하는 것은 이용자의 오해를 유발할 수 있다고 주장한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "31",
+      "section_id": "sU05c4",
+      "section_title": "수익관련보조금의 표시",
+      "toc_path": "본문|정부보조금|수익관련보조금의 표시",
+      "text": "두 가지 모두 수익관련보조금의 표시방법으로 인정된다. 재무제표의 적절한 이해를 위해 보조금을 공시하는 것이 필요할 수 있다. 별도로 공시하여야 하는 수익이나 비용 항목에 대한 보조금의 효과는 일반적으로 공시하는 것이 적절하다.",
+      "html": "두 가지 모두 수익관련보조금의 표시방법으로 인정된다. 재무제표의 적절한 이해를 위해 보조금을 공시하는 것이 필요할 수 있다. 별도로 공시하여야 하는 수익이나 비용 항목에 대한 보조금의 효과는 일반적으로 공시하는 것이 적절하다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-35587",
+          "title": "정부보조금의 표시",
+          "url": "/qnas/SSI-35587",
+          "date": "2019-04-10"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "32",
+      "section_id": "Mskd3f",
+      "section_title": "정부보조금의 상환",
+      "toc_path": "본문|정부보조금|정부보조금의 상환",
+      "text": "상환의무가 발생하게 된 정부보조금은 회계추정치의 변경으로 회계처리한다(기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 참조). 수익관련보조금을 상환하는 경우 보조금과 관련하여 인식된 미상각 이연계정에 먼저 적용한다. 이러한 이연계정을 초과하거나 이연계정이 없는 경우에는 초과금액 또는 상환금액을 즉시 당기손익으로 인식한다. 자산관련보조금을 상환하는 경우는 상환금액만큼 자산의 장부금액을 증가시키거나 이연수익에서 차감하여 기록한다. 보조금이 없었더라면 현재까지 당기손익으로 인식했어야 하는 추가 감가상각누계액은 즉시 당기손익으로 인식한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"32\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">32</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">상환의무가 발생하게 된 정부보조금은 회계추정치의 변경으로 회계처리한다(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">기업회계기준서 제1008호 </span></div>‘회계정책, 회계추정치 변경과 오류’ 참조). 수익관련보조금을 상환하는 경우 보조금과 관련하여 인식된 미상각 이연계정에 먼저 적용한다. 이러한 이연계정을 초과하거나 이연계정이 없는 경우에는 초과금액 또는 상환금액을 즉시 당기손익으로 인식한다. 자산관련보조금을 상환하는 경우는 상환금액만큼 자산의 장부금액을 증가시키거나 이연수익에서 차감하여 기록한다. 보조금이 없었더라면 현재까지 당기손익으로 인식했어야 하는 추가 감가상각누계액은 즉시 당기손익으로 인식한다.\n  </div></b></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1008호",
+          "standard_number": "1008",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "33",
+      "section_id": "Mskd3f",
+      "section_title": "정부보조금의 상환",
+      "toc_path": "본문|정부보조금|정부보조금의 상환",
+      "text": "자산관련보조금의 상환의무가 발생하게 되는 경우 자산의 새로운 장부금액에 손상 가능성이 있는지를 고려할 필요가 있다.",
+      "html": "자산관련보조금의 상환의무가 발생하게 되는 경우 자산의 새로운 장부금액에 손상 가능성이 있는지를 고려할 필요가 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "34",
+      "section_id": "rzS6w5",
+      "section_title": "정부지원",
+      "toc_path": "본문|정부지원",
+      "text": "합리적으로 가치를 산정할 수 없는 일정한 형식의 정부지원과 기업의 정상적인 거래와 구별할 수 없는 정부와의 거래는 문단 3의 정부보조금 정의에서 제외된다.",
+      "html": "합리적으로 가치를 산정할 수 없는 일정한 형식의 정부지원과 기업의 정상적인 거래와 구별할 수 없는 정부와의 거래는 \n  <span class=\"mundan-finder\">문단 3</span>의 정부보조금 정의에서 제외된다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 3",
+          "standard_number": "1020",
+          "standard_title": null,
+          "range": "3",
+          "paragraph_ids": [
+            "3"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "35",
+      "section_id": "rzS6w5",
+      "section_title": "정부지원",
+      "toc_path": "본문|정부지원",
+      "text": "합리적으로 가치를 산정할 수 없는 지원의 예로는 기술이나 마케팅에 관한 무료 자문과 보증제공이 있다. 기업의 정상적인 거래와 구별할 수 없는 지원의 예로는 기업 매출의 일정 부분을 책임지는 정부구매정책을 들 수 있다. 효익의 존재에는 의문이 없지만 정부지원을 거래활동과 구분하는 것은 자의적일 수 있다.",
+      "html": "합리적으로 가치를 산정할 수 없는 지원의 예로는 기술이나 마케팅에 관한 무료 자문과 보증제공이 있다. 기업의 정상적인 거래와 구별할 수 없는 지원의 예로는 기업 매출의 일정 부분을 책임지는 정부구매정책을 들 수 있다. 효익의 존재에는 의문이 없지만 정부지원을 거래활동과 구분하는 것은 자의적일 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "36",
+      "section_id": "rzS6w5",
+      "section_title": "정부지원",
+      "toc_path": "본문|정부지원",
+      "text": "상기 예에서 효익의 중요성으로 인하여, 재무제표가 이용자의 오해를 유발하지 않도록 정부지원의 성격, 범위 및 기간에 대한 공시가 필요할 수 있다.",
+      "html": "상기 예에서 효익의 중요성으로 인하여, 재무제표가 이용자의 오해를 유발하지 않도록 정부지원의 성격, 범위 및 기간에 대한 공시가 필요할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "37",
+      "section_id": "rzS6w5",
+      "section_title": "정부지원",
+      "toc_path": "본문|정부지원",
+      "text": "[국제회계기준위원회에 의하여 삭제됨]",
+      "html": "[국제회계기준위원회에 의하여 삭제됨]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "38",
+      "section_id": "rzS6w5",
+      "section_title": "정부지원",
+      "toc_path": "본문|정부지원",
+      "text": "대중교통과 통신망의 개선 그리고 지역사회 전체의 효익을 위해 부정기적으로 계속 진행하는 관개수로나 수도관 등 개선된 시설의 공급으로 사회기반시설을 제공하는 것은 이 기준서에서의 정부지원에 해당하지 아니한다.",
+      "html": "대중교통과 통신망의 개선 그리고 지역사회 전체의 효익을 위해 부정기적으로 계속 진행하는 관개수로나 수도관 등 개선된 시설의 공급으로 사회기반시설을 제공하는 것은 이 기준서에서의 정부지원에 해당하지 아니한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "39",
+      "section_id": "ODwaAJ",
+      "section_title": "공시",
+      "toc_path": "본문|공시",
+      "text": "다음 사항을 공시한다.\n(1) 정부보조금에 대해 채택한 회계정책(재무제표에 표시하는 방법 포함)\n(2) 재무제표에 인식한 정부보조금의 성격과 정도 및 직접적으로 효익을 얻는 그 밖의 정부지원에 대한 내용\n(3) 인식된 정부지원에 부수되는 미이행 조건과 기타 우발상황",
+      "html": "다음 사항을 공시한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 정부보조금에 대해 채택한 회계정책(재무제표에 표시하는 방법 포함)</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 재무제표에 인식한 정부보조금의 성격과 정도 및 직접적으로 효익을 얻는 그 밖의 정부지원에 대한 내용</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 인식된 정부지원에 부수되는 미이행 조건과 기타 우발상황</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40",
+      "section_id": "AXfrAL",
+      "section_title": "경과규정",
+      "toc_path": "본문|경과규정",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "<b>[한국회계기준원 회계기준위원회가 삭제함]</b>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "41",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "42",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "43",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한43.1",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 기준서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "html": "<b>이 기준서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.</b>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "44",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "45",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2011년 12월 발표된 기업회계기준서 제1113호에 따라 문단 3의 공정가치에 대한 정의가 개정되었다. 이러한 개정내용은 기업회계기준서 제1113호를 적용할 때 적용한다.",
+      "html": "2011년 12월 발표된 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div>에 따라 \n  \n  <span class=\"mundan-finder\">문단 3</span>의 공정가치에 대한 정의가 개정되었다. 이러한 개정내용은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div>를 적용할 때 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3",
+          "standard_number": "1113",
+          "standard_title": null,
+          "range": "3",
+          "paragraph_ids": [
+            "3"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "46",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2012년 6월 발표된 기업회계기준서 제1001호의 개정에 따라 문단 29가 개정되었고 문단 29A가 삭제되었다. 이 개정 내용은 개정된 기업회계기준서 제1001호를 적용할 때 적용한다.",
+      "html": "2012년 6월 발표된 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div>의 개정에 따라 \n  \n  \n  <span class=\"mundan-finder\">문단 29</span>가 개정되었고 문단 29A가 삭제되었다. 이 개정 내용은 개정된 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div>를 적용할 때 적용한다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 29",
+          "standard_number": "1020",
+          "standard_title": null,
+          "range": "29",
+          "paragraph_ids": [
+            "29"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "47",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "48",
+      "section_id": "bU2zdD",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2015년 12월에 공표한 기업회계기준서 제1109호에 따라 문단 10A를 개정하였고 문단 44, 47을 삭제하였다. 기업회계기준서 제1109호를 적용할 때 이 개정 내용을 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"48\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">48</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">2015년 12월에 공표한 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 따라 \n  <span class=\"mundan-finder\">문단 10A</span>를 개정하였고 \n  <span class=\"mundan-finder\">문단 44, 47</span>을 삭제하였다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>를 적용할 때 이 개정 내용을 적용한다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 10A",
+          "standard_number": "1020",
+          "standard_title": null,
+          "range": "10A",
+          "paragraph_ids": [
+            "10A"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 44, 47",
+          "standard_number": "1020",
+          "standard_title": null,
+          "range": "44, 47",
+          "paragraph_ids": [
+            "44",
+            "47"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "의결",
+      "section_id": "T1e7RG",
+      "section_title": "기업회계기준서 제1020호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준서 제1020호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준서 제1020호의 제정에 대한 회계기준위원회의 의결(2007년)",
+      "html": "<div value=\"웩의결\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준서 제1020호의 제정에 대한 회계기준위원회의 의결(2007년)</b></div><br><div class=\"para\">기업회계기준서 제1020호 ‘정부보조금의 회계처리와 정부지원의 공시’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">이효익(위원장), 서정우(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC3",
+      "section_id": "hN5mXO",
+      "section_title": "시장이자율보다 낮은 이자율의 정부대여금에 대한 회계처리",
+      "toc_path": "결론도출근거|IAS 20 ‘정부보조금의 회계처리와 정부지원의 공시(Accounting for Government Grants and Disclosure of Government Assistance)’의 결론도출근거|시장이자율보다 낮은 이자율의 정부대여금에 대한 회계처리",
+      "text": "IASB는 IAS 20과 IAS 39(주3)의 지침간 명백한 비일관성을 확인하였다. 이는 정부로부터 수취한 시장이자율보다 낮은 이자율의 대여금에 대한 회계처리와 관련되었다. IAS 20에는 이러한 대여금에 대해 내재이자를 계산하지 않는다고 기술된 반면, IAS 39에는 모든 대여금은 공정가치로 인식되어야 한다고 규정되어, 시장이자율보다 낮은 이자율의 대여금에 대하여 내재이자를 계산하여야 한다고 요구하였다.\n[각주 (주3)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IFRS 9은 이전에 IAS 39의 적용범위에 포함된 모든 항목에 적용한다. 이 문단은 IAS 20을 공표하였을 때 관련된 문제를 언급하고 있다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC3\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC3</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리와 정부지원의 공시</span><span class=\"std-finder\">IAS 20</span></div>과 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup data-id=\"(주3)\">(주3)</sup>의 지침간 명백한 비일관성을 확인하였다. 이는 정부로부터 수취한 시장이자율보다 낮은 이자율의 대여금에 대한 회계처리와 관련되었다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리와 정부지원의 공시</span><span class=\"std-finder\">IAS 20</span></div>에는 이러한 대여금에 대해 내재이자를 계산하지 않는다고 기술된 반면, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에는 모든 대여금은 공정가치로 인식되어야 한다고 규정되어, 시장이자율보다 낮은 이자율의 대여금에 대하여 내재이자를 계산하여야 한다고 요구하였다.\n</div><div class=\"idt-1 comment\"><div>(주3)</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>은 이전에 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 포함된 모든 항목에 적용한다. 이 문단은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리와 정부지원의 공시</span><span class=\"std-finder\">IAS 20</span></div>을 공표하였을 때 관련된 문제를 언급하고 있다.\n  </div></div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 20",
+          "standard_number": null,
+          "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주3",
+          "display_text": "(주3)"
+        }
+      ]
+    },
+    {
+      "number": "BC4",
+      "section_id": "hN5mXO",
+      "section_title": "시장이자율보다 낮은 이자율의 정부대여금에 대한 회계처리",
+      "toc_path": "결론도출근거|IAS 20 ‘정부보조금의 회계처리와 정부지원의 공시(Accounting for Government Grants and Disclosure of Government Assistance)’의 결론도출근거|시장이자율보다 낮은 이자율의 정부대여금에 대한 회계처리",
+      "text": "IASB는 이러한 비일관성을 제거하기로 결정하였다. IASB는 내재이자의 계산이 보다 목적적합한 정보를 재무제표 이용자에게 제공한다고 보았다. 따라서 IASB는 시장이자율보다 낮은 이자율의 정부대여금은 IAS 39에 따라 인식되고 측정되도록 IAS 20을 개정하였다. 이러한 정부대여금의 효익은 대여금 개시 시점에 현금 수취액과 재무상태표에 최초 인식한 금액의 차이로 측정한다. 이 효익은 IAS 20에 따라 회계처리한다.",
+      "html": "IASB는 이러한 비일관성을 제거하기로 결정하였다. IASB는 내재이자의 계산이 보다 목적적합한 정보를 재무제표 이용자에게 제공한다고 보았다. 따라서 IASB는 시장이자율보다 낮은 이자율의 정부대여금은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>에 따라 인식되고 측정되도록 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리와 정부지원의 공시</span><span class=\"std-finder\">IAS 20</span></div>을 개정하였다. 이러한 정부대여금의 효익은 대여금 개시 시점에 현금 수취액과 재무상태표에 최초 인식한 금액의 차이로 측정한다. 이 효익은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리와 정부지원의 공시</span><span class=\"std-finder\">IAS 20</span></div>에 따라 회계처리한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC5",
+      "section_id": "hN5mXO",
+      "section_title": "시장이자율보다 낮은 이자율의 정부대여금에 대한 회계처리",
+      "toc_path": "결론도출근거|IAS 20 ‘정부보조금의 회계처리와 정부지원의 공시(Accounting for Government Grants and Disclosure of Government Assistance)’의 결론도출근거|시장이자율보다 낮은 이자율의 정부대여금에 대한 회계처리",
+      "text": "이러한 대여금에 대해 IAS 39를 소급적용하게 되면 기업들이 과거 일자의 공정가치를 측정하도록 요구할 수 있다고 보아 IASB는 이 개정을 새로운 대여금에 전진적으로 적용하도록 결정하였다.",
+      "html": "이러한 대여금에 대해 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 소급적용하게 되면 기업들이 과거 일자의 공정가치를 측정하도록 요구할 수 있다고 보아 IASB는 이 개정을 새로운 대여금에 전진적으로 적용하도록 결정하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": null,
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준서 제1020호와 국제회계기준 제20호(IAS 20) 기업회계기준서 제1020호는 국제회계기준위원회가 제정한 국제회계기준 제20호(IAS 20) ‘정부보조금의 회계처리와 정부지원의 공시(Accounting for Government Grants and Disclosure of Government Assistance)’에 대응하는 기준이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한43.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 경과규정 및 시행일과 관련된 문단 40~43이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제회계기준 제20호(IAS 20)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준서 제1020호가 IAS 20의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제1020호를 준수하면 동시에 IAS 20을 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준서 제1020호와 국제회계기준 제20호(IAS 20)</h3>\n<p>기업회계기준서 제1020호는 국제회계기준위원회가 제정한 국제회계기준 제20호(IAS 20) ‘정부보조금의 회계처리와 정부지원의 공시(Accounting for Government Grants and Disclosure of Government Assistance)’에 대응하는 기준이다.</p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한43.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 경과규정 및 시행일과 관련된 문단 40~43이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제회계기준 제20호(IAS 20)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준서 제1020호가 IAS 20의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제1020호를 준수하면 동시에 IAS 20을 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 기준서의 주요 특징",
+      "toc_path": "기타 참고사항|이 기준서의 주요 특징",
+      "text": "## 이 기준서의 주요 특징 이 기준서는 정부보조금의 회계처리와 정부지원의 공시에 필요한 사항을 정하기 위하여 제정되었다. ### 1. 주요 요구사항 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 기준서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 기준서는 정부보조금의 회계처리와 정부지원의 공시에 필요한 사항을 정하기 위하여 제정되었다.</p>\n<h3>1. 주요 요구사항</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 제․개정하였다. \n\n| 제·개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2008.11.28. 개정 | 한국채택국제회계기준연차개선 | Improvements to IFRSs |\n| 2007.11.23. 제정 | 정부보조금의 회계처리와 정부지원의 공시 | IAS 20 Accounting for Government Grants and Disclosure of Government Assistance |\n\n이 기준서는 타 기준서의 제·개정에 따라 다음과 같이 개정되었다. \n\n| 제·개정일자 | 타기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2015.9.25. 제정 | 기업회계기준서 제1109호 금융상품 | IFRS 9 Financial Instruments |\n| 2012.1.27. 개정 | 기타포괄손익 항목의 표시 | Amendment to IAS 1 Presentation of Financial Statements: Presentation of Items of Other Comprehensive Income |\n| 2011.11.18. 제정 | 기업회계기준서 제1113호 공정가치 측정 | IFRS 13 Fair Value Measurement |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.8px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">제·개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.8px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.8px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 44px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2008.11.28. 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 44px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">한국채택국제회계기준연차개선</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 44px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 1.5px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 24px;\">Improvements to IFRSs</span></p><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 1.5px;\"><span class=\"hnc_page_break\" style=\"margin: 0px; padding: 0px; word-spacing: -0.5em;\">&nbsp;</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 68px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2007.11.23. 제정</span></p></td><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 68px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">정부보조금의 회계처리와 정부지원의 공시</span></p><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span class=\"hnc_page_break\" style=\"margin: 0px; padding: 0px; word-spacing: -0.5em;\">&nbsp;</span></p></td><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 68px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.5px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 24px;\">IAS 20 Accounting for Government Grants and Disclosure of Government Assistance</span></p></td></tr></tbody></table>\n<p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">이 기준서는 타 기준서의 제·개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.8px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">제·개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.8px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">타기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.8px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2015.9.25. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1109호 금융상품</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 8.5pt; margin-bottom: 0pt; margin-left: 5.9pt; padding: 0px; text-align: justify; text-indent: -3.3pt; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 9 Financial Instruments</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 82px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2012.1.27. 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 82px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기타포괄손익 항목의 표시</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 82px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 8.5pt; margin-bottom: 0pt; margin-left: 5.9pt; padding: 0px; text-align: justify; text-indent: -3.3pt; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">Amendment to IAS 1 Presentation of Financial Statements: Presentation of Items of Other Comprehensive Income</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2011.11.18. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 0px; margin-bottom: 0pt; margin-left: 0px; padding: 0px; text-align: justify; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1113호 공정가치 측정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin-right: 8.5pt; margin-bottom: 0pt; margin-left: 5.9pt; padding: 0px; text-align: justify; text-indent: -3.3pt; line-height: 1.3px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 13 Fair Value Measurement</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1041": [
+      "2"
+    ],
+    "2010": [
+      "3"
+    ],
+    "1113": [
+      "3",
+      "45"
+    ],
+    "1109": [
+      "10A",
+      "48"
+    ],
+    "1037": [
+      "11"
+    ],
+    "1001": [
+      "16",
+      "46"
+    ],
+    "1008": [
+      "32"
+    ]
+  },
+  "qna_index": {
+    "201605A": [
+      "3",
+      "10",
+      "20"
+    ],
+    "SSI-35587": [
+      "3",
+      "12",
+      "29",
+      "31"
+    ],
+    "SSI-38548": [
+      "3",
+      "24"
+    ],
+    "2022-I-KQA011": [
+      "3",
+      "7",
+      "12",
+      "29"
+    ],
+    "SSI-38463": [
+      "7",
+      "12"
+    ],
+    "SSI-202312046": [
+      "7",
+      "20",
+      "25",
+      "26",
+      "27"
+    ],
+    "2019-I-KQA012": [
+      "12",
+      "18"
+    ],
+    "2023-I-KQA003": [
+      "29"
+    ]
+  }
+}

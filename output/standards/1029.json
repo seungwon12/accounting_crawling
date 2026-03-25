@@ -1,0 +1,918 @@
+{
+  "standard_id": "1029",
+  "standard_type": "기업회계기준서",
+  "title": "초인플레이션 경제에서의 재무보고",
+  "url": "https://db.kasb.or.kr/s/1029",
+  "crawled_at": "2026-03-24T04:56:49.384493+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/1029/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/1029/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "rjcMwa",
+          "href": "/s/1029/rjcMwa",
+          "paragraph_range": "한1.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "fpICOx",
+          "href": "/s/1029/fpICOx",
+          "paragraph_range": "1 ~ 4",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "재무제표의 재작성",
+          "section_id": "KzQiiD",
+          "href": "/s/1029/KzQiiD",
+          "paragraph_range": "5 ~ 37",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "역사적원가 재무제표",
+              "section_id": "mphpHa",
+              "href": "/s/1029/mphpHa",
+              "paragraph_range": "11 ~ 28",
+              "children": [
+                {
+                  "level": 4.0,
+                  "title": "재무상태표",
+                  "section_id": "Jk0Kx2",
+                  "href": "/s/1029/Jk0Kx2",
+                  "paragraph_range": "11 ~ 25",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "포괄손익계산서",
+                  "section_id": "R4Wcfr",
+                  "href": "/s/1029/R4Wcfr",
+                  "paragraph_range": "26",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "순화폐성자산에서 발생하는 손익",
+                  "section_id": "qaMmHr",
+                  "href": "/s/1029/qaMmHr",
+                  "paragraph_range": "27 ~ 28",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3.0,
+              "title": "현행원가 재무제표",
+              "section_id": "JL5vd7",
+              "href": "/s/1029/JL5vd7",
+              "paragraph_range": "29 ~ 31",
+              "children": [
+                {
+                  "level": 4.0,
+                  "title": "재무상태표",
+                  "section_id": "A2WRKO",
+                  "href": "/s/1029/A2WRKO",
+                  "paragraph_range": "29",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "포괄손익계산서",
+                  "section_id": "miMUp2",
+                  "href": "/s/1029/miMUp2",
+                  "paragraph_range": "30",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "순화폐성자산에서 발생하는 손익",
+                  "section_id": "IGckNX",
+                  "href": "/s/1029/IGckNX",
+                  "paragraph_range": "31",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3.0,
+              "title": "법인세",
+              "section_id": "Z9T81m",
+              "href": "/s/1029/Z9T81m",
+              "paragraph_range": "32",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "현금흐름표",
+              "section_id": "5aagDg",
+              "href": "/s/1029/5aagDg",
+              "paragraph_range": "33",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "대응수치",
+              "section_id": "VTvSUV",
+              "href": "/s/1029/VTvSUV",
+              "paragraph_range": "34",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "연결재무제표",
+              "section_id": "cz62nh",
+              "href": "/s/1029/cz62nh",
+              "paragraph_range": "35 ~ 36",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "일반물가지수의 선택과 사용",
+              "section_id": "eCEgkG",
+              "href": "/s/1029/eCEgkG",
+              "paragraph_range": "37",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2.0,
+          "title": "초인플레이션에서 벗어난 경제",
+          "section_id": "EbwzRi",
+          "href": "/s/1029/EbwzRi",
+          "paragraph_range": "38",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "공시",
+          "section_id": "bN1erG",
+          "href": "/s/1029/bN1erG",
+          "paragraph_range": "39 ~ 40",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "4sMk8e",
+          "href": "/s/1029/4sMk8e",
+          "paragraph_range": "41 ~ 한41.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준서 제1029호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "qxiTzM",
+          "href": "/s/1029/qxiTzM",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/1029/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IAS 29 ‘초인플레이션 경제에서의 재무보고(Financial Reporting in Hyperinflationary Economies)’의 결론도출근거",
+          "section_id": "bhomW2",
+          "href": "/s/1029/bhomW2",
+          "paragraph_range": "BC1 ~ BC2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/1029/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 기준서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/1029/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/1029/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "한1.1",
+      "section_id": "rjcMwa",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 기준서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"한1.1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">한1.1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>이 기준서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "fpICOx",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 초인플레이션 경제의 통화를 기능통화로 사용하는 기업의 재무제표(연결재무제표 포함)에 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>이 기준서는 초인플레이션 경제의 통화를 기능통화로 사용하는 기업의 재무제표(연결재무제표 포함)에 적용한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "fpICOx",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "초인플레이션 경제에서 재무제표를 재작성하지 아니하고 영업성과와 재무상태를 현지통화로 보고하는 것은 유용하지 아니하다. 인플레이션율만큼 화폐의 구매력이 저하되므로, 상이한 시점에 발생한 거래와 사건의 금액을 비교하는 것은 그러한 거래와 사건이 동일한 회계기간에 발생하였더라도 재무제표이용자에게 오해를 유발한다.",
+      "html": "초인플레이션 경제에서 재무제표를 재작성하지 아니하고 영업성과와 재무상태를 현지통화로 보고하는 것은 유용하지 아니하다. 인플레이션율만큼 화폐의 구매력이 저하되므로, 상이한 시점에 발생한 거래와 사건의 금액을 비교하는 것은 그러한 거래와 사건이 동일한 회계기간에 발생하였더라도 재무제표이용자에게 오해를 유발한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "fpICOx",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 초인플레이션의 판단기준이 되는 인플레이션율의 절대비율을 정하고 있지 않으므로 이 기준서에 따라 재무제표를 재작성할 필요가 있는지 결정하는 것은 판단의 문제이다. 초인플레이션 여부는 특정 국가의 경제환경의 특성으로 판단할 수 있는데 그 예는 다음과 같다.\n(1) 일반인은 재산을 비화폐성 자산이나 상대적으로 안정된 외화로 보유하는 것을 선호하며 보유중인 현지통화는 구매력을 유지하기 위하여 즉시 투자된다.\n(2) 일반인은 화폐금액을 현지통화가 아닌 상대적으로 안정된 외화의 관점에서 고려한다. 그러한 외화로 가격이 공표되기도 한다.\n(3) 신용기간이 단기인 경우에도, 그 신용기간에 예상되는 구매력의 손실을 보상하는 가격으로 매매가 이루어진다.\n(4) 이자율, 임금 및 가격이 물가지수와 연계되어 있다.\n(5) 3년 동안의 누적인플레이션율이 100%에 근접하거나 초과한다.",
+      "html": "이 기준서는 초인플레이션의 판단기준이 되는 인플레이션율의 절대비율을 정하고 있지 않으므로 이 기준서에 따라 재무제표를 재작성할 필요가 있는지 결정하는 것은 판단의 문제이다. 초인플레이션 여부는 특정 국가의 경제환경의 특성으로 판단할 수 있는데 그 예는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 일반인은 재산을 비화폐성 자산이나 상대적으로 안정된 외화로 보유하는 것을 선호하며 보유중인 현지통화는 구매력을 유지하기 위하여 즉시 투자된다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 일반인은 화폐금액을 현지통화가 아닌 상대적으로 안정된 외화의 관점에서 고려한다. 그러한 외화로 가격이 공표되기도 한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 신용기간이 단기인 경우에도, 그 신용기간에 예상되는 구매력의 손실을 보상하는 가격으로 매매가 이루어진다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 이자율, 임금 및 가격이 물가지수와 연계되어 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\"> 3년 동안의 누적인플레이션율이 100%에 근접하거나 초과한다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "fpICOx",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "동일한 초인플레이션 경제의 통화로 보고하는 모든 기업은 이 기준서를 동일한 날부터 적용하는 것이 바람직하다. 그렇지만 이 기준서는 표시통화가 사용되는 국가에서 초인플레이션의 발생이 확인되는 보고기간의 개시일부터 재무제표에 적용한다.",
+      "html": "동일한 초인플레이션 경제의 통화로 보고하는 모든 기업은 이 기준서를 동일한 날부터 적용하는 것이 바람직하다. 그렇지만 이 기준서는 표시통화가 사용되는 국가에서 초인플레이션의 발생이 확인되는 보고기간의 개시일부터 재무제표에 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "KzQiiD",
+      "section_title": "재무제표의 재작성",
+      "toc_path": "본문|재무제표의 재작성",
+      "text": "가격은 개별적이거나 일반적인 정치, 경제, 사회의 여러 가지 영향을 받아 변동한다. 공급과 수요의 변동, 기술변화와 같은 개별적인 영향으로 개별가격이 독립적으로 크게 상승하거나 하락할 수 있다. 또한 일반적인 영향으로 일반물가수준에 변동이 있을 수 있으며 이에 따라 화폐의 일반구매력에도 변동이 있을 수 있다.",
+      "html": "가격은 개별적이거나 일반적인 정치, 경제, 사회의 여러 가지 영향을 받아 변동한다. 공급과 수요의 변동, 기술변화와 같은 개별적인 영향으로 개별가격이 독립적으로 크게 상승하거나 하락할 수 있다. 또한 일반적인 영향으로 일반물가수준에 변동이 있을 수 있으며 이에 따라 화폐의 일반구매력에도 변동이 있을 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "KzQiiD",
+      "section_title": "재무제표의 재작성",
+      "toc_path": "본문|재무제표의 재작성",
+      "text": "역사적원가회계에 기초하여 재무제표를 작성하는 기업들은 일반물가수준의 변동이나 인식한 자산 또는 부채의 개별가격 상승을 고려하지 않고 재무제표를 작성한다. 이에 대한 예외는 기업이 공정가치로 측정해야 하거나 또는 공정가치로 측정하는 것을 선택하는 자산 및 부채이다. 예를 들어, 유형자산은 공정가치로 재평가될 수 있으며 생물자산은 일반적으로 공정가치로 측정되어야 한다. 그러나 보유자산의 개별가격 변동의 영향을 반영하는 현행원가에 기초하여 재무제표를 작성하는 기업도 있다.",
+      "html": "역사적원가회계에 기초하여 재무제표를 작성하는 기업들은 일반물가수준의 변동이나 인식한 자산 또는 부채의 개별가격 상승을 고려하지 않고 재무제표를 작성한다. 이에 대한 예외는 기업이 공정가치로 측정해야 하거나 또는 공정가치로 측정하는 것을 선택하는 자산 및 부채이다. 예를 들어, 유형자산은 공정가치로 재평가될 수 있으며 생물자산은 일반적으로 공정가치로 측정되어야 한다. 그러나 보유자산의 개별가격 변동의 영향을 반영하는 현행원가에 기초하여 재무제표를 작성하는 기업도 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "KzQiiD",
+      "section_title": "재무제표의 재작성",
+      "toc_path": "본문|재무제표의 재작성",
+      "text": "초인플레이션 경제에서는 재무제표를 역사적원가에 기초하여 작성하든지 현행원가에 기초하여 작성하든지 보고기간말 현재의 측정단위로 표시하는 경우에만 유용하다. 따라서 이 기준서는 초인플레이션 경제의 통화로 보고하는 재무제표에 적용한다. 이 기준서에서 요구하는 정보를 재무제표의 재작성이 아닌 보충정보의 형태로 제시하는 것은 허용되지 않는다. 또 재작성하기 전의 재무제표를 별도로 제시하는 것도 바람직하지 않다.",
+      "html": "초인플레이션 경제에서는 재무제표를 역사적원가에 기초하여 작성하든지 현행원가에 기초하여 작성하든지 보고기간말 현재의 측정단위로 표시하는 경우에만 유용하다. 따라서 이 기준서는 초인플레이션 경제의 통화로 보고하는 재무제표에 적용한다. 이 기준서에서 요구하는 정보를 재무제표의 재작성이 아닌 보충정보의 형태로 제시하는 것은 허용되지 않는다. 또 재작성하기 전의 재무제표를 별도로 제시하는 것도 바람직하지 않다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "KzQiiD",
+      "section_title": "재무제표의 재작성",
+      "toc_path": "본문|재무제표의 재작성",
+      "text": "기능통화가 초인플레이션 경제의 통화인 기업의 재무제표는 역사적원가에 기초하여 작성하든지 현행원가에 기초하여 작성하든지 보고기간말 현재의 측정단위로 표시한다. 또 기업회계기준서 제1001호 ‘재무제표 표시’에서 요구하는 전기의 대응수치, 그리고 그 이전기간의 정보도 보고기간말 현재의 측정단위로 표시한다. 비교금액을 다른 표시통화로 환산하여 표시하는 경우에는 기업회계기준서 제1021호 ‘환율변동효과’의 문단 42(2)와 문단 43을 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"8\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">8</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기능통화가 초인플레이션 경제의 통화인 기업의 재무제표는 역사적원가에 기초하여 작성하든지 현행원가에 기초하여 작성하든지 보고기간말 현재의 측정단위로 표시한다. 또 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div> ‘재무제표 표시’에서 요구하는 전기의 대응수치, 그리고 그 이전기간의 정보도 보고기간말 현재의 측정단위로 표시한다. 비교금액을 다른 표시통화로 환산하여 표시하는 경우에는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div> ‘환율변동효과’의 \n    <span class=\"mundan-finder\">문단 42(2)와 문단 43</span>을 적용한다.\n  </b></div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1021호",
+          "standard_number": "1021",
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 42(2)와 문단 43",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "42(2)와 문단 43",
+          "paragraph_ids": [
+            "42",
+            "43"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "KzQiiD",
+      "section_title": "재무제표의 재작성",
+      "toc_path": "본문|재무제표의 재작성",
+      "text": "순화폐성자산에서 발생하는 손익은 당기손익에 반영하며, 별도로 공시한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"9\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">9</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>순화폐성자산에서 발생하는 손익은 당기손익에 반영하며, 별도로 공시한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "KzQiiD",
+      "section_title": "재무제표의 재작성",
+      "toc_path": "본문|재무제표의 재작성",
+      "text": "이 기준서에 따라 재무제표를 재작성할 때에는 일정한 절차와 판단에 따라야 한다. 이러한 절차와 판단을 매기간 일관성 있게 적용하는 것이 재작성된 재무제표에 결과적으로 나타나는 금액의 정확성보다 더 중요하다.",
+      "html": "이 기준서에 따라 재무제표를 재작성할 때에는 일정한 절차와 판단에 따라야 한다. 이러한 절차와 판단을 매기간 일관성 있게 적용하는 것이 재작성된 재무제표에 결과적으로 나타나는 금액의 정확성보다 더 중요하다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "보고기간말 현재의 측정단위로 표시되지 아니한 재무상태표 금액은 일반물가지수를 적용하여 재작성한다.",
+      "html": "보고기간말 현재의 측정단위로 표시되지 아니한 재무상태표 금액은 일반물가지수를 적용하여 재작성한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "화폐성항목은 보고기간말 현재의 측정단위로 이미 표시되어 있으므로 재작성하지 아니한다. 화폐성항목은 보유하고 있는 현금 또는 현금으로 수취하거나 지급할 항목이다.",
+      "html": "화폐성항목은 보고기간말 현재의 측정단위로 이미 표시되어 있으므로 재작성하지 아니한다. 화폐성항목은 보유하고 있는 현금 또는 현금으로 수취하거나 지급할 항목이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "물가지수연동사채나 물가지수연동대여금과 같이 약정에 의하여 물가변동에 연동되어 있는 자산과 부채는 보고기간말 현재 유효한 금액을 표시할 수 있도록 약정에 따라 금액을 조정한다. 이러한 항목은 재작성하는 재무상태표에 조정된 금액으로 표시한다.",
+      "html": "물가지수연동사채나 물가지수연동대여금과 같이 약정에 의하여 물가변동에 연동되어 있는 자산과 부채는 보고기간말 현재 유효한 금액을 표시할 수 있도록 약정에 따라 금액을 조정한다. 이러한 항목은 재작성하는 재무상태표에 조정된 금액으로 표시한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "화폐성항목 외의 모든 자산과 부채는 비화폐성항목이다. 일부 비화폐성항목은 순실현가능가치나 공정가치와 같은 보고기간말 현재의 금액으로 표시되므로 재작성하지 아니한다. 그 밖의 모든 비화폐성자산과 비화폐성부채는 재작성한다.",
+      "html": "화폐성항목 외의 모든 자산과 부채는 비화폐성항목이다. 일부 비화폐성항목은 순실현가능가치나 공정가치와 같은 보고기간말 현재의 금액으로 표시되므로 재작성하지 아니한다. 그 밖의 모든 비화폐성자산과 비화폐성부채는 재작성한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "대부분의 비화폐성항목은 원가나 상각후원가로 표시된다. 따라서 그러한 비화폐성항목은 취득일 현재의 금액으로 표시된다. 원가나 상각후원가는 취득일과 보고기간말 사이의 일반물가지수의 변동을 역사적원가와 감가상각누계액에 적용하여 재작성한다. 예를 들어, 유형자산, 원재료나 상품과 같은 재고자산, 영업권, 특허권, 상표권 등의 자산은 취득일 이후부터 재작성한다. 재공품이나 완성품과 같은 재고자산도 매입원가나 가공원가의 발생일 이후부터 재작성한다.",
+      "html": "대부분의 비화폐성항목은 원가나 상각후원가로 표시된다. 따라서 그러한 비화폐성항목은 취득일 현재의 금액으로 표시된다. 원가나 상각후원가는 취득일과 보고기간말 사이의 일반물가지수의 변동을 역사적원가와 감가상각누계액에 적용하여 재작성한다. 예를 들어, 유형자산, 원재료나 상품과 같은 재고자산, 영업권, 특허권, 상표권 등의 자산은 취득일 이후부터 재작성한다. 재공품이나 완성품과 같은 재고자산도 매입원가나 가공원가의 발생일 이후부터 재작성한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "유형자산 취득당시의 세부기록을 이용할 수 없거나 추정하지 못할 수 있다. 드물지만 이러한 경우에는 이 기준서를 처음으로 적용하는 회계기간에 재작성하기 위한 기초로서 해당 항목의 가치에 대한 독립적 전문가의 평가액을 사용할 필요가 있다.",
+      "html": "유형자산 취득당시의 세부기록을 이용할 수 없거나 추정하지 못할 수 있다. 드물지만 이러한 경우에는 이 기준서를 처음으로 적용하는 회계기간에 재작성하기 위한 기초로서 해당 항목의 가치에 대한 독립적 전문가의 평가액을 사용할 필요가 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "17",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "이 기준서에 따라 유형자산의 재작성이 필요한 기간의 일반물가지수를 입수하는 것이 불가능할 수 있다. 이 경우 기능통화와 비교적 안정적인 외화 사이의 환율변동 등에 기초한 추정치의 사용이 필요할 수 있다.",
+      "html": "이 기준서에 따라 유형자산의 재작성이 필요한 기간의 일반물가지수를 입수하는 것이 불가능할 수 있다. 이 경우 기능통화와 비교적 안정적인 외화 사이의 환율변동 등에 기초한 추정치의 사용이 필요할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "18",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "이미 재평가된 유형자산과 같은 일부 비화폐성항목은 취득일이나 보고기간말이 아닌 다른 시점의 금액으로 표시된다. 이 경우 장부금액은 재평가일 이후부터 재작성한다.",
+      "html": "이미 재평가된 유형자산과 같은 일부 비화폐성항목은 취득일이나 보고기간말이 아닌 다른 시점의 금액으로 표시된다. 이 경우 장부금액은 재평가일 이후부터 재작성한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "19",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "비화폐성항목의 재작성 금액이 그 회수가능액을 초과하는 경우에는 관련 한국채택국제회계기준서에 따라 감액시켜야 한다. 예를 들어, 유형자산, 영업권, 특허권, 상표권의 재작성 금액은 회수가능액으로 감액하고, 재고자산의 재작성 금액은 순실현가능가치로 감액한다.",
+      "html": "비화폐성항목의 재작성 금액이 그 회수가능액을 초과하는 경우에는 관련 한국채택국제회계기준서에 따라 감액시켜야 한다. 예를 들어, 유형자산, 영업권, 특허권, 상표권의 재작성 금액은 회수가능액으로 감액하고, 재고자산의 재작성 금액은 순실현가능가치로 감액한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "20",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "지분법이 적용되는 피투자기업의 재무제표가 초인플레이션 경제의 통화로 보고될 수 있다. 이 경우, 피투자기업의 순자산과 당기순손익에 대한 투자기업의 지분을 산출하기 위하여 피투자기업의 재무상태표와 포괄손익계산서는 이 기준서에 따라 재작성한다. 피투자기업의 재작성된 재무제표가 외화로 표시된 경우에는 마감환율을 적용하여 환산한다.",
+      "html": "지분법이 적용되는 피투자기업의 재무제표가 초인플레이션 경제의 통화로 보고될 수 있다. 이 경우, 피투자기업의 순자산과 당기순손익에 대한 투자기업의 지분을 산출하기 위하여 피투자기업의 재무상태표와 포괄손익계산서는 이 기준서에 따라 재작성한다. 피투자기업의 재작성된 재무제표가 외화로 표시된 경우에는 마감환율을 적용하여 환산한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "21",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "일반적으로 인플레이션의 영향은 차입원가에 인식된다. 차입으로 조달한 자본적지출 금액을 재작성하면서 동시에 차입원가 중 동일 기간의 인플레이션을 보상하기 위한 부분을 자본화하는 것은 적절하지 않다. 차입원가 중 이러한 부분은 원가가 발생한 기간에 비용으로 인식한다.",
+      "html": "일반적으로 인플레이션의 영향은 차입원가에 인식된다. 차입으로 조달한 자본적지출 금액을 재작성하면서 동시에 차입원가 중 동일 기간의 인플레이션을 보상하기 위한 부분을 자본화하는 것은 적절하지 않다. 차입원가 중 이러한 부분은 원가가 발생한 기간에 비용으로 인식한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "22",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "명시적 이자를 부담하지 않고 대금 지급을 지연할 수 있도록 약정하고 자산을 취득할 수 있다. 내재적 이자금액을 계산하는 것이 실무적으로 가능하지 않은 경우, 그러한 자산은 매수일이 아니라 대금지급일부터 재작성한다.",
+      "html": "명시적 이자를 부담하지 않고 대금 지급을 지연할 수 있도록 약정하고 자산을 취득할 수 있다. 내재적 이자금액을 계산하는 것이 실무적으로 가능하지 않은 경우, 그러한 자산은 매수일이 아니라 대금지급일부터 재작성한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "23",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "[국제회계기준위원회에 의하여 삭제됨]",
+      "html": "[국제회계기준위원회에 의하여 삭제됨]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "24",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "이 기준서를 처음으로 적용하는 회계기간의 개시일에 이익잉여금과 재평가잉여금을 제외한 자본의 구성요소는 불입되거나 발생한 날부터 일반물가지수를 적용하여 재작성한다. 이 기준서를 처음 적용한 회계기간 전에 발생한 재평가잉여금은 제거한다. 이익잉여금을 제외한 모든 재무상태표 항목을 재작성하여 이익잉여금의 재작성 금액을 산출한다.",
+      "html": "이 기준서를 처음으로 적용하는 회계기간의 개시일에 이익잉여금과 재평가잉여금을 제외한 자본의 구성요소는 불입되거나 발생한 날부터 일반물가지수를 적용하여 재작성한다. 이 기준서를 처음 적용한 회계기간 전에 발생한 재평가잉여금은 제거한다. 이익잉여금을 제외한 모든 재무상태표 항목을 재작성하여 이익잉여금의 재작성 금액을 산출한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "25",
+      "section_id": "Jk0Kx2",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|재무상태표",
+      "text": "이 기준서를 처음으로 적용하는 회계기간의 말과 후속 회계기간에 모든 자본의 구성요소는 회계기간의 기초 또는, 불입일이 더 늦을 경우, 불입일부터 일반물가지수를 적용하여 재작성한다. 회계기간 중 자본을 구성하는 요소의 변동은 기업회계기준서 제1001호에 따라 공시한다.",
+      "html": "이 기준서를 처음으로 적용하는 회계기간의 말과 후속 회계기간에 모든 자본의 구성요소는 회계기간의 기초 또는, 불입일이 더 늦을 경우, 불입일부터 일반물가지수를 적용하여 재작성한다. 회계기간 중 자본을 구성하는 요소의 변동은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div>에 따라 공시한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "202003C",
+          "title": "초인플레이션 해외사업장의 환산 – 외환차이의 표시",
+          "url": "/qnas/202003C",
+          "date": "2020-03-31"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "26",
+      "section_id": "R4Wcfr",
+      "section_title": "포괄손익계산서",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|포괄손익계산서",
+      "text": "포괄손익계산서의 모든 항목은 보고기간말 현재의 측정단위로 표시한다. 따라서 수익과 비용이 최초로 재무제표에 기록된 날부터 일반물가지수의 변동을 적용하여 모든 금액을 재작성할 필요가 있다.",
+      "html": "포괄손익계산서의 모든 항목은 보고기간말 현재의 측정단위로 표시한다. 따라서 수익과 비용이 최초로 재무제표에 기록된 날부터 일반물가지수의 변동을 적용하여 모든 금액을 재작성할 필요가 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "27",
+      "section_id": "qaMmHr",
+      "section_title": "순화폐성자산에서 발생하는 손익",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|순화폐성자산에서 발생하는 손익",
+      "text": "인플레이션 기간에, 화폐성부채보다 화폐성자산을 더 많이 보유하고 있는 기업은 자산과 부채가 물가수준과 연동되지 않는 만큼 구매력이 감소하며, 화폐성자산보다 화폐성부채를 더 많이 보유하고 있는 기업은 자산과 부채가 물가수준과 연동되지 않는 만큼 구매력이 증가한다. 순화폐성자산에서 발생하는 이러한 손익은 비화폐성자산, 자본, 포괄손익계산서 항목의 재작성 및 물가지수와 연동되어 있는 자산.부채의 조정으로부터 발생하는 차이에 기인한다. 순화폐성자산에서 발생하는 손익은 그 기간의 화폐성자산과 화폐성부채의 차이금액의 가중평균에 일반물가지수의 변동을 적용하여 추정할 수 있다.",
+      "html": "인플레이션 기간에, 화폐성부채보다 화폐성자산을 더 많이 보유하고 있는 기업은 자산과 부채가 물가수준과 연동되지 않는 만큼 구매력이 감소하며, 화폐성자산보다 화폐성부채를 더 많이 보유하고 있는 기업은 자산과 부채가 물가수준과 연동되지 않는 만큼 구매력이 증가한다. 순화폐성자산에서 발생하는 이러한 손익은 비화폐성자산, 자본, 포괄손익계산서 항목의 재작성 및 물가지수와 연동되어 있는 자산.부채의 조정으로부터 발생하는 차이에 기인한다. 순화폐성자산에서 발생하는 손익은 그 기간의 화폐성자산과 화폐성부채의 차이금액의 가중평균에 일반물가지수의 변동을 적용하여 추정할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "28",
+      "section_id": "qaMmHr",
+      "section_title": "순화폐성자산에서 발생하는 손익",
+      "toc_path": "본문|재무제표의 재작성|역사적원가 재무제표|순화폐성자산에서 발생하는 손익",
+      "text": "순화폐성자산에서 발생하는 손익은 당기순손익에 포함된다. 약정에 의하여 물가변동과 연동되어 있는 자산과 부채에 대하여 문단 13에 따라 이루어진 조정금액은 순화폐성자산에서 발생하는 손익과 상계한다. 투자하거나 차입한 자금과 관련된 이자수익, 이자비용, 외환차이와 같은 포괄손익계산서의 다른 항목도 순화폐성자산과 연관되어 있다. 이러한 항목은 별도로 공시되기는 하지만 포괄손익계산서에 순화폐성자산에서 발생하는 손익과 함께 표시하는 것이 유용할 수 있다.",
+      "html": "순화폐성자산에서 발생하는 손익은 당기순손익에 포함된다. 약정에 의하여 물가변동과 연동되어 있는 자산과 부채에 대하여 \n  <span class=\"mundan-finder\">문단 13</span>에 따라 이루어진 조정금액은 순화폐성자산에서 발생하는 손익과 상계한다. 투자하거나 차입한 자금과 관련된 이자수익, 이자비용, 외환차이와 같은 포괄손익계산서의 다른 항목도 순화폐성자산과 연관되어 있다. 이러한 항목은 별도로 공시되기는 하지만 포괄손익계산서에 순화폐성자산에서 발생하는 손익과 함께 표시하는 것이 유용할 수 있다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 13",
+          "standard_number": "1029",
+          "standard_title": null,
+          "range": "13",
+          "paragraph_ids": [
+            "13"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "29",
+      "section_id": "A2WRKO",
+      "section_title": "재무상태표",
+      "toc_path": "본문|재무제표의 재작성|현행원가 재무제표|재무상태표",
+      "text": "현행원가로 표시된 항목은 이미 보고기간말 현재의 측정단위로 표시되어 있기 때문에 재작성하지 않는다. 재무상태표의 다른 항목은 문단 11~25에 따라 재작성한다.",
+      "html": "현행원가로 표시된 항목은 이미 보고기간말 현재의 측정단위로 표시되어 있기 때문에 재작성하지 않는다. 재무상태표의 다른 항목은 \n  <span class=\"mundan-finder\">문단 11~25</span>에 따라 재작성한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 11~25",
+          "standard_number": "1029",
+          "standard_title": null,
+          "range": "11~25",
+          "paragraph_ids": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "30",
+      "section_id": "miMUp2",
+      "section_title": "포괄손익계산서",
+      "toc_path": "본문|재무제표의 재작성|현행원가 재무제표|포괄손익계산서",
+      "text": "재작성하기 전의 현행원가 포괄손익계산서는 일반적으로 실제의 거래나 사건이 발생한 시점의 원가를 보고한다. 매출원가와 감가상각비는 소비시점의 현행원가로 기록되며, 판매비와 기타의 비용은 발생시점의 화폐금액으로 기록된다. 그러므로 모든 금액은 일반물가지수를 적용하여 보고기간말 현재의 측정단위로 재작성할 필요가 있다.",
+      "html": "재작성하기 전의 현행원가 포괄손익계산서는 일반적으로 실제의 거래나 사건이 발생한 시점의 원가를 보고한다. 매출원가와 감가상각비는 소비시점의 현행원가로 기록되며, 판매비와 기타의 비용은 발생시점의 화폐금액으로 기록된다. 그러므로 모든 금액은 일반물가지수를 적용하여 보고기간말 현재의 측정단위로 재작성할 필요가 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "31",
+      "section_id": "IGckNX",
+      "section_title": "순화폐성자산에서 발생하는 손익",
+      "toc_path": "본문|재무제표의 재작성|현행원가 재무제표|순화폐성자산에서 발생하는 손익",
+      "text": "순화폐성자산에서 발생하는 손익은 문단 27과 문단 28에 따라 회계처리한다.",
+      "html": "순화폐성자산에서 발생하는 손익은 \n  \n  <span class=\"mundan-finder\">문단 27과 문단 28</span>에 따라 회계처리한다.\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 27과 문단 28",
+          "standard_number": "1029",
+          "standard_title": null,
+          "range": "27과 문단 28",
+          "paragraph_ids": [
+            "27",
+            "28"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "32",
+      "section_id": "Z9T81m",
+      "section_title": "법인세",
+      "toc_path": "본문|재무제표의 재작성|법인세",
+      "text": "이 기준서에 따라 재무제표를 재작성하는 경우 재무상태표의 개별 자산.부채의 장부금액과 세무기준액의 차이가 발생할 수 있다. 이러한 차이는 기업회계기준서 제1012호 ‘법인세’에 따라 회계처리한다.",
+      "html": "이 기준서에 따라 재무제표를 재작성하는 경우 재무상태표의 개별 자산.부채의 장부금액과 세무기준액의 차이가 발생할 수 있다. 이러한 차이는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div> ‘법인세’에 따라 회계처리한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "33",
+      "section_id": "5aagDg",
+      "section_title": "현금흐름표",
+      "toc_path": "본문|재무제표의 재작성|현금흐름표",
+      "text": "이 기준서는 현금흐름표의 모든 항목을 보고기간말 현재의 측정단위로 표시하도록 하고 있다.",
+      "html": "이 기준서는 현금흐름표의 모든 항목을 보고기간말 현재의 측정단위로 표시하도록 하고 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "34",
+      "section_id": "VTvSUV",
+      "section_title": "대응수치",
+      "toc_path": "본문|재무제표의 재작성|대응수치",
+      "text": "역사적원가에 기초하든지 현행원가에 기초하든지 전기의 대응수치는 비교재무제표를 보고기간말 현재의 측정단위로 표시할 수 있도록 일반물가지수를 적용하여 재작성한다. 전기 이전의 회계기간에 관하여 공시된 정보도 보고기간말 현재의 측정단위로 표시한다. 비교표시되는 금액을 다른 표시통화로 표시하는 경우에는 기업회계기준서 제1021호의 문단 42(2)와 문단 43을 적용한다.",
+      "html": "역사적원가에 기초하든지 현행원가에 기초하든지 전기의 대응수치는 비교재무제표를 보고기간말 현재의 측정단위로 표시할 수 있도록 일반물가지수를 적용하여 재작성한다. 전기 이전의 회계기간에 관하여 공시된 정보도 보고기간말 현재의 측정단위로 표시한다. 비교표시되는 금액을 다른 표시통화로 표시하는 경우에는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div>의 \n  \n  <span class=\"mundan-finder\">문단 42(2)와 문단 43</span>을 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1021호",
+          "standard_number": "1021",
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 42(2)와 문단 43",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "42(2)와 문단 43",
+          "paragraph_ids": [
+            "42",
+            "43"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "35",
+      "section_id": "cz62nh",
+      "section_title": "연결재무제표",
+      "toc_path": "본문|재무제표의 재작성|연결재무제표",
+      "text": "초인플레이션 경제의 통화로 재무제표를 보고하는 지배기업이 초인플레이션 경제의 통화로 재무제표를 보고하는 종속기업을 가지는 경우가 있다. 이러한 종속기업의 재무제표는 연결재무제표에 포함하기 전에 종속기업의 표시통화가 통용되는 국가의 일반물가지수를 적용하여 재작성할 필요가 있다. 이 때 해외종속기업의 경우에는 재작성한 재무제표에 마감환율을 적용하여 환산한다. 초인플레이션 경제의 통화로 재무제표를 보고하지 않는 종속기업의 재무제표는 기업회계기준서 제1021호에 따라 처리한다.",
+      "html": "초인플레이션 경제의 통화로 재무제표를 보고하는 지배기업이 초인플레이션 경제의 통화로 재무제표를 보고하는 종속기업을 가지는 경우가 있다. 이러한 종속기업의 재무제표는 연결재무제표에 포함하기 전에 종속기업의 표시통화가 통용되는 국가의 일반물가지수를 적용하여 재작성할 필요가 있다. 이 때 해외종속기업의 경우에는 재작성한 재무제표에 마감환율을 적용하여 환산한다. 초인플레이션 경제의 통화로 재무제표를 보고하지 않는 종속기업의 재무제표는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">기업회계기준서 제1021호</span></div>에 따라 처리한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1021호",
+          "standard_number": "1021",
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "36",
+      "section_id": "cz62nh",
+      "section_title": "연결재무제표",
+      "toc_path": "본문|재무제표의 재작성|연결재무제표",
+      "text": "보고기간말이 서로 다른 재무제표들을 연결하는 경우에는 화폐성이든 비화폐성이든 모든 항목을 연결보고기간말 현재의 측정단위로 재작성할 필요가 있다.",
+      "html": "보고기간말이 서로 다른 재무제표들을 연결하는 경우에는 화폐성이든 비화폐성이든 모든 항목을 연결보고기간말 현재의 측정단위로 재작성할 필요가 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "37",
+      "section_id": "eCEgkG",
+      "section_title": "일반물가지수의 선택과 사용",
+      "toc_path": "본문|재무제표의 재작성|일반물가지수의 선택과 사용",
+      "text": "이 기준서에 따라 재무제표를 재작성하는 경우에는 일반구매력의 변동을 반영하는 일반물가지수를 사용하여야 한다. 동일한 경제의 통화로 재무제표를 보고하는 모든 기업은 동일한 종류의 물가지수를 사용하는 것이 바람직하다.",
+      "html": "이 기준서에 따라 재무제표를 재작성하는 경우에는 일반구매력의 변동을 반영하는 일반물가지수를 사용하여야 한다. 동일한 경제의 통화로 재무제표를 보고하는 모든 기업은 동일한 종류의 물가지수를 사용하는 것이 바람직하다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "38",
+      "section_id": "EbwzRi",
+      "section_title": "초인플레이션에서 벗어난 경제",
+      "toc_path": "본문|초인플레이션에서 벗어난 경제",
+      "text": "경제가 초인플레이션에서 벗어나서 이 기준서에 따라 재무제표를 작성하거나 표시하지 않게 된 경우에는, 직전 회계기간말 현재의 측정단위로 표시한 금액을 당기 이후의 재무제표의 장부금액에 대한 기초로 사용하여야 한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"38\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">38</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>경제가 초인플레이션에서 벗어나서 이 기준서에 따라 재무제표를 작성하거나 표시하지 않게 된 경우에는, 직전 회계기간말 현재의 측정단위로 표시한 금액을 당기 이후의 재무제표의 장부금액에 대한 기초로 사용하여야 한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "39",
+      "section_id": "bN1erG",
+      "section_title": "공시",
+      "toc_path": "본문|공시",
+      "text": "다음의 사항을 공시한다.\n(1) 재무제표와 전기 이전의 대응수치가 기능통화의 일반구매력 변동을 반영하여 재작성되어 있고, 따라서 보고기간말 현재의 측정단위로 표시되어 있다는 사실\n(2) 재무제표가 역사적원가에 기초하고 있는지 현행원가에 기초하고 있는지 여부\n(3) 보고기간말 현재의 물가지수 명칭, 수준 그리고 당기와 전기 동안의 지수 변동",
+      "html": "다음의 사항을 공시한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 재무제표와 전기 이전의 대응수치가 기능통화의 일반구매력 변동을 반영하여 재작성되어 있고, 따라서 보고기간말 현재의 측정단위로 표시되어 있다는 사실</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 재무제표가 역사적원가에 기초하고 있는지 현행원가에 기초하고 있는지 여부</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 보고기간말 현재의 물가지수 명칭, 수준 그리고 당기와 전기 동안의 지수 변동</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40",
+      "section_id": "bN1erG",
+      "section_title": "공시",
+      "toc_path": "본문|공시",
+      "text": "이 기준서에서 요구하는 공시사항은 인플레이션이 재무제표에 미치는 영향에 대한 처리기준을 명확히 하기 위하여 필요한 것이다. 또 이러한 사항은 처리기준과 처리결과 금액을 이해하는 데 필요한 기타의 정보를 제공하기 위한 것이다.",
+      "html": "이 기준서에서 요구하는 공시사항은 인플레이션이 재무제표에 미치는 영향에 대한 처리기준을 명확히 하기 위하여 필요한 것이다. 또 이러한 사항은 처리기준과 처리결과 금액을 이해하는 데 필요한 기타의 정보를 제공하기 위한 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "41",
+      "section_id": "4sMk8e",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한41.1",
+      "section_id": "4sMk8e",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 기준서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"한41.1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">한41.1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>이 기준서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "의결",
+      "section_id": "qxiTzM",
+      "section_title": "기업회계기준서 제1029호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준서 제1029호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준서 제1029호의 제정에 대한 회계기준위원회의 의결(2007년)",
+      "html": "<div value=\"웩의결\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준서 제1029호의 제정에 대한 회계기준위원회의 의결(2007년)</b></div><br><div class=\"para\">기업회계기준서 제1029호 ‘초인플레이션 경제에서의 재무보고’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">이효익(위원장), 서정우(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "bhomW2",
+      "section_id": "bhomW2",
+      "section_title": "IAS 29 ‘초인플레이션 경제에서의 재무보고(Financial Reporting in Hyperinflationary Economies)’의 결론도출근거",
+      "toc_path": "결론도출근거|IAS 29 ‘초인플레이션 경제에서의 재무보고(Financial Reporting in Hyperinflationary Economies)’의 결론도출근거",
+      "text": "## IAS 29 ‘초인플레이션 경제에서의 재무보고(Financial Reporting in Hyperinflationary Economies)’의 결론도출근거 - 이 결론도출근거는 초인플레이션 경제에서의 재무보고IAS 29에 첨부되지만, 이 기준서의 일부를 구성하는 것은 아니다. - 책갈피 추가/삭제BC1IASB가 2008년에 초인플레이션 경제에서의 재무보고IAS 29를 개정하기 위해 결론을 도출하는 과정에서 고려한 사항을 이 ‘결론도출근거’에서 요약한다. IASB 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다. - 책갈피 추가/삭제BC2개정전 기준서의 문단 6에는 많은 자산과 부채가 역사적가치보다는 현행가치에 근거하여 측정될 수 있거나 측정되어야 한다는 사실이 반영되지 않았다. 따라서 IASB는 2008년 5월에 발표된 IFRS 연차개선(Improvements to IFRSs)에 그러한 항목을 완전한 목록으로 열거하지 않고 예로 포함하였다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>IAS 29 ‘초인플레이션 경제에서의 재무보고(Financial Reporting in Hyperinflationary Economies)’의 결론도출근거</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩1\"><div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\"><i>이 결론도출근거는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">초인플레이션 경제에서의 재무보고</span><span class=\"std-finder\">IAS 29</span></div>에 첨부되지만, 이 기준서의 일부를 구성하는 것은 아니다. \n  </i></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC1\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">IASB가 2008년에 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">초인플레이션 경제에서의 재무보고</span><span class=\"std-finder\">IAS 29</span></div>를 개정하기 위해 결론을 도출하는 과정에서 고려한 사항을 이 ‘결론도출근거’에서 요약한다. IASB 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.\n\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC2\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC2\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC2</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">개정전 기준서의 문단 6에는 많은 자산과 부채가 역사적가치보다는 현행가치에 근거하여 측정될 수 있거나 측정되어야 한다는 사실이 반영되지 않았다. 따라서 IASB는 2008년 5월에 발표된 \n  <i>IFRS 연차개선(Improvements to IFRSs)</i>에 그러한 항목을 완전한 목록으로 열거하지 않고 예로 포함하였다.\n</div></div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준서 제1029호와 국제회계기준 제29호(IAS 29) 기업회계기준서 제1029호는 국제회계기준위원회가 제정한 국제회계기준 제29호(IAS 29) ‘초인플레이션 경제에서의 재무보고(Financial Reporting in Hyperinflationary Economies)’에 대응하는 기준이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한41.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일과 관련된 문단 41이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제회계기준 제29호(IAS 29)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준서 제1029호가 IAS 29의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제1029호를 준수하면 동시에 IAS 29를 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준서 제1029호와 국제회계기준 제29호(IAS 29) </h3>\n<p>기업회계기준서 제1029호는 국제회계기준위원회가 제정한 국제회계기준 제29호(IAS 29) ‘초인플레이션 경제에서의 재무보고(Financial Reporting in Hyperinflationary Economies)’에 대응하는 기준이다.</p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한41.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일과 관련된 문단 41이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제회계기준 제29호(IAS 29)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준서 제1029호가 IAS 29의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제1029호를 준수하면 동시에 IAS 29를 준수하는 것이 된다.</p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 기준서의 주요 특징",
+      "toc_path": "기타 참고사항|이 기준서의 주요 특징",
+      "text": "## 이 기준서의 주요 특징 이 기준서는 기능통화가 초인플레이션 경제의 통화인 기업의 재무제표(연결재무제표 포함)를 작성하는 데 필요한 사항을 정하고 있다. ### 1. 적용범위 이 기준서는 기능통화가 초인플레이션 경제의 통화인 기업의 재무제표(연결재무제표 포함)에 적용한다. 이 기준서는 초인플레이션의 판단기준이 되는 인플레이션율의 절대비율을 정하고 있지 않으므로 이 기준서에 따라 재무제표를 재작성할 필요가 있는지 결정하는 것은 판단의 문제이다. 초인플레이션 여부는 특정 국가의 경제환경의 특성으로 판단할 수 있는데 그 예는 다음과 같다. ### 2. 재무제표의 재작성 ### 3. 초인플레이션에서 벗어난 경제 경제가 초인플레이션에서 벗어나서 이 기준서에 따라 재무제표를 작성하거나 표시하지 않게 된 경우에는, 직전 회계기간 말의 측정단위로 표시한 금액을 당기 이후의 재무제표의 장부금액에 대한 기초로 사용하여야 한다. ### 4. 공시 다음의 사항을 공시한다. 이 기준서에서 요구하는 공시사항은 인플레이션이 재무제표에 미치는 영향에 대한 처리기준을 명확히 하기 위하여 필요한 것이다. 또 이러한 사항은 처리기준과 처리결과를 이해하는 데 필요한 기타의 정보를 제공하기 위한 것이다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 기준서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 기준서는 기능통화가 초인플레이션 경제의 통화인 기업의 재무제표(연결재무제표 포함)를 작성하는 데 필요한 사항을 정하고 있다.</p>\n<h3>1. 적용범위</h3>\n<p>\t이 기준서는 기능통화가 초인플레이션 경제의 통화인 기업의 재무제표(연결재무제표 포함)에 적용한다.  </p>\n<p>\t이 기준서는 초인플레이션의 판단기준이 되는 인플레이션율의 절대비율을 정하고 있지 않으므로 이 기준서에 따라 재무제표를 재작성할 필요가 있는지 결정하는 것은 판단의 문제이다. 초인플레이션 여부는 특정 국가의 경제환경의 특성으로 판단할 수 있는데 그 예는 다음과 같다.</p>\n<h3>2. 재무제표의 재작성</h3>\n<h3>3. 초인플레이션에서 벗어난 경제</h3>\n<p>\t경제가 초인플레이션에서 벗어나서 이 기준서에 따라 재무제표를 작성하거나 표시하지 않게 된 경우에는, 직전 회계기간 말의 측정단위로 표시한 금액을 당기 이후의 재무제표의 장부금액에 대한 기초로 사용하여야 한다.</p>\n<h3>4. 공시</h3>\n<p>\t다음의 사항을 공시한다.</p>\n<p>\t이 기준서에서 요구하는 공시사항은 인플레이션이 재무제표에 미치는 영향에 대한 처리기준을 명확히 하기 위하여 필요한 것이다. 또 이러한 사항은 처리기준과 처리결과를 이해하는 데 필요한 기타의 정보를 제공하기 위한 것이다.</p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 다음과 같이 제․개정하였다. \n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2008.11.28. 개정 | 한국채택국제회계기준 연차개선 | Improvements to IFRSs |\n| 2007.11.23. 제정 | 초인플레이션 경제에서의 재무보고 | IAS 29 Financial Reporting in Hyperinflationary Economies |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 다음과 같이 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin: 0px; padding: 0px; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 191px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; letter-spacing: -0.09em; font-weight: bold;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 248px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">2008.11.28. 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 191px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">한국채택국제회계기준&nbsp;</span></p><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">연차개선</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 248px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 24px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">Improvements to IFRSs</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 49px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: center; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">2007.11.23. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 191px; height: 49px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">초인플레이션 경제에서의 재무보고</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 248px; height: 49px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: left; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-family: 휴먼명조;\">IAS 29 Financial Reporting in Hyperinflationary Economies</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1001": [
+      "8",
+      "25"
+    ],
+    "1021": [
+      "8",
+      "34",
+      "35"
+    ],
+    "1012": [
+      "32"
+    ]
+  },
+  "qna_index": {
+    "202003C": [
+      "25"
+    ]
+  }
+}

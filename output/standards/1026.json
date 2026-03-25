@@ -1,0 +1,737 @@
+{
+  "standard_id": "1026",
+  "standard_type": "기업회계기준서",
+  "title": "퇴직급여제도에 의한 회계처리와 보고",
+  "url": "https://db.kasb.or.kr/s/1026",
+  "crawled_at": "2026-03-24T04:52:37.760190+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/1026/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/1026/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "6jQrBT",
+          "href": "/s/1026/6jQrBT",
+          "paragraph_range": "한1.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "gz7UIa",
+          "href": "/s/1026/gz7UIa",
+          "paragraph_range": "1 ~ 7",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "용어의 정의",
+          "section_id": "Yj9lUM",
+          "href": "/s/1026/Yj9lUM",
+          "paragraph_range": "8 ~ 12",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "확정기여제도",
+          "section_id": "TRhvn6",
+          "href": "/s/1026/TRhvn6",
+          "paragraph_range": "13 ~ 16",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "확정급여제도",
+          "section_id": "RUD7L3",
+          "href": "/s/1026/RUD7L3",
+          "paragraph_range": "17 ~ 31",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "약정퇴직급여의 보험수리적 현재가치",
+              "section_id": "RJLRvY",
+              "href": "/s/1026/RJLRvY",
+              "paragraph_range": "23 ~ 26",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "보험수리적 평가의 빈도",
+              "section_id": "7Wn5o7",
+              "href": "/s/1026/7Wn5o7",
+              "paragraph_range": "27",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "재무제표의 내용",
+              "section_id": "8Q6Q6P",
+              "href": "/s/1026/8Q6Q6P",
+              "paragraph_range": "28 ~ 31",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2.0,
+          "title": "모든 제도",
+          "section_id": "a7DtwG",
+          "href": "/s/1026/a7DtwG",
+          "paragraph_range": "32 ~ 38",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "제도자산의 평가",
+              "section_id": "sekFX8",
+              "href": "/s/1026/sekFX8",
+              "paragraph_range": "32 ~ 33",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "공시",
+              "section_id": "fQXzfq",
+              "href": "/s/1026/fQXzfq",
+              "paragraph_range": "34 ~ 36",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "sOeLJF",
+          "href": "/s/1026/sOeLJF",
+          "paragraph_range": "37 ~ 38",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준서 제1026호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "qsfGam",
+          "href": "/s/1026/qsfGam",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/1026/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 기준서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/1026/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/1026/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "한1.1",
+      "section_id": "6jQrBT",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 기준서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"한1.1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">한1.1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>이 기준서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "gz7UIa",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 퇴직급여제도의 재무제표를 작성할 때 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>이 기준서는 퇴직급여제도의 재무제표를 작성할 때 적용한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "gz7UIa",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "퇴직급여제도는 ‘연금계획’, ‘노령퇴직연금계획’, ‘퇴직급여계획’ 등의 다른 명칭으로 언급되기도 한다. 이 기준서에서는 퇴직급여제도를 제도가입자의 사용자와는 구별된 보고실체로 본다. 이 기준서에서 특별히 정하고 있지 않는 한 다른 모든 한국채택국제회계기준서도 퇴직급여제도의 재무제표에 적용한다.",
+      "html": "퇴직급여제도는 ‘연금계획’, ‘노령퇴직연금계획’, ‘퇴직급여계획’ 등의 다른 명칭으로 언급되기도 한다. 이 기준서에서는 퇴직급여제도를 제도가입자의 사용자와는 구별된 보고실체로 본다. 이 기준서에서 특별히 정하고 있지 않는 한 다른 모든 한국채택국제회계기준서도 퇴직급여제도의 재무제표에 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "gz7UIa",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 퇴직급여제도에 의한 가입자 전체를 대상으로 하는 회계처리와 보고를 규정한다. 이 기준서는 개별 가입자를 대상으로 하는 가입자의 퇴직급여수급권에 대한 보고는 규정하지 아니한다.",
+      "html": "이 기준서는 퇴직급여제도에 의한 가입자 전체를 대상으로 하는 회계처리와 보고를 규정한다. 이 기준서는 개별 가입자를 대상으로 하는 가입자의 퇴직급여수급권에 대한 보고는 규정하지 아니한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "gz7UIa",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "기업회계기준서 제1019호 ‘종업원급여’는 제도를 시행하고 있는 사용자의 재무제표에서 퇴직급여원가를 결정하는 것과 관련이 있다. 따라서 이 기준서는 기업회계기준서 제1019호를 보충해 준다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">종업원급여</span><span class=\"std-finder\">기업회계기준서 제1019호</span></div> ‘종업원급여’는 제도를 시행하고 있는 사용자의 재무제표에서 퇴직급여원가를 결정하는 것과 관련이 있다. 따라서 이 기준서는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">종업원급여</span><span class=\"std-finder\">기업회계기준서 제1019호</span></div>를 보충해 준다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1019호",
+          "standard_number": "1019",
+          "standard_title": "종업원급여",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "gz7UIa",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "퇴직급여제도는 확정기여제도와 확정급여제도로 구분될 수 있다. 퇴직급여제도는 기여금을 받고 퇴직급여를 지급하는 별도의 기금을 설립하는 경우가 많은데, 기금은 별도의 법적 정체성을 갖거나 갖지 않을 수 있고, 수탁자를 갖거나 갖지 않을 수 있다. 이 기준서는 별도의 기금을 설립하는지 여부와 수탁자가 있는지 여부에 관계없이 적용한다.",
+      "html": "퇴직급여제도는 확정기여제도와 확정급여제도로 구분될 수 있다. 퇴직급여제도는 기여금을 받고 퇴직급여를 지급하는 별도의 기금을 설립하는 경우가 많은데, 기금은 별도의 법적 정체성을 갖거나 갖지 않을 수 있고, 수탁자를 갖거나 갖지 않을 수 있다. 이 기준서는 별도의 기금을 설립하는지 여부와 수탁자가 있는지 여부에 관계없이 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "gz7UIa",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "퇴직급여제도가 보험회사를 통하여 자산을 투자운용하는 경우에도 사적으로 자산을 투자운용하는 경우와 동일한 회계처리와 기금적립요건을 적용한다. 따라서 그러한 보험회사와의 계약이 특정 제도가입자나 특정 제도가입자단체의 명의로 이루어지면서 퇴직급여의 지급의무가 전적으로 보험회사에게 귀속되는 경우가 아닌 한 퇴직급여제도는 이 기준서의 적용범위에 포함된다.",
+      "html": "퇴직급여제도가 보험회사를 통하여 자산을 투자운용하는 경우에도 사적으로 자산을 투자운용하는 경우와 동일한 회계처리와 기금적립요건을 적용한다. 따라서 그러한 보험회사와의 계약이 특정 제도가입자나 특정 제도가입자단체의 명의로 이루어지면서 퇴직급여의 지급의무가 전적으로 보험회사에게 귀속되는 경우가 아닌 한 퇴직급여제도는 이 기준서의 적용범위에 포함된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "gz7UIa",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 해고보상금, 이연보상약정, 장기근속휴가, 특별조기퇴직ㆍ해고제도, 의료 및 복리후생제도 또는 상여금제도와 같은 다른 형태의 종업원급여에 대해서는 규정하지 아니한다. 또한 정부의 사회보장형약정도 이 기준서의 적용범위에서 제외된다.",
+      "html": "이 기준서는 해고보상금, 이연보상약정, 장기근속휴가, 특별조기퇴직ㆍ해고제도, 의료 및 복리후생제도 또는 상여금제도와 같은 다른 형태의 종업원급여에 대해서는 규정하지 아니한다. 또한 정부의 사회보장형약정도 이 기준서의 적용범위에서 제외된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "Yj9lUM",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "이 기준서에서 사용하는 용어의 정의는 다음과 같다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"8\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">8</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">이 기준서에서 사용하는 용어의 정의는 다음과 같다.</div><br><div class=\"para\"><i>퇴직급여제도</i>: 종업원이 퇴직한 때 또는 퇴직한 후에 일시불이나 연금의 형식으로 급여를 지급하기로 하는 약정. 퇴직급여제도에서 종업원에게 지급하는 급여와 급여지급을 위해 사용자가 납부하는 기여금은 종업원이 퇴직하기 전에 이미 명문의 규정이나 관행에 따라 결정되거나 추정할 수 있다.\n  </div><br><div class=\"para\"><i>확정기여제도</i>: 종업원에게 지급할 퇴직급여금액이 기금에 출연하는 기여금과 그 투자수익에 의해 결정되는 퇴직급여제도\n  </div><br><div class=\"para\"><i>확정급여제도</i>: 종업원에게 지급할 퇴직급여금액이 일반적으로 종업원의 임금과 근무연수에 기초하는 산정식에 의해 결정되는 퇴직급여제도\n  </div><br><div class=\"para\"><i>기금적립</i>: 퇴직급여를 지급할 미래의무를 충족하기 위해 사용자와는 구별된 실체(기금)에 자산을 이전하는 것\n  </div><br><div class=\"para\">이 기준서의 목적상 다음의 용어도 사용된다.</div><br><div class=\"para\"><i>가입자</i>: 퇴직급여제도의 구성원과 퇴직급여제도에 따라 급여에 대한 자격을 획득한 그 밖의 자\n  </div><br><div class=\"para\"><i>급여지급에 이용가능한 순자산</i>: 제도의 자산에서 약정퇴직급여의 보험수리적 현재가치를 제외한 부채를 차감한 잔액\n  </div><br><div class=\"para\"><i>약정퇴직급여의 보험수리적 현재가치</i>: 퇴직급여제도에 의거하여 현직 및 전직 종업원에게 이미 제공한 근무용역에 대해 지급할 예상퇴직급여의 현재가치\n  </div><br><div class=\"para\"><i>가득급여</i>: 종업원의 미래 계속 근무와 관계없이 퇴직급여제도에 따라 받을 권리가 있는 급여\n  </div></b></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "Yj9lUM",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "퇴직급여제도의 기금적립에 사용자 외에 다른 후원자가 참여하는 경우도 있다. 이 기준서는 그러한 경우에도 적용한다.",
+      "html": "퇴직급여제도의 기금적립에 사용자 외에 다른 후원자가 참여하는 경우도 있다. 이 기준서는 그러한 경우에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "Yj9lUM",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "대부분의 퇴직급여제도의 운영은 공식적인 약정에 근거한다. 일부 제도의 경우 공식적이지는 않지만 사용자의 기존 관행으로 인해 급여지급의무가 발생할 수 있다. 경우에 따라서는 사용자의 급여지급의무를 제한하도록 허용하는 제도도 있지만, 일반적으로 사용자가 종업원을 계속 고용하고자 한다면 제도를 폐지하기가 어렵다. 비공식적 제도에도 공식적 제도와 동일한 회계처리와 보고기준을 적용한다.",
+      "html": "대부분의 퇴직급여제도의 운영은 공식적인 약정에 근거한다. 일부 제도의 경우 공식적이지는 않지만 사용자의 기존 관행으로 인해 급여지급의무가 발생할 수 있다. 경우에 따라서는 사용자의 급여지급의무를 제한하도록 허용하는 제도도 있지만, 일반적으로 사용자가 종업원을 계속 고용하고자 한다면 제도를 폐지하기가 어렵다. 비공식적 제도에도 공식적 제도와 동일한 회계처리와 보고기준을 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "Yj9lUM",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "다수의 퇴직급여제도는 기여금을 출연받고 급여를 지급하는 별도의 기금을 설립하도록 규정하고 있다. 기금은 기금자산운용에 있어 독립성을 갖춘 당사자가 관리하는데 이러한 당사자가 수탁자이다. 이 기준서에서 수탁자는 실제로 신탁이 설정되었는지와 관계없이 기금자산운용에 있어 독립성을 갖춘 당사자를 의미한다.",
+      "html": "다수의 퇴직급여제도는 기여금을 출연받고 급여를 지급하는 별도의 기금을 설립하도록 규정하고 있다. 기금은 기금자산운용에 있어 독립성을 갖춘 당사자가 관리하는데 이러한 당사자가 수탁자이다. 이 기준서에서 수탁자는 실제로 신탁이 설정되었는지와 관계없이 기금자산운용에 있어 독립성을 갖춘 당사자를 의미한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "Yj9lUM",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "일반적으로 퇴직급여제도는 특성에 따라 확정기여제도나 확정급여제도 중 하나로 분류된다. 제도에 따라 두 가지 특성을 모두 가진 경우도 있다. 이 기준서는 이러한 혼합형 제도를 확정급여제도로 본다.",
+      "html": "일반적으로 퇴직급여제도는 특성에 따라 확정기여제도나 확정급여제도 중 하나로 분류된다. 제도에 따라 두 가지 특성을 모두 가진 경우도 있다. 이 기준서는 이러한 혼합형 제도를 확정급여제도로 본다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "TRhvn6",
+      "section_title": "확정기여제도",
+      "toc_path": "본문|확정기여제도",
+      "text": "확정기여제도의 재무제표는 급여지급에 이용가능한 순자산 보고서와 기금적립정책에 관한 설명을 포함한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"13\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">13</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>확정기여제도의 재무제표는 급여지급에 이용가능한 순자산 보고서와 기금적립정책에 관한 설명을 포함한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "TRhvn6",
+      "section_title": "확정기여제도",
+      "toc_path": "본문|확정기여제도",
+      "text": "확정기여제도에서 가입자의 미래급여금액은 사용자나 가입자가 출연하는 기여금과 기금의 운영효율성 및 투자수익에 따라 결정된다. 일반적으로 사용자는 기금에 기여금을 출연함으로써 급여지급의무를 다한다. 현재 기여금이나 미래 기여금의 예상수준 및 투자수익에 기초하여 달성될 미래급여를 추정하기 위하여 보험계리인의 자문을 받는 경우도 있지만 일반적으로 그러한 보험계리인의 자문이 요구되는 것은 아니다.",
+      "html": "확정기여제도에서 가입자의 미래급여금액은 사용자나 가입자가 출연하는 기여금과 기금의 운영효율성 및 투자수익에 따라 결정된다. 일반적으로 사용자는 기금에 기여금을 출연함으로써 급여지급의무를 다한다. 현재 기여금이나 미래 기여금의 예상수준 및 투자수익에 기초하여 달성될 미래급여를 추정하기 위하여 보험계리인의 자문을 받는 경우도 있지만 일반적으로 그러한 보험계리인의 자문이 요구되는 것은 아니다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "TRhvn6",
+      "section_title": "확정기여제도",
+      "toc_path": "본문|확정기여제도",
+      "text": "가입자는 제도의 활동이 자신의 미래급여수준에 직접 영향을 주기 때문에 제도의 활동에 관심을 갖는다. 즉, 가입자는 기여금이 출연되었는지, 수급권 보호를 위해 적절한 통제가 실행되고 있는지에 관심이 있다. 한편 사용자는 제도의 효율적이고 공정한 운영에 관심이 있다.",
+      "html": "가입자는 제도의 활동이 자신의 미래급여수준에 직접 영향을 주기 때문에 제도의 활동에 관심을 갖는다. 즉, 가입자는 기여금이 출연되었는지, 수급권 보호를 위해 적절한 통제가 실행되고 있는지에 관심이 있다. 한편 사용자는 제도의 효율적이고 공정한 운영에 관심이 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "TRhvn6",
+      "section_title": "확정기여제도",
+      "toc_path": "본문|확정기여제도",
+      "text": "확정기여제도의 보고목적은 제도와 그 투자성과에 대한 정보를 정기적으로 제공하는 데 있다. 이러한 목적은 일반적으로 다음과 같은 사항을 포함한 재무제표를 제공함으로써 달성할 수 있다.\n(1) 회계기간 중의 유의적 활동, 제도와 관련된 변동사항의 영향, 제도의 가입자격과 조건 및 주요 조항에 대한 설명\n(2) 회계기간 중의 거래 및 투자성과와 회계기간말 현재 제도의 재무상태에 대한 보고서\n(3) 투자 정책에 대한 설명",
+      "html": "확정기여제도의 보고목적은 제도와 그 투자성과에 대한 정보를 정기적으로 제공하는 데 있다. 이러한 목적은 일반적으로 다음과 같은 사항을 포함한 재무제표를 제공함으로써 달성할 수 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 회계기간 중의 유의적 활동, 제도와 관련된 변동사항의 영향, 제도의 가입자격과 조건 및 주요 조항에 대한 설명</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 회계기간 중의 거래 및 투자성과와 회계기간말 현재 제도의 재무상태에 대한 보고서</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 투자 정책에 대한 설명</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "17",
+      "section_id": "RUD7L3",
+      "section_title": "확정급여제도",
+      "toc_path": "본문|확정급여제도",
+      "text": "확정급여제도의 재무제표는 다음 중 하나를 포함한다.\n(1) 다음 사항을 나타내는 보고서\n(가) 급여지급에 이용가능한 순자산\n(나) 약정퇴직급여의 보험수리적 현재가치. 가득급여와 비가득급여로 구분한다.\n(다) 초과액 또는 부족액\n(2) 다음 중 하나를 포함하여 급여지급에 이용가능한 순자산을 나타내는 보고서\n(가) 약정퇴직급여의 보험수리적 현재가치에 관한 주석공시. 가득급여와 비가득급여로 구분한다.\n(나) 첨부된 보험수리보고서에 있는 약정퇴직급여의 보험수리적 현재가치에 관한 정보로의 참조표시\n재무제표일 현재 보험수리적 평가가 이루어지지 못한 경우에는 최근의 평가를 재무제표 작성근거로 사용하고 최근 평가일을 공시한다.",
+      "html": "확정급여제도의 재무제표는 다음 중 하나를 포함한다.\n재무제표일 현재 보험수리적 평가가 이루어지지 못한 경우에는 최근의 평가를 재무제표 작성근거로 사용하고 최근 평가일을 공시한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 다음 사항을 나타내는 보고서</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"> 급여지급에 이용가능한 순자산</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\"> 약정퇴직급여의 보험수리적 현재가치. 가득급여와 비가득급여로 구분한다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(다)</div><div class=\"para-num-item-para-con\"> 초과액 또는 부족액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 다음 중 하나를 포함하여 급여지급에 이용가능한 순자산을 나타내는 보고서</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"> 약정퇴직급여의 보험수리적 현재가치에 관한 주석공시. 가득급여와 비가득급여로 구분한다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\"> 첨부된 보험수리보고서에 있는 약정퇴직급여의 보험수리적 현재가치에 관한 정보로의 참조표시</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "18",
+      "section_id": "RUD7L3",
+      "section_title": "확정급여제도",
+      "toc_path": "본문|확정급여제도",
+      "text": "문단 17을 적용할 때 약정퇴직급여의 보험수리적 현재가치는 이미 제공된 근무용역에 대해 제도규약에 따라 책정되는 급여에 기초하여 결정한다. 보험수리적 현재가치는 현재임금수준이나 미래예측임금수준을 사용하여 결정하며 둘 중 사용된 기준을 공시한다. 보험수리적 가정의 변경이 약정퇴직급여의 보험수리적 현재가치에 유의적 영향을 미치는 경우에는 그 변경효과도 공시한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"18\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">18</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b><span class=\"mundan-finder\">문단 17</span>을 적용할 때 약정퇴직급여의 보험수리적 현재가치는 이미 제공된 근무용역에 대해 제도규약에 따라 책정되는 급여에 기초하여 결정한다. 보험수리적 현재가치는 현재임금수준이나 미래예측임금수준을 사용하여 결정하며 둘 중 사용된 기준을 공시한다. 보험수리적 가정의 변경이 약정퇴직급여의 보험수리적 현재가치에 유의적 영향을 미치는 경우에는 그 변경효과도 공시한다.\n  </b></div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 17",
+          "standard_number": "1026",
+          "standard_title": null,
+          "range": "17",
+          "paragraph_ids": [
+            "17"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "19",
+      "section_id": "RUD7L3",
+      "section_title": "확정급여제도",
+      "toc_path": "본문|확정급여제도",
+      "text": "확정급여제도의 재무제표에는 약정퇴직급여의 보험수리적 현재가치와 급여지급에 이용가능한 순자산 사이의 관계, 그리고 약정급여를 위한 기금적립정책에 대한 설명이 있어야 한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"19\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">19</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>확정급여제도의 재무제표에는 약정퇴직급여의 보험수리적 현재가치와 급여지급에 이용가능한 순자산 사이의 관계, 그리고 약정급여를 위한 기금적립정책에 대한 설명이 있어야 한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "20",
+      "section_id": "RUD7L3",
+      "section_title": "확정급여제도",
+      "toc_path": "본문|확정급여제도",
+      "text": "확정급여제도에서 약정퇴직급여의 지급은 제도의 재무상태, 출연자의 미래 기여금 출연능력, 제도의 투자성과 및 운영효율성에 따라 달라진다.",
+      "html": "확정급여제도에서 약정퇴직급여의 지급은 제도의 재무상태, 출연자의 미래 기여금 출연능력, 제도의 투자성과 및 운영효율성에 따라 달라진다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "21",
+      "section_id": "RUD7L3",
+      "section_title": "확정급여제도",
+      "toc_path": "본문|확정급여제도",
+      "text": "확정급여제도에서는 제도의 재무상태 평가, 보험수리적 가정의 검토 및 미래 기여금수준의 권고를 위하여 보험계리인에게서 정기적인 조언을 얻을 필요가 있다.",
+      "html": "확정급여제도에서는 제도의 재무상태 평가, 보험수리적 가정의 검토 및 미래 기여금수준의 권고를 위하여 보험계리인에게서 정기적인 조언을 얻을 필요가 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "22",
+      "section_id": "RUD7L3",
+      "section_title": "확정급여제도",
+      "toc_path": "본문|확정급여제도",
+      "text": "확정급여제도의 보고목적은 일정기간에 걸쳐 자원축적과 제도급여 사이의 관계를 평가하는 데 유용한 제도의 재무자원과 활동에 대한 정보를 정기적으로 제공하는 데 있다. 확정급여제도의 보고목적은 일반적으로 다음과 같은 사항을 포함한 재무제표를 제공함으로써 달성할 수 있다.\n(1) 회계기간 중의 유의적 활동, 제도와 관련된 변동사항의 영향 및 제도의 가입자격과 조건 및 주요 조항에 대한 설명\n(2) 회계기간 중의 거래 및 투자성과와 회계기간말 현재 제도의 재무상태에 대한 보고서\n(3) 보험수리적 정보. 이 정보는 재무제표의 일부로서 또는 별도의 보고서로써 제공할 수 있다.\n(4) 투자 정책에 대한 설명",
+      "html": "확정급여제도의 보고목적은 일정기간에 걸쳐 자원축적과 제도급여 사이의 관계를 평가하는 데 유용한 제도의 재무자원과 활동에 대한 정보를 정기적으로 제공하는 데 있다. 확정급여제도의 보고목적은 일반적으로 다음과 같은 사항을 포함한 재무제표를 제공함으로써 달성할 수 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 회계기간 중의 유의적 활동, 제도와 관련된 변동사항의 영향 및 제도의 가입자격과 조건 및 주요 조항에 대한 설명</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 회계기간 중의 거래 및 투자성과와 회계기간말 현재 제도의 재무상태에 대한 보고서</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 보험수리적 정보. 이 정보는 재무제표의 일부로서 또는 별도의 보고서로써 제공할 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 투자 정책에 대한 설명</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "23",
+      "section_id": "RJLRvY",
+      "section_title": "약정퇴직급여의 보험수리적 현재가치",
+      "toc_path": "본문|확정급여제도|약정퇴직급여의 보험수리적 현재가치",
+      "text": "퇴직급여제도에 따른 예상지급액의 현재가치는 가입자의 현재임금수준이나 예상퇴직시점까지의 미래예측임금수준을 사용하여 계산하고 보고한다.",
+      "html": "퇴직급여제도에 따른 예상지급액의 현재가치는 가입자의 현재임금수준이나 예상퇴직시점까지의 미래예측임금수준을 사용하여 계산하고 보고한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "24",
+      "section_id": "RJLRvY",
+      "section_title": "약정퇴직급여의 보험수리적 현재가치",
+      "toc_path": "본문|확정급여제도|약정퇴직급여의 보험수리적 현재가치",
+      "text": "현재임금수준에 기초하여 현재가치를 계산할 수 있는 근거는 다음과 같다.\n(1) 약정퇴직급여의 보험수리적 현재가치를 현재 상황에서 각 제도가입자에게 귀속되는 금액의 총합계로 계산하면 미래예측임금수준을 사용하는 경우보다 가정이 덜 필요하기 때문에 계산결과의 객관성이 높아진다.\n(2) 임금상승으로 인한 퇴직급여증가에 대한 의무는 실제로 임금이 상승할 때 발생한다.\n(3) 현재임금수준을 사용하여 계산한 약정퇴직급여의 보험수리적 현재가치는 제도가 폐지되거나 중단되는 경우 지급할 금액과 더 밀접한 관련이 있다.",
+      "html": "현재임금수준에 기초하여 현재가치를 계산할 수 있는 근거는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 약정퇴직급여의 보험수리적 현재가치를 현재 상황에서 각 제도가입자에게 귀속되는 금액의 총합계로 계산하면 미래예측임금수준을 사용하는 경우보다 가정이 덜 필요하기 때문에 계산결과의 객관성이 높아진다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 임금상승으로 인한 퇴직급여증가에 대한 의무는 실제로 임금이 상승할 때 발생한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 현재임금수준을 사용하여 계산한 약정퇴직급여의 보험수리적 현재가치는 제도가 폐지되거나 중단되는 경우 지급할 금액과 더 밀접한 관련이 있다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "25",
+      "section_id": "RJLRvY",
+      "section_title": "약정퇴직급여의 보험수리적 현재가치",
+      "toc_path": "본문|확정급여제도|약정퇴직급여의 보험수리적 현재가치",
+      "text": "미래예측임금수준에 기초하여 현재가치를 계산할 수 있는 근거는 다음과 같다.\n(1) 재무정보는 가정과 추정치에 불구하고 계속기업가정에 기초하여 작성하여야 한다.\n(2) 최종임금기준산정방식제도에서는 퇴직급여를 퇴직일 또는 퇴직일에 근접한 날의 임금수준에 기초하여 결정한다. 따라서 임금수준, 기여금수준과 투자수익률을 추정하여야 한다.\n(3) 대부분의 기금적립이 미래임금예측에 기초하여 이루어지고 있는 경우 약정퇴직급여의 보험수리적 현재가치에 미래예측임금수준이 반영되지 않는다면 제도의 재무제표에 실제와 다른 재무정보가 보고될 수 있다. 예를 들어, 실제로 기금에 초과액이 없는데도 재무제표에는 기금이 초과적립된 것처럼 보고되거나, 실제로 기금에 부족액이 있는데도 재무제표에는 기금이 적정하게 적립되고 있는 것처럼 보고될 수 있다.",
+      "html": "미래예측임금수준에 기초하여 현재가치를 계산할 수 있는 근거는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 재무정보는 가정과 추정치에 불구하고 계속기업가정에 기초하여 작성하여야 한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 최종임금기준산정방식제도에서는 퇴직급여를 퇴직일 또는 퇴직일에 근접한 날의 임금수준에 기초하여 결정한다. 따라서 임금수준, 기여금수준과 투자수익률을 추정하여야 한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 대부분의 기금적립이 미래임금예측에 기초하여 이루어지고 있는 경우 약정퇴직급여의 보험수리적 현재가치에 미래예측임금수준이 반영되지 않는다면 제도의 재무제표에 실제와 다른 재무정보가 보고될 수 있다. 예를 들어, 실제로 기금에 초과액이 없는데도 재무제표에는 기금이 초과적립된 것처럼 보고되거나, 실제로 기금에 부족액이 있는데도 재무제표에는 기금이 적정하게 적립되고 있는 것처럼 보고될 수 있다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "26",
+      "section_id": "RJLRvY",
+      "section_title": "약정퇴직급여의 보험수리적 현재가치",
+      "toc_path": "본문|확정급여제도|약정퇴직급여의 보험수리적 현재가치",
+      "text": "현재임금수준에 기초하여 계산된 약정퇴직급여의 보험수리적 현재가치는 재무제표일까지 발생한 급여지급의무를 나타내기 위해 제도의 재무제표에 공시한다. 미래예측임금수준에 기초하여 계산된 약정퇴직급여의 보험수리적 현재가치(일반적으로 기금적립의 근거로 사용된다)는 계속기업가정에 기초한 잠재적인 급여지급의무의 크기를 나타내기 위해 공시한다. 약정퇴직급여의 보험수리적 현재가치에 관한 내용을 명확히 전달하기 위해서는 약정퇴직급여의 보험수리적 현재가치를 공시하는 것 외에도 추가로 충분한 설명이 필요할 수 있다. 이러한 설명은 미래기금적립계획 및 임금예측에 기초한 기금적립정책의 적정성에 대한 정보제공으로 이루어질 수 있으며, 제도의 재무제표나 보험계리인의 보고서에 포함될 수 있다.",
+      "html": "현재임금수준에 기초하여 계산된 약정퇴직급여의 보험수리적 현재가치는 재무제표일까지 발생한 급여지급의무를 나타내기 위해 제도의 재무제표에 공시한다. 미래예측임금수준에 기초하여 계산된 약정퇴직급여의 보험수리적 현재가치(일반적으로 기금적립의 근거로 사용된다)는 계속기업가정에 기초한 잠재적인 급여지급의무의 크기를 나타내기 위해 공시한다. 약정퇴직급여의 보험수리적 현재가치에 관한 내용을 명확히 전달하기 위해서는 약정퇴직급여의 보험수리적 현재가치를 공시하는 것 외에도 추가로 충분한 설명이 필요할 수 있다. 이러한 설명은 미래기금적립계획 및 임금예측에 기초한 기금적립정책의 적정성에 대한 정보제공으로 이루어질 수 있으며, 제도의 재무제표나 보험계리인의 보고서에 포함될 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "27",
+      "section_id": "7Wn5o7",
+      "section_title": "보험수리적 평가의 빈도",
+      "toc_path": "본문|확정급여제도|보험수리적 평가의 빈도",
+      "text": "많은 국가에서 보험수리적 평가는 3년 주기보다 더 자주 이루어지지는 않는다. 재무제표일 현재 보험수리적 평가가 이루어지지 못한 경우에는 최근의 평가를 재무제표 작성근거로 사용하고 최근 평가일을 공시한다.",
+      "html": "많은 국가에서 보험수리적 평가는 3년 주기보다 더 자주 이루어지지는 않는다. 재무제표일 현재 보험수리적 평가가 이루어지지 못한 경우에는 최근의 평가를 재무제표 작성근거로 사용하고 최근 평가일을 공시한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "28",
+      "section_id": "8Q6Q6P",
+      "section_title": "재무제표의 내용",
+      "toc_path": "본문|확정급여제도|재무제표의 내용",
+      "text": "확정급여제도에 관한 정보는 보험수리적 정보의 공시 및 표시에 관한 다양한 실무관행을 반영하여 다음 중 하나의 형식으로 표시한다.\n(1) 급여지급에 이용가능한 순자산, 약정퇴직급여의 보험수리적 현재가치 및 초과적립액이나 부족적립액을 나타내는 보고서를 제도의 재무제표에 포함한다. 또 급여지급에 이용가능한 순자산의 변동과 약정퇴직급여의 보험수리적 현재가치의 변동을 나타내는 보고서도 제도의 재무제표에 포함한다. 재무제표에는 약정퇴직급여의 보험수리적 현재가치의 근거로서 보험계리인의 보고서를 첨부할 수 있다.\n(2) 급여지급에 이용가능한 순자산 보고서와 급여지급에 이용가능한 순자산 변동보고서를 포함하는 재무제표. 약정퇴직급여의 보험수리적 현재가치는 재무제표에 대한 주석으로 공시한다. 재무제표에는 약정퇴직급여의 보험수리적 현재가치의 근거로서 보험계리인의 보고서를 첨부할 수 있다.\n(3) 급여지급에 이용가능한 순자산 보고서와 급여지급에 이용가능한 순자산 변동보고서를 포함하는 재무제표. 약정퇴직급여의 보험수리적 현재가치는 별도의 보험수리보고서에 포함한다.\n각 형식마다 영업보고 및 투자보고의 성격을 가지는 수탁자보고서를 첨부할 수 있다.",
+      "html": "확정급여제도에 관한 정보는 보험수리적 정보의 공시 및 표시에 관한 다양한 실무관행을 반영하여 다음 중 하나의 형식으로 표시한다.\n각 형식마다 영업보고 및 투자보고의 성격을 가지는 수탁자보고서를 첨부할 수 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 급여지급에 이용가능한 순자산, 약정퇴직급여의 보험수리적 현재가치 및 초과적립액이나 부족적립액을 나타내는 보고서를 제도의 재무제표에 포함한다. 또 급여지급에 이용가능한 순자산의 변동과 약정퇴직급여의 보험수리적 현재가치의 변동을 나타내는 보고서도 제도의 재무제표에 포함한다. 재무제표에는 약정퇴직급여의 보험수리적 현재가치의 근거로서 보험계리인의 보고서를 첨부할 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 급여지급에 이용가능한 순자산 보고서와 급여지급에 이용가능한 순자산 변동보고서를 포함하는 재무제표. 약정퇴직급여의 보험수리적 현재가치는 재무제표에 대한 주석으로 공시한다. 재무제표에는 약정퇴직급여의 보험수리적 현재가치의 근거로서 보험계리인의 보고서를 첨부할 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 급여지급에 이용가능한 순자산 보고서와 급여지급에 이용가능한 순자산 변동보고서를 포함하는 재무제표. 약정퇴직급여의 보험수리적 현재가치는 별도의 보험수리보고서에 포함한다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "29",
+      "section_id": "8Q6Q6P",
+      "section_title": "재무제표의 내용",
+      "toc_path": "본문|확정급여제도|재무제표의 내용",
+      "text": "문단 28(1)과 (2)의 형식을 지지하는 관점에서는 계량화된 약정퇴직급여 등의 정보가 재무제표이용자로 하여금 제도의 적립현황과 제도의 채무이행가능성을 평가하는 데 도움을 줄 수 있다고 본다. 그러한 관점에 따르면 재무제표는 그 자체로서 완전하여야 하며 첨부되는 보고서에 의존하지 않아야 한다고 본다. 그러나 다른 관점에 따르면 문단 28(1)에서 제시하고 있는 형식이 약정퇴직급여의 보험수리적 현재가치가 부채의 모든 특성을 가지고 있지 않는데도 부채가 존재하는 것처럼 왜곡표시한다고 본다.",
+      "html": "<span class=\"mundan-finder\">문단 28(1)과 (2)</span>의 형식을 지지하는 관점에서는 계량화된 약정퇴직급여 등의 정보가 재무제표이용자로 하여금 제도의 적립현황과 제도의 채무이행가능성을 평가하는 데 도움을 줄 수 있다고 본다. 그러한 관점에 따르면 재무제표는 그 자체로서 완전하여야 하며 첨부되는 보고서에 의존하지 않아야 한다고 본다. 그러나 다른 관점에 따르면 \n  \n  <span class=\"mundan-finder\">문단 28(1)</span>에서 제시하고 있는 형식이 약정퇴직급여의 보험수리적 현재가치가 부채의 모든 특성을 가지고 있지 않는데도 부채가 존재하는 것처럼 왜곡표시한다고 본다.\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 28(1)과 (2)",
+          "standard_number": "1026",
+          "standard_title": null,
+          "range": "28(1)과 (2)",
+          "paragraph_ids": [
+            "28"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "30",
+      "section_id": "8Q6Q6P",
+      "section_title": "재무제표의 내용",
+      "toc_path": "본문|확정급여제도|재무제표의 내용",
+      "text": "문단 28(3)의 형식을 지지하는 관점에서는 약정 퇴직급여의 보험수리적 현재가치를 문단 28(1)의 형식과 같이 급여지급에 이용가능한 순자산 보고서에 포함하거나, 문단 28(2)의 형식과 같이 재무제표에 대한 주석으로 공시해서는 아니된다고 본다. 왜냐하면, 문단 28(1)이나 문단 28(2)의 형식을 취할 경우 약정퇴직급여의 보험수리적 현재가치가 제도자산과 직접 비교될 것이며 이러한 비교는 타당하지 않다고 보기 때문이다. 이러한 관점에 따르면 보험계리인이 반드시 약정퇴직급여의 보험수리적 현재가치를 투자자산의 시장가치와 비교한다고 볼 수는 없으며, 오히려 투자자산으로부터 기대되는 현금흐름의 현재가치를 평가할 것이라고 본다. 따라서 약정퇴직급여의 보험수리적 현재가치와 제도자산의 시장가치를 직접 비교하는 것은 제도에 대한 보험계리인의 전반적 평가내용을 반영하지 못하면서 마치 그런 것처럼 오해를 줄 수 있다. 또 다른 관점에서는 계량화 여부와 무관하게 약정퇴직급여에 대한 정보는 적절한 설명이 제공될 수 있는 별도의 보험수리보고서에만 포함하여야 한다고 본다.",
+      "html": "<span class=\"mundan-finder\">문단 28(3)</span>의 형식을 지지하는 관점에서는 약정 퇴직급여의 보험수리적 현재가치를 \n  <span class=\"mundan-finder\">문단 28(1)</span>의 형식과 같이 급여지급에 이용가능한 순자산 보고서에 포함하거나, \n  <span class=\"mundan-finder\">문단 28(2)</span>의 형식과 같이 재무제표에 대한 주석으로 공시해서는 아니된다고 본다. 왜냐하면, \n  <span class=\"mundan-finder\">문단 28(1)</span>이나 \n  <span class=\"mundan-finder\">문단 28(2)</span>의 형식을 취할 경우 약정퇴직급여의 보험수리적 현재가치가 제도자산과 직접 비교될 것이며 이러한 비교는 타당하지 않다고 보기 때문이다. 이러한 관점에 따르면 보험계리인이 반드시 약정퇴직급여의 보험수리적 현재가치를 투자자산의 시장가치와 비교한다고 볼 수는 없으며, 오히려 투자자산으로부터 기대되는 현금흐름의 현재가치를 평가할 것이라고 본다. 따라서 약정퇴직급여의 보험수리적 현재가치와 제도자산의 시장가치를 직접 비교하는 것은 제도에 대한 보험계리인의 전반적 평가내용을 반영하지 못하면서 마치 그런 것처럼 오해를 줄 수 있다. 또 다른 관점에서는 계량화 여부와 무관하게 약정퇴직급여에 대한 정보는 적절한 설명이 제공될 수 있는 별도의 보험수리보고서에만 포함하여야 한다고 본다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 28(3)",
+          "standard_number": "1026",
+          "standard_title": null,
+          "range": "28(3)",
+          "paragraph_ids": [
+            "28"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "31",
+      "section_id": "8Q6Q6P",
+      "section_title": "재무제표의 내용",
+      "toc_path": "본문|확정급여제도|재무제표의 내용",
+      "text": "이 기준서에서는 약정퇴직급여에 관한 정보를 별도의 보험수리보고서에 공시하는 것을 허용하는 관점을 인정한다. 그러나 약정퇴직급여의 보험수리적 현재가치를 계량화해서는 안 된다는 관점은 인정하지 아니한다. 따라서 이 기준서에서는 문단 28(1)과 (2)의 형식을 인정하고 있으며, 약정퇴직급여의 보험수리적 현재가치를 포함하는 보험수리보고서가 재무제표에 첨부되고 재무제표에서 참조표시된다면 문단 28(3)의 형식도 인정하고 있다.",
+      "html": "이 기준서에서는 약정퇴직급여에 관한 정보를 별도의 보험수리보고서에 공시하는 것을 허용하는 관점을 인정한다. 그러나 약정퇴직급여의 보험수리적 현재가치를 계량화해서는 안 된다는 관점은 인정하지 아니한다. 따라서 이 기준서에서는 \n  <span class=\"mundan-finder\">문단 28(1)과 (2)</span>의 형식을 인정하고 있으며, 약정퇴직급여의 보험수리적 현재가치를 포함하는 보험수리보고서가 재무제표에 첨부되고 재무제표에서 참조표시된다면 \n  <span class=\"mundan-finder\">문단 28(3)</span>의 형식도 인정하고 있다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 28(1)과 (2)",
+          "standard_number": "1026",
+          "standard_title": null,
+          "range": "28(1)과 (2)",
+          "paragraph_ids": [
+            "28"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "32",
+      "section_id": "sekFX8",
+      "section_title": "제도자산의 평가",
+      "toc_path": "본문|모든 제도|제도자산의 평가",
+      "text": "퇴직급여제도의 투자자산은 공정가치를 장부금액으로 한다. 시장성 있는 유가증권의 경우 공정가치는 시장가치이다. 제도의 투자자산 중 공정가치의 추정이 불가능한 것에 대해서는 공정가치를 사용하지 못한 이유를 공시한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"32\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">32</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>퇴직급여제도의 투자자산은 공정가치를 장부금액으로 한다. 시장성 있는 유가증권의 경우 공정가치는 시장가치이다. 제도의 투자자산 중 공정가치의 추정이 불가능한 것에 대해서는 공정가치를 사용하지 못한 이유를 공시한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "33",
+      "section_id": "sekFX8",
+      "section_title": "제도자산의 평가",
+      "toc_path": "본문|모든 제도|제도자산의 평가",
+      "text": "시장성 있는 유가증권의 경우 공정가치는 일반적으로 시장가치이다. 왜냐하면 시장가치는 보고일 현재 유가증권과 회계기간 중 투자성과에 대한 가장 유용한 측정치이기 때문이다. 상환가치가 확정된 유가증권을 제도의 채무 전부나 일부에 대응시키기 위하여 취득한 경우에는 만기까지 고정수익률을 가정한 최종상환가치에 근거하여 산출한 금액을 장부금액으로 할 수 있다. 제도의 투자자산 중 기업에 대한 완전소유권과 같이 공정가치의 추정이 불가능한 것에 대해서는 공정가치를 사용하지 않은 이유를 공시한다. 제도의 투자자산을 시장가치나 공정가치가 아닌 금액으로 표시한다면 일반적으로 공정가치도 공시한다. 기금의 운영에 사용되는 자산은 적용가능한 한국채택국제회계기준서에 따라 회계처리한다.",
+      "html": "시장성 있는 유가증권의 경우 공정가치는 일반적으로 시장가치이다. 왜냐하면 시장가치는 보고일 현재 유가증권과 회계기간 중 투자성과에 대한 가장 유용한 측정치이기 때문이다. 상환가치가 확정된 유가증권을 제도의 채무 전부나 일부에 대응시키기 위하여 취득한 경우에는 만기까지 고정수익률을 가정한 최종상환가치에 근거하여 산출한 금액을 장부금액으로 할 수 있다. 제도의 투자자산 중 기업에 대한 완전소유권과 같이 공정가치의 추정이 불가능한 것에 대해서는 공정가치를 사용하지 않은 이유를 공시한다. 제도의 투자자산을 시장가치나 공정가치가 아닌 금액으로 표시한다면 일반적으로 공정가치도 공시한다. 기금의 운영에 사용되는 자산은 적용가능한 한국채택국제회계기준서에 따라 회계처리한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "34",
+      "section_id": "fQXzfq",
+      "section_title": "공시",
+      "toc_path": "본문|모든 제도|공시",
+      "text": "확정급여제도인지 확정기여제도인지에 관계없이 퇴직급여제도의 재무제표는 다음의 정보를 포함한다.\n(1) 급여지급에 이용가능한 순자산 변동보고서\n(2) 중요한 회계정책 정보\n(3) 제도에 대한 설명 및 회계기간 중 제도에서 발생한 변화의 영향에 대한 설명",
+      "html": "확정급여제도인지 확정기여제도인지에 관계없이 퇴직급여제도의 재무제표는 다음의 정보를 포함한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 급여지급에 이용가능한 순자산 변동보고서</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 중요한 회계정책 정보</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 제도에 대한 설명 및 회계기간 중 제도에서 발생한 변화의 영향에 대한 설명</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "35",
+      "section_id": "fQXzfq",
+      "section_title": "공시",
+      "toc_path": "본문|모든 제도|공시",
+      "text": "퇴직급여제도의 재무제표는 해당사항이 있는 경우에 다음을 포함한다.\n(1) 다음 사항을 공시하는 급여지급에 이용가능한 순자산 보고서\n(가) 적절하게 분류된 회계기간말 현재의 자산\n(나) 자산의 평가 기준\n(다) 급여지급에 이용가능한 순자산의 5%를 초과하거나 유가증권 종류별 금액의 5%를 초과하는 단일 투자자산의 상세 내역\n(라) 사용자에 대한 투자의 상세 내역\n(마) 약정퇴직급여의 보험수리적 현재가치를 제외한 부채\n(2) 다음사항을 나타내는 급여지급에 이용가능한 순자산 변동보고서\n(가) 사용자의 기여금\n(나) 종업원의 기여금\n(다) 이자나 배당금과 같은 투자수익\n(라) 기타 수익\n(마) 지급하였거나 지급할 급여(예를 들어 퇴직급여, 사망급여, 장애급여, 일시금 등으로 구분)\n(바) 관리비용\n(사) 기타 비용\n(아) 법인세\n(자) 투자자산의 처분 및 평가 손익\n(차) 서로 다른 제도간의 이전\n(3) 기금적립정책에 대한 설명\n(4) 확정급여제도의 경우, 이미 제공된 근무용역에 대해 제도규약에 따라 책정되는 급여에 기초하되 현재임금수준이나 미래예측임금수준을 사용하여 결정한 약정퇴직급여의 보험수리적 현재가치(가득급여와 비가득급여로 구분할 수 있다). 이 정보는 재무제표와의 연계를 위해 첨부되는 보험수리보고서에 포함할 수 있다.\n(5) 확정급여제도의 경우, 유의적인 보험수리적 가정과 약정퇴직급여의 보험수리적 현재가치 계산에 사용된 방법에 대한 설명",
+      "html": "퇴직급여제도의 재무제표는 해당사항이 있는 경우에 다음을 포함한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 다음 사항을 공시하는 급여지급에 이용가능한 순자산 보고서</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"> 적절하게 분류된 회계기간말 현재의 자산</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\"> 자산의 평가 기준</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(다)</div><div class=\"para-num-item-para-con\"> 급여지급에 이용가능한 순자산의 5%를 초과하거나 유가증권 종류별 금액의 5%를 초과하는 단일 투자자산의 상세 내역</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(라)</div><div class=\"para-num-item-para-con\"> 사용자에 대한 투자의 상세 내역</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(마)</div><div class=\"para-num-item-para-con\"> 약정퇴직급여의 보험수리적 현재가치를 제외한 부채</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 다음사항을 나타내는 급여지급에 이용가능한 순자산 변동보고서</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"> 사용자의 기여금</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\"> 종업원의 기여금</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(다)</div><div class=\"para-num-item-para-con\"> 이자나 배당금과 같은 투자수익</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(라)</div><div class=\"para-num-item-para-con\"> 기타 수익</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(마)</div><div class=\"para-num-item-para-con\"> 지급하였거나 지급할 급여(예를 들어 퇴직급여, 사망급여, 장애급여, 일시금 등으로 구분)</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(바)</div><div class=\"para-num-item-para-con\"> 관리비용</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(사)</div><div class=\"para-num-item-para-con\"> 기타 비용</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(아)</div><div class=\"para-num-item-para-con\"> 법인세</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(자)</div><div class=\"para-num-item-para-con\"> 투자자산의 처분 및 평가 손익</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(차)</div><div class=\"para-num-item-para-con\"> 서로 다른 제도간의 이전</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 기금적립정책에 대한 설명</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 확정급여제도의 경우, 이미 제공된 근무용역에 대해 제도규약에 따라 책정되는 급여에 기초하되 현재임금수준이나 미래예측임금수준을 사용하여 결정한 약정퇴직급여의 보험수리적 현재가치(가득급여와 비가득급여로 구분할 수 있다). 이 정보는 재무제표와의 연계를 위해 첨부되는 보험수리보고서에 포함할 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\"> 확정급여제도의 경우, 유의적인 보험수리적 가정과 약정퇴직급여의 보험수리적 현재가치 계산에 사용된 방법에 대한 설명</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "36",
+      "section_id": "fQXzfq",
+      "section_title": "공시",
+      "toc_path": "본문|모든 제도|공시",
+      "text": "퇴직급여제도의 보고서에는 제도에 대한 설명을 포함한다. 이러한 설명은 재무제표의 일부로 제공하거나 별도 보고서의 형태로 제공하며 다음을 포함할 수 있다.\n(1) 사용자의 상호와 제도의 대상이 되는 종업원집단\n(2) 급여를 지급받고 있는 가입자의 수와 그렇지 않은 가입자의 수\n(3) 제도의 유형: 확정기여제도 또는 확정급여제도\n(4) 가입자가 제도에 기여금을 출연하는지 여부에 대한 주석\n(5) 가입자에게 약정된 퇴직급여에 대한 설명\n(6) 제도폐지의 조건에 대한 설명\n(7) 회계기간 중 위 (1)~(6)에서 발생한 변동사항\n재무제표이용자들이 쉽게 이용가능하고 제도에 대해 설명하는 다른 문서를 참조표시하거나 후속적인 변경사항에 대한 정보만을 포함하는 경우도 있다.",
+      "html": "퇴직급여제도의 보고서에는 제도에 대한 설명을 포함한다. 이러한 설명은 재무제표의 일부로 제공하거나 별도 보고서의 형태로 제공하며 다음을 포함할 수 있다.\n재무제표이용자들이 쉽게 이용가능하고 제도에 대해 설명하는 다른 문서를 참조표시하거나 후속적인 변경사항에 대한 정보만을 포함하는 경우도 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 사용자의 상호와 제도의 대상이 되는 종업원집단</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 급여를 지급받고 있는 가입자의 수와 그렇지 않은 가입자의 수</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 제도의 유형: 확정기여제도 또는 확정급여제도</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 가입자가 제도에 기여금을 출연하는지 여부에 대한 주석</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\"> 가입자에게 약정된 퇴직급여에 대한 설명</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(6)</div><div class=\"para-num-item-para-con\"> 제도폐지의 조건에 대한 설명</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(7)</div><div class=\"para-num-item-para-con\"> 회계기간 중 위 (1)~(6)에서 발생한 변동사항</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "37",
+      "section_id": "sOeLJF",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한37.1",
+      "section_id": "sOeLJF",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 기준서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"한37.1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">한37.1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>이 기준서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "38",
+      "section_id": "sOeLJF",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2021년 12월에 공표한, 기업회계기준서 제1001호 ‘재무제표 표시’를 개정하고 국제회계기준 실무서 2 ‘중요성에 대한 판단’ 번역서\n(한1)를 수정하는 ‘회계정책 공시’에 따라 문단 34를 개정하였다. 이 개정 내용은 2023년 1월 1일 이후 최초로 시작되는 회계연도부터 적용하되, 조기 적용할 수도 있다. 이 개정 내용을 조기 적용하는 경우에는 그 사실을 공시한다.\n[각주 (한1)] 국제회계기준위원회(IASB)가 발표한 국제회계기준 실무서 2 ‘중요성에 대한 판단’은 국제회계기준을 구성하지는 않는다.",
+      "html": "2021년 12월에 공표한, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div> ‘재무제표 표시’를 개정하고 국제회계기준 실무서 2 ‘중요성에 대한 판단’ 번역서\n  <sup data-id=\"(한1)\">(한1)</sup>를 수정하는 ‘회계정책 공시’에 따라 \n  <span class=\"mundan-finder\">문단 34</span>를 개정하였다. 이 개정 내용은 2023년 1월 1일 이후 최초로 시작되는 회계연도부터 적용하되, 조기 적용할 수도 있다. 이 개정 내용을 조기 적용하는 경우에는 그 사실을 공시한다.\n\n<div class=\"idt-1 comment\"><div>(한1)</div><div>국제회계기준위원회(IASB)가 발표한 국제회계기준 실무서 2 ‘중요성에 대한 판단’은 국제회계기준을 구성하지는 않는다.</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 34",
+          "standard_number": "1026",
+          "standard_title": null,
+          "range": "34",
+          "paragraph_ids": [
+            "34"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "한1",
+          "display_text": "(한1)"
+        }
+      ]
+    },
+    {
+      "number": "의결",
+      "section_id": "qsfGam",
+      "section_title": "기업회계기준서 제1026호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준서 제1026호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준서 제1026호의 제정에 대한 회계기준위원회의 의결(2007년)",
+      "html": "<div value=\"웩의결\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준서 제1026호의 제정에 대한 회계기준위원회의 의결(2007년)</b></div><br><div class=\"para\">기업회계기준서 제1026호 ‘퇴직급여제도에 의한 회계처리와 보고’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">이효익(위원장), 서정우(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준서 제1026호와 국제회계기준 제26호(IAS 26) 기업회계기준서 제1026호는 국제회계기준위원회가 제정한 국제회계기준 제26호(IAS 26) ‘퇴직급여제도에 의한 회계처리와 보고(Accounting and Reporting by Retirement Benefit Plans)’에 대응하는 기준이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한37.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일과 관련된 문단 37이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제회계기준 제26호(IAS 26)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준서 제1026호가 IAS 26의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제1026호를 준수하면 동시에 IAS 26를 준수하는 것이다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준서 제1026호와 국제회계기준 제26호(IAS 26)</h3>\n<p>기업회계기준서 제1026호는 국제회계기준위원회가 제정한 국제회계기준 제26호(IAS 26) ‘퇴직급여제도에 의한 회계처리와 보고(Accounting and Reporting by Retirement Benefit Plans)’에 대응하는 기준이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한37.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일과 관련된 문단 37이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제회계기준 제26호(IAS 26)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준서 제1026호가 IAS 26의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제1026호를 준수하면 동시에 IAS 26를 준수하는 것이다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 기준서의 주요 특징",
+      "toc_path": "기타 참고사항|이 기준서의 주요 특징",
+      "text": "## 이 기준서의 주요 특징 이 기준서는 퇴직급여제도에 의한 회계처리와 보고에 필요한 사항을 정하고 있다. ### 1. 적용범위 이 기준서는 퇴직급여제도의 재무제표를 작성할 때 적용한다. ### 2. 확정기여제도에 의한 회계처리와 보고 확정기여제도의 재무제표는 급여지급에 이용가능한 순자산 보고서와 기금적립정책에 관한 설명을 포함한다. ### 3. 확정급여제도에 의한 회계처리와 보고 ### 4. 모든 제도 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 기준서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 기준서는 퇴직급여제도에 의한 회계처리와 보고에 필요한 사항을 정하고 있다.</p>\n<h3>1. 적용범위</h3>\n<p>이 기준서는 퇴직급여제도의 재무제표를 작성할 때 적용한다.</p>\n<h3>2. 확정기여제도에 의한 회계처리와 보고</h3>\n<p>확정기여제도의 재무제표는 급여지급에 이용가능한 순자산 보고서와 기금적립정책에 관한 설명을 포함한다.</p>\n<h3>3. 확정급여제도에 의한 회계처리와 보고</h3>\n<h3>4. 모든 제도</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 다음과 같이 제정하였다. \n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2007.11.23. 제정 | 퇴직급여제도에 의한 회계처리와 보고 | IAS 26 Accounting and Reporting by Retirement Benefit Plans |\n\n이 기준서는 타 기준서의 제·개정에 따라 다음과 같이 개정되었다. \n\n| 제․개정일자 | 타기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2021.09.10. 개정 | 회계정책 공시 | Disclosure of Accounting Policies – Amendments to IAS 1 |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 28.8px; font-size: 12pt; font-family: 한양신명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 다음과 같이 제정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2007.11.23. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">퇴직급여제도에 의한 회계처리와 보고</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IAS 26 Accounting and Reporting by Retirement Benefit Plans</span></p></td></tr></tbody></table>\n<p class=\"HStyle1\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">이 기준서는 타 기준서의 제·개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin: 0px; padding: 0px; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 33px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 33px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">타기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 33px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2021.09.10. 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.1em; line-height: 20.8px;\">회계정책 공시</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20.8px; font-size: 12pt; font-family: 한양신명조; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.02em; line-height: 20.8px;\">Disclosure of Accounting Policies – Amendments to IAS 1</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1019": [
+      "4"
+    ],
+    "1001": [
+      "38"
+    ]
+  },
+  "qna_index": {}
+}

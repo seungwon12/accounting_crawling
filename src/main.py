@@ -164,6 +164,14 @@ async def main() -> int:
             resume=args.resume,
         )
         logger.info("크롤링이 성공적으로 완료되었습니다.")
+
+        # 전체 크롤링 완료 후 교차 기준서 범위 전개 포스트프로세싱
+        # 단건 크롤링 시에는 타 기준서가 갱신되지 않았으므로 스킵
+        if not args.standard:
+            from src.postprocessor import process_all
+            logger.info("교차 기준서 범위 전개 포스트프로세싱 시작...")
+            process_all(standards_dir=args.output_dir, target_standard=None, preview=False)
+
         return 0
 
     except KeyboardInterrupt:

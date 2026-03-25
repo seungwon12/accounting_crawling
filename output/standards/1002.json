@@ -1,0 +1,2068 @@
+{
+  "standard_id": "1002",
+  "standard_type": "기업회계기준서",
+  "title": "재고자산",
+  "url": "https://db.kasb.or.kr/s/1002",
+  "crawled_at": "2026-03-24T04:25:00.967394+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/1002/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/1002/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "목적",
+          "section_id": "3WTzUJ",
+          "href": "/s/1002/3WTzUJ",
+          "paragraph_range": "1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "hMM1jZ",
+          "href": "/s/1002/hMM1jZ",
+          "paragraph_range": "한2.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "wGC75d",
+          "href": "/s/1002/wGC75d",
+          "paragraph_range": "2 ~ 5",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "용어의 정의",
+          "section_id": "FIuWDp",
+          "href": "/s/1002/FIuWDp",
+          "paragraph_range": "6 ~ 8",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "재고자산의 측정",
+          "section_id": "61H7FY",
+          "href": "/s/1002/61H7FY",
+          "paragraph_range": "9 ~ 33",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "재고자산의 취득원가",
+              "section_id": "2zBvFd",
+              "href": "/s/1002/2zBvFd",
+              "paragraph_range": "10 ~ 22",
+              "children": [
+                {
+                  "level": 4.0,
+                  "title": "매입원가",
+                  "section_id": "wVvfnV",
+                  "href": "/s/1002/wVvfnV",
+                  "paragraph_range": "11",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "전환원가",
+                  "section_id": "zpMOEv",
+                  "href": "/s/1002/zpMOEv",
+                  "paragraph_range": "12 ~ 14",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "기타 원가",
+                  "section_id": "ma7cgP",
+                  "href": "/s/1002/ma7cgP",
+                  "paragraph_range": "15 ~ 18",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "용역제공기업의 재고자산 취득원가",
+                  "section_id": "YyU58M",
+                  "href": "/s/1002/YyU58M",
+                  "paragraph_range": "19",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "생물자산에서 수확한 농림어업 수확물의 취득원가",
+                  "section_id": "kSINVX",
+                  "href": "/s/1002/kSINVX",
+                  "paragraph_range": "20",
+                  "children": []
+                },
+                {
+                  "level": 4.0,
+                  "title": "원가측정방법",
+                  "section_id": "8oc5M4",
+                  "href": "/s/1002/8oc5M4",
+                  "paragraph_range": "21 ~ 22",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3.0,
+              "title": "단위원가 결정방법",
+              "section_id": "2QE0Hi",
+              "href": "/s/1002/2QE0Hi",
+              "paragraph_range": "23 ~ 27",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "순실현가능가치",
+              "section_id": "GCuUyP",
+              "href": "/s/1002/GCuUyP",
+              "paragraph_range": "28 ~ 33",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2.0,
+          "title": "비용의 인식",
+          "section_id": "WUS2fj",
+          "href": "/s/1002/WUS2fj",
+          "paragraph_range": "34 ~ 35",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "공시",
+          "section_id": "E2sHzi",
+          "href": "/s/1002/E2sHzi",
+          "paragraph_range": "36 ~ 39",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "3Mxtpv",
+          "href": "/s/1002/3Mxtpv",
+          "paragraph_range": "40 ~ 40G",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기준서 등의 대체",
+          "section_id": "62wnT1",
+          "href": "/s/1002/62wnT1",
+          "paragraph_range": "41 ~ 42",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준서 제1002호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "XjXiLe",
+          "href": "/s/1002/XjXiLe",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/1002/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IAS 2 ‘재고자산(inventories)’의 결론도출근거",
+          "section_id": "x1ZbfH",
+          "href": "/s/1002/x1ZbfH",
+          "paragraph_range": "BC1 ~ BC23",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "도입",
+              "section_id": "jLYAjl",
+              "href": "/s/1002/jLYAjl",
+              "paragraph_range": "BC1 ~ BC3",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "적용범위",
+              "section_id": "eQJ1Dq",
+              "href": "/s/1002/eQJ1Dq",
+              "paragraph_range": "BC4 ~ BC8",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "역사적원가제도의 언급",
+                  "section_id": "y9aMNB",
+                  "href": "/s/1002/y9aMNB",
+                  "paragraph_range": "BC4 ~ BC5",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "중개기업의 재고자산",
+                  "section_id": "02m7AL",
+                  "href": "/s/1002/02m7AL",
+                  "paragraph_range": "BC6 ~ BC8",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 2.0,
+              "title": "단위원가 결정방법",
+              "section_id": "p72C5a",
+              "href": "/s/1002/p72C5a",
+              "paragraph_range": "BC9 ~ BC23",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "당기에 비용으로 인식한 재고자산 원가",
+                  "section_id": "Yipw4K",
+                  "href": "/s/1002/Yipw4K",
+                  "paragraph_range": "BC22 ~ BC23",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/1002/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 기준서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/1002/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/1002/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "1",
+      "section_id": "3WTzUJ",
+      "section_title": "목적",
+      "toc_path": "본문|목적",
+      "text": "이 기준서의 목적은 재고자산의 회계처리를 정하는 데 있다. 재고자산 회계에서 중요한 주제는 자산으로 인식하고 이와 관련된 수익이 인식될 때까지 장부에 표시하는 원가 금액을 적절하게 결정하는 것이다. 이 기준서는 재고자산의 원가결정 및 순실현가능가치로 감액하는 것을 포함한 후속적 비용인식에 대한 지침을 제공한다. 또한 재고자산의 원가를 배분하는 원가공식에 대한 지침을 제공한다.",
+      "html": "이 기준서의 목적은 재고자산의 회계처리를 정하는 데 있다. 재고자산 회계에서 중요한 주제는 자산으로 인식하고 이와 관련된 수익이 인식될 때까지 장부에 표시하는 원가 금액을 적절하게 결정하는 것이다. 이 기준서는 재고자산의 원가결정 및 순실현가능가치로 감액하는 것을 포함한 후속적 비용인식에 대한 지침을 제공한다. 또한 재고자산의 원가를 배분하는 원가공식에 대한 지침을 제공한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한2.1",
+      "section_id": "hMM1jZ",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 기준서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "<b>이 기준서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.</b>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "wGC75d",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 다음을 제외한 모든 재고자산에 적용한다.\n(1) [국제회계기준위원회에서 삭제함]\n(2) 금융상품(기업회계기준서 제1032호 ‘금융상품: 표시’와 제1109호 ‘금융상품’)\n(3) 농림어업활동과 관련된 생물자산과 수확시점의 수확물(기업회계기준서 제1041호 ‘농림어업’ 참조)",
+      "html": "이 기준서는 다음을 제외한 모든 재고자산에 적용한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> [국제회계기준위원회에서 삭제함]</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 금융상품(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 표시</span><span class=\"std-finder\">기업회계기준서 제1032호 </span></div>‘금융상품: 표시’와 \n        \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">제1109호 </span></div> ‘금융상품’)            \n      \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 농림어업활동과 관련된 생물자산과 수확시점의 수확물(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">기업회계기준서 제1041호 </span></div>‘농림어업’ 참조)            \n      \n      </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1032호",
+          "standard_number": "1032",
+          "standard_title": "금융상품: 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1041호",
+          "standard_number": "1041",
+          "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "wGC75d",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 기준서는 다음 경우에 해당하는 재고자산의 측정에는 적용하지 않는다.\n(1) 생산자가 해당 산업의 합리적인 관행에 따라 순실현가능가치로 측정하는 농수산물과 임산물, 수확한 수확물, 광물자원과 광산물. 이 경우 순실현가능가치의 변동분은 변동이 발생한 기간의 손익으로 인식한다.\n(2) 공정가치에서 처분부대원가를 뺀 금액으로 측정한 일반상품 중개기업의 재고자산. 이 경우 공정가치에서 처분부대원가를 뺀 금액의 변동분은 변동이 발생한 기간의 손익으로 인식한다.",
+      "html": "이 기준서는 다음 경우에 해당하는 재고자산의 측정에는 적용하지 않는다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 생산자가 해당 산업의 합리적인 관행에 따라 순실현가능가치로 측정하는 농수산물과 임산물, 수확한 수확물, 광물자원과 광산물. 이 경우 순실현가능가치의 변동분은 변동이 발생한 기간의 손익으로 인식한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 공정가치에서 처분부대원가를 뺀 금액으로 측정한 일반상품 중개기업의 재고자산. 이 경우 공정가치에서 처분부대원가를 뺀 금액의 변동분은 변동이 발생한 기간의 손익으로 인식한다.</div></div>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "201906C",
+          "title": "가상통화 보유",
+          "url": "/qnas/201906C",
+          "date": "2019-06-30"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "wGC75d",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "문단 3(1)에 해당하는 재고자산은 생산과정 중 특정시점에 순실현가능가치로 측정된다. 예를 들어, 곡물이 수확되거나 광물이 추출되었는데 선도계약이나 정부의 보증으로 매출이 확실시 되거나, 활성시장이 존재하여 판매되지 않을 위험이 무시할 수 있을 정도로 작은 경우이다. 이러한 재고자산에는 이 기준서의 측정부분만 적용이 제외되는 것이다.",
+      "html": "<span class=\"mundan-finder\">문단 3(1)</span>에 해당하는 재고자산은 생산과정 중 특정시점에 순실현가능가치로 측정된다. 예를 들어, 곡물이 수확되거나 광물이 추출되었는데 선도계약이나 정부의 보증으로 매출이 확실시 되거나, 활성시장이 존재하여 판매되지 않을 위험이 무시할 수 있을 정도로 작은 경우이다. 이러한 재고자산에는 이 기준서의 측정부분만 적용이 제외되는 것이다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 3(1)",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "3(1)",
+          "paragraph_ids": [
+            "3"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "wGC75d",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "중개기업은 타인을 위하여 또는 자기의 계산으로 일반상품을 매입하거나 매도한다. 문단 3(2)에 해당하는 재고자산은 주로 단기간 내에 매도하여 가격변동이익이나 중개이익을 얻을 목적으로 취득한다. 이러한 재고자산을 공정가치에서 처분부대원가를 뺀 금액으로 측정할 때, 이 기준서의 측정부분만 적용이 제외되는 것이다.",
+      "html": "중개기업은 타인을 위하여 또는 자기의 계산으로 일반상품을 매입하거나 매도한다. \n  \n  <span class=\"mundan-finder\">문단 3(2)</span>에 해당하는 재고자산은 주로 단기간 내에 매도하여 가격변동이익이나 중개이익을 얻을 목적으로 취득한다. 이러한 재고자산을 공정가치에서 처분부대원가를 뺀 금액으로 측정할 때, 이 기준서의 측정부분만 적용이 제외되는 것이다.\n\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 3(2)",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "3(2)",
+          "paragraph_ids": [
+            "3"
+          ]
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "201906C",
+          "title": "가상통화 보유",
+          "url": "/qnas/201906C",
+          "date": "2019-06-30"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "FIuWDp",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "이 기준서에서 사용하는 용어의 정의는 다음과 같다.\n재고자산: 다음의 자산을 말함\n(1) 통상적인 영업과정에서 판매를 위하여 보유중인 자산\n(2) 통상적인 영업과정에서 판매를 위하여 생산중인 자산\n(3) 생산이나 용역제공에 사용될 원재료나 소모품\n순실현가능가치: 통상적인 영업과정의 예상 판매가격에서 예상되는 추가 완성원가와 판매비용을 차감한 금액\n공정가치: 측정일에 시장참여자 사이의 정상거래에서 자산을 매도할 때 받거나 부채를 이전할 때 지급하게 될 가격(기업회계기준서 제1113호 ‘공정가치 측정’ 참조).",
+      "html": "이 기준서에서 사용하는 용어의 정의는 다음과 같다.\n<i>재고자산</i>: 다음의 자산을 말함\n  \n<i>순실현가능가치</i>: 통상적인 영업과정의 예상 판매가격에서 예상되는 추가 완성원가와 판매비용을 차감한 금액\n  \n<i>공정가치</i>: 측정일에 시장참여자 사이의 정상거래에서 자산을 매도할 때 받거나 부채를 이전할 때 지급하게 될 가격(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호 </span></div>‘공정가치 측정’ 참조).\n  \n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 통상적인 영업과정에서 판매를 위하여 보유중인 자산</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 통상적인 영업과정에서 판매를 위하여 생산중인 자산</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 생산이나 용역제공에 사용될 원재료나 소모품</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "2017-I-KQA006",
+          "title": "토지의 차입원가 자본화기간에 토지의 구매단계와 건설단계 포함 여부",
+          "url": "/qnas/2017-I-KQA006",
+          "date": "2017-04-03"
+        },
+        {
+          "qna_id": "2019-I-KQA017",
+          "title": "한국채택국제회계기준에서 가상통화의 분류",
+          "url": "/qnas/2019-I-KQA017",
+          "date": "2019-12-10"
+        },
+        {
+          "qna_id": "201906C",
+          "title": "가상통화 보유",
+          "url": "/qnas/201906C",
+          "date": "2019-06-30"
+        },
+        {
+          "qna_id": "202106B",
+          "title": "재고자산 판매에 필요한 원가",
+          "url": "/qnas/202106B",
+          "date": "2021-06-30"
+        },
+        {
+          "qna_id": "2021-I-KQA009",
+          "title": "비축유의 후속측정",
+          "url": "/qnas/2021-I-KQA009",
+          "date": "2021-10-25"
+        },
+        {
+          "qna_id": "SSI-38463",
+          "title": "신재생에너지 공급인증서(REC)의 회계처리",
+          "url": "/qnas/SSI-38463",
+          "date": "2018-02-07"
+        },
+        {
+          "qna_id": "SSI-38476",
+          "title": "재고자산의 인식 여부",
+          "url": "/qnas/SSI-38476",
+          "date": "2018-07-23"
+        },
+        {
+          "qna_id": "SSI-38636",
+          "title": "임가공 거래와 재고자산 분류",
+          "url": "/qnas/SSI-38636",
+          "date": "2018-03-21"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "FIuWDp",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "순실현가능가치는 통상적인 영업과정에서 재고자산의 판매를 통해 실현할 것으로 기대하는 순매각금액을 말한다. 공정가치는 측정일에 재고자산의 주된 (또는 가장 유리한) 시장에서 시장참여자 사이에 일어날 수 있는 그 재고자산을 판매하는 정상거래의 가격을 반영한다. 전자는 기업특유가치이지만, 후자는 그러하지 아니하다. 재고자산의 순실현가능가치는 공정가치에서 처분부대원가를 뺀 금액과 일치하지 않을 수도 있다.",
+      "html": "순실현가능가치는 통상적인 영업과정에서 재고자산의 판매를 통해 실현할 것으로 기대하는 순매각금액을 말한다. 공정가치는 측정일에 재고자산의 주된 (또는 가장 유리한) 시장에서 시장참여자 사이에 일어날 수 있는 그 재고자산을 판매하는 정상거래의 가격을 반영한다. 전자는 기업특유가치이지만, 후자는 그러하지 아니하다. 재고자산의 순실현가능가치는 공정가치에서 처분부대원가를 뺀 금액과 일치하지 않을 수도 있다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-36894",
+          "title": "상품, 제품[재고자산]의 감액 회계처리",
+          "url": "/qnas/SSI-36894",
+          "date": "2020-01-07"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "FIuWDp",
+      "section_title": "용어의 정의",
+      "toc_path": "본문|용어의 정의",
+      "text": "재고자산은 외부에서 매입하여 재판매하기 위해 보유하는 상품, 토지와 그 밖의 자산을 포함한다. 재고자산은 완제품이나 생산중인 재공품도 포함하며, 생산에 투입될 원재료와 소모품도 포함한다. 고객과의 계약을 이행하기 위해 생긴 원가로서 재고자산(또는 다른 기준서의 적용범위에 포함되는 자산)을 생기게 하지 않는 원가는 기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’에 따라 회계처리한다.",
+      "html": "재고자산은 외부에서 매입하여 재판매하기 위해 보유하는 상품, 토지와 그 밖의 자산을 포함한다. 재고자산은 완제품이나 생산중인 재공품도 포함하며, 생산에 투입될 원재료와 소모품도 포함한다. 고객과의 계약을 이행하기 위해 생긴 원가로서 재고자산(또는 다른 기준서의 적용범위에 포함되는 자산)을 생기게 하지 않는 원가는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">기업회계기준서 제1115호</span></div> ‘고객과의 계약에서 생기는 수익’에 따라 회계처리한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1115호",
+          "standard_number": "1115",
+          "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "61H7FY",
+      "section_title": "재고자산의 측정",
+      "toc_path": "본문|재고자산의 측정",
+      "text": "재고자산은 취득원가와 순실현가능가치 중 낮은 금액으로 측정한다.",
+      "html": "<b>재고자산은 취득원가와 순실현가능가치 중 낮은 금액으로 측정한다.</b>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-35588",
+          "title": "비경상적으로 발생한 재작업 원가",
+          "url": "/qnas/SSI-35588",
+          "date": "2019-04-15"
+        },
+        {
+          "qna_id": "SSI-38463",
+          "title": "신재생에너지 공급인증서(REC)의 회계처리",
+          "url": "/qnas/SSI-38463",
+          "date": "2018-02-07"
+        },
+        {
+          "qna_id": "SSI-38480",
+          "title": "재고자산 평가손실과 감모손실",
+          "url": "/qnas/SSI-38480",
+          "date": "2018-12-10"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "2zBvFd",
+      "section_title": "재고자산의 취득원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가",
+      "text": "재고자산의 취득원가는 매입원가, 전환원가 및 재고자산을 현재의 장소에 현재의 상태로 이르게 하는 데 발생한 기타 원가 모두를 포함한다.",
+      "html": "<b>재고자산의 취득원가는 매입원가, 전환원가 및 재고자산을 현재의 장소에 현재의 상태로 이르게 하는 데 발생한 기타 원가 모두를 포함한다.</b>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2013-I-KQA011",
+          "title": "외주제작으로 유형자산 취득시, 관련 내부간접비(예: 인건비, 경비)는 해당 자산의 취득원가에 해당하는가",
+          "url": "/qnas/2013-I-KQA011",
+          "date": "2013-10-21"
+        },
+        {
+          "qna_id": "2017-I-KQA006",
+          "title": "토지의 차입원가 자본화기간에 토지의 구매단계와 건설단계 포함 여부",
+          "url": "/qnas/2017-I-KQA006",
+          "date": "2017-04-03"
+        },
+        {
+          "qna_id": "SSI-35588",
+          "title": "비경상적으로 발생한 재작업 원가",
+          "url": "/qnas/SSI-35588",
+          "date": "2019-04-15"
+        },
+        {
+          "qna_id": "SSI-36936",
+          "title": "생산직 유급휴가자 급여의 영업손익 분류",
+          "url": "/qnas/SSI-36936",
+          "date": "2020-06-01"
+        },
+        {
+          "qna_id": "SSI-38463",
+          "title": "신재생에너지 공급인증서(REC)의 회계처리",
+          "url": "/qnas/SSI-38463",
+          "date": "2018-02-07"
+        },
+        {
+          "qna_id": "SSI-38545",
+          "title": "수입물품의 부대비용 인식",
+          "url": "/qnas/SSI-38545",
+          "date": "2018-01-16"
+        },
+        {
+          "qna_id": "2022-I-KQA007",
+          "title": "수입 자동차에 부과되는 개별소비세의 회계처리",
+          "url": "/qnas/2022-I-KQA007",
+          "date": "2022-05-30"
+        },
+        {
+          "qna_id": "2022-I-KQA014",
+          "title": "상품 매입 시 공급자에게서 받는  물류 관련 수수료의 회계처리",
+          "url": "/qnas/2022-I-KQA014",
+          "date": "2022-12-15"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "wVvfnV",
+      "section_title": "매입원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|매입원가",
+      "text": "재고자산의 매입원가는 매입가격에 수입관세와 제세금(과세당국으로부터 추후 환급받을 수 있는 금액은 제외), 매입운임, 하역료 그리고 완제품, 원재료 및 용역의 취득과정에 직접 관련된 기타 원가를 가산한 금액이다. 매입할인, 리베이트 및 기타 유사한 항목은 매입원가를 결정할 때 차감한다.",
+      "html": "재고자산의 매입원가는 매입가격에 수입관세와 제세금(과세당국으로부터 추후 환급받을 수 있는 금액은 제외), 매입운임, 하역료 그리고 완제품, 원재료 및 용역의 취득과정에 직접 관련된 기타 원가를 가산한 금액이다. 매입할인, 리베이트 및 기타 유사한 항목은 매입원가를 결정할 때 차감한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-38483",
+          "title": "환급 가능한 관세",
+          "url": "/qnas/SSI-38483",
+          "date": "2021-03-10"
+        },
+        {
+          "qna_id": "SSI-38545",
+          "title": "수입물품의 부대비용 인식",
+          "url": "/qnas/SSI-38545",
+          "date": "2018-01-16"
+        },
+        {
+          "qna_id": "2022-I-KQA007",
+          "title": "수입 자동차에 부과되는 개별소비세의 회계처리",
+          "url": "/qnas/2022-I-KQA007",
+          "date": "2022-05-30"
+        },
+        {
+          "qna_id": "2022-I-KQA014",
+          "title": "상품 매입 시 공급자에게서 받는  물류 관련 수수료의 회계처리",
+          "url": "/qnas/2022-I-KQA014",
+          "date": "2022-12-15"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "zpMOEv",
+      "section_title": "전환원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|전환원가",
+      "text": "재고자산의 전환원가는 직접노무원가 등 생산량과 직접 관련된 원가를 포함한다. 또한 원재료를 완제품으로 전환하는 데 드는 고정 및 변동 제조간접원가의 체계적인 배부액도 포함한다. 고정제조간접원가란 생산과정에서 사용되는 공장 건물, 기계장치, 사용권자산의 감가상각비 및 수선유지비와 공장 관리비처럼 생산량과는 상관없이 비교적 일정한 수준을 유지하는 간접 제조원가를 말한다. 변동제조간접원가는 간접재료원가나 간접노무원가처럼 생산량에 따라 직접적으로 또는 거의 직접적으로 변동되는 간접 제조원가를 말한다.",
+      "html": "재고자산의 전환원가는 직접노무원가 등 생산량과 직접 관련된 원가를 포함한다. 또한 원재료를 완제품으로 전환하는 데 드는 고정 및 변동 제조간접원가의 체계적인 배부액도 포함한다. 고정제조간접원가란 생산과정에서 사용되는 공장 건물, 기계장치, 사용권자산의 감가상각비 및 수선유지비와 공장 관리비처럼 생산량과는 상관없이 비교적 일정한 수준을 유지하는 간접 제조원가를 말한다. 변동제조간접원가는 간접재료원가나 간접노무원가처럼 생산량에 따라 직접적으로 또는 거의 직접적으로 변동되는 간접 제조원가를 말한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2013-I-KQA011",
+          "title": "외주제작으로 유형자산 취득시, 관련 내부간접비(예: 인건비, 경비)는 해당 자산의 취득원가에 해당하는가",
+          "url": "/qnas/2013-I-KQA011",
+          "date": "2013-10-21"
+        },
+        {
+          "qna_id": "2020-I-KQA005",
+          "title": "생산중단에 따른 고정제조간접비 등의 영업손익 분류",
+          "url": "/qnas/2020-I-KQA005",
+          "date": "2020-05-08"
+        },
+        {
+          "qna_id": "2020-I-KQA010",
+          "title": "손실부담계약 평가 시 재고자산 원가에 배부되지 않을 것으로 예상되는 고정제조간접원가의 포함 여부",
+          "url": "/qnas/2020-I-KQA010",
+          "date": "2020-09-28"
+        },
+        {
+          "qna_id": "SSI-35588",
+          "title": "비경상적으로 발생한 재작업 원가",
+          "url": "/qnas/SSI-35588",
+          "date": "2019-04-15"
+        },
+        {
+          "qna_id": "SSI-36936",
+          "title": "생산직 유급휴가자 급여의 영업손익 분류",
+          "url": "/qnas/SSI-36936",
+          "date": "2020-06-01"
+        },
+        {
+          "qna_id": "SSI-38492",
+          "title": "사용중단 기계장치의 감가상각비 회계처리",
+          "url": "/qnas/SSI-38492",
+          "date": "2021-07-20"
+        },
+        {
+          "qna_id": "SSI-38507",
+          "title": "기존 건물 철거 후 신축 시 기존 건물의 장부금액의 회계처리",
+          "url": "/qnas/SSI-38507",
+          "date": "2021-09-08"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "zpMOEv",
+      "section_title": "전환원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|전환원가",
+      "text": "고정제조간접원가는 생산설비의 정상조업도에 기초하여 전환원가에 배부하는데, 실제조업도가 정상조업도와 유사한 경우에는 실제조업도를 사용할 수 있다. 정상조업도는 정상적인 상황에서 상당한 기간동안 평균적으로 달성할 수 있을 것으로 예상되는 생산량을 말하는데, 계획된 유지활동에 따른 조업도 손실을 고려한 것을 말한다. 생산단위당 고정제조간접원가 배부액은 낮은 조업도나 유휴설비로 인해 증가되지 않으며, 배부되지 않은 고정제조간접원가는 발생한 기간의 비용으로 인식한다. 그러나 비정상적으로 많은 생산이 이루어진 기간에는, 재고자산이 원가 이상으로 측정되지 않도록 생산단위당 고정제조간접원가 배부액을 감소시켜야 한다. 한편, 변동제조간접원가는 생산설비의 실제 사용에 기초하여 각 생산단위에 배부한다.",
+      "html": "고정제조간접원가는 생산설비의 정상조업도에 기초하여 전환원가에 배부하는데, 실제조업도가 정상조업도와 유사한 경우에는 실제조업도를 사용할 수 있다. 정상조업도는 정상적인 상황에서 상당한 기간동안 평균적으로 달성할 수 있을 것으로 예상되는 생산량을 말하는데, 계획된 유지활동에 따른 조업도 손실을 고려한 것을 말한다. 생산단위당 고정제조간접원가 배부액은 낮은 조업도나 유휴설비로 인해 증가되지 않으며, 배부되지 않은 고정제조간접원가는 발생한 기간의 비용으로 인식한다. 그러나 비정상적으로 많은 생산이 이루어진 기간에는, 재고자산이 원가 이상으로 측정되지 않도록 생산단위당 고정제조간접원가 배부액을 감소시켜야 한다. 한편, 변동제조간접원가는 생산설비의 실제 사용에 기초하여 각 생산단위에 배부한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2020-I-KQA010",
+          "title": "손실부담계약 평가 시 재고자산 원가에 배부되지 않을 것으로 예상되는 고정제조간접원가의 포함 여부",
+          "url": "/qnas/2020-I-KQA010",
+          "date": "2020-09-28"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "zpMOEv",
+      "section_title": "전환원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|전환원가",
+      "text": "연산품이 생산되거나 주산물과 부산물이 생산되는 경우처럼 하나의 생산과정을 통하여 동시에 둘 이상의 제품이 생산될 수도 있다. 이 경우, 제품별 전환원가를 분리하여 식별할 수 없다면, 전환원가를 합리적이고 일관성 있는 방법으로 각 제품에 배부한다. 예를 들어, 각 제품을 분리하여 식별가능한 시점 또는 완성 시점의 제품별 상대적 판매가치를 기준으로 배부할 수 있다. 한편 대부분의 부산물은 본래 중요하지 않은데, 이 경우 부산물은 흔히 순실현가능가치로 측정하며 주산물의 원가에서 차감된다. 따라서 주산물의 장부금액은 원가와 중요한 차이가 없다.",
+      "html": "연산품이 생산되거나 주산물과 부산물이 생산되는 경우처럼 하나의 생산과정을 통하여 동시에 둘 이상의 제품이 생산될 수도 있다. 이 경우, 제품별 전환원가를 분리하여 식별할 수 없다면, 전환원가를 합리적이고 일관성 있는 방법으로 각 제품에 배부한다. 예를 들어, 각 제품을 분리하여 식별가능한 시점 또는 완성 시점의 제품별 상대적 판매가치를 기준으로 배부할 수 있다. 한편 대부분의 부산물은 본래 중요하지 않은데, 이 경우 부산물은 흔히 순실현가능가치로 측정하며 주산물의 원가에서 차감된다. 따라서 주산물의 장부금액은 원가와 중요한 차이가 없다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "ma7cgP",
+      "section_title": "기타 원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|기타 원가",
+      "text": "기타 원가는 재고자산을 현재의 장소에 현재의 상태로 이르게 하는 데 발생한 범위내에서만 취득원가에 포함된다. 예를 들어 특정한 고객을 위한 비제조 간접원가 또는 제품 디자인원가를 재고자산의 원가에 포함하는 것이 적절할 수도 있다.",
+      "html": "기타 원가는 재고자산을 현재의 장소에 현재의 상태로 이르게 하는 데 발생한 범위내에서만 취득원가에 포함된다. 예를 들어 특정한 고객을 위한 비제조 간접원가 또는 제품 디자인원가를 재고자산의 원가에 포함하는 것이 적절할 수도 있다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2022-I-KQA014",
+          "title": "상품 매입 시 공급자에게서 받는  물류 관련 수수료의 회계처리",
+          "url": "/qnas/2022-I-KQA014",
+          "date": "2022-12-15"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "ma7cgP",
+      "section_title": "기타 원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|기타 원가",
+      "text": "재고자산의 취득원가에 포함할 수 없으며 발생기간의 비용으로 인식하여야 하는 원가의 예는 다음과 같다.\n(1) 재료원가, 노무원가 및 기타 제조원가 중 비정상적으로 낭비된 부분\n(2) 후속 생산단계에 투입하기 전에 보관이 필요한 경우 이외의 보관원가\n(3) 재고자산을 현재의 장소에 현재의 상태로 이르게 하는데 기여하지 않은 관리간접원가\n(4) 판매원가",
+      "html": "재고자산의 취득원가에 포함할 수 없으며 발생기간의 비용으로 인식하여야 하는 원가의 예는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 재료원가, 노무원가 및 기타 제조원가 중 비정상적으로 낭비된 부분</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 후속 생산단계에 투입하기 전에 보관이 필요한 경우 이외의 보관원가</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 재고자산을 현재의 장소에 현재의 상태로 이르게 하는데 기여하지 않은 관리간접원가</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 판매원가</div></div>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-36936",
+          "title": "생산직 유급휴가자 급여의 영업손익 분류",
+          "url": "/qnas/SSI-36936",
+          "date": "2020-06-01"
+        },
+        {
+          "qna_id": "2022-I-KQA014",
+          "title": "상품 매입 시 공급자에게서 받는  물류 관련 수수료의 회계처리",
+          "url": "/qnas/2022-I-KQA014",
+          "date": "2022-12-15"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "17",
+      "section_id": "ma7cgP",
+      "section_title": "기타 원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|기타 원가",
+      "text": "기업회계기준서 제1023호 ‘차입원가’는 차입원가가 재고자산의 취득원가에 포함되는 제한된 상황을 규정하고 있다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">차입원가</span><span class=\"std-finder\">기업회계기준서 제1023호</span></div> ‘차입원가’는 차입원가가 재고자산의 취득원가에 포함되는 제한된 상황을 규정하고 있다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1023호",
+          "standard_number": "1023",
+          "standard_title": "차입원가",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "2017-I-KQA006",
+          "title": "토지의 차입원가 자본화기간에 토지의 구매단계와 건설단계 포함 여부",
+          "url": "/qnas/2017-I-KQA006",
+          "date": "2017-04-03"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "18",
+      "section_id": "ma7cgP",
+      "section_title": "기타 원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|기타 원가",
+      "text": "재고자산을 후불조건으로 취득할 수도 있다. 계약이 실질적으로 금융요소를 포함하고 있다면, 해당 금융요소(예: 정상신용조건의 매입가격과 실제 지급액 간의 차이)는 금융이 이루어지는 기간 동안 이자비용으로 인식한다.",
+      "html": "재고자산을 후불조건으로 취득할 수도 있다. 계약이 실질적으로 금융요소를 포함하고 있다면, 해당 금융요소(예: 정상신용조건의 매입가격과 실제 지급액 간의 차이)는 금융이 이루어지는 기간 동안 이자비용으로 인식한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "201511A",
+          "title": "재고자산 – 장기 공급계약의 선급금",
+          "url": "/qnas/201511A",
+          "date": "2015-11-30"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "19",
+      "section_id": "YyU58M",
+      "section_title": "용역제공기업의 재고자산 취득원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|용역제공기업의 재고자산 취득원가",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "20",
+      "section_id": "kSINVX",
+      "section_title": "생물자산에서 수확한 농림어업 수확물의 취득원가",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|생물자산에서 수확한 농림어업 수확물의 취득원가",
+      "text": "기업회계기준서 제1041호에 따라 생물자산에서 수확한 농림어업 수확물로 구성된 재고자산은 공정가치에서 처분부대원가를 뺀 금액으로 측정하여 수확시점에 최초로 인식한다. 당해 그 금액이 최초인식시점에 이 기준서에 따른 해당 재고자산의 취득원가이다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">기업회계기준서 제1041호</span></div>에 따라 생물자산에서 수확한 농림어업 수확물로 구성된 재고자산은 공정가치에서 처분부대원가를 뺀 금액으로 측정하여 수확시점에 최초로 인식한다. 당해 그 금액이 최초인식시점에 이 기준서에 따른 해당 재고자산의 취득원가이다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1041호",
+          "standard_number": "1041",
+          "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "SSI-38503",
+          "title": "살아있는 동물의 자산 분류",
+          "url": "/qnas/SSI-38503",
+          "date": "2017-04-21"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "21",
+      "section_id": "8oc5M4",
+      "section_title": "원가측정방법",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|원가측정방법",
+      "text": "표준원가법이나 소매재고법 등의 원가측정방법은 그러한 방법으로 평가한 결과가 실제 원가와 유사한 경우에 편의상 사용할 수 있다. 표준원가는 정상적인 재료원가, 소모품원가, 노무원가 및 효율성과 생산능력 활용도를 반영한다. 표준원가는 정기적으로 검토하여야 하며 필요한 경우 현재 상황에 맞게 조정하여야 한다.",
+      "html": "표준원가법이나 소매재고법 등의 원가측정방법은 그러한 방법으로 평가한 결과가 실제 원가와 유사한 경우에 편의상 사용할 수 있다. 표준원가는 정상적인 재료원가, 소모품원가, 노무원가 및 효율성과 생산능력 활용도를 반영한다. 표준원가는 정기적으로 검토하여야 하며 필요한 경우 현재 상황에 맞게 조정하여야 한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "22",
+      "section_id": "8oc5M4",
+      "section_title": "원가측정방법",
+      "toc_path": "본문|재고자산의 측정|재고자산의 취득원가|원가측정방법",
+      "text": "소매재고법은 이익률이 유사하고 품종변화가 심한 다품종 상품을 취급하는 유통업에서 실무적으로 다른 원가측정법을 사용할 수 없는 경우에 흔히 사용한다. 소매재고법에서 재고자산의 원가는 재고자산의 판매가격을 적절한 총이익률을 반영하여 환원하는 방법으로 결정한다. 이때 적용되는 이익률은 최초판매가격 이하로 가격이 인하된 재고자산을 고려하여 계산하는데, 일반적으로 판매부문별 평균이익률을 사용한다.",
+      "html": "소매재고법은 이익률이 유사하고 품종변화가 심한 다품종 상품을 취급하는 유통업에서 실무적으로 다른 원가측정법을 사용할 수 없는 경우에 흔히 사용한다. 소매재고법에서 재고자산의 원가는 재고자산의 판매가격을 적절한 총이익률을 반영하여 환원하는 방법으로 결정한다. 이때 적용되는 이익률은 최초판매가격 이하로 가격이 인하된 재고자산을 고려하여 계산하는데, 일반적으로 판매부문별 평균이익률을 사용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "23",
+      "section_id": "2QE0Hi",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "본문|재고자산의 측정|단위원가 결정방법",
+      "text": "통상적으로 상호 교환될 수 없는 재고자산항목의 원가와 특정 프로젝트별로 생산되고 분리되는 재화 또는 용역의 원가는 개별법을 사용하여 결정한다.",
+      "html": "<b>통상적으로 상호 교환될 수 없는 재고자산항목의 원가와 특정 프로젝트별로 생산되고 분리되는 재화 또는 용역의 원가는 개별법을 사용하여 결정한다.</b>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "24",
+      "section_id": "2QE0Hi",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "본문|재고자산의 측정|단위원가 결정방법",
+      "text": "개별법은 식별되는 재고자산별로 특정한 원가를 부과하는 방법이다. 이 방법은 외부 매입이나 자가제조를 불문하고, 특정 프로젝트를 위해 분리된 항목에 적절한 방법이다. 그러나 통상적으로 상호교환 가능한 대량의 재고자산 항목에 개별법을 적용하는 것은 적절하지 아니하다. 그러한 경우에는 기말 재고로 남아있는 항목을 선택하는 방식을 이용하여 손익을 자의적으로 조정할 수도 있기 때문이다.",
+      "html": "개별법은 식별되는 재고자산별로 특정한 원가를 부과하는 방법이다. 이 방법은 외부 매입이나 자가제조를 불문하고, 특정 프로젝트를 위해 분리된 항목에 적절한 방법이다. 그러나 통상적으로 상호교환 가능한 대량의 재고자산 항목에 개별법을 적용하는 것은 적절하지 아니하다. 그러한 경우에는 기말 재고로 남아있는 항목을 선택하는 방식을 이용하여 손익을 자의적으로 조정할 수도 있기 때문이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "25",
+      "section_id": "2QE0Hi",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "본문|재고자산의 측정|단위원가 결정방법",
+      "text": "문단 23이 적용되지 않는 재고자산의 단위원가는 선입선출법이나 가중평균법을 사용하여 결정한다. 성격과 용도 면에서 유사한 재고자산에는 동일한 단위원가 결정방법을 적용하여야 하며, 성격이나 용도 면에서 차이가 있는 재고자산에는 서로 다른 단위원가 결정방법을 적용할 수 있다.",
+      "html": "<b><span class=\"mundan-finder\">문단 23</span>이 적용되지 않는 재고자산의 단위원가는 선입선출법이나 가중평균법을 사용하여 결정한다. 성격과 용도 면에서 유사한 재고자산에는 동일한 단위원가 결정방법을 적용하여야 하며, 성격이나 용도 면에서 차이가 있는 재고자산에는 서로 다른 단위원가 결정방법을 적용할 수 있다.\n  </b>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 23",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "23",
+          "paragraph_ids": [
+            "23"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "26",
+      "section_id": "2QE0Hi",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "본문|재고자산의 측정|단위원가 결정방법",
+      "text": "예를 들어, 동일한 재고자산이 동일한 기업내에서 영업부문에 따라 서로 다른 용도로 사용되는 경우도 있다. 그러나 재고자산의 지역별 위치나 과세방식이 다르다는 이유만으로 동일한 재고자산에 다른 단위원가 결정방법을 적용하는 것이 정당화될 수는 없다.",
+      "html": "예를 들어, 동일한 재고자산이 동일한 기업내에서 영업부문에 따라 서로 다른 용도로 사용되는 경우도 있다. 그러나 재고자산의 지역별 위치나 과세방식이 다르다는 이유만으로 동일한 재고자산에 다른 단위원가 결정방법을 적용하는 것이 정당화될 수는 없다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "27",
+      "section_id": "2QE0Hi",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "본문|재고자산의 측정|단위원가 결정방법",
+      "text": "선입선출법은 먼저 매입 또는 생산된 재고자산이 먼저 판매되고 결과적으로 기말에 재고로 남아 있는 항목은 가장 최근에 매입 또는 생산된 항목이라고 가정하는 방법이다. 가중평균법은 기초 재고자산과 회계기간 중에 매입 또는 생산된 재고자산의 원가를 가중평균하여 재고항목의 단위원가를 결정하는 방법이다. 이 경우 평균은 기업의 상황에 따라 주기적으로 계산하거나 매입 또는 생산할 때마다 계산할 수 있다.",
+      "html": "선입선출법은 먼저 매입 또는 생산된 재고자산이 먼저 판매되고 결과적으로 기말에 재고로 남아 있는 항목은 가장 최근에 매입 또는 생산된 항목이라고 가정하는 방법이다. 가중평균법은 기초 재고자산과 회계기간 중에 매입 또는 생산된 재고자산의 원가를 가중평균하여 재고항목의 단위원가를 결정하는 방법이다. 이 경우 평균은 기업의 상황에 따라 주기적으로 계산하거나 매입 또는 생산할 때마다 계산할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "28",
+      "section_id": "GCuUyP",
+      "section_title": "순실현가능가치",
+      "toc_path": "본문|재고자산의 측정|순실현가능가치",
+      "text": "다음의 경우에는 재고자산의 원가를 회수하기 어려울 수 있다.\n(1) 물리적으로 손상된 경우\n(2) 완전히 또는 부분적으로 진부화 된 경우\n(3) 판매가격이 하락한 경우\n(4) 완성하거나 판매하는 데 필요한 원가가 상승한 경우\n재고자산을 취득원가 이하의 순실현가능가치로 감액하는 저가법은 자산의 장부금액이 판매나 사용으로부터 실현될 것으로 기대되는 금액을 초과하여서는 아니 된다는 견해와 일관성이 있다.",
+      "html": "다음의 경우에는 재고자산의 원가를 회수하기 어려울 수 있다.\n재고자산을 취득원가 이하의 순실현가능가치로 감액하는 저가법은 자산의 장부금액이 판매나 사용으로부터 실현될 것으로 기대되는 금액을 초과하여서는 아니 된다는 견해와 일관성이 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 물리적으로 손상된 경우</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 완전히 또는 부분적으로 진부화 된 경우</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 판매가격이 하락한 경우</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 완성하거나 판매하는 데 필요한 원가가 상승한 경우</div></div>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "202106B",
+          "title": "재고자산 판매에 필요한 원가",
+          "url": "/qnas/202106B",
+          "date": "2021-06-30"
+        },
+        {
+          "qna_id": "SSI-35555",
+          "title": "저장품(재고자산)의 손상차손 인식 여부",
+          "url": "/qnas/SSI-35555",
+          "date": "2019-07-18"
+        },
+        {
+          "qna_id": "SSI-38480",
+          "title": "재고자산 평가손실과 감모손실",
+          "url": "/qnas/SSI-38480",
+          "date": "2018-12-10"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "29",
+      "section_id": "GCuUyP",
+      "section_title": "순실현가능가치",
+      "toc_path": "본문|재고자산의 측정|순실현가능가치",
+      "text": "재고자산을 순실현가능가치로 감액하는 저가법은 항목별로 적용한다. 그러나 경우에 따라서는 서로 비슷하거나 관련된 항목들을 통합하여 적용하는 것이 적절할 수 있다. 이러한 경우로는 재고자산 항목이 비슷한 목적 또는 최종 용도를 갖는 같은 제품군과 관련되고, 같은 지역에서 생산되어 판매되며, 실무적으로 그 제품군에 속하는 다른 항목과 구분하여 평가할 수 없는 경우를 들 수 있다. 그러나 재고자산의 분류(예: 완제품)나 특정 영업부문에 속하는 모든 재고자산에 기초하여 저가법을 적용하는 것은 적절하지 않다.",
+      "html": "재고자산을 순실현가능가치로 감액하는 저가법은 항목별로 적용한다. 그러나 경우에 따라서는 서로 비슷하거나 관련된 항목들을 통합하여 적용하는 것이 적절할 수 있다. 이러한 경우로는 재고자산 항목이 비슷한 목적 또는 최종 용도를 갖는 같은 제품군과 관련되고, 같은 지역에서 생산되어 판매되며, 실무적으로 그 제품군에 속하는 다른 항목과 구분하여 평가할 수 없는 경우를 들 수 있다. 그러나 재고자산의 분류(예: 완제품)나 특정 영업부문에 속하는 모든 재고자산에 기초하여 저가법을 적용하는 것은 적절하지 않다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "202106B",
+          "title": "재고자산 판매에 필요한 원가",
+          "url": "/qnas/202106B",
+          "date": "2021-06-30"
+        },
+        {
+          "qna_id": "SSI-36894",
+          "title": "상품, 제품[재고자산]의 감액 회계처리",
+          "url": "/qnas/SSI-36894",
+          "date": "2020-01-07"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "30",
+      "section_id": "GCuUyP",
+      "section_title": "순실현가능가치",
+      "toc_path": "본문|재고자산의 측정|순실현가능가치",
+      "text": "순실현가능가치를 추정할 때에는 재고자산으로부터 실현가능한 금액에 대하여 추정일 현재 사용가능한 가장 신뢰성 있는 증거에 기초하여야 한다. 또한 보고기간 후 사건이 보고기간말 존재하는 상황에 대하여 확인하여주는 경우에는, 그 사건과 직접 관련된 가격이나 원가의 변동을 고려하여 추정하여야 한다.",
+      "html": "순실현가능가치를 추정할 때에는 재고자산으로부터 실현가능한 금액에 대하여 추정일 현재 사용가능한 가장 신뢰성 있는 증거에 기초하여야 한다. 또한 보고기간 후 사건이 보고기간말 존재하는 상황에 대하여 확인하여주는 경우에는, 그 사건과 직접 관련된 가격이나 원가의 변동을 고려하여 추정하여야 한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "202106B",
+          "title": "재고자산 판매에 필요한 원가",
+          "url": "/qnas/202106B",
+          "date": "2021-06-30"
+        },
+        {
+          "qna_id": "SSI-36894",
+          "title": "상품, 제품[재고자산]의 감액 회계처리",
+          "url": "/qnas/SSI-36894",
+          "date": "2020-01-07"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "31",
+      "section_id": "GCuUyP",
+      "section_title": "순실현가능가치",
+      "toc_path": "본문|재고자산의 측정|순실현가능가치",
+      "text": "순실현가능가치를 추정할 때 재고자산의 보유 목적도 고려하여야 한다. 예를 들어 확정판매계약 또는 용역계약을 이행하기 위하여 보유하는 재고자산의 순실현가능가치는 계약가격에 기초한다. 만일 보유하고 있는 재고자산의 수량이 확정판매계약의 이행에 필요한 수량을 초과하는 경우에는 그 초과 수량의 순실현가능가치는 일반 판매가격에 기초한다. 재고자산 보유 수량을 초과하는 확정판매계약에 따른 충당부채나 확정매입계약에 따른 충당부채는 기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’에 따라 회계처리한다.",
+      "html": "순실현가능가치를 추정할 때 재고자산의 보유 목적도 고려하여야 한다. 예를 들어 확정판매계약 또는 용역계약을 이행하기 위하여 보유하는 재고자산의 순실현가능가치는 계약가격에 기초한다. 만일 보유하고 있는 재고자산의 수량이 확정판매계약의 이행에 필요한 수량을 초과하는 경우에는 그 초과 수량의 순실현가능가치는 일반 판매가격에 기초한다. 재고자산 보유 수량을 초과하는 확정판매계약에 따른 충당부채나 확정매입계약에 따른 충당부채는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준서 제1037호</span></div> ‘충당부채, 우발부채, 우발자산’에 따라 회계처리한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1037호",
+          "standard_number": "1037",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "202106B",
+          "title": "재고자산 판매에 필요한 원가",
+          "url": "/qnas/202106B",
+          "date": "2021-06-30"
+        },
+        {
+          "qna_id": "SSI-36894",
+          "title": "상품, 제품[재고자산]의 감액 회계처리",
+          "url": "/qnas/SSI-36894",
+          "date": "2020-01-07"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "32",
+      "section_id": "GCuUyP",
+      "section_title": "순실현가능가치",
+      "toc_path": "본문|재고자산의 측정|순실현가능가치",
+      "text": "완성될 제품이 원가 이상으로 판매될 것으로 예상하는 경우에는 그 생산에 투입하기 위해 보유하는 원재료 및 기타 소모품을 감액하지 아니한다. 그러나 원재료 가격이 하락하여 제품의 원가가 순실현가능가치를 초과할 것으로 예상된다면 해당 원재료를 순실현가능가치로 감액한다. 이 경우 원재료의 현행대체원가는 순실현가능가치에 대한 최선의 이용가능한 측정치가 될 수 있다.",
+      "html": "완성될 제품이 원가 이상으로 판매될 것으로 예상하는 경우에는 그 생산에 투입하기 위해 보유하는 원재료 및 기타 소모품을 감액하지 아니한다. 그러나 원재료 가격이 하락하여 제품의 원가가 순실현가능가치를 초과할 것으로 예상된다면 해당 원재료를 순실현가능가치로 감액한다. 이 경우 원재료의 현행대체원가는 순실현가능가치에 대한 최선의 이용가능한 측정치가 될 수 있다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "202106B",
+          "title": "재고자산 판매에 필요한 원가",
+          "url": "/qnas/202106B",
+          "date": "2021-06-30"
+        },
+        {
+          "qna_id": "SSI-36894",
+          "title": "상품, 제품[재고자산]의 감액 회계처리",
+          "url": "/qnas/SSI-36894",
+          "date": "2020-01-07"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "33",
+      "section_id": "GCuUyP",
+      "section_title": "순실현가능가치",
+      "toc_path": "본문|재고자산의 측정|순실현가능가치",
+      "text": "매 후속기간에 순실현가능가치를 재평가한다. 재고자산의 감액을 초래했던 상황이 해소되거나 경제상황의 변동으로 순실현가능가치가 상승한 명백한 증거가 있는 경우에는 최초의 장부금액을 초과하지 않는 범위 내에서 평가손실을 환입한다. 그 결과 새로운 장부금액은 취득원가와 수정된 순실현가능가치 중 작은 금액이 된다. 판매가격의 하락 때문에 순실현가능가치로 감액한 재고항목을 후속기간에 계속 보유하던 중 판매가격이 상승한 경우가 이에 해당한다.",
+      "html": "매 후속기간에 순실현가능가치를 재평가한다. 재고자산의 감액을 초래했던 상황이 해소되거나 경제상황의 변동으로 순실현가능가치가 상승한 명백한 증거가 있는 경우에는 최초의 장부금액을 초과하지 않는 범위 내에서 평가손실을 환입한다. 그 결과 새로운 장부금액은 취득원가와 수정된 순실현가능가치 중 작은 금액이 된다. 판매가격의 하락 때문에 순실현가능가치로 감액한 재고항목을 후속기간에 계속 보유하던 중 판매가격이 상승한 경우가 이에 해당한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "202106B",
+          "title": "재고자산 판매에 필요한 원가",
+          "url": "/qnas/202106B",
+          "date": "2021-06-30"
+        },
+        {
+          "qna_id": "SSI-35555",
+          "title": "저장품(재고자산)의 손상차손 인식 여부",
+          "url": "/qnas/SSI-35555",
+          "date": "2019-07-18"
+        },
+        {
+          "qna_id": "SSI-36894",
+          "title": "상품, 제품[재고자산]의 감액 회계처리",
+          "url": "/qnas/SSI-36894",
+          "date": "2020-01-07"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "34",
+      "section_id": "WUS2fj",
+      "section_title": "비용의 인식",
+      "toc_path": "본문|비용의 인식",
+      "text": "재고자산의 판매시, 관련된 수익을 인식하는 기간에 재고자산의 장부금액을 비용으로 인식한다. 재고자산을 순실현가능가치로 감액한 평가손실과 모든 감모손실은 감액이나 감모가 발생한 기간에 비용으로 인식한다. 순실현가능가치의 상승으로 인한 재고자산 평가손실의 환입은 환입이 발생한 기간의 비용으로 인식된 재고자산 금액의 차감액으로 인식한다.",
+      "html": "<b>재고자산의 판매시, 관련된 수익을 인식하는 기간에 재고자산의 장부금액을 비용으로 인식한다. 재고자산을 순실현가능가치로 감액한 평가손실과 모든 감모손실은 감액이나 감모가 발생한 기간에 비용으로 인식한다. 순실현가능가치의 상승으로 인한 재고자산 평가손실의 환입은 환입이 발생한 기간의 비용으로 인식된 재고자산 금액의 차감액으로 인식한다.</b>",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2019-I-KQA011",
+          "title": "화재로 발생한 재고자산 소실 등의 손실은 영업비용인가? 영업외비용인가?",
+          "url": "/qnas/2019-I-KQA011",
+          "date": "2019-04-08"
+        },
+        {
+          "qna_id": "SSI-35555",
+          "title": "저장품(재고자산)의 손상차손 인식 여부",
+          "url": "/qnas/SSI-35555",
+          "date": "2019-07-18"
+        },
+        {
+          "qna_id": "SSI-35588",
+          "title": "비경상적으로 발생한 재작업 원가",
+          "url": "/qnas/SSI-35588",
+          "date": "2019-04-15"
+        },
+        {
+          "qna_id": "SSI-38480",
+          "title": "재고자산 평가손실과 감모손실",
+          "url": "/qnas/SSI-38480",
+          "date": "2018-12-10"
+        },
+        {
+          "qna_id": "SSI-202412003",
+          "title": "고객에게 추가로 제공하는 제품",
+          "url": "/qnas/SSI-202412003",
+          "date": "2023-05-04"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "35",
+      "section_id": "WUS2fj",
+      "section_title": "비용의 인식",
+      "toc_path": "본문|비용의 인식",
+      "text": "자가건설한 유형자산의 구성요소로 사용되는 재고자산처럼 재고자산의 원가를 다른 자산계정에 배분하는 경우도 있다. 이처럼 다른 자산에 배분된 재고자산 원가는 해당 자산의 내용연수 동안 비용으로 인식한다.",
+      "html": "자가건설한 유형자산의 구성요소로 사용되는 재고자산처럼 재고자산의 원가를 다른 자산계정에 배분하는 경우도 있다. 이처럼 다른 자산에 배분된 재고자산 원가는 해당 자산의 내용연수 동안 비용으로 인식한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "36",
+      "section_id": "E2sHzi",
+      "section_title": "공시",
+      "toc_path": "본문|공시",
+      "text": "재무제표에 다음 사항을 공시한다.\n(1) 재고자산의 단위원가 결정방법 등 재고자산을 측정하는 데 적용된 회계정책\n(2) 재고자산의 총 장부금액과 적절한 분류별 장부금액\n(3) 공정가치에서 처분부대원가를 뺀 금액으로 보고하는 재고자산의 장부금액\n(4) 당기에 비용으로 인식한 재고자산의 금액\n(5) 문단 34에 따라 당기에 비용으로 인식한 재고자산 평가손실 금액\n(6) 문단 34에 따라 당기에 비용으로 인식한 재고자산 금액의 차감액으로 인식한 재고자산 평가손실환입액\n(7) 문단 34에 따라 재고자산 평가손실환입을 초래한 상황이나 사건\n(8) 담보로 제공된 재고자산의 장부금액",
+      "html": "재무제표에 다음 사항을 공시한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 재고자산의 단위원가 결정방법 등 재고자산을 측정하는 데 적용된 회계정책</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 재고자산의 총 장부금액과 적절한 분류별 장부금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 공정가치에서 처분부대원가를 뺀 금액으로 보고하는 재고자산의 장부금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 당기에 비용으로 인식한 재고자산의 금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 34</span>에 따라 당기에 비용으로 인식한 재고자산 평가손실 금액        \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(6)</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 34</span>에 따라 당기에 비용으로 인식한 재고자산 금액의 차감액으로 인식한 재고자산 평가손실환입액        \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(7)</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 34</span>에 따라 재고자산 평가손실환입을 초래한 상황이나 사건        \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(8)</div><div class=\"para-num-item-para-con\"> 담보로 제공된 재고자산의 장부금액</div></div>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 34",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "34",
+          "paragraph_ids": [
+            "34"
+          ]
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "201906C",
+          "title": "가상통화 보유",
+          "url": "/qnas/201906C",
+          "date": "2019-06-30"
+        },
+        {
+          "qna_id": "SSI-35615",
+          "title": "재고자산 평가방법의 변경",
+          "url": "/qnas/SSI-35615",
+          "date": "2019-09-17"
+        },
+        {
+          "qna_id": "SSI-38502",
+          "title": "재고자산 평가방법의 변경",
+          "url": "/qnas/SSI-38502",
+          "date": "2017-01-03"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "37",
+      "section_id": "E2sHzi",
+      "section_title": "공시",
+      "toc_path": "본문|공시",
+      "text": "재고자산의 분류별 장부금액과 기중 증감액에 대한 정보는 재무제표이용자에게 유용하다. 일반적으로 재고자산은 상품, 소모품, 원재료, 재공품, 제품 등으로 분류한다.",
+      "html": "재고자산의 분류별 장부금액과 기중 증감액에 대한 정보는 재무제표이용자에게 유용하다. 일반적으로 재고자산은 상품, 소모품, 원재료, 재공품, 제품 등으로 분류한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "201906C",
+          "title": "가상통화 보유",
+          "url": "/qnas/201906C",
+          "date": "2019-06-30"
+        },
+        {
+          "qna_id": "SSI-38636",
+          "title": "임가공 거래와 재고자산 분류",
+          "url": "/qnas/SSI-38636",
+          "date": "2018-03-21"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "38",
+      "section_id": "E2sHzi",
+      "section_title": "공시",
+      "toc_path": "본문|공시",
+      "text": "당기에 비용으로 인식하는 재고자산 금액은 일반적으로 매출원가로 불리우며, 판매된 재고자산의 원가와 배분되지 않은 제조간접원가 및 제조원가 중 비정상적인 부분의 금액으로 구성된다. 또한 기업의 특수한 상황에 따라 물류원가와 같은 다른 금액들도 포함될 수 있다.",
+      "html": "당기에 비용으로 인식하는 재고자산 금액은 일반적으로 매출원가로 불리우며, 판매된 재고자산의 원가와 배분되지 않은 제조간접원가 및 제조원가 중 비정상적인 부분의 금액으로 구성된다. 또한 기업의 특수한 상황에 따라 물류원가와 같은 다른 금액들도 포함될 수 있다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "2019-I-KQA011",
+          "title": "화재로 발생한 재고자산 소실 등의 손실은 영업비용인가? 영업외비용인가?",
+          "url": "/qnas/2019-I-KQA011",
+          "date": "2019-04-08"
+        },
+        {
+          "qna_id": "2020-I-KQA005",
+          "title": "생산중단에 따른 고정제조간접비 등의 영업손익 분류",
+          "url": "/qnas/2020-I-KQA005",
+          "date": "2020-05-08"
+        },
+        {
+          "qna_id": "201906C",
+          "title": "가상통화 보유",
+          "url": "/qnas/201906C",
+          "date": "2019-06-30"
+        },
+        {
+          "qna_id": "SSI-35588",
+          "title": "비경상적으로 발생한 재작업 원가",
+          "url": "/qnas/SSI-35588",
+          "date": "2019-04-15"
+        },
+        {
+          "qna_id": "SSI-36936",
+          "title": "생산직 유급휴가자 급여의 영업손익 분류",
+          "url": "/qnas/SSI-36936",
+          "date": "2020-06-01"
+        },
+        {
+          "qna_id": "SSI-38478",
+          "title": "생산활동 중단 중에 발생한 원가",
+          "url": "/qnas/SSI-38478",
+          "date": "2021-03-10"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "39",
+      "section_id": "E2sHzi",
+      "section_title": "공시",
+      "toc_path": "본문|공시",
+      "text": "일부 기업은 당기에 비용으로 인식하는 재고자산원가 대신에 다른 금액을 공시하는 손익계산서 양식을 채택하고 있다. 이러한 손익계산서 양식에서는 비용의 성격별 분류방식에 기초한 비용 분석을 표시한다. 그러한 경우에는 당기의 재고자산 순변동액과 함께 비용으로 인식한 원재료 및 소모품, 노무원가와 기타원가를 공시한다.",
+      "html": "일부 기업은 당기에 비용으로 인식하는 재고자산원가 대신에 다른 금액을 공시하는 손익계산서 양식을 채택하고 있다. 이러한 손익계산서 양식에서는 비용의 성격별 분류방식에 기초한 비용 분석을 표시한다. 그러한 경우에는 당기의 재고자산 순변동액과 함께 비용으로 인식한 원재료 및 소모품, 노무원가와 기타원가를 공시한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "201906C",
+          "title": "가상통화 보유",
+          "url": "/qnas/201906C",
+          "date": "2019-06-30"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "40",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한40.1",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 기준서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "html": "<b>이 기준서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.</b>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40A",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40B",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40C",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2011년 12월에 발표된 기업회계기준서 제1113호에 따라 문단 6의 공정가치 정의와 문단 7이 개정되었다. 이러한 개정내용은 기업회계기준서 제1113호를 적용할 때 적용한다.",
+      "html": "2011년 12월에 발표된 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div>에 따라 \n  \n  <span class=\"mundan-finder\">문단 6</span>의 공정가치 정의와 \n  \n  <span class=\"mundan-finder\">문단 7</span>이 개정되었다. 이러한 개정내용은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div>를 적용할 때 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 6",
+          "standard_number": "1113",
+          "standard_title": null,
+          "range": "6",
+          "paragraph_ids": [
+            "6"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 7",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "7",
+          "paragraph_ids": [
+            "7"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40D",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40E",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2015년 12월에 공표한 기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’에 따라, 문단 2, 8, 29, 37을 개정하였고 문단 19를 삭제하였다. 이 개정 내용은 기업회계기준서 제1115호를 적용할 때 적용한다.",
+      "html": "2015년 12월에 공표한 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">기업회계기준서 제1115호 </span></div>‘고객과의 계약에서 생기는 수익’에 따라, \n  \n  <span class=\"mundan-finder\">문단 2, 8, 29, 37</span>을 개정하였고 \n  \n  <span class=\"mundan-finder\">문단 19</span>를 삭제하였다. 이 개정 내용은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">기업회계기준서 제1115호</span></div>를 적용할 때 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1115호",
+          "standard_number": "1115",
+          "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 2, 8, 29, 37",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "2, 8, 29, 37",
+          "paragraph_ids": [
+            "2",
+            "8",
+            "29",
+            "37"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 19",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "19",
+          "paragraph_ids": [
+            "19"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40F",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2015년 12월에 공표한 기업회계기준서 제1109호에 따라 문단 2를 개정하고 문단 40A, 40B, 40D를 삭제하였다. 기업회계기준서 제1109호를 적용할 때 이 개정 내용을 적용한다.",
+      "html": "2015년 12월에 공표한 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 따라 \n  \n  <span class=\"mundan-finder\">문단 2</span>를 개정하고 \n  \n  <span class=\"mundan-finder\">문단 40A, 40B, 40D</span>를 삭제하였다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>를 적용할 때 이 개정 내용을 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 2",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "2",
+          "paragraph_ids": [
+            "2"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 40A, 40B, 40D",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "40A, 40B, 40D",
+          "paragraph_ids": [
+            "40A",
+            "40B",
+            "40D"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "40G",
+      "section_id": "3Mxtpv",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "2017년 12월에 공표한 기업회계기준서 제1116호 ‘리스’에 따라 문단 12를 개정하였다. 이 개정 내용은 기업회계기준서 제1116호를 적용할 때 적용한다.",
+      "html": "2017년 12월에 공표한 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div> ‘리스’에 따라 \n  <span class=\"mundan-finder\">문단 12</span>를 개정하였다. 이 개정 내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>를 적용할 때 적용한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1116호",
+          "standard_number": "1116",
+          "standard_title": "리스",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 12",
+          "standard_number": "1002",
+          "standard_title": null,
+          "range": "12",
+          "paragraph_ids": [
+            "12"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "41",
+      "section_id": "62wnT1",
+      "section_title": "기준서 등의 대체",
+      "toc_path": "본문|기준서 등의 대체",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "42",
+      "section_id": "62wnT1",
+      "section_title": "기준서 등의 대체",
+      "toc_path": "본문|기준서 등의 대체",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "의결",
+      "section_id": "XjXiLe",
+      "section_title": "기업회계기준서 제1002호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준서 제1002호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준서 제1002호의 제정에 대한 회계기준위원회의 의결(2007년)",
+      "html": "<div value=\"웩의결\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준서 제1002호의 제정에 대한 회계기준위원회의 의결(2007년)</b></div><br><div class=\"para\">기업회계기준서 제1002호 ‘재고자산’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">이효익(위원장), 서정우(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC1",
+      "section_id": "jLYAjl",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|도입",
+      "text": "IASB가 2003년에 IAS 2를 개정하기 위해 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IASB 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중있게 고려하였다.",
+      "html": "\nIASB가 2003년에 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>를 개정하기 위해 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IASB 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중있게 고려하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC2",
+      "section_id": "jLYAjl",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|도입",
+      "text": "2001년 7월 IASB의 최초 의제의 하나로서 IAS 2를 포함한 일부 기준서의 개선 과제를 수행할 것이라고 발표하였다. 이 과제는 증권감독기구, 전문 회계사 및 기타 이해관계자들이 기준서와 관련하여 제기한 질문과 비판을 고려하여 수행되었다. 이러한 ‘개선 과제’의 목적은 대체적 회계처리, 중복되는 사항 및 기준서 간에 상충되는 내용을 감소시키거나 제거하고, 정합화 문제를 다루며, 그 밖의 사항을 개선하는 데 있었다. 2002년 5월 IASB는 2002년 9월 16일을 외부검토의견제출 마감일로 하여 IAS 연차개선(Improvements to International Accounting Standards) 공개초안을 발표하였고 공개초안과 관련하여 160여개의 외부검토의견서를 받았다.",
+      "html": "2001년 7월 IASB의 최초 의제의 하나로서 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>를 포함한 일부 기준서의 개선 과제를 수행할 것이라고 발표하였다. 이 과제는 증권감독기구, 전문 회계사 및 기타 이해관계자들이 기준서와 관련하여 제기한 질문과 비판을 고려하여 수행되었다. 이러한 ‘개선 과제’의 목적은 대체적 회계처리, 중복되는 사항 및 기준서 간에 상충되는 내용을 감소시키거나 제거하고, 정합화 문제를 다루며, 그 밖의 사항을 개선하는 데 있었다. 2002년 5월 IASB는 2002년 9월 16일을 외부검토의견제출 마감일로 하여 \n  <i>IAS 연차개선(Improvements to International Accounting Standards)</i> 공개초안을 발표하였고 공개초안과 관련하여 160여개의 외부검토의견서를 받았다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC3",
+      "section_id": "jLYAjl",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|도입",
+      "text": "IASB의 의도는 IAS 2가 정한 재고자산의 회계처리에 대한 근본적인 접근방법을 재고하는 것은 아니었으므로, 이 결론도출근거에서는 IAS 2와 관련하여 IASB가 재고하지 않은 규정에 대해서는 논의하지 않는다.",
+      "html": "IASB의 의도는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>가 정한 재고자산의 회계처리에 대한 근본적인 접근방법을 재고하는 것은 아니었으므로, 이 결론도출근거에서는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>와 관련하여 IASB가 재고하지 않은 규정에 대해서는 논의하지 않는다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC4",
+      "section_id": "y9aMNB",
+      "section_title": "역사적원가제도의 언급",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|적용범위|역사적원가제도의 언급",
+      "text": "개정 전 IAS 2의 목적과 적용범위에서 ‘역사적원가제도하의 재고자산에 대한 회계처리’가 언급되었다. 일부는 이와 같은 문구를 단지 역사적원가제도에서만 기준서가 적용되고, 다른 측정기준(예: 공정가치)의 적용선택을 허용한다는 의미로 해석하였다.",
+      "html": "개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>의 목적과 적용범위에서 ‘역사적원가제도하의 재고자산에 대한 회계처리’가 언급되었다. 일부는 이와 같은 문구를 단지 역사적원가제도에서만 기준서가 적용되고, 다른 측정기준(예: 공정가치)의 적용선택을 허용한다는 의미로 해석하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC5",
+      "section_id": "y9aMNB",
+      "section_title": "역사적원가제도의 언급",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|적용범위|역사적원가제도의 언급",
+      "text": "IASB는 이와 같은 문구가 선택을 허용하는 것으로 보일 수 있어 기준서가 일관성 없이 적용될 수 있다는 데 동의하였다. 따라서 IASB는 이 기준서에서 적용이 면제되지 않는 한 모든 재고자산에 대해 이 기준서가 적용됨을 명확히 하기 위해 ‘재고자산을 회계처리함에 있어 역사적원가제도의 맥락에서’ 라는 문구를 삭제하였다.",
+      "html": "IASB는 이와 같은 문구가 선택을 허용하는 것으로 보일 수 있어 기준서가 일관성 없이 적용될 수 있다는 데 동의하였다. 따라서 IASB는 이 기준서에서 적용이 면제되지 않는 한 모든 재고자산에 대해 이 기준서가 적용됨을 명확히 하기 위해 ‘재고자산을 회계처리함에 있어 역사적원가제도의 맥락에서’ 라는 문구를 삭제하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC6",
+      "section_id": "02m7AL",
+      "section_title": "중개기업의 재고자산",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|적용범위|중개기업의 재고자산",
+      "text": "공개초안은 농수산물(및 임산물)과 광물광석의 비생산자 재고자산이 해당 산업의 합리적인 관행에 따라 순실현가능가치로 측정되는 경우 기준서의 범위에서 제외할 것을 제안하였다. 그러나 일부 의견제출자들은 다음의 이유로 적용 면제에 동의하지 않았다.\n(1) 중개기업의 모든 형태의 재고자산에 적용이 면제되어야 한다.\n(2) 중개기업의 경우 순실현가능가치로 재고자산을 평가하는 것보다 시가평가 방식을 따르는 것이 합리적인 관행이다.\n(3) IAS 2의 순실현가능가치에 대한 지침은 중개기업 재고자산의 평가에 적합하지 않다.",
+      "html": "공개초안은 농수산물(및 임산물)과 광물광석의 비생산자 재고자산이 해당 산업의 합리적인 관행에 따라 순실현가능가치로 측정되는 경우 기준서의 범위에서 제외할 것을 제안하였다. 그러나 일부 의견제출자들은 다음의 이유로 적용 면제에 동의하지 않았다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 중개기업의 모든 형태의 재고자산에 적용이 면제되어야 한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 중개기업의 경우 순실현가능가치로 재고자산을 평가하는 것보다 시가평가 방식을 따르는 것이 합리적인 관행이다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>의 순실현가능가치에 대한 지침은 중개기업 재고자산의 평가에 적합하지 않다.\n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC7",
+      "section_id": "02m7AL",
+      "section_title": "중개기업의 재고자산",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|적용범위|중개기업의 재고자산",
+      "text": "IASB는 이러한 의견이 설득력이 있다고 판단하였다. 따라서 IASB는 다음과 같은 재고자산의 측정에는 이 기준서가 적용되지 않아야 한다고 결정하였다.\n(1) 농수산물과 임산물, 수확 후의 수확물, 광물자원과 광산물의 생산자가 재고자산을 순실현가능가치로 측정하는 경우(개정 전 IAS 2와 동일)\n(2) 일반상품 중개기업의 재고자산이 공정가치에서 처분부대원가를 뺀 금액으로 측정되는 경우",
+      "html": "IASB는 이러한 의견이 설득력이 있다고 판단하였다. 따라서 IASB는 다음과 같은 재고자산의 측정에는 이 기준서가 적용되지 않아야 한다고 결정하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 농수산물과 임산물, 수확 후의 수확물, 광물자원과 광산물의 생산자가 재고자산을 순실현가능가치로 측정하는 경우(개정 전 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>와 동일)\n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 일반상품 중개기업의 재고자산이 공정가치에서 처분부대원가를 뺀 금액으로 측정되는 경우</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC8",
+      "section_id": "02m7AL",
+      "section_title": "중개기업의 재고자산",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|적용범위|중개기업의 재고자산",
+      "text": "또한 IASB는 재고자산이 당기손익에 미치는 영향의 측정은 그러한 적용 면제가 허용되는 재고자산의 측정 속성과 일관되어야 한다고 결정하였다. 따라서 (1)과 (2)에서 적절한 처리가 되도록, 재고자산으로 인식된 금액의 변동이 당기손익에 포함될 것을 요구하고 있다. 중개기업은 가격의 변동과 거래 차익을 통해 이윤을 추구하므로 IASB는 이러한 사항이 특히 일반상품 중개기업의 경우에 적절하다고 생각한다.",
+      "html": "또한 IASB는 재고자산이 당기손익에 미치는 영향의 측정은 그러한 적용 면제가 허용되는 재고자산의 측정 속성과 일관되어야 한다고 결정하였다. 따라서 (1)과 (2)에서 적절한 처리가 되도록, 재고자산으로 인식된 금액의 변동이 당기손익에 포함될 것을 요구하고 있다. 중개기업은 가격의 변동과 거래 차익을 통해 이윤을 추구하므로 IASB는 이러한 사항이 특히 일반상품 중개기업의 경우에 적절하다고 생각한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC9",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "개정 전 IAS 2와 국제회계기준해석 제1호(SIC 1) ‘재고자산에 대한 서로 다른 원가결정방법의 일관성(Consistency-Different Cost Formulas for Inventories)’을 통합하면서 선입선출법(FIFO)이나 가중평균법(표준적 회계처리방법) 그리고 후입선출법(LIFO)(대안적 회계처리방법)간의 선택이 허용되었다. IASB는 후입선출법을 사용하는 대안적 회계처리방법을 삭제하기로 결정하였다.",
+      "html": "개정 전 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>와 국제회계기준해석 제1호(SIC 1) ‘재고자산에 대한 서로 다른 원가결정방법의 일관성(Consistency-Different Cost Formulas for Inventories)’을 통합하면서 선입선출법(FIFO)이나 가중평균법(표준적 회계처리방법) 그리고 후입선출법(LIFO)(대안적 회계처리방법)간의 선택이 허용되었다. IASB는 후입선출법을 사용하는 대안적 회계처리방법을 삭제하기로 결정하였다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC10",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "후입선출법은 재고자산 중 가장 최근의 품목이 우선 판매된 것으로 처리하여 결과적으로 재고자산에 남아있는 품목은 가장 오래된 것처럼 인식한다. 일반적으로 이러한 방식은 실제의 재고자산흐름을 신뢰성있게 표시하지 않는다.",
+      "html": "후입선출법은 재고자산 중 가장 최근의 품목이 우선 판매된 것으로 처리하여 결과적으로 재고자산에 남아있는 품목은 가장 오래된 것처럼 인식한다. 일반적으로 이러한 방식은 실제의 재고자산흐름을 신뢰성있게 표시하지 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC11",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "후입선출법은 전통적인 회계 모형에서 인식되었던 결함(과거의 가격에 관련지어 매출원가를 측정하고 반면에 매출은 현행 가격으로 측정함)에 대응하기 위한 시도이다. 후입선출법은 비현실적인 원가 흐름을 가정하여 그러한 결함을 해결하려하고 있다.",
+      "html": "후입선출법은 전통적인 회계 모형에서 인식되었던 결함(과거의 가격에 관련지어 매출원가를 측정하고 반면에 매출은 현행 가격으로 측정함)에 대응하기 위한 시도이다. 후입선출법은 비현실적인 원가 흐름을 가정하여 그러한 결함을 해결하려하고 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC12",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "재무보고에서 후입선출법은 매출총이익을 결정할 때에 가장 최근의 가격을 적용한 매출원가가 수익에서 차감되도록 하기 때문에 절세 목적으로 사용된다. 후입선출법은 인상된(인하된) 가격이 판매된 재고자산의 대체원가에 미치는 효과를 반영하는 방향으로 이익을 감소시킨다(증가시킨다). 그러나 이러한 영향은 가장 최근에 취득한 재고자산의 가격과 당기 말 현행대체원가와의 관계에 좌우된다. 따라서 후입선출법은 가격변동이 이익에 미치는 영향을 결정하는 정확히 체계적인 방식은 아니다.",
+      "html": "재무보고에서 후입선출법은 매출총이익을 결정할 때에 가장 최근의 가격을 적용한 매출원가가 수익에서 차감되도록 하기 때문에 절세 목적으로 사용된다. 후입선출법은 인상된(인하된) 가격이 판매된 재고자산의 대체원가에 미치는 효과를 반영하는 방향으로 이익을 감소시킨다(증가시킨다). 그러나 이러한 영향은 가장 최근에 취득한 재고자산의 가격과 당기 말 현행대체원가와의 관계에 좌우된다. 따라서 후입선출법은 가격변동이 이익에 미치는 영향을 결정하는 정확히 체계적인 방식은 아니다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC13",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "후입선출법을 사용하면 재고자산의 최근 원가 수준과 거의 관련이 없는 금액으로 대차대조표에 재고자산을 인식하는 결과를 초래한다. 그래도 후입선출법은 손익을 왜곡할 수 있는데, 특히 재고자산이 대폭 줄어 ‘오래 유지되어 온’ 재고자산 ‘층’이 사용된 것으로 가정할 때 그러하다. 그런데 이와 같은 상황에서는 증가된 수요를 충족하기 위해 비교적 새로운 재고자산이 사용될 가능성이 더 크다.",
+      "html": "후입선출법을 사용하면 재고자산의 최근 원가 수준과 거의 관련이 없는 금액으로 대차대조표에 재고자산을 인식하는 결과를 초래한다. 그래도 후입선출법은 손익을 왜곡할 수 있는데, 특히 재고자산이 대폭 줄어 ‘오래 유지되어 온’ 재고자산 ‘층’이 사용된 것으로 가정할 때 그러하다. 그런데 이와 같은 상황에서는 증가된 수요를 충족하기 위해 비교적 새로운 재고자산이 사용될 가능성이 더 크다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC14",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "일부 의견제출자들은 후입선출법이 가격변동 효과로 인한 손익을 부분적으로나마 조정해주기 때문에 후입선출법의 사용은 특정 환경에서 강점이 있다고 주장하였다. IASB는 대차대조표 목적의 재고자산 측정과 일관성이 없는 기간 손익을 측정하게 하는 방식을 허용하는 것은 부적합하다고 결론지었다.",
+      "html": "일부 의견제출자들은 후입선출법이 가격변동 효과로 인한 손익을 부분적으로나마 조정해주기 때문에 후입선출법의 사용은 특정 환경에서 강점이 있다고 주장하였다. IASB는 대차대조표 목적의 재고자산 측정과 일관성이 없는 기간 손익을 측정하게 하는 방식을 허용하는 것은 부적합하다고 결론지었다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC15",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "다른 의견제출자들은 석유와 가스 산업과 같은 특정 산업에서는 재고자산 수준이 안전재고 수준을 고려하여 결정되고 종종 최소한 90일의 매출분에 상당한다고 주장하였다. 그들은 이와 같은 산업에서 안전재고로 보유하고 있는 재고자산은 운전자본이라기 보다는 장기성 자산에 가깝기 때문에 후입선출법의 사용이 기업실체의 경영성과를 더욱 잘 나타낸다고 주장하였다.",
+      "html": "다른 의견제출자들은 석유와 가스 산업과 같은 특정 산업에서는 재고자산 수준이 안전재고 수준을 고려하여 결정되고 종종 최소한 90일의 매출분에 상당한다고 주장하였다. 그들은 이와 같은 산업에서 안전재고로 보유하고 있는 재고자산은 운전자본이라기 보다는 장기성 자산에 가깝기 때문에 후입선출법의 사용이 기업실체의 경영성과를 더욱 잘 나타낸다고 주장하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC16",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "IASB는 이와 같은 안전재고가 후입선출법 계산상의 역사적 계층과 일치하지 않기 때문에 이와 같은 주장을 수용하지 않았다.",
+      "html": "IASB는 이와 같은 안전재고가 후입선출법 계산상의 역사적 계층과 일치하지 않기 때문에 이와 같은 주장을 수용하지 않았다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC17",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "다른 의견제출자들은 예를 들어 석탄 더미, 철 더미나 금속 조각 등을 측정하는 경우(재고 저장소가 ‘위에서 부어서‘ 채워지는 경우)에, 후입선출법이 재고자산의 실제 물량 흐름을 반영한다고 주장하였다.",
+      "html": "다른 의견제출자들은 예를 들어 석탄 더미, 철 더미나 금속 조각 등을 측정하는 경우(재고 저장소가 ‘위에서 부어서‘ 채워지는 경우)에, 후입선출법이 재고자산의 실제 물량 흐름을 반영한다고 주장하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC18",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "IASB는 이와 같은 재고자산의 평가는 실제 물량 흐름이 직접원가와 대응하는 직접원가접근법(direct costing approach)을 따르며, 이는 후입선출법과는 다른 방법이라고 결론지었다.",
+      "html": "IASB는 이와 같은 재고자산의 평가는 실제 물량 흐름이 직접원가와 대응하는 직접원가접근법(direct costing approach)을 따르며, 이는 후입선출법과는 다른 방법이라고 결론지었다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC19",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "IASB는 후입선출법이 재고자산 흐름을 충실하게 표현하고 있지 못하기 때문에 이를 삭제하기로 결정하였다. 이와 같은 결정은 후입선출법과 유사하게 재고자산 흐름을 반영하는 특정한 원가결정방법들을 배제하는 것은 아니다.",
+      "html": "IASB는 후입선출법이 재고자산 흐름을 충실하게 표현하고 있지 못하기 때문에 이를 삭제하기로 결정하였다. 이와 같은 결정은 후입선출법과 유사하게 재고자산 흐름을 반영하는 특정한 원가결정방법들을 배제하는 것은 아니다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC20",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "IASB는 일부 국가에서 후입선출법이 회계목적으로 사용된 경우에만 세무목적으로도 사용될 수 있다고 알고 있다. 그러나 세무상 고려사항이 적절한 회계처리 방법을 선택하는 충분한 개념적 근거를 제공하지 못하며, 특정 국가에서 단지 세법과 세무에서의 이점 때문에 열등한 회계처리를 허용하는 것은 수용할 수 없다고 결론지었다. 이 사항은 특정 국가의 세무 당국에 의해 논점이 될 수 있다.",
+      "html": "IASB는 일부 국가에서 후입선출법이 회계목적으로 사용된 경우에만 세무목적으로도 사용될 수 있다고 알고 있다. 그러나 세무상 고려사항이 적절한 회계처리 방법을 선택하는 충분한 개념적 근거를 제공하지 못하며, 특정 국가에서 단지 세법과 세무에서의 이점 때문에 열등한 회계처리를 허용하는 것은 수용할 수 없다고 결론지었다. 이 사항은 특정 국가의 세무 당국에 의해 논점이 될 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC21",
+      "section_id": "p72C5a",
+      "section_title": "단위원가 결정방법",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법",
+      "text": "IAS 2는 상호대체 가능한 재고자산에 대해 선입선출법과 가중평균법의 사용을 계속적으로 허용한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>는 상호대체 가능한 재고자산에 대해 선입선출법과 가중평균법의 사용을 계속적으로 허용한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC22",
+      "section_id": "Yipw4K",
+      "section_title": "당기에 비용으로 인식한 재고자산 원가",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법|당기에 비용으로 인식한 재고자산 원가",
+      "text": "공개초안은 개정 전 IAS 2에서 당기에 비용으로 인식한 재고자산 원가의 공시를 요구하던 문단을 삭제하였다. 왜냐하면 이와 같은 공시항목은 IAS 1에서 요구하고 있기 때문이다.",
+      "html": "공개초안은 개정 전 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>에서 당기에 비용으로 인식한 재고자산 원가의 공시를 요구하던 문단을 삭제하였다. 왜냐하면 이와 같은 공시항목은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>에서 요구하고 있기 때문이다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": null,
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC23",
+      "section_id": "Yipw4K",
+      "section_title": "당기에 비용으로 인식한 재고자산 원가",
+      "toc_path": "결론도출근거|IAS 2 ‘재고자산(inventories)’의 결론도출근거|단위원가 결정방법|당기에 비용으로 인식한 재고자산 원가",
+      "text": "일부 의견제출자는 IAS 1에서는 기능별로 분류한 비용분석내용을 표시할 때 당기에 비용으로 인식한 재고자산 원가의 공시를 특별히 요구하지 않는 점에 주목하였다. 이들은 이 정보가 재무제표를 이해하는 데 중요하다고 주장하였다. 따라서 IASB는 이 공시사항을 IAS 2에서 요구하기로 결정하였다.",
+      "html": "일부 의견제출자는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">목적, 구성 및 적용</span><span class=\"std-finder\">IAS 1</span></div>에서는 기능별로 분류한 비용분석내용을 표시할 때 당기에 비용으로 인식한 재고자산 원가의 공시를 특별히 요구하지 않는 점에 주목하였다. 이들은 이 정보가 재무제표를 이해하는 데 중요하다고 주장하였다. 따라서 IASB는 이 공시사항을 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표의 작성과 표시Ⅰ</span><span class=\"std-finder\">IAS 2</span></div>에서 요구하기로 결정하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": null,
+          "standard_title": "목적, 구성 및 적용",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준서 제1002호와 국제회계기준 제2호(IAS 2) 기업회계기준서 제1002호는 국제회계기준위원회가 제정한 국제회계기준 제2호(IAS 2) ‘재고자산(inventories)’에 대응하는 기준이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한2.1과 한40.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일 및 기준서 등의 대체와 관련된 문단 40, 41~42가 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제회계기준 제2호(IAS 2)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준서 제1002호가 IAS 2의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제1002호를 준수하면 동시에 IAS 2를 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준서 제1002호와 국제회계기준 제2호(IAS 2)</h3>\n<p>기업회계기준서 제1002호는 국제회계기준위원회가 제정한 국제회계기준 제2호(IAS 2) ‘재고자산(inventories)’에 대응하는 기준이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한2.1과 한40.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일 및 기준서 등의 대체와 관련된 문단 40, 41~42가 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제회계기준 제2호(IAS 2)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준서 제1002호가 IAS 2의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제1002호를 준수하면 동시에 IAS 2를 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 기준서의 주요 특징",
+      "toc_path": "기타 참고사항|이 기준서의 주요 특징",
+      "text": "## 이 기준서의 주요 특징 이 기준서는 재고자산의 회계처리와 공시에 필요한 사항을 정하고 있다. ### 1. 적용범위 이 기준서는 다음을 제외한 모든 재고자산에 적용한다. 이 기준서는 다음 경우에 해당하는 재고자산의 측정에는 적용하지 않는다. ### 2. 용어의 정의 재고자산은 다음의 자산을 말한다. 순실현가능가치는 통상적인 영업과정의 예상 판매가격에서 예상되는 추가 완성원가와 판매비용을 차감한 금액을 말한다. 공정가치는 측정일에 시장참여자 사이의 정상거래에서 자산을 매도하면서 수취하거나 부채를 이전하면서 지급하게 될 가격이다. ### 3. 재고자산의 측정 재고자산은 취득원가와 순실현가능가치 중 낮은 금액으로 측정한다. 재고자산의 취득원가는 모든 매입원가, 전환원가 및 재고자산을 현재의 장소에 현재의 상태로 이르게 하는 데 발생한 기타 원가를 포함한다. ### 4. 단위원가 결정방법 일반적으로 상호 교환될 수 없는 재고자산항목의 원가와 특정 프로젝트별로 생산되는 재화 또는 용역의 원가는 개별법을 사용하여 결정한다. 개별법이 적용되지 않는 재고자산의 단위원가는 선입선출법이나 가중평균법을 사용하여 결정한다. 성격과 용도 면에서 유사한 재고자산에는 동일한 단위원가 결정방법을 적용하여야 하며, 성격이나 용도 면에서 차이가 있는 재고자산에는 서로 다른 단위원가 결정방법을 적용할 수 있다. ### 5. 비용의 인식 재고자산의 판매시 관련된 수익을 인식하는 기간에 재고자산의 장부금액을 비용으로 인식한다. 재고자산을 순실현가능가치로 감액한 평가손실이나 모든 감모손실은 감액이나 감모가 발생한 기간에 비용으로 인식한다. 순실현가능가치의 상승으로 인한 재고자산 평가손실의 환입은 환입이 발생한 기간의 비용으로 인식된 재고자산 금액의 차감액으로 인식한다. ### 6. 공시 재무제표에 다음 사항을 공시한다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 기준서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 기준서는 재고자산의 회계처리와 공시에 필요한 사항을 정하고 있다.</p>\n<h3>1. 적용범위</h3>\n<p>이 기준서는 다음을 제외한 모든 재고자산에 적용한다.</p>\n<p>이 기준서는 다음 경우에 해당하는 재고자산의 측정에는 적용하지 않는다.</p>\n<h3>2. 용어의 정의</h3>\n<p>재고자산은 다음의 자산을 말한다.</p>\n<p>순실현가능가치는 통상적인 영업과정의 예상 판매가격에서 예상되는 추가 완성원가와 판매비용을 차감한 금액을 말한다. </p>\n<p>공정가치는 측정일에 시장참여자 사이의 정상거래에서 자산을 매도하면서 수취하거나 부채를 이전하면서 지급하게 될 가격이다.</p>\n<h3>3. 재고자산의 측정</h3>\n<p>재고자산은 취득원가와 순실현가능가치 중 낮은 금액으로 측정한다.</p>\n<p>재고자산의 취득원가는 모든 매입원가, 전환원가 및 재고자산을 현재의 장소에 현재의 상태로 이르게 하는 데 발생한 기타 원가를 포함한다. </p>\n<h3>4. 단위원가 결정방법</h3>\n<p>일반적으로 상호 교환될 수 없는 재고자산항목의 원가와 특정 프로젝트별로 생산되는 재화 또는 용역의 원가는 개별법을 사용하여 결정한다. </p>\n<p>개별법이 적용되지 않는 재고자산의 단위원가는 선입선출법이나 가중평균법을 사용하여 결정한다. 성격과 용도 면에서 유사한 재고자산에는 동일한 단위원가 결정방법을 적용하여야 하며, 성격이나 용도 면에서 차이가 있는 재고자산에는 서로 다른 단위원가 결정방법을 적용할 수 있다.</p>\n<h3>5. 비용의 인식</h3>\n<p>재고자산의 판매시 관련된 수익을 인식하는 기간에 재고자산의 장부금액을 비용으로 인식한다. 재고자산을 순실현가능가치로 감액한 평가손실이나 모든 감모손실은 감액이나 감모가 발생한 기간에 비용으로 인식한다. 순실현가능가치의 상승으로 인한 재고자산 평가손실의 환입은 환입이 발생한 기간의 비용으로 인식된 재고자산 금액의 차감액으로 인식한다. </p>\n<h3>6. 공시</h3>\n<p>재무제표에 다음 사항을 공시한다.</p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 다음과 같이 제정하였다. \n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2007.11.23. 제정 | 재고자산 | IAS 2 Inventories |\n\n이 기준서는 타 기준서의 제·개정에 따라 다음과 같이 개정되었다. \n\n| 제․개정일자 | 타 기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2017.5.22. 제정 | 기업회계기준서 제1116호 리스 | IFRS 16 Leases |\n| 2015.11.6. 제정 | 기업회계기준서 제1115호 고객과의 계약에서 생기는 수익 | IFRS 15 Revenue from contracts with customers |\n| 2015.9.25. 제정 | 기업회계기준서 제1109호 금융상품 | IFRS 9 Financial Instruments |\n| 2011.11.18. 제정 | 기업회계기준서 제1113호 공정가치 측정 | IFRS 13 Fair Value Measurement |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 다음과 같이 제정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 138px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 25.6px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 172px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 25.6px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 255px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 138px; height: 20px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2007.11.23. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 172px; height: 20px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">재고자산</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 255px; height: 20px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle1\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">IAS 2 Inventories</span></p></td></tr></tbody></table>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 18pt; padding: 0px; text-align: justify; text-indent: -18pt; line-height: 16px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px;\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 19.2px;\">이 기준서는 타 기준서의 제·개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin: 0px; padding: 0px; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 25.6px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 25.6px;\">타 기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; letter-spacing: -0.05em; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 48px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2017.5.22. </span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">제정</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\"></span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 48px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1116호 리스</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 48px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 5.9pt; padding: 0px; text-align: justify; text-indent: -3.3pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 16 Leases</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2015.11.6. </span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1115호 고객과의 계약에서 생기는 수익</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 5.9pt; padding: 0px; text-align: justify; text-indent: -3.3pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 15 Revenue from contracts with customers</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 48px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2015.9.25. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 48px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1109호 금융상품</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 48px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 5.9pt; padding: 0px; text-align: justify; text-indent: -3.3pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 9 Financial Instruments</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 131px; height: 48px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2011.11.18. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 198px; height: 48px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1113호 공정가치 측정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 236px; height: 48px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 5.9pt; padding: 0px; text-align: justify; text-indent: -3.3pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; letter-spacing: 0px; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 13 Fair Value Measurement</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1032": [
+      "2"
+    ],
+    "1109": [
+      "2",
+      "40F"
+    ],
+    "1041": [
+      "2",
+      "20"
+    ],
+    "1113": [
+      "6",
+      "40C"
+    ],
+    "1115": [
+      "8",
+      "40E"
+    ],
+    "1023": [
+      "17"
+    ],
+    "1037": [
+      "31"
+    ],
+    "1116": [
+      "40G"
+    ]
+  },
+  "qna_index": {
+    "201906C": [
+      "3",
+      "5",
+      "6",
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "2017-I-KQA006": [
+      "6",
+      "10",
+      "17"
+    ],
+    "2019-I-KQA017": [
+      "6"
+    ],
+    "202106B": [
+      "6",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33"
+    ],
+    "2021-I-KQA009": [
+      "6"
+    ],
+    "SSI-38463": [
+      "6",
+      "9",
+      "10"
+    ],
+    "SSI-38476": [
+      "6"
+    ],
+    "SSI-38636": [
+      "6",
+      "37"
+    ],
+    "SSI-36894": [
+      "7",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33"
+    ],
+    "SSI-35588": [
+      "9",
+      "10",
+      "12",
+      "34",
+      "38"
+    ],
+    "SSI-38480": [
+      "9",
+      "28",
+      "34"
+    ],
+    "2013-I-KQA011": [
+      "10",
+      "12"
+    ],
+    "SSI-36936": [
+      "10",
+      "12",
+      "16",
+      "38"
+    ],
+    "SSI-38545": [
+      "10",
+      "11"
+    ],
+    "2022-I-KQA007": [
+      "10",
+      "11"
+    ],
+    "2022-I-KQA014": [
+      "10",
+      "11",
+      "15",
+      "16"
+    ],
+    "SSI-38483": [
+      "11"
+    ],
+    "2020-I-KQA005": [
+      "12",
+      "38"
+    ],
+    "2020-I-KQA010": [
+      "12",
+      "13"
+    ],
+    "SSI-38492": [
+      "12"
+    ],
+    "SSI-38507": [
+      "12"
+    ],
+    "201511A": [
+      "18"
+    ],
+    "SSI-38503": [
+      "20"
+    ],
+    "SSI-35555": [
+      "28",
+      "33",
+      "34"
+    ],
+    "2019-I-KQA011": [
+      "34",
+      "38"
+    ],
+    "SSI-202412003": [
+      "34"
+    ],
+    "SSI-35615": [
+      "36"
+    ],
+    "SSI-38502": [
+      "36"
+    ],
+    "SSI-38478": [
+      "38"
+    ]
+  }
+}

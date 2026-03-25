@@ -225,3 +225,103 @@ K-IFRS 개정 시 추가 문단은 `44A`, `44B` 식으로 삽입되는 경우가
   - 변경된 기준서/문단/변경 전후 출력
 - [ ] 열린 범위(`73~`) 처리 정책 결정
 - [ ] 처리 후 `output/standards/1001.json`, `1016.json` 재검증
+
+---
+
+## 하드코딩 상수 정리
+
+> 다른 기준서 크롤링 결과 검증 완료 후 진행 예정. 현재는 태스크 등록만.
+
+소스 코드 전반에서 총 **21개** 하드코딩 항목 발견. 우선순위별 3단계로 분류.
+
+---
+
+### 우선순위 높음 (6건) — 사이트 변경 시 즉시 크롤러 오류 유발
+
+- [ ] **[H1] User-Agent 중복 정의 제거**
+  - `browser.py:61-65` (Playwright), `api_client.py:41-45` (httpx)에 동일 문자열 중복
+  - 해결: `config.py`에 `USER_AGENT: Final[str]` 추가 후 양쪽에서 import
+- [ ] **[H2] CSS 클래스명 `.sc-drlKqa.temp` 상수화**
+  - `section_parser.py:373, 394, 441` — Styled-Components 해시 클래스; 사이트 재배포 시 변경 가능
+  - 해결: `config.py` `SELECTORS` 딕셔너리에 `"styled_temp_wrapper"` 키로 추가
+- [ ] **[H3] CSS 클래스명 `.sc-erNlkL` 상수화**
+  - `section_parser.py:674` — 텍스트 전용 문단 구조 감지용
+  - 해결: `config.py` `SELECTORS`에 `"styled_text_only"` 키로 추가
+- [ ] **[H4] 기준서 출력/체크포인트 경로 상수화**
+  - `main.py:77` → `Path("output/standards")`, `main.py:83` → `Path("checkpoints/progress.json")`
+  - 해결: `config.py`에 `OUTPUT_STANDARDS_DIR`, `CHECKPOINT_FILE` 추가
+- [ ] **[H5] QnA 출력/체크포인트 경로 상수화**
+  - `qna_main.py:72` → `Path("output/qnas")`, `qna_main.py:78` → `Path("checkpoints/qna_progress.json")`
+  - 해결: `config.py` 또는 `qna_config.py`에 `OUTPUT_QNAS_DIR`, `QNA_CHECKPOINT_FILE` 추가
+- [ ] **[H6] 타임아웃/딜레이 설정 통합**
+  - `config.py`(기준서: RETRY_DELAYS, PAGE_LOAD_TIMEOUT 등)와 `qna_config.py`(QNA_RETRY_DELAYS, QNA_TIMEOUT 등) 분산
+  - 해결: `qna_config.py`에서 `config.py` 기본값을 import해 재활용, 또는 공통 섹션 문서화
+
+---
+
+### 우선순위 중간 (9건) — 유지보수성·일관성 저하
+
+- [ ] **[M1] HTTP Referer 하드코딩 제거** — `api_client.py:43`: `"Referer": "https://db.kasb.or.kr/"` → `BASE_URL` 참조
+- [ ] **[M2] Accept-Language 헤더 고정** — `api_client.py:42`: `"ko-KR,ko;q=0.9"` → `qna_config.py` 상수로 분리
+- [ ] **[M3] 뷰포트 크기 상수화** — `browser.py:60`: `{"width": 1280, "height": 900}` → `config.py`에 `BROWSER_VIEWPORT` 추가
+- [ ] **[M4] 기준서 제목 정규식 JS 인라인 제거** — `orchestrator.py:113` JS 코드 내 `/^([0-9]{4,5}|CF)\s*-\s*(.+)$/` → 별도 상수 또는 주석 강화
+- [ ] **[M5] "공유하기" 텍스트 필터 상수화** — `orchestrator.py:131` JS 코드 내 `'공유하기'` 리터럴 → `config.py` 또는 상수 블록으로 분리
+- [ ] **[M6] QnA 페이징 크기 문서화** — `qna_config.py:26`: `QNA_LIST_ROWS = 100` (이미 상수) → API 최대값 근거 주석 추가
+- [ ] **[M7] 섹션 분류 키워드 문서화** — `qna_config.py:60-63`: `QUESTION_HEADINGS`, `ANSWER_HEADINGS` (이미 상수) → 추출 실패 시 경고 로그 강화
+- [ ] **[M8] 타입 코드 매핑 문서화** — `qna_config.py:38-46`: `QNA_TYPE_MAP` (이미 상수) → 각 코드의 공식 출처 주석 추가
+- [ ] **[M9] orchestrator 내 로컬 매핑 제거** — `crawler/orchestrator.py` 내 config.py와 중복 정의된 매핑 → import로 대체
+
+---
+
+### 우선순위 낮음 (6건) — 관용적 사용, 문서화로 충분
+
+- [ ] **[L1] MD5 해시 길이 `8`** — `toc_parser.py:41`: 섹션 ID 생성 시 첫 8자 사용 → 의미 주석 추가
+- [ ] **[L2] 기준서 유형 판별 `"1"`, `"2"`** — `orchestrator.py:70, 72`: 번호 첫 자리로 기준서/해석서 구분 → 주석 보강
+- [ ] **[L3] 마크다운 최소 헤더 레벨 `2`** — `section_parser.py:1104`: `##` 이상 레벨 고정 → 상수화 또는 주석
+- [ ] **[L4] API 응답 필드 이름** — `qna_crawler/orchestrator.py:153-154`: dict 키 직접 참조 → 변경 시 영향 범위 주석
+- [ ] **[L5] 테이블 파싱 임계값** — `section_parser.py` 내 열 수 기반 판별 숫자 → 주석 보강
+- [ ] **[L6] 브라우저 재시도 횟수** — `browser.py` 내 navigate_with_retry 기본값 → `config.py` 상수화 검토
+
+---
+
+### 수정 방안
+
+**A안 (최소 범위) — 높음 6건만 수정**
+
+사이트 변경 시 즉시 깨지는 항목만 처리. 예상 작업: `config.py` 수정 5~10줄, 각 파일 import 교체.
+
+```bash
+# 수정 대상 파일 (A안)
+src/config.py               # USER_AGENT, OUTPUT_*_DIR, CHECKPOINT_FILE, SELECTORS 추가
+src/browser.py              # USER_AGENT import
+src/qna_crawler/api_client.py  # USER_AGENT import
+src/crawler/section_parser.py  # SELECTORS["styled_temp_wrapper"], SELECTORS["styled_text_only"] 참조
+src/main.py                 # 경로 상수 import
+src/qna_main.py             # 경로 상수 import
+```
+
+**B안 (권장) — 높음 + 중간 (15건) 수정**
+
+A안에 M1~M3(Referer, Accept-Language, 뷰포트) 추가. 유지보수성 크게 향상.
+
+```bash
+# 추가 수정 파일 (B안)
+src/qna_config.py           # BASE_URL Referer 참조, ACCEPT_LANGUAGE 상수
+src/browser.py              # BROWSER_VIEWPORT 상수
+```
+
+---
+
+### 수정 대상 파일 목록
+
+| 파일 | 관련 항목 | 우선순위 |
+|------|-----------|---------|
+| `src/config.py` | USER_AGENT, 경로 상수, SELECTORS 추가 | 높음 |
+| `src/browser.py` | UA import, 뷰포트 상수화 | 높음+중간 |
+| `src/qna_crawler/api_client.py` | UA import, Referer 동적화 | 높음+중간 |
+| `src/crawler/section_parser.py` | CSS 클래스 SELECTORS 참조 | 높음 |
+| `src/main.py` | 경로 상수 import | 높음 |
+| `src/qna_main.py` | 경로 상수 import | 높음 |
+| `src/qna_config.py` | BASE_URL 참조, 헤더 상수 | 중간 |
+| `src/crawler/orchestrator.py` | 로컬 매핑 제거, JS 정규식 주석 | 중간+낮음 |
+| `src/crawler/toc_parser.py` | 해시 길이 주석 | 낮음 |

@@ -16,6 +16,18 @@ import re
 import sys
 from typing import Optional
 
+# 특수 유니코드 괄호 넘버링 → 일반 괄호 변환 테이블
+# ⑴~⒇ (U+2474~U+2487): Parenthesized Digit → (1)~(20)
+# ㈎~㈛ (U+320E~U+321B): Parenthesized Hangul → (가)~(하)
+_PARENS_DIGIT_MAP = {chr(0x2474 + i): f"({i + 1})" for i in range(20)}
+_PARENS_HANGUL_MAP = {chr(0x320E + i): f"({'가나다라마바사아자차카타파하'[i]})" for i in range(14)}
+_UNICODE_PARENS_TABLE = str.maketrans({**_PARENS_DIGIT_MAP, **_PARENS_HANGUL_MAP})
+
+
+def normalize_unicode_parens(text: str) -> str:
+    """⑴~⒇ → (1)~(20), ㈎~㈛ → (가)~(하) 변환"""
+    return text.translate(_UNICODE_PARENS_TABLE)
+
 
 def setup_logging(level: int = logging.INFO) -> logging.Logger:
     """로거를 설정하고 반환합니다."""
@@ -78,6 +90,7 @@ def clean_text(text: str) -> str:
     - 앞뒤 공백 제거
     """
     text = text.replace("\r", "")
+    text = normalize_unicode_parens(text)  # ⑴~⒇, ㈎~㈛ → 일반 괄호 (개행 처리 전 변환)
     lines = text.split("\n")
     # 각 줄 내부 탭 및 연속 공백 정리
     cleaned = [re.sub(r" {2,}", " ", re.sub(r"\t+", " ", l)).strip() for l in lines]
@@ -121,6 +134,8 @@ def clean_text(text: str) -> str:
             t = re.sub(r"\n{2,}", " ", t)
             # 단일 \n → 공백 (항목 패턴 앞 제외)
             t = re.sub(r"\n(?![(\[㈎-㈿])", " ", t)
+            # 각주 마커 (한N), (주N) 앞의 개행 제거 — 문장 끝에 인라인으로 붙음
+            t = re.sub(r"\n(?=\((?:한|주)\d+\))", "", t)
             t = re.sub(r" {2,}", " ", t)
         if t:
             parts.append(t)
@@ -135,8 +150,15 @@ def extract_standard_number(display_text: str) -> Optional[str]:
     예시:
         "기업회계기준서 제1034호" → "1034"
         "기업회계기준해석서 제2101호" → "2101"
+        "IFRS 17" → "17"
+        "IAS 1" → "1"
     """
+    # K-IFRS 형식: "제XXXX호"
     match = re.search(r"제(\d+)호", display_text)
+    if match:
+        return match.group(1)
+    # 국제 기준서 형식: "IFRS N" 또는 "IAS N"
+    match = re.search(r"(?:IFRS|IAS)\s+(\d+)", display_text)
     if match:
         return match.group(1)
     return None

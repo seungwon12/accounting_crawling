@@ -25,7 +25,7 @@ from playwright.async_api import Page
 
 from src.config import BASE_URL, NETWORK_IDLE_TIMEOUT
 from src.models import CrossReference, FootnoteReference, Paragraph, QnAReference
-from src.utils import logger, clean_text, extract_standard_number, extract_paragraph_range, resolve_paragraph_ids
+from src.utils import logger, clean_text, extract_standard_number, extract_paragraph_range, resolve_paragraph_ids, normalize_unicode_parens
 from src.browser import navigate_with_retry
 
 
@@ -74,16 +74,25 @@ def _process_raw_text(raw_text: str) -> str:
 def _normalize_paranum(number: str) -> str:
     """KASB 내부 문단 접두사를 IFRS 표준 접두사로 변환합니다.
 
-    KASB 웹사이트는 '웩'이라는 불투명한 접두사를 사용합니다.
-    - '웩의결' → '의결': 한국 고유 "회계기준위원회 의결" 섹션
-    - '웩' + 나머지 → 'IE' + 나머지: IFRS Illustrative Examples(적용사례) 접두사
+    KASB 웹사이트는 두 가지 불투명한 한글 접두사를 사용합니다:
 
+    웩(U+C6E9) — Illustrative Examples(적용사례):
+    - '웩의결' → '의결': 한국 고유 "회계기준위원회 의결" 섹션
+    - '웩' + 나머지 → 'IE' + 나머지: IFRS 적용사례(IE) 접두사
     '웩의결'을 먼저 검사해야 이후 '웩' 패턴이 '의결' 부분을 덮어쓰지 않음.
+
+    왝(U+C65D) — 각주/Comment 문단:
+    - '왝' + 나머지 → '주' + 나머지: 본문에 삽입된 각주 내용 문단
+    - 웹 UI 표시 레이블은 '(주N)' 형태지만 data-paranum은 '왝N'으로 저장됨
     """
+    # 웩(U+C6E9): 적용사례(IE) 또는 의결 섹션
     if number.startswith("웩의결"):
         return number.replace("웩의결", "의결", 1)
     if number.startswith("웩"):
         return number.replace("웩", "IE", 1)
+    # 왝(U+C65D): 각주/Comment 문단 → '주' 접두사
+    if number.startswith("왝"):
+        return number.replace("왝", "주", 1)
     return number
 
 
@@ -349,12 +358,51 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                 return parts.join('\\u2028');
             }
 
+            // React fiber 탐색으로 paraContent raw HTML 추출
+            // li DOM 요소의 __reactFiber* 키를 찾아 부모 fiber를 타고 올라가며 paraContent prop을 탐색
+            function getParaContent(li) {
+                const fk = Object.keys(li).find(k => k.startsWith('__reactFiber') || k.startsWith('__reactInternalInstance'));
+                if (!fk) return null;
+                let fiber = li[fk];
+                for (let d = 0; fiber && d < 15; d++, fiber = fiber.return) {
+                    if (fiber.memoizedProps?.paraContent !== undefined)
+                        return fiber.memoizedProps.paraContent;
+                }
+                return null;
+            }
+
             // li[data-paranum] 선택자로 모든 문단 항목 찾기
             const paragraphItems = document.querySelectorAll('li[data-paranum]');
 
             paragraphItems.forEach(li => {
                 const paraNum = li.getAttribute('data-paranum');
                 if (!paraNum) return;
+
+                // ★ 교차참조: li 레벨에서 한 번만 추출 (모든 케이스 공통)
+                // std_refs: DOM에서 추출 (tooltip 보존)
+                const stdRefsResult = [];
+                li.querySelectorAll('.std-finder').forEach(el => {
+                    const displayText = el.textContent?.trim() || '';
+                    const container = el.closest('div') || el.parentElement;
+                    const tooltipEl = container?.querySelector('.tooltip-content');
+                    const tooltip = tooltipEl?.textContent?.trim() || '';
+                    stdRefsResult.push({ display_text: displayText, tooltip });
+                });
+                // para_refs: paraContent React fiber에서 추출 (data-target-std, data-id 정확도 보장)
+                const paraContent = getParaContent(li);
+                const paraRefsResult = [];
+                if (paraContent) {
+                    const doc = new DOMParser().parseFromString(paraContent, 'text/html');
+                    doc.querySelectorAll('.mundan-finder').forEach(el => {
+                        const dataId = el.getAttribute('data-id');
+                        if (!dataId) return;
+                        paraRefsResult.push({
+                            text: el.textContent?.trim() || '',
+                            associated_standard: el.getAttribute('data-target-std') || null,
+                            data_id: dataId,
+                        });
+                    });
+                }
 
                 // 문단 내부 텍스트 영역
                 // 일부 문단(IG 등)은 .para-inner-para가 두 개 존재:
@@ -403,9 +451,6 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             const textParts1 = [];
                             const allFnRefs1 = [];
                             const seenFnIds1 = new Set(); // (한N)/(주N)만 중복 제거
-                            const paraRefs1 = [];
-                            const stdRefs1 = [];
-                            let lastStdNum1 = null;
 
                             // 현재 처리 중인 테이블 청크 변수
                             let currentTableMd = null;
@@ -473,21 +518,6 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                                     if (clonedContent) clonedContent.querySelectorAll('.tooltip-content').forEach(el => el.remove());
                                     const content = clonedContent?.textContent?.trim() || '';
                                     if (label || content) currentFootnotes.push({ label, content });
-
-                                    // 각주 내부 mundan-finder / std-finder 교차참조 수집
-                                    child.querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
-                                        if (el.classList.contains('std-finder')) {
-                                            const displayText = el.textContent?.trim() || '';
-                                            const container = el.closest('div') || el.parentElement;
-                                            const tooltipEl = container?.querySelector('.tooltip-content');
-                                            const tooltip = tooltipEl?.textContent?.trim() || '';
-                                            const stdMatch = displayText.match(/제(\\d+)호/);
-                                            lastStdNum1 = stdMatch ? stdMatch[1] : null;
-                                            stdRefs1.push({ display_text: displayText, tooltip });
-                                        } else if (el.classList.contains('mundan-finder')) {
-                                            paraRefs1.push({ text: el.textContent?.trim() || '', associated_standard: lastStdNum1 });
-                                        }
-                                    });
                                 }
                             });
 
@@ -502,8 +532,8 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                                     number: paraNum,
                                     html: htmlParts1.join('\\n'),
                                     text: finalText1,
-                                    std_refs: stdRefs1,
-                                    para_refs: paraRefs1,
+                                    std_refs: stdRefsResult,
+                                    para_refs: paraRefsResult,
                                     qna_refs: [],
                                     footnote_refs: allFnRefs1,
                                 });
@@ -585,24 +615,6 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             }
                         });
 
-                        // 교차참조 수집: std-finder → mundan-finder 연결
-                        const stdRefs2 = [];
-                        const paraRefs2 = [];
-                        let lastStdNum2 = null;
-                        li.querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
-                            if (el.classList.contains('std-finder')) {
-                                const displayText = el.textContent?.trim() || '';
-                                const container = el.closest('div') || el.parentElement;
-                                const tooltipEl = container?.querySelector('.tooltip-content');
-                                const tooltip = tooltipEl?.textContent?.trim() || '';
-                                const stdMatch = displayText.match(/제(\\d+)호/);
-                                lastStdNum2 = stdMatch ? stdMatch[1] : null;
-                                stdRefs2.push({ display_text: displayText, tooltip });
-                            } else if (el.classList.contains('mundan-finder')) {
-                                paraRefs2.push({ text: el.textContent?.trim() || '', associated_standard: lastStdNum2 });
-                            }
-                        });
-
                         // QnA 참조 수집
                         const qnaRefs2 = [];
                         li.querySelectorAll('a[href^="/qnas/"]').forEach(a => {
@@ -665,8 +677,8 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             number: paraNum,
                             html: li.innerHTML,
                             text: finalText2,
-                            std_refs: stdRefs2,
-                            para_refs: paraRefs2,
+                            std_refs: stdRefsResult,
+                            para_refs: paraRefsResult,
                             qna_refs: qnaRefs2,
                             footnote_refs: fnRefs2,
                         });
@@ -735,8 +747,8 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                             number: paraNum,
                             html: erEl.innerHTML,
                             text: finalText3,
-                            std_refs: [],
-                            para_refs: [],
+                            std_refs: stdRefsResult,
+                            para_refs: paraRefsResult,
                             qna_refs: qnaRefs3,
                             footnote_refs: fnRefs3,
                         });
@@ -751,12 +763,9 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                 // (기존 2패스 방식 대신 1패스 DOM 순회로 순서 보존)
                 const textParts = [];    // { type: 'pip'|'num', text: string } DOM 순서대로
                 const allHtmls = [];
-                const stdRefs = [];
-                const paraRefs = [];
                 const footnoteRefs = [];
                 const seenFnIds = new Set();
                 const numberItems = [];  // 각주(comment) 구분용
-                let sharedLastStdNum = null;  // pip↔number-item 간 std-finder 컨텍스트 공유
 
                 const pipParent = allInnerParas[0]?.parentElement;
 
@@ -790,23 +799,6 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                     const t = cloned.textContent?.trim();
                     if (t) textParts.push({ type: 'pip', text: t });
 
-                    // 기준서/문단 교차참조 수집: DOM 순서대로 순회하여 std-finder → mundan-finder 연결
-                    let lastStdNum = sharedLastStdNum;
-                    pip.querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
-                        if (el.classList.contains('std-finder')) {
-                            const displayText = el.textContent?.trim() || '';
-                            const container = el.closest('div') || el.parentElement;
-                            const tooltipEl = container?.querySelector('.tooltip-content');
-                            const tooltip = tooltipEl?.textContent?.trim() || '';
-                            const stdMatch = displayText.match(/제(\\d+)호/);
-                            lastStdNum = stdMatch ? stdMatch[1] : null;
-                            stdRefs.push({ display_text: displayText, tooltip });
-                        } else if (el.classList.contains('mundan-finder')) {
-                            paraRefs.push({ text: el.textContent?.trim() || '', associated_standard: lastStdNum });
-                        }
-                    });
-                    sharedLastStdNum = lastStdNum;
-
                     // 각주 참조 수집: <sup>(한N)</sup>, <sup>(주N)</sup> 형태
                     pip.querySelectorAll('sup').forEach(sup => {
                         const supText = sup.textContent?.trim() || '';
@@ -821,7 +813,7 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                     });
                 };
 
-                // number-item 하나를 처리: numberItems/textParts/stdRefs/paraRefs/footnoteRefs 갱신
+                // number-item 하나를 처리: numberItems/textParts/footnoteRefs 갱신
                 const processNumberItem = (item) => {
                     const labelEl = item.querySelector('.para-number-para-num');
                     const contentEl = item.querySelector('.para-num-item-para-con');
@@ -842,23 +834,6 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                         }
                     }
 
-                    // number-item 내 교차참조 수집
-                    let itemLastStdNum = sharedLastStdNum;
-                    item.querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
-                        if (el.classList.contains('std-finder')) {
-                            const displayText = el.textContent?.trim() || '';
-                            const container = el.closest('div') || el.parentElement;
-                            const tooltipEl = container?.querySelector('.tooltip-content');
-                            const tooltip = tooltipEl?.textContent?.trim() || '';
-                            const stdMatch = displayText.match(/제(\\d+)호/);
-                            itemLastStdNum = stdMatch ? stdMatch[1] : null;
-                            stdRefs.push({ display_text: displayText, tooltip });
-                        } else if (el.classList.contains('mundan-finder')) {
-                            paraRefs.push({ text: el.textContent?.trim() || '', associated_standard: itemLastStdNum });
-                        }
-                    });
-                    sharedLastStdNum = itemLastStdNum;
-
                     // number-item 내 각주 참조 수집
                     item.querySelectorAll('sup').forEach(sup => {
                         const supText = sup.textContent?.trim() || '';
@@ -873,7 +848,7 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                     });
                 };
 
-                // idt-N 항목 하나를 처리: textParts/stdRefs/paraRefs 갱신
+                // idt-N 항목 하나를 처리: textParts 갱신
                 // idt 구조: <div class="idt-N"><div>레이블</div><div>내용(std-finder 포함 가능)</div></div>
                 // .comment 클래스가 있으면 각주로 처리 (139R의 .idt-1.comment 패턴)
                 const processIdtItem = (idt) => {
@@ -893,22 +868,6 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                     } else if (label || content) {
                         textParts.push({ type: 'num', text: (label ? label + ' ' : '') + content });
                     }
-                    // idt 내 교차참조 수집
-                    let idtLastStdNum = sharedLastStdNum;
-                    (contentEl || idt).querySelectorAll('.std-finder, .mundan-finder').forEach(el => {
-                        if (el.classList.contains('std-finder')) {
-                            const displayText = el.textContent?.trim() || '';
-                            const container = el.closest('div') || el.parentElement;
-                            const tooltipEl = container?.querySelector('.tooltip-content');
-                            const tooltip = tooltipEl?.textContent?.trim() || '';
-                            const stdMatch = displayText.match(/제(\\d+)호/);
-                            idtLastStdNum = stdMatch ? stdMatch[1] : null;
-                            stdRefs.push({ display_text: displayText, tooltip });
-                        } else if (el.classList.contains('mundan-finder')) {
-                            paraRefs.push({ text: el.textContent?.trim() || '', associated_standard: idtLastStdNum });
-                        }
-                    });
-                    sharedLastStdNum = idtLastStdNum;
                 };
 
                 // .para-inner-number 블록의 children을 순회 (중첩 재귀 지원)
@@ -1001,8 +960,8 @@ async def _extract_paragraphs_js(page: Page) -> list[dict]:
                     number: paraNum,
                     html,
                     text: finalText,
-                    std_refs: stdRefs,
-                    para_refs: paraRefs,
+                    std_refs: stdRefsResult,
+                    para_refs: paraRefsResult,
                     qna_refs: qnaRefs,
                     footnote_refs: footnoteRefs,
                 });
@@ -1170,7 +1129,7 @@ def _build_cross_references(raw: dict) -> list[CrossReference]:
 
     # 기준서 참조
     for std_ref in raw.get("std_refs", []):
-        display_text = std_ref.get("display_text", "")
+        display_text = normalize_unicode_parens(std_ref.get("display_text", ""))
         tooltip = std_ref.get("tooltip", "")
         standard_number = extract_standard_number(display_text)
         refs.append(CrossReference(
@@ -1185,13 +1144,20 @@ def _build_cross_references(raw: dict) -> list[CrossReference]:
     # 하위 호환: 기존 문자열 형태도 처리
     for para_ref in raw.get("para_refs", []):
         if isinstance(para_ref, dict):
-            para_ref_text = para_ref.get("text", "")
+            para_ref_text = normalize_unicode_parens(para_ref.get("text", ""))
             associated_standard = para_ref.get("associated_standard")
+            data_id = para_ref.get("data_id")  # React fiber에서 추출한 정확한 data-id
         else:
-            para_ref_text = str(para_ref)
+            para_ref_text = normalize_unicode_parens(str(para_ref))
             associated_standard = None
-        range_str = extract_paragraph_range(para_ref_text)
-        ids = resolve_paragraph_ids(range_str) if range_str else []
+            data_id = None
+        if data_id:
+            # React fiber data-id 직접 활용 → 텍스트 파싱 불필요
+            range_str = data_id.strip()
+            ids = resolve_paragraph_ids(range_str)
+        else:
+            range_str = extract_paragraph_range(para_ref_text)
+            ids = resolve_paragraph_ids(range_str) if range_str else []
         refs.append(CrossReference(
             type="paragraph",
             display_text=para_ref_text,
@@ -1287,8 +1253,8 @@ def _build_footnote_references(raw: dict) -> list[FootnoteReference]:
         if not fn_id:
             continue
         refs.append(FootnoteReference(
-            id=fn_id,
-            display_text=fn.get("display_text", ""),
+            id=normalize_unicode_parens(fn_id),
+            display_text=normalize_unicode_parens(fn.get("display_text", "")),
         ))
     return refs
 
