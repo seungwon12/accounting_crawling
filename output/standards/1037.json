@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "충당부채, 우발부채, 우발자산",
   "url": "https://db.kasb.or.kr/s/1037",
-  "crawled_at": "2026-03-24T05:14:53.684273+00:00",
+  "crawled_at": "2026-04-09T06:31:02.319108+00:00",
   "toc": [
     {
       "level": null,
@@ -736,7 +736,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 6",
-          "standard_number": "1037",
+          "standard_number": "1116",
           "standard_title": null,
           "range": "6",
           "paragraph_ids": [
@@ -812,7 +812,7 @@
       "section_id": "FkJrVW",
       "section_title": "용어의 정의",
       "toc_path": "본문|용어의 정의",
-      "text": "이 기준서에서 사용하는 용어의 뜻은 다음과 같다. ⑴ 명시적 또는 암묵적 조건에 따른 계약 ⑵ 법률 ⑶ 그 밖의 법적 효력 ⑴ 과거의 실무관행, 발표된 경영방침, 구체적이고 유효한 약속 등으로 기업이 특정 책임을 부담할 것이라고 상대방에게 표명함 ⑵ 위 ⑴의 결과로 기업이 해당 책임을 이행할 것이라는 정당한 기대를 상대방이 갖도록 함 ⑴ 과거사건으로 생겼으나, 기업이 전적으로 통제할 수는 없는 하나 이상의 불확실한 미래 사건의 발생 여부로만 그 존재 유무를 확인할 수 있는 잠재적 의무 ⑵ 과거사건으로 생겼으나, 다음 ㈎나 ㈏의 경우에 해당하여 인식하지 않는 현재의무\n㈎ 해당 의무를 이행하기 위하여 경제적 효익이 있는 자원을 유출할 가능성이 높지 않은 경우\n㈏ 해당 의무의 이행에 필요한 금액을 신뢰성 있게 측정할 수 없는 경우\n[각주 (주1)] 이 기준서의 부채의 정의는 ‘개념체계’(2018)에서 개정된 부채의 정의에 따라 개정되지 않았다.",
+      "text": "이 기준서에서 사용하는 용어의 뜻은 다음과 같다.\n(1) 명시적 또는 암묵적 조건에 따른 계약\n(2) 법률\n(3) 그 밖의 법적 효력\n(1) 과거의 실무관행, 발표된 경영방침, 구체적이고 유효한 약속 등으로 기업이 특정 책임을 부담할 것이라고 상대방에게 표명함\n(2) 위 (1)의 결과로 기업이 해당 책임을 이행할 것이라는 정당한 기대를 상대방이 갖도록 함\n(1) 과거사건으로 생겼으나, 기업이 전적으로 통제할 수는 없는 하나 이상의 불확실한 미래 사건의 발생 여부로만 그 존재 유무를 확인할 수 있는 잠재적 의무\n(2) 과거사건으로 생겼으나, 다음 (가)나 (나)의 경우에 해당하여 인식하지 않는 현재의무\n(가) 해당 의무를 이행하기 위하여 경제적 효익이 있는 자원을 유출할 가능성이 높지 않은 경우\n(나) 해당 의무의 이행에 필요한 금액을 신뢰성 있게 측정할 수 없는 경우\n[각주 (주1)] 이 기준서의 부채의 정의는 ‘개념체계’(2018)에서 개정된 부채의 정의에 따라 개정되지 않았다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"10\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">10</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">이 기준서에서 사용하는 용어의 뜻은 다음과 같다.</div><br><div class=\"para\"><i>충당부채</i>: 지출하는 시기 또는 금액이 불확실한 부채\n  </div></b><br><div class=\"para\"><b><i>부채</i>: 과거사건으로 생긴 현재의무로서, 기업이 가진 경제적 효익이 있는 자원의 유출을 통해 그 이행이 예상되는 의무\n  </b><sup data-id=\"(주1)\">(주1)</sup></div><div class=\"idt-1 comment\"><div>(주1)</div><div>이 기준서의 부채의 정의는 ‘개념체계’(2018)에서 개정된 부채의 정의에 따라 개정되지 않았다.</div></div><br><b><div class=\"para\"><i>의무발생사건</i>: 해당 의무의 이행 외에는 현실적인 대안이 없는 법적의무나 의제의무가 생기게 하는 사건\n  </div><br><div class=\"para\"><i>법적의무</i>: 다음 중 하나에서 생기는 의무\n  </div><div class=\"idt-1\"><div>⑴</div><div>명시적 또는 암묵적 조건에 따른 계약</div></div><div class=\"idt-1\"><div>⑵</div><div>법률</div></div><div class=\"idt-1\"><div>⑶</div><div>그 밖의 법적 효력</div></div><br><div class=\"para\"><i>의제의무</i>: 다음 조건을 모두 충족하는 기업의 행위에 따라 생기는 의무\n  </div><div class=\"idt-1\"><div>⑴</div><div>과거의 실무관행, 발표된 경영방침, 구체적이고 유효한 약속 등으로 기업이 특정 책임을 부담할 것이라고 상대방에게 표명함</div></div><div class=\"idt-1\"><div>⑵</div><div>위 ⑴의 결과로 기업이 해당 책임을 이행할 것이라는 정당한 기대를 상대방이 갖도록 함</div></div><br><div class=\"para\"><i>우발부채</i>: 다음의 ⑴이나 ⑵에 해당하는 의무\n  </div><div class=\"idt-1\"><div>⑴</div><div>과거사건으로 생겼으나, 기업이 전적으로 통제할 수는 없는 하나 이상의 불확실한 미래 사건의 발생 여부로만 그 존재 유무를 확인할 수 있는 잠재적 의무</div></div><div class=\"idt-1\"><div>⑵</div><div>과거사건으로 생겼으나, 다음 ㈎나 ㈏의 경우에 해당하여 인식하지 않는 현재의무</div></div><div class=\"idt-2\"><div>㈎</div><div>해당 의무를 이행하기 위하여 경제적 효익이 있는 자원을 유출할 가능성이 높지 않은 경우</div></div><div class=\"idt-2\"><div>㈏</div><div>해당 의무의 이행에 필요한 금액을 신뢰성 있게 측정할 수 없는 경우</div></div><br><div class=\"para\"><i>우발자산</i>: 과거사건으로 생겼으나, 기업이 전적으로 통제할 수는 없는 하나 이상의 불확실한 미래 사건의 발생 여부로만 그 존재 유무를 확인할 수 있는 잠재적 자산\n  </div><br><div class=\"para\"><i>손실부담계약</i>: 계약상 의무의 이행에 필요한 회피 불가능 원가가 그 계약에서 받을 것으로 예상되는 경제적 효익을 초과하는 계약\n  </div><br><div class=\"para\"><i>구조조정</i>: 경영진의 계획과 통제에 따라 기업의 사업범위나 사업수행방식을 중요하게 바꾸는 일련의 절차\n  </div></b></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 5개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"선불교통카드 소멸시효 완성 시 회계처리\" target=\"_blank\" href=\"/qnas/2020-FSSQA06\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 선불교통카드 소멸시효 완성 시 회계처리</h5><time class=\"sc-gacfCG bRMfLY\">2016-12-21</time></article></a></li><li><a title=\"과세당국과의 소송 중인 사건(부가가치세)에 대한 회계처리\" target=\"_blank\" href=\"/qnas/2020-FSSQA12\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 과세당국과의 소송 중인 사건(부가가치세)에 대한 회계처리</h5><time class=\"sc-gacfCG bRMfLY\">2019-12-31</time></article></a></li><li><a title=\"저배출 차량 관련 음(-)의 크레딧\" target=\"_blank\" href=\"/qnas/IFRSIC2207C\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 저배출 차량 관련 음(-)의 크레딧</h5><time class=\"sc-gacfCG bRMfLY\">2022-07-31</time></article></a></li><li><a title=\"계약금 몰취 금액\" target=\"_blank\" href=\"/qnas/SSI-202312022\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 계약금 몰취 금액</h5><time class=\"sc-gacfCG bRMfLY\">2022-01-17</time></article></a></li><li><a title=\"기후 관련 선언\" target=\"_blank\" href=\"/qnas/202404B\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 기후 관련 선언</h5><time class=\"sc-gacfCG bRMfLY\">2024-04-30</time></article></a></li></ul></div></div></div>",
       "cross_references": [],
       "qna_references": [
@@ -1068,7 +1068,7 @@
       "section_id": "zluN6g",
       "section_title": "경제적 효익이 있는 자원의 유출 가능성",
       "toc_path": "본문|인식|충당부채|경제적 효익이 있는 자원의 유출 가능성",
-      "text": "부채로 인식하기 위해서는 현재의무가 존재하여야 할 뿐만 아니라 해당 의무를 이행하기 위하여 경제적 효익이 있는 자원의 유출 가능성이 높아야 한다. 이 기준서에서는 특정 사건이 일어날 가능성이 일어나지 않을 가능성보다 높은 경우(more likely than not to occur)에 자원의 유출이나 그 밖의 사건이 일어날 가능성이 높다(probable)고 본다.\n(주2) 현재의무의 존재 가능성이 높지 않은 경우에는 우발부채를 공시한다. 다만 해당 의무를 이행하기 위하여 경제적 효익이 있는 자원을 유출할 가능성이 희박한 경우에는 공시하지 아니한다(문단 86 참조).\n[각주 (주2)] ‘가능성이 높지 않은 경우보다 높은 경우’라는 ‘가능성이 높은 경우’에 대한 이 기준서의 해석이 다른 한국채택국제회계기준서에도 반드시 적용되는 것은 아님",
+      "text": "부채로 인식하기 위해서는 현재의무가 존재하여야 할 뿐만 아니라 해당 의무를 이행하기 위하여 경제적 효익이 있는 자원의 유출 가능성이 높아야 한다. 이 기준서에서는 특정 사건이 일어날 가능성이 일어나지 않을 가능성보다 높은 경우(more likely than not to occur)에 자원의 유출이나 그 밖의 사건이 일어날 가능성이 높다(probable)고 본다.(주2) 현재의무의 존재 가능성이 높지 않은 경우에는 우발부채를 공시한다. 다만 해당 의무를 이행하기 위하여 경제적 효익이 있는 자원을 유출할 가능성이 희박한 경우에는 공시하지 아니한다(문단 86 참조).\n[각주 (주2)] ‘가능성이 높지 않은 경우보다 높은 경우’라는 ‘가능성이 높은 경우’에 대한 이 기준서의 해석이 다른 한국채택국제회계기준서에도 반드시 적용되는 것은 아님",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"23\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">23</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">부채로 인식하기 위해서는 현재의무가 존재하여야 할 뿐만 아니라 해당 의무를 이행하기 위하여 경제적 효익이 있는 자원의 유출 가능성이 높아야 한다. 이 기준서에서는 특정 사건이 일어날 가능성이 일어나지 않을 가능성보다 높은 경우(more likely than not to occur)에 자원의 유출이나 그 밖의 사건이 일어날 가능성이 높다(probable)고 본다.\n  <sup data-id=\"(주2)\">(주2)</sup> 현재의무의 존재 가능성이 높지 않은 경우에는 우발부채를 공시한다. 다만 해당 의무를 이행하기 위하여 경제적 효익이 있는 자원을 유출할 가능성이 희박한 경우에는 공시하지 아니한다(<span class=\"mundan-finder\">문단 86 </span>참조).\n</div><div class=\"idt-1 comment\"><div>(주2)</div><div>‘가능성이 높지 않은 경우보다 높은 경우’라는 ‘가능성이 높은 경우’에 대한 이 기준서의 해석이 다른 한국채택국제회계기준서에도 반드시 적용되는 것은 아님</div></div></div></div></div>",
       "cross_references": [
         {
@@ -1863,7 +1863,7 @@
       "section_id": "oZdgBZ",
       "section_title": "손실부담계약",
       "toc_path": "본문|인식기준과 측정기준의 적용|손실부담계약",
-      "text": "계약을 이행하는 데 드는 원가는 계약에 직접 관련되는 원가로 구성된다. 계약에 직접 관련되는 원가는 다음 ⑴과 ⑵로 구성된다.\n⑴ 그 계약을 이행하는 데 드는 증분원가(예: 직접 노무원가 및 재료원가)\n⑵ 계약을 이행하는 데 직접 관련되는 그 밖의 원가 배분액(예: 그 계약을 이행하는 데 사용하는 유형자산 항목의 감가상각비 배분액)",
+      "text": "계약을 이행하는 데 드는 원가는 계약에 직접 관련되는 원가로 구성된다. 계약에 직접 관련되는 원가는 다음 (1)과 (2)로 구성된다.\n(1) 그 계약을 이행하는 데 드는 증분원가(예: 직접 노무원가 및 재료원가)\n(2) 계약을 이행하는 데 직접 관련되는 그 밖의 원가 배분액(예: 그 계약을 이행하는 데 사용하는 유형자산 항목의 감가상각비 배분액)",
       "html": "계약을 이행하는 데 드는 원가는 계약에 직접 관련되는 원가로 구성된다. 계약에 직접 관련되는 원가는 다음 ⑴과 ⑵로 구성된다.",
       "cross_references": [],
       "qna_references": [
@@ -2072,7 +2072,7 @@
       "section_id": "F0PEYH",
       "section_title": "구조조정",
       "toc_path": "본문|인식기준과 측정기준의 적용|구조조정",
-      "text": "구조조정충당부채로 인식할 수 있는 지출은 구조조정에서 생기는 직접비용만을 포함해야 하며 다음의 요건을 모두 충족하여야 한다. ⑴ 구조조정 때문에 반드시 생기는 지출 ⑵ 기업의 계속적인 활동과 관련 없는 지출",
+      "text": "구조조정충당부채로 인식할 수 있는 지출은 구조조정에서 생기는 직접비용만을 포함해야 하며 다음의 요건을 모두 충족하여야 한다.\n(1) 구조조정 때문에 반드시 생기는 지출\n(2) 기업의 계속적인 활동과 관련 없는 지출",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"80\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">80</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">구조조정충당부채로 인식할 수 있는 지출은 구조조정에서 생기는 직접비용만을 포함해야 하며 다음의 요건을 모두 충족하여야 한다.</div><div class=\"idt-1\"><div>⑴</div><div>구조조정 때문에 반드시 생기는 지출</div></div><div class=\"idt-1\"><div>⑵</div><div>기업의 계속적인 활동과 관련 없는 지출</div></div></b></div></div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -2138,7 +2138,7 @@
       "section_id": "t3RYAc",
       "section_title": "공시",
       "toc_path": "본문|공시",
-      "text": "충당부채의 유형별로 다음의 내용을 공시한다. 비교 표시 정보는 생략할 수 있다. ⑴ 기초 장부금액과 기말 장부금액 ⑵ 당기에 추가된 충당부채 금액(기존 충당부채의 증가금액 포함) ⑶ 당기에 사용된 금액(지출하여 충당부채에서 차감한 금액) ⑷ 당기에 환입된 금액 ⑸ 현재가치로 평가한 충당부채의 기간 경과에 따른 당기 증가금액과 할인율 변동에 따른 영향",
+      "text": "충당부채의 유형별로 다음의 내용을 공시한다. 비교 표시 정보는 생략할 수 있다.\n(1) 기초 장부금액과 기말 장부금액\n(2) 당기에 추가된 충당부채 금액(기존 충당부채의 증가금액 포함)\n(3) 당기에 사용된 금액(지출하여 충당부채에서 차감한 금액)\n(4) 당기에 환입된 금액\n(5) 현재가치로 평가한 충당부채의 기간 경과에 따른 당기 증가금액과 할인율 변동에 따른 영향",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"84\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">84</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">충당부채의 유형별로 다음의 내용을 공시한다. 비교 표시 정보는 생략할 수 있다.</div><div class=\"idt-1\"><div>⑴</div><div>기초 장부금액과 기말 장부금액</div></div><div class=\"idt-1\"><div>⑵</div><div>당기에 추가된 충당부채 금액(기존 충당부채의 증가금액 포함)</div></div><div class=\"idt-1\"><div>⑶</div><div>당기에 사용된 금액(지출하여 충당부채에서 차감한 금액)</div></div><div class=\"idt-1\"><div>⑷</div><div>당기에 환입된 금액</div></div><div class=\"idt-1\"><div>⑸</div><div>현재가치로 평가한 충당부채의 기간 경과에 따른 당기 증가금액과 할인율 변동에 따른 영향</div></div></b></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"법인세에 관련되는 이자와 벌과금 등\" target=\"_blank\" href=\"/qnas/201709C\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 법인세에 관련되는 이자와 벌과금 등</h5><time class=\"sc-gacfCG bRMfLY\">2017-09-30</time></article></a></li></ul></div></div></div>",
       "cross_references": [],
       "qna_references": [
@@ -2156,7 +2156,7 @@
       "section_id": "t3RYAc",
       "section_title": "공시",
       "toc_path": "본문|공시",
-      "text": "충당부채의 유형별로 다음의 내용을 공시한다. ⑴ 충당부채의 특성과 경제적 효익의 유출이 예상되는 시기 ⑵ 경제적 효익의 유출 금액 또는 시기의 불확실성 정도(충분한 정보 제공이 필요한 경우에는 문단 48에서 규정하고 있는 바와 같이 미래 사건과 관련된 주요 가정의 공시 포함) ⑶ 제삼자의 변제예상금액과 이와 관련하여 인식한 자산 금액",
+      "text": "충당부채의 유형별로 다음의 내용을 공시한다.\n(1) 충당부채의 특성과 경제적 효익의 유출이 예상되는 시기\n(2) 경제적 효익의 유출 금액 또는 시기의 불확실성 정도(충분한 정보 제공이 필요한 경우에는 문단 48에서 규정하고 있는 바와 같이 미래 사건과 관련된 주요 가정의 공시 포함)\n(3) 제삼자의 변제예상금액과 이와 관련하여 인식한 자산 금액",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"85\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">85</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">충당부채의 유형별로 다음의 내용을 공시한다.</div><div class=\"idt-1\"><div>⑴</div><div>충당부채의 특성과 경제적 효익의 유출이 예상되는 시기</div></div><div class=\"idt-1\"><div>⑵</div><div>경제적 효익의 유출 금액 또는 시기의 불확실성 정도(충분한 정보 제공이 필요한 경우에는 \n      <span class=\"mundan-finder\">문단 48</span>에서 규정하고 있는 바와 같이 미래 사건과 관련된 주요 가정의 공시 포함)\n    </div></div><div class=\"idt-1\"><div>⑶</div><div>제삼자의 변제예상금액과 이와 관련하여 인식한 자산 금액</div></div></b></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"법인세에 관련되는 이자와 벌과금 등\" target=\"_blank\" href=\"/qnas/201709C\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 법인세에 관련되는 이자와 벌과금 등</h5><time class=\"sc-gacfCG bRMfLY\">2017-09-30</time></article></a></li></ul></div></div></div>",
       "cross_references": [
         {
@@ -2185,7 +2185,7 @@
       "section_id": "t3RYAc",
       "section_title": "공시",
       "toc_path": "본문|공시",
-      "text": "의무를 이행하기 위한 자원의 유출 가능성이 희박하지 않다면 보고기간 말에 우발부채의 분류별로 그 특성을 공시하고 실무적으로 적용할 수 있는 경우에는 다음의 내용을 공시한다. ⑴ 문단 36~52에 따라 측정된 재무적 영향의 추정 금액 ⑵ 자원의 유출 금액 또는 시기와 관련된 불확실성의 정도 ⑶ 변제 가능성",
+      "text": "의무를 이행하기 위한 자원의 유출 가능성이 희박하지 않다면 보고기간 말에 우발부채의 분류별로 그 특성을 공시하고 실무적으로 적용할 수 있는 경우에는 다음의 내용을 공시한다.\n(1) 문단 36~52에 따라 측정된 재무적 영향의 추정 금액\n(2) 자원의 유출 금액 또는 시기와 관련된 불확실성의 정도\n(3) 변제 가능성",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"86\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">86</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">의무를 이행하기 위한 자원의 유출 가능성이 희박하지 않다면 보고기간 말에 우발부채의 분류별로 그 특성을 공시하고 실무적으로 적용할 수 있는 경우에는 다음의 내용을 공시한다.</div><div class=\"idt-1\"><div>⑴</div><div><span class=\"mundan-finder\">문단 36~52</span>에 따라 측정된 재무적 영향의 추정 금액\n    </div></div><div class=\"idt-1\"><div>⑵</div><div>자원의 유출 금액 또는 시기와 관련된 불확실성의 정도</div></div><div class=\"idt-1\"><div>⑶</div><div>변제 가능성</div></div></b></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"소송 관련 주석 공시\" target=\"_blank\" href=\"/qnas/SSI-38645\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 소송 관련 주석 공시</h5><time class=\"sc-gacfCG bRMfLY\">2018-07-23</time></article></a></li></ul></div></div></div>",
       "cross_references": [
         {
@@ -2238,10 +2238,10 @@
           "display_text": "문단 85(1)ㆍ(2)와 문단 86(1)ㆍ(2)",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "85(1)ㆍ(2)와 문단 86(1)ㆍ(2)",
+          "range": "85,86",
           "paragraph_ids": [
-            "85ㆍ",
-            "86ㆍ"
+            "85",
+            "86"
           ]
         }
       ],
@@ -2334,7 +2334,7 @@
           "display_text": "문단 86과 89",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "86과 89",
+          "range": "86,89",
           "paragraph_ids": [
             "86",
             "89"
@@ -2631,7 +2631,7 @@
           "display_text": "문단 97과 98",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "97과 98",
+          "range": "97,98",
           "paragraph_ids": [
             "97",
             "98"
@@ -2738,7 +2738,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 7",
-          "standard_number": "1037",
+          "standard_number": "1001",
           "standard_title": null,
           "range": "7",
           "paragraph_ids": [
@@ -2748,9 +2748,9 @@
         {
           "type": "paragraph",
           "display_text": "문단 5와 6",
-          "standard_number": "1037",
+          "standard_number": "1008",
           "standard_title": null,
-          "range": "5와 6",
+          "range": "5,6",
           "paragraph_ids": [
             "5",
             "6"
@@ -2773,7 +2773,7 @@
           "display_text": "문단 68A와 94A",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "68A와 94A",
+          "range": "68A,94A",
           "paragraph_ids": [
             "68A",
             "94A"
@@ -2822,7 +2822,49 @@
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’의 실무적용지침|A 표: 충당부채와 우발부채, 우발자산, 변제|충당부채와 우발부채",
       "text": "극히 드물기는 하지만 금액을 신뢰성 있게 측정할 수 없어 부채로 인식할 수 없는 경우에도 우발부채는 생기고 그 우발부채에 대한 공시를 해야 한다.",
       "html": "극히 드물기는 하지만 금액을 신뢰성 있게 측정할 수 없어 부채로 인식할 수 없는 경우에도 우발부채는 생기고 그 우발부채에 대한 공시를 해야 한다.",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "1037",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 27",
+          "standard_number": "1037",
+          "standard_title": null,
+          "range": "27",
+          "paragraph_ids": [
+            "27"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 84와 85",
+          "standard_number": "1037",
+          "standard_title": null,
+          "range": "84,85",
+          "paragraph_ids": [
+            "84",
+            "85"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 86",
+          "standard_number": "1037",
+          "standard_title": null,
+          "range": "86",
+          "paragraph_ids": [
+            "86"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2842,7 +2884,7 @@
       "section_id": "yTFUwc",
       "section_title": "변제",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’의 실무적용지침|A 표: 충당부채와 우발부채, 우발자산, 변제|변제",
-      "text": "충당부채를 결제하기 위하여 필요한 지출액의 일부나 전부를 제삼자가 변제할 것으로 예상하는 경우\n\n기업은 제삼자가 변제할 지출에 대해 어떠한 의무도 없다. 변제될 것으로 예상하는 금액에 대한 의무가 기업에 있으며 기업이 충당부채를 이행하면 변제 받을 것이 거의 확실하다. 변제될 것으로 예상하는 금액에 대한 의무가 기업에 있으며 기업이 충당부채를 이행하더라도 변제 받을 것이 거의 확실하지는 않다.\n\n변제될 금액에 대해 어떠한 부채도 없다(문단 57). 변제금액을 재무상태표에서 별도의 자산으로 인식하고 포괄손익계산서에서는 비용과 상계할 수 있다. 예상하는 변제에 대해 인식하는 자산의 금액은 관련 부채를 초과하지 않는다(문단 53과 54). 예상 변제금액은 자산으로 인식하지 아니한다(문단 53).\n\n공시할 의무는 없다. 변제에 대해 인식하는 금액과 이와 관련된 사항을 공시한다(문단 85⑶). 예상 변제금액을 공시한다(문단 85⑶).",
+      "text": "충당부채를 결제하기 위하여 필요한 지출액의 일부나 전부를 제삼자가 변제할 것으로 예상하는 경우\n\n기업은 제삼자가 변제할 지출에 대해 어떠한 의무도 없다. 변제될 것으로 예상하는 금액에 대한 의무가 기업에 있으며 기업이 충당부채를 이행하면 변제 받을 것이 거의 확실하다. 변제될 것으로 예상하는 금액에 대한 의무가 기업에 있으며 기업이 충당부채를 이행하더라도 변제 받을 것이 거의 확실하지는 않다.\n\n변제될 금액에 대해 어떠한 부채도 없다(문단 57). 변제금액을 재무상태표에서 별도의 자산으로 인식하고 포괄손익계산서에서는 비용과 상계할 수 있다. 예상하는 변제에 대해 인식하는 자산의 금액은 관련 부채를 초과하지 않는다(문단 53과 54). 예상 변제금액은 자산으로 인식하지 아니한다(문단 53).\n\n공시할 의무는 없다. 변제에 대해 인식하는 금액과 이와 관련된 사항을 공시한다(문단 85(3)). 예상 변제금액을 공시한다(문단 85(3)).",
       "html": "<table style=\"width: 100%; table-layout: fixed;\"><colgroup><col width=\"33%\"><col width=\"33%\"><col width=\"33%\"></colgroup><tbody><tr><td colspan=\"3\" style=\"border: 1px solid rgb(110, 110, 110); padding: 8px;\"><b>충당부채를 결제하기 위하여 필요한 지출액의 일부나 전부를 제삼자가 변제할 것으로 예상하는 경우</b></td></tr><tr><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">기업은 제삼자가 변제할 지출에 대해 어떠한 의무도 없다.</td><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">변제될 것으로 예상하는 금액에 대한 의무가 기업에 있으며 기업이 충당부채를 이행하면 변제 받을 것이 거의 확실하다.</td><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">변제될 것으로 예상하는 금액에 대한 의무가 기업에 있으며 기업이 충당부채를 이행하더라도 변제 받을 것이 거의 확실하지는 않다.</td></tr><tr><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">변제될 금액에 대해 어떠한 부채도 없다(<span class=\"mundan-finder\">문단 57</span>).\n        </td><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">변제금액을 재무상태표에서 별도의 자산으로 인식하고 포괄손익계산서에서는 비용과 상계할 수 있다. 예상하는 변제에 대해 인식하는 자산의 금액은 관련 부채를 초과하지 않는다(<span class=\"mundan-finder\">문단 53과 54</span>).\n        </td><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">예상 변제금액은 자산으로 인식하지 아니한다(<span class=\"mundan-finder\">문단 53</span>).\n        </td></tr><tr><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">공시할 의무는 없다.</td><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">변제에 대해 인식하는  금액과 이와 관련된 사항을 공시한다(<span class=\"mundan-finder\">문단 85⑶</span>).\n        </td><td style=\"vertical-align: top; border: 1px solid rgb(110, 110, 110); padding: 8px;\">예상 변제금액을 공시한다(<span class=\"mundan-finder\">문단 85⑶</span>).\n        </td></tr></tbody></table>",
       "cross_references": [],
       "qna_references": [],
@@ -2861,9 +2903,9 @@
           "display_text": "문단 15",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "15",
+          "range": "15).",
           "paragraph_ids": [
-            "15"
+            "15)."
           ]
         }
       ],
@@ -2894,7 +2936,7 @@
           "display_text": "문단 14와 24",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "14와 24",
+          "range": "14,24",
           "paragraph_ids": [
             "14",
             "24"
@@ -2917,7 +2959,7 @@
           "display_text": "문단 14와 22",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "14와 22",
+          "range": "14,22",
           "paragraph_ids": [
             "14",
             "22"
@@ -2940,9 +2982,9 @@
           "display_text": "문단 10(의제의무의 정의), 14, 17",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "10(의제의무의 정의), 14, 17",
+          "range": "10,14,17",
           "paragraph_ids": [
-            "10(의제의무의 정의",
+            "10",
             "14",
             "17"
           ]
@@ -2986,9 +3028,9 @@
           "display_text": "문단 10(의제의무의 정의), 14, 17, 24",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "10(의제의무의 정의), 14, 17, 24",
+          "range": "10,14,17,24",
           "paragraph_ids": [
-            "10(의제의무의 정의",
+            "10",
             "14",
             "17",
             "24"
@@ -3011,7 +3053,7 @@
           "display_text": "문단 14와 72",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "14와 72",
+          "range": "14,72",
           "paragraph_ids": [
             "14",
             "72"
@@ -3034,7 +3076,7 @@
           "display_text": "문단 14와 72",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "14와 72",
+          "range": "14,72",
           "paragraph_ids": [
             "14",
             "72"
@@ -3049,7 +3091,7 @@
       "section_id": "mhI78f",
       "section_title": "사례 6  법 규정에 따른 매연 여과장치 설치",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’의 실무적용지침|C 사례: 인식|사례 6  법 규정에 따른 매연 여과장치 설치",
-      "text": "새로운 법률에 따라 기업은 20X1년 6월까지 매연 여과장치를 공장에 설치하여야 한다. 기업은 지금까지 매연 여과장치를 설치하지 않았다. ⑴ 보고기간 말인 20X0년 12월 31일 현재 ⑵ 보고기간 말인 20X1년 12월 31일 현재",
+      "text": "새로운 법률에 따라 기업은 20X1년 6월까지 매연 여과장치를 공장에 설치하여야 한다. 기업은 지금까지 매연 여과장치를 설치하지 않았다.\n(1) 보고기간 말인 20X0년 12월 31일 현재\n(2) 보고기간 말인 20X1년 12월 31일 현재",
       "html": "<div value=\"웩25\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">새로운 법률에 따라 기업은 20X1년 6월까지 매연 여과장치를 공장에 설치하여야 한다. 기업은 지금까지 매연 여과장치를 설치하지 않았다.</div><br><div class=\"idt-1\"><div>⑴</div><div>보고기간 말인 20X0년 12월 31일 현재</div></div><br><div class=\"para\"><b>과거 의무발생사건의 결과로 생기는 현재의무</b>: 의무는 존재하지 않는다. 그 법률에 따른 매연 여과장치의 설치원가나 벌금에 대한 의무발생사건이 없기 때문이다.\n</div><br><div class=\"para\"><b>결론</b>: 매연 여과장치의 설치원가로 충당부채를 인식하지 아니한다(<span class=\"mundan-finder\">문단 14와 17~19 </span>참조).\n</div><br><div class=\"idt-1\"><div>⑵</div><div>보고기간 말인 20X1년 12월 31일 현재</div></div><br><div class=\"para\"><b>과거 의무발생사건의 결과로 생기는 현재의무</b>: 매연 여과장치 설치원가에 대한 의무는 여전히 없다. 의무발생사건(매연 여과장치 설치)이 일어나지 않았기 때문이다. 그러나 공장에서 법률을 위반하는 의무발생사건이 일어났기 때문에 법률에 따른 벌과금을 내야 하는 의무가 생길 수는 있다.\n</div><br><div class=\"para\"><b>해당 의무 이행에 따른 경제적 효익이 있는 자원의 유출</b>: 법률 위반으로 벌과금이 생길 가능성에 대한 평가는 법률의 구체적인 내용과 법률 집행의 엄격성에 따라 다르다.\n</div><br><div class=\"para\"><b>결론</b>: 매연 여과장치 설치원가로 충당부채를 인식하지 아니한다. 그러나 벌과금이 부과될 가능성이 그렇지 않을 가능성보다 높은 경우에는 벌과금의 최선의 추정치로 충당부채를 인식한다(<span class=\"mundan-finder\">문단 14와 17~19 </span>참조).\n</div></div></div>",
       "cross_references": [
         {
@@ -3057,7 +3099,7 @@
           "display_text": "문단 14와 17~19",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "14와 17~19",
+          "range": "14,17~19",
           "paragraph_ids": [
             "14",
             "17",
@@ -3082,7 +3124,7 @@
           "display_text": "문단 14와 17~19",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "14와 17~19",
+          "range": "14,17~19",
           "paragraph_ids": [
             "14",
             "17",
@@ -3121,7 +3163,7 @@
       "section_id": "ZFBpbm",
       "section_title": "사례 10 소송사건",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1037호 ‘충당부채, 우발부채, 우발자산’의 실무적용지침|C 사례: 인식|사례 10 소송사건",
-      "text": "20X0년 결혼식 후에 10명이 사망하였는데, 기업이 판매한 제품 때문에 식중독이 생겼을 가능성이 있다. 그 기업에 손해배상을 청구하는 법적 절차가 시작되었으나, 기업은 그 책임에 대해 이의를 제기하였다. 법률 전문가는 20X0년 12월 31일로 종료하는 연차 재무제표의 발행승인일까지는 기업에 책임이 있는지 밝혀지지 않을 가능성이 높다고 조언하였다. 그러나 법률 전문가는 20X1년 12월 31일로 종료하는 연차 재무제표를 작성할 때에는 소송 사건의 진전에 따라 기업에 책임이 있다고 밝혀질 가능성이 높다고 조언하였다. ⑴ 20X0년 12월 31일 ⑵ 20X1년 12월 31일",
+      "text": "20X0년 결혼식 후에 10명이 사망하였는데, 기업이 판매한 제품 때문에 식중독이 생겼을 가능성이 있다. 그 기업에 손해배상을 청구하는 법적 절차가 시작되었으나, 기업은 그 책임에 대해 이의를 제기하였다. 법률 전문가는 20X0년 12월 31일로 종료하는 연차 재무제표의 발행승인일까지는 기업에 책임이 있는지 밝혀지지 않을 가능성이 높다고 조언하였다. 그러나 법률 전문가는 20X1년 12월 31일로 종료하는 연차 재무제표를 작성할 때에는 소송 사건의 진전에 따라 기업에 책임이 있다고 밝혀질 가능성이 높다고 조언하였다.\n(1) 20X0년 12월 31일\n(2) 20X1년 12월 31일",
       "html": "<div value=\"웩29\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">20X0년 결혼식 후에 10명이 사망하였는데, 기업이 판매한 제품 때문에 식중독이 생겼을 가능성이 있다. 그 기업에 손해배상을 청구하는 법적 절차가 시작되었으나, 기업은 그 책임에 대해 이의를 제기하였다. 법률 전문가는 20X0년 12월 31일로 종료하는 연차 재무제표의 발행승인일까지는 기업에 책임이 있는지 밝혀지지 않을 가능성이 높다고 조언하였다. 그러나 법률 전문가는 20X1년 12월 31일로 종료하는 연차 재무제표를 작성할 때에는 소송 사건의 진전에 따라 기업에 책임이 있다고 밝혀질 가능성이 높다고 조언하였다.</div><br><div class=\"idt-1\"><div>⑴</div><div>20X0년 12월 31일</div></div><br><div class=\"para\"><b>과거 의무발생사건의 결과로 생기는 현재의무</b>: 재무제표가 승인되는 시점에 사용 가능한 증거에 따르면 과거 사건의 결과로 생기는 의무는 없다.\n</div><br><div class=\"para\"><b>결론</b>: 충당부채를 인식하지 아니한다(<span class=\"mundan-finder\">문단 15와 16 </span>참조). 유출될 가능성이 희박하지 않다면 그 사항을 우발부채로 공시한다(<span class=\"mundan-finder\">문단 86</span>).\n</div><br><div class=\"idt-1\"><div>⑵</div><div>20X1년 12월 31일</div></div><br><div class=\"para\"><b>과거 의무발생사건의 결과로 생기는 현재의무</b>: 사용 가능한 증거에 따르면 현재의무가 존재한다.\n</div><br><div class=\"para\"><b>해당 의무 이행에 따른 경제적 효익이 있는 자원의 유출</b>: 가능성이 높다.\n</div><br><div class=\"para\"><b>결론</b>: 의무를 이행하기 위한 금액의 최선의 추정치로 충당부채를 인식한다(<span class=\"mundan-finder\">문단 14~16</span>).\n</div></div></div>",
       "cross_references": [
         {
@@ -3129,7 +3171,7 @@
           "display_text": "문단 15와 16",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "15와 16",
+          "range": "15,16",
           "paragraph_ids": [
             "15",
             "16"
@@ -3194,7 +3236,7 @@
           "display_text": "문단 14와 17~19",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "14와 17~19",
+          "range": "14,17~19",
           "paragraph_ids": [
             "14",
             "17",
@@ -3219,7 +3261,7 @@
           "display_text": "문단 14와 17~19",
           "standard_number": "1037",
           "standard_title": null,
-          "range": "14와 17~19",
+          "range": "14,17~19",
           "paragraph_ids": [
             "14",
             "17",
@@ -3253,8 +3295,16 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 11",
+          "standard_number": "11",
+          "standard_title": "(구)건설계약",
           "range": null,
           "paragraph_ids": []
         },
@@ -3294,7 +3344,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -3384,7 +3434,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -3415,7 +3465,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -3435,7 +3485,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -3455,7 +3505,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -3495,7 +3545,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -3525,7 +3575,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 17",
-          "standard_number": null,
+          "standard_number": "17",
           "standard_title": "보험계약",
           "range": null,
           "paragraph_ids": []
@@ -3545,7 +3595,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 15",
-          "standard_number": null,
+          "standard_number": "15",
           "standard_title": "고객과의 계약에서 생기는 수익",
           "range": null,
           "paragraph_ids": []
@@ -3553,7 +3603,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 97~98",
-          "standard_number": "1037",
+          "standard_number": "1115",
           "standard_title": null,
           "range": "97~98",
           "paragraph_ids": [
@@ -3576,7 +3626,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -3607,7 +3657,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -3637,7 +3687,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -3657,7 +3707,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -3698,7 +3748,7 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
@@ -3792,6 +3842,33 @@
     ],
     "1016": [
       "IE30"
+    ],
+    "37": [
+      "BC1",
+      "BC3",
+      "BC10",
+      "BC11",
+      "BC12",
+      "BC15",
+      "BC17",
+      "BC18",
+      "BC19"
+    ],
+    "11": [
+      "BC1"
+    ],
+    "2": [
+      "BC7",
+      "BC9"
+    ],
+    "17": [
+      "BC13"
+    ],
+    "15": [
+      "BC14"
+    ],
+    "8": [
+      "BC21"
     ]
   },
   "qna_index": {

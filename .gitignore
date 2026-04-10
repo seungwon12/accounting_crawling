@@ -5,3 +5,4 @@ CLAUDE.md
 toc_structure.png
 scripts
 *.png
+.env

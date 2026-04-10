@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "중간재무보고",
   "url": "https://db.kasb.or.kr/s/1034",
-  "crawled_at": "2026-03-24T05:06:03.901420+00:00",
+  "crawled_at": "2026-04-09T06:23:47.076628+00:00",
   "toc": [
     {
       "level": null,
@@ -637,7 +637,7 @@
           "display_text": "문단 38과 38A",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "38과 38A",
+          "range": "38,38A",
           "paragraph_ids": [
             "38",
             "38A"
@@ -646,14 +646,11 @@
         {
           "type": "paragraph",
           "display_text": "문단 40A~40D",
-          "standard_number": "1001",
+          "standard_number": "1034",
           "standard_title": null,
           "range": "40A~40D",
           "paragraph_ids": [
-            "40A",
-            "40B",
-            "40C",
-            "40D"
+            "40A~40D"
           ]
         }
       ],
@@ -689,7 +686,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 10",
-          "standard_number": "1001",
+          "standard_number": "1034",
           "standard_title": null,
           "range": "10",
           "paragraph_ids": [
@@ -771,7 +768,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 10A",
-          "standard_number": "1001",
+          "standard_number": "1034",
           "standard_title": null,
           "range": "10A",
           "paragraph_ids": [
@@ -825,7 +822,7 @@
       "section_id": "KmLBb6",
       "section_title": "중간재무제표의 형식과 내용",
       "toc_path": "본문|중간재무보고서의 내용|중간재무제표의 형식과 내용",
-      "text": "기본주당이익과 희석주당이익은 기업이 기업회계기준서 제1033호 ‘주당이익’의 적용범위에 해당하는 경우에 중간기간의 당기순손익의 구성요소를 표시하는 재무제표에 표시한다.\n(주1)\n[각주 (주1)] 이 문단은 기업회계기준서 제1034호의 적용범위를 명확히 하기 위하여 2008년 11월에 발표된 ‘한국채택국제회계기준 연차개선’에 따라 개정되었다.",
+      "text": "기본주당이익과 희석주당이익은 기업이 기업회계기준서 제1033호 ‘주당이익’의 적용범위에 해당하는 경우에 중간기간의 당기순손익의 구성요소를 표시하는 재무제표에 표시한다.(주1)\n[각주 (주1)] 이 문단은 기업회계기준서 제1034호의 적용범위를 명확히 하기 위하여 2008년 11월에 발표된 ‘한국채택국제회계기준 연차개선’에 따라 개정되었다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"11\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">11</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기본주당이익과 희석주당이익은 기업이 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">주당이익</span><span class=\"std-finder\">기업회계기준서 제1033호</span></div> ‘주당이익’의 적용범위에 해당하는 경우에 중간기간의 당기순손익의 구성요소를 표시하는 재무제표에 표시한다.\n  </b><sup data-id=\"(주1)\">(주1)</sup></div><div class=\"idt-1 comment\"><div>(주1)</div><div>    이 문단은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">기업회계기준서 제1034호</span></div>의 적용범위를 명확히 하기 위하여 2008년 11월에 발표된 ‘한국채택국제회계기준 연차개선’에 따라 개정되었다.        \n  </div></div></div></div></div>",
       "cross_references": [
         {
@@ -872,7 +869,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 10A",
-          "standard_number": "1001",
+          "standard_number": "1034",
           "standard_title": null,
           "range": "10A",
           "paragraph_ids": [
@@ -1085,9 +1082,9 @@
         {
           "type": "paragraph",
           "display_text": "문단 91~93(8), 94~96, 98 및 99",
-          "standard_number": "1113",
+          "standard_number": "1034",
           "standard_title": null,
-          "range": "91~93(8), 94~96, 98 및 99",
+          "range": "91~93(8),94~96,98,99",
           "paragraph_ids": [
             "91~93",
             "94~96",
@@ -1100,7 +1097,7 @@
           "display_text": "문단 25, 26 및 28~30",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "25, 26 및 28~30",
+          "range": "25,26,28~30",
           "paragraph_ids": [
             "25",
             "26",
@@ -1112,7 +1109,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 9B",
-          "standard_number": "1112",
+          "standard_number": "1034",
           "standard_title": null,
           "range": "9B",
           "paragraph_ids": [
@@ -1122,7 +1119,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 114~115",
-          "standard_number": "1115",
+          "standard_number": "1034",
           "standard_title": null,
           "range": "114~115",
           "paragraph_ids": [
@@ -1470,7 +1467,7 @@
           "display_text": "문단 16A(4)와 26",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "16A(4)와 26",
+          "range": "16A(4),26",
           "paragraph_ids": [
             "16A",
             "26"
@@ -1493,7 +1490,7 @@
           "display_text": "문단 16A(4)와 문단 26",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "16A(4)와 문단 26",
+          "range": "16A(4),26",
           "paragraph_ids": [
             "16A",
             "26"
@@ -1757,11 +1754,12 @@
           "display_text": "문단 15, 27, 35 그리고 36",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "15, 27, 35 그리고 36",
+          "range": "15,27,35,36",
           "paragraph_ids": [
             "15",
             "27",
-            "35 그리고 36"
+            "35",
+            "36"
           ]
         },
         {
@@ -1769,7 +1767,7 @@
           "display_text": "문단 15A~15C 및 16A",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "15A~15C 및 16A",
+          "range": "15A~15C,16A",
           "paragraph_ids": [
             "15A",
             "15B",
@@ -1845,7 +1843,7 @@
           "display_text": "문단 8, 8A, 11A 및 20",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "8, 8A, 11A 및 20",
+          "range": "8,8A,11A,20",
           "paragraph_ids": [
             "8",
             "8A",
@@ -2003,7 +2001,7 @@
           "display_text": "문단 15B와 16A",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "15B와 16A",
+          "range": "15B,16A",
           "paragraph_ids": [
             "15B",
             "16A"
@@ -2094,7 +2092,7 @@
           "display_text": "문단 31과 문단 33",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "31과 문단 33",
+          "range": "31,33",
           "paragraph_ids": [
             "31",
             "33"
@@ -2115,9 +2113,9 @@
         {
           "type": "paragraph",
           "display_text": "문단 23~28, 50~53 및 54F",
-          "standard_number": "1034",
+          "standard_number": "1008",
           "standard_title": null,
-          "range": "23~28, 50~53 및 54F",
+          "range": "23~28,50~53,54F",
           "paragraph_ids": [
             "23",
             "24",
@@ -2183,9 +2181,9 @@
         {
           "type": "paragraph",
           "display_text": "문단 5와 6",
-          "standard_number": "1034",
+          "standard_number": "10308",
           "standard_title": null,
-          "range": "5와 6",
+          "range": "5,6",
           "paragraph_ids": [
             "5",
             "6"
@@ -2200,7 +2198,7 @@
       "section_id": "MQn8TF",
       "section_title": "시행일",
       "toc_path": "본문|시행일",
-      "text": "2021년 12월에 공표한, 기업회계기준서 제1001호를 개정하고 국제회계기준 실무서 2 ‘중요성에 대한 판단’ 번역서\n(한1)를 수정하는 ‘회계정책 공시’에 따라 문단 5를 개정하였다. 이 개정 내용은 2023년 1월 1일 이후 최초로 시작되는 회계연도부터 적용하되, 조기 적용할 수도 있다. 이 개정 내용을 조기 적용하는 경우에는 그 사실을 공시한다.\n[각주 (한1)] 국제회계기준위원회(IASB)가 발표한 국제회계기준 실무서 2 ‘중요성에 대한 판단’은 국제회계기준을 구성하지는 않는다.",
+      "text": "2021년 12월에 공표한, 기업회계기준서 제1001호를 개정하고 국제회계기준 실무서 2 ‘중요성에 대한 판단’ 번역서(한1)를 수정하는 ‘회계정책 공시’에 따라 문단 5를 개정하였다. 이 개정 내용은 2023년 1월 1일 이후 최초로 시작되는 회계연도부터 적용하되, 조기 적용할 수도 있다. 이 개정 내용을 조기 적용하는 경우에는 그 사실을 공시한다.\n[각주 (한1)] 국제회계기준위원회(IASB)가 발표한 국제회계기준 실무서 2 ‘중요성에 대한 판단’은 국제회계기준을 구성하지는 않는다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"60\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">60</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">2021년 12월에 공표한, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div>를 개정하고 국제회계기준 실무서 2 ‘중요성에 대한 판단’ 번역서\n  <sup data-id=\"(한1)\">(한1)</sup>를 수정하는 ‘회계정책 공시’에 따라 \n  <span class=\"mundan-finder\">문단 5</span>를 개정하였다. 이 개정 내용은 2023년 1월 1일 이후 최초로 시작되는 회계연도부터 적용하되, 조기 적용할 수도 있다. 이 개정 내용을 조기 적용하는 경우에는 그 사실을 공시한다.\n</div><div class=\"idt-1 comment\"><div>(한1)</div><div>국제회계기준위원회(IASB)가 발표한 국제회계기준 실무서 2 ‘중요성에 대한 판단’은 국제회계기준을 구성하지는 않는다.</div></div></div></div></div>",
       "cross_references": [
         {
@@ -2378,7 +2376,7 @@
       "section_id": "M13LRj",
       "section_title": "연말상여금",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1034호 ‘중간재무보고’의 적용사례|부록 B. 인식과 측정원칙의 적용사례|연말상여금",
-      "text": "다음을 모두 충족하는 경우에 한하여 상여금을 중간보고 목적으로 추정한다. ⑴ 상여금이 법적의무이거나 과거의 관행으로 인하여 상여금을 지급하는 것 외에 다른 현실적인 대안이 없는 의제의무이다. ⑵ 그 의무금액을 신뢰성 있게 추정할 수 있다.",
+      "text": "다음을 모두 충족하는 경우에 한하여 상여금을 중간보고 목적으로 추정한다.\n(1) 상여금이 법적의무이거나 과거의 관행으로 인하여 상여금을 지급하는 것 외에 다른 현실적인 대안이 없는 의제의무이다.\n(2) 그 의무금액을 신뢰성 있게 추정할 수 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"B6\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">B6</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">다음을 모두 충족하는 경우에 한하여 상여금을 중간보고 목적으로 추정한다.</div><div class=\"idt-1\"><div>⑴</div><div>상여금이 법적의무이거나 과거의 관행으로 인하여 상여금을 지급하는 것 외에 다른 현실적인 대안이 없는 의제의무이다.</div></div><div class=\"idt-1\"><div>⑵</div><div>그 의무금액을 신뢰성 있게 추정할 수 있다.</div></div><div class=\"para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">종업원급여</span><span class=\"std-finder\">기업회계기준서 제1019호</span></div>에서 관련 지침을 제공하고 있다.\n</div></div></div></div>",
       "cross_references": [
         {
@@ -2495,16 +2493,6 @@
           "type": "paragraph",
           "display_text": "문단 28",
           "standard_number": "1034",
-          "standard_title": null,
-          "range": "28",
-          "paragraph_ids": [
-            "28"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "display_text": "문단 28",
-          "standard_number": "1012",
           "standard_title": null,
           "range": "28",
           "paragraph_ids": [
@@ -2654,7 +2642,7 @@
       "section_id": "afC3jM",
       "section_title": "계약상 또는 예상되는 구매가격의 변화",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1034호 ‘중간재무보고’의 적용사례|부록 B. 인식과 측정원칙의 적용사례|계약상 또는 예상되는 구매가격의 변화",
-      "text": "수량 리베이트나 할인, 그리고 그 밖의 원재료, 노동력, 기타 구매된 재화 및 용역의 계약상 가격 변경이 확정되거나 효력을 발생시킬 가능성이 높다면 지급자와 수령자 모두 중간기간에 이를 추정한다. 따라서 계약상 리베이트와 할인은 추정하지만 재량적인 리베이트나 할인은 추정하지 않는다. 왜냐하면 이로 인해 발생하게 되는 자산이나 부채는, 자산은 과거 사건의 결과로 기업이 통제하고 있는 자원이어야 하고 부채는 자원이 유출됨으로써 이행될 것으로 기대되는 현재의무이어야 한다는 ‘개념체계\n(주1)’의 조건을 충족시키지 못하기 때문이다.\n[각주 (주1)] ‘재무보고를 위한 개념체계’(2011년 7월 공표)를 말한다.",
+      "text": "수량 리베이트나 할인, 그리고 그 밖의 원재료, 노동력, 기타 구매된 재화 및 용역의 계약상 가격 변경이 확정되거나 효력을 발생시킬 가능성이 높다면 지급자와 수령자 모두 중간기간에 이를 추정한다. 따라서 계약상 리베이트와 할인은 추정하지만 재량적인 리베이트나 할인은 추정하지 않는다. 왜냐하면 이로 인해 발생하게 되는 자산이나 부채는, 자산은 과거 사건의 결과로 기업이 통제하고 있는 자원이어야 하고 부채는 자원이 유출됨으로써 이행될 것으로 기대되는 현재의무이어야 한다는 ‘개념체계(주1)’의 조건을 충족시키지 못하기 때문이다.\n[각주 (주1)] ‘재무보고를 위한 개념체계’(2011년 7월 공표)를 말한다.",
       "html": "수량 리베이트나 할인, 그리고 그 밖의 원재료, 노동력, 기타 구매된 재화 및 용역의 계약상 가격 변경이 확정되거나 효력을 발생시킬 가능성이 높다면 지급자와 수령자 모두 중간기간에 이를 추정한다. 따라서 계약상 리베이트와 할인은 추정하지만 재량적인 리베이트나 할인은 추정하지 않는다. 왜냐하면 이로 인해 발생하게 되는 자산이나 부채는, 자산은 과거 사건의 결과로 기업이 통제하고 있는 자원이어야 하고 부채는 자원이 유출됨으로써 이행될 것으로 기대되는 현재의무이어야 한다는 ‘개념체계\n  <sup>(주1)</sup>’의 조건을 충족시키지 못하기 때문이다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\"> ‘재무보고를 위한 개념체계’(2011년 7월 공표)를 말한다.</div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -3030,7 +3018,7 @@
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
           "range": null,
           "paragraph_ids": []
@@ -3067,7 +3055,7 @@
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
           "range": null,
           "paragraph_ids": []
@@ -3087,8 +3075,16 @@
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 7",
+          "standard_number": "7",
+          "standard_title": "금융상품: 공시",
           "range": null,
           "paragraph_ids": []
         }
@@ -3107,7 +3103,7 @@
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
           "range": null,
           "paragraph_ids": []
@@ -3147,7 +3143,7 @@
         {
           "type": "standard",
           "display_text": "IAS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "재무제표 표시",
           "range": null,
           "paragraph_ids": []
@@ -3155,11 +3151,10 @@
         {
           "type": "paragraph",
           "display_text": "문단 10(5-1) 및 10(6)",
-          "standard_number": "1034",
+          "standard_number": "1001",
           "standard_title": null,
-          "range": "10(5-1) 및 10(6)",
+          "range": "10",
           "paragraph_ids": [
-            "10(5-1",
             "10"
           ]
         },
@@ -3188,7 +3183,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "영업부문",
           "range": null,
           "paragraph_ids": []
@@ -3196,7 +3191,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 23",
-          "standard_number": "1034",
+          "standard_number": "1108",
           "standard_title": null,
           "range": "23",
           "paragraph_ids": [
@@ -3218,7 +3213,7 @@
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
           "range": null,
           "paragraph_ids": []
@@ -3248,7 +3243,7 @@
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
           "range": null,
           "paragraph_ids": []
@@ -3278,7 +3273,7 @@
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
           "range": null,
           "paragraph_ids": []
@@ -3288,7 +3283,7 @@
           "display_text": "문단 4와 8",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "4와 8",
+          "range": "4,8",
           "paragraph_ids": [
             "4",
             "8"
@@ -3299,9 +3294,9 @@
           "display_text": "문단 16A(1)~(11)",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "16A(1)~(11)",
+          "range": "16A",
           "paragraph_ids": [
-            "16A~"
+            "16A"
           ]
         }
       ],
@@ -3330,7 +3325,7 @@
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
           "range": null,
           "paragraph_ids": []
@@ -3340,7 +3335,7 @@
           "display_text": "문단 31과 34",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "31과 34",
+          "range": "31,34",
           "paragraph_ids": [
             "31",
             "34"
@@ -3355,14 +3350,22 @@
       "section_id": "BCaw2f",
       "section_title": "개념체계에 대한 참조의 개정",
       "toc_path": "결론도출근거|IAS 34 ‘중간재무보고(Interim Financial Reporting)’의 결론도출근거|개념체계에 대한 참조의 개정",
-      "text": "또한 ‘IFRS에서 개념체계의 참조에 대한 개정’에 따라 IAS 34 문단 31과 33에서 ‘대차대조표’라는 용어를 ‘재무상태표’라는 용어로 대체하였다. 사실 ‘대차대조표’라는 용어는 IAS 1 ‘재무제표 표시’가 2007년에 개정되면서 개별 기준서에서 대체되었다. 그러나 IAS 34 문단 31과 33의 ‘대차대조표’는 ‘개념체계’(2001)에서 직접 인용한 부분이었기 때문에 대체되지 않았다.\n(주1) ‘개념체계’(2018)를 공표하면서, IASB는 ‘개념체계’(2018)에서 사용되는 용어가 개별 기준서에서 사용되는 용어와 일관되도록 IAS 34 문단 31과 33에서도 ‘대차대조표’라는 용어를 대체하였다.\n[각주 (주1)] 한국채택국제회계기준 제1034호 문단 31과 33에서는 이미 ‘재무상태표’로 번역되어 있음",
+      "text": "또한 ‘IFRS에서 개념체계의 참조에 대한 개정’에 따라 IAS 34 문단 31과 33에서 ‘대차대조표’라는 용어를 ‘재무상태표’라는 용어로 대체하였다. 사실 ‘대차대조표’라는 용어는 IAS 1 ‘재무제표 표시’가 2007년에 개정되면서 개별 기준서에서 대체되었다. 그러나 IAS 34 문단 31과 33의 ‘대차대조표’는 ‘개념체계’(2001)에서 직접 인용한 부분이었기 때문에 대체되지 않았다.(주1) ‘개념체계’(2018)를 공표하면서, IASB는 ‘개념체계’(2018)에서 사용되는 용어가 개별 기준서에서 사용되는 용어와 일관되도록 IAS 34 문단 31과 33에서도 ‘대차대조표’라는 용어를 대체하였다.\n[각주 (주1)] 한국채택국제회계기준 제1034호 문단 31과 33에서는 이미 ‘재무상태표’로 번역되어 있음",
       "html": "또한 ‘IFRS에서 개념체계의 참조에 대한 개정’에 따라 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div><span class=\"mundan-finder\"> 문단 31과 33</span>에서 ‘대차대조표’라는 용어를 ‘재무상태표’라는 용어로 대체하였다. 사실 ‘대차대조표’라는 용어는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div> ‘재무제표 표시’가 2007년에 개정되면서 개별 기준서에서 대체되었다. 그러나 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div><span class=\"mundan-finder\"> 문단 31과 33</span>의 ‘대차대조표’는 ‘개념체계’(2001)에서 직접 인용한 부분이었기 때문에 대체되지 않았다.\n  <sup>(주1)</sup> ‘개념체계’(2018)를 공표하면서, IASB는 ‘개념체계’(2018)에서 사용되는 용어가 개별 기준서에서 사용되는 용어와 일관되도록 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div><span class=\"mundan-finder\"> 문단 31과 33</span>에서도 ‘대차대조표’라는 용어를 대체하였다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">한국채택국제회계기준 제1034호</span></div><span class=\"mundan-finder\"> 문단 31과 33</span>에서는 이미 ‘재무상태표’로 번역되어 있음        \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 34",
-          "standard_number": null,
+          "standard_number": "34",
           "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
           "range": null,
           "paragraph_ids": []
         },
@@ -3379,18 +3382,7 @@
           "display_text": "문단 31과 33",
           "standard_number": "1034",
           "standard_title": null,
-          "range": "31과 33",
-          "paragraph_ids": [
-            "31",
-            "33"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "display_text": "문단 31과 33",
-          "standard_number": "1034",
-          "standard_title": null,
-          "range": "31과 33",
+          "range": "31,33",
           "paragraph_ids": [
             "31",
             "33"
@@ -3535,6 +3527,27 @@
     ],
     "1040": [
       "C7"
+    ],
+    "34": [
+      "BC1",
+      "BC2",
+      "BC3",
+      "BC4",
+      "BC7",
+      "BC8",
+      "BC9",
+      "BC11",
+      "BC12"
+    ],
+    "7": [
+      "BC3"
+    ],
+    "1": [
+      "BC5",
+      "BC12"
+    ],
+    "8": [
+      "BC6"
     ]
   },
   "qna_index": {

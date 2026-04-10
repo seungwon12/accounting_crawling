@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "특수관계자 공시",
   "url": "https://db.kasb.or.kr/s/1024",
-  "crawled_at": "2026-03-24T04:52:02.771392+00:00",
+  "crawled_at": "2026-04-09T06:11:49.411433+00:00",
   "toc": [
     {
       "level": null,
@@ -559,7 +559,7 @@
       "section_id": "6IbynV",
       "section_title": "용어의 정의",
       "toc_path": "본문|용어의 정의",
-      "text": "이 기준서에서 사용하는 용어의 정의는 다음과 같다. ⑴ 개인이 다음 중 어느 하나에 해당하는 경우, 그 개인이나 그 개인의 가까운 가족은 보고기업과 특수관계에 있다.\n㈎ 보고기업에 지배력 또는 공동지배력이 있는 경우\n㈏ 보고기업에 유의적인 영향력이 있는 경우\n㈐ 보고기업 또는 그 지배기업의 주요 경영진의 일원인 경우 ⑵ 기업이 다음의 조건 중 어느 하나에 적용될 경우 보고기업과 특수관계에 있다.\n㈎ 기업과 보고기업이 동일한 연결실체 내의 일원인 경우(지배기업과 종속기업 및 연결실체 내의 다른 종속기업은 서로 특수관계에 있음을 의미)\n㈏ 한 기업이 다른 기업의 관계기업이거나 공동기업인 경우(또는 그 다른 기업이 속한 연결실체 내의 일원의 관계기업이거나 공동기업인 경우)\n㈐ 두 기업이 동일한 제3자의 공동기업인 경우\n㈑ 제3의 기업에 대해 한 기업이 공동기업이고 다른 기업이 관계기업인 경우\n㈒ 기업이 보고기업이나 그 보고기업과 특수관계에 있는 기업의 종업원급여를 위한 퇴직급여제도인 경우. 보고기업 자신이 퇴직급여제도인 경우, 그 제도의 책임사용자도 보고기업과 특수관계에 있다.\n㈓ 기업이 (1)에서 식별된 개인에 의하여 지배 또는 공동지배되는 경우\n㈔ ⑴의 ㈎에서 식별된 개인이 기업에 유의적인 영향력이 있거나 그 기업(또는 그 기업의 지배기업)의 주요 경영진의 일원인 경우\n㈕ 보고기업이나 보고기업의 지배기업에게 주요 경영인력용역을 제공하는 기업이나 그 기업이 속한 연결실체의 모든 일원 ⑴ 자녀 및 배우자(사실상 배우자 포함. 이하 같다) ⑵ 배우자의 자녀 ⑶ 당해 개인이나 배우자의 피부양자 ⑴ 단기종업원급여: 임금, 사회보장분담금(예: 국민연금), 유급연차휴가ㆍ유급병가, 이익분배금ㆍ상여금(회계기간의 말부터 12개월 이내에 지급되는 것에 한함), 현직종업원을 위한 비화폐성급여(예: 의료, 주택, 자동차, 무상 또는 일부 보조로 제공되는 재화나 용역) 등 ⑵ 퇴직급여: 퇴직연금, 그 밖의 퇴직급여, 퇴직후생명보험, 퇴직후의료급여 등 ⑶ 기타장기종업원급여: 장기근속휴가, 안식년휴가, 그 밖의 장기근속급여, 장기장애급여, 회계기간의 말부터 12개월 이내에 전부나 일부가 지급되지 않는 이익분배금, 상여금 및 이연보상 등 ⑷ 해고급여 ⑸ 주식기준보상",
+      "text": "이 기준서에서 사용하는 용어의 정의는 다음과 같다.\n(1) 개인이 다음 중 어느 하나에 해당하는 경우, 그 개인이나 그 개인의 가까운 가족은 보고기업과 특수관계에 있다.\n(가) 보고기업에 지배력 또는 공동지배력이 있는 경우\n(나) 보고기업에 유의적인 영향력이 있는 경우\n(다) 보고기업 또는 그 지배기업의 주요 경영진의 일원인 경우\n(2) 기업이 다음의 조건 중 어느 하나에 적용될 경우 보고기업과 특수관계에 있다.\n(가) 기업과 보고기업이 동일한 연결실체 내의 일원인 경우(지배기업과 종속기업 및 연결실체 내의 다른 종속기업은 서로 특수관계에 있음을 의미)\n(나) 한 기업이 다른 기업의 관계기업이거나 공동기업인 경우(또는 그 다른 기업이 속한 연결실체 내의 일원의 관계기업이거나 공동기업인 경우)\n(다) 두 기업이 동일한 제3자의 공동기업인 경우\n(라) 제3의 기업에 대해 한 기업이 공동기업이고 다른 기업이 관계기업인 경우\n(마) 기업이 보고기업이나 그 보고기업과 특수관계에 있는 기업의 종업원급여를 위한 퇴직급여제도인 경우. 보고기업 자신이 퇴직급여제도인 경우, 그 제도의 책임사용자도 보고기업과 특수관계에 있다.\n(바) 기업이 (1)에서 식별된 개인에 의하여 지배 또는 공동지배되는 경우\n(사) (1)의 (가)에서 식별된 개인이 기업에 유의적인 영향력이 있거나 그 기업(또는 그 기업의 지배기업)의 주요 경영진의 일원인 경우\n(아) 보고기업이나 보고기업의 지배기업에게 주요 경영인력용역을 제공하는 기업이나 그 기업이 속한 연결실체의 모든 일원\n(1) 자녀 및 배우자(사실상 배우자 포함. 이하 같다)\n(2) 배우자의 자녀\n(3) 당해 개인이나 배우자의 피부양자\n(1) 단기종업원급여: 임금, 사회보장분담금(예: 국민연금), 유급연차휴가ㆍ유급병가, 이익분배금ㆍ상여금(회계기간의 말부터 12개월 이내에 지급되는 것에 한함), 현직종업원을 위한 비화폐성급여(예: 의료, 주택, 자동차, 무상 또는 일부 보조로 제공되는 재화나 용역) 등\n(2) 퇴직급여: 퇴직연금, 그 밖의 퇴직급여, 퇴직후생명보험, 퇴직후의료급여 등\n(3) 기타장기종업원급여: 장기근속휴가, 안식년휴가, 그 밖의 장기근속급여, 장기장애급여, 회계기간의 말부터 12개월 이내에 전부나 일부가 지급되지 않는 이익분배금, 상여금 및 이연보상 등\n(4) 해고급여\n(5) 주식기준보상",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"9\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">9</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">이 기준서에서 사용하는 용어의 정의는 다음과 같다.</div><br><div class=\"para\"><i>특수관계자</i>: 재무제표를 작성하는 기업(이 기준서에서는 ‘보고기업’이라 한다)과 특수관계에 있는 개인이나 기업\n  </div><div class=\"idt-1\"><div>⑴</div><div>개인이 다음 중 어느 하나에 해당하는 경우, 그 개인이나 그 개인의 가까운 가족은 보고기업과 특수관계에 있다.</div></div><div class=\"idt-2\"><div>㈎</div><div>보고기업에 지배력 또는 공동지배력이 있는 경우</div></div><div class=\"idt-2\"><div>㈏</div><div>보고기업에 유의적인 영향력이 있는 경우</div></div><div class=\"idt-2\"><div>㈐</div><div>보고기업 또는 그 지배기업의 주요 경영진의 일원인 경우</div></div><div class=\"idt-1\"><div>⑵</div><div>기업이 다음의 조건 중 어느 하나에 적용될 경우 보고기업과 특수관계에 있다.</div></div><div class=\"idt-2\"><div>㈎</div><div>기업과 보고기업이 동일한 연결실체 내의 일원인 경우(지배기업과 종속기업 및 연결실체 내의 다른 종속기업은 서로 특수관계에 있음을 의미)</div></div><div class=\"idt-2\"><div>㈏</div><div>한 기업이 다른 기업의 관계기업이거나 공동기업인 경우(또는 그 다른 기업이 속한 연결실체 내의 일원의 관계기업이거나 공동기업인 경우)</div></div><div class=\"idt-2\"><div>㈐</div><div>두 기업이 동일한 제3자의 공동기업인 경우</div></div><div class=\"idt-2\"><div>㈑</div><div>제3의 기업에 대해 한 기업이 공동기업이고 다른 기업이 관계기업인 경우</div></div><div class=\"idt-2\"><div>㈒</div><div>기업이 보고기업이나 그 보고기업과 특수관계에 있는 기업의 종업원급여를 위한 퇴직급여제도인 경우. 보고기업 자신이 퇴직급여제도인 경우, 그 제도의 책임사용자도 보고기업과 특수관계에 있다.</div></div><div class=\"idt-2\"><div>㈓</div><div>기업이 (1)에서 식별된 개인에 의하여 지배 또는 공동지배되는 경우</div></div><div class=\"idt-2\"><div>㈔</div><div>⑴의 ㈎에서 식별된 개인이 기업에 유의적인 영향력이 있거나 그 기업(또는 그 기업의 지배기업)의 주요 경영진의 일원인 경우</div></div><div class=\"idt-2\"><div>㈕</div><div>보고기업이나 보고기업의 지배기업에게 주요 경영인력용역을 제공하는 기업이나 그 기업이 속한 연결실체의 모든 일원</div></div><br><div class=\"para\"><i>특수관계자거래</i>: 대가의 부담 여부에 관계없이 보고기업과 특수관계자 사이의 자원, 용역 또는 의무의 이전\n  </div><br><div class=\"para\"><i>개인의 가까운 가족</i>: 당해 기업과의 거래 관계에서 당해 개인의 영향을 받거나 당해 개인에게 영향력을 행사할 것으로 예상되는 가족으로서 다음의 경우를 포함한다.\n  </div><div class=\"idt-1\"><div>⑴</div><div>자녀 및 배우자(사실상 배우자 포함. 이하 같다)</div></div><div class=\"idt-1\"><div>⑵</div><div>배우자의 자녀</div></div><div class=\"idt-1\"><div>⑶</div><div>당해 개인이나 배우자의 피부양자</div></div><br><div class=\"para\"><i>보상</i>: \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">주식기준보상</span><span class=\"std-finder\">기업회계기준서 제1102호</span></div> ‘주식기준보상’이 적용되는 종업원급여를 포함한 모든 종류의 종업원급여(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">종업원급여</span><span class=\"std-finder\">기업회계기준서 제1019호</span></div>‘종업원급여’의 정의 참조). 종업원급여는 종업원이 당해 기업에 제공한 근무용역에 대한 대가로 당해 기업이 또는 당해 기업을 대신하여 지급하였거나 지급해야 하거나 혹은 제공하는 모든 종류의 대가를 말한다. 종업원급여에는 당해 기업과 관련하여 당해 기업의 지배기업을 대신하여 지급하는 대가도 포함한다. 보상은 다음을 포함한다.\n  </div><div class=\"idt-1\"><div>⑴</div><div>단기종업원급여: 임금, 사회보장분담금(예: 국민연금), 유급연차휴가ㆍ유급병가, 이익분배금ㆍ상여금(회계기간의 말부터 12개월 이내에 지급되는 것에 한함), 현직종업원을 위한 비화폐성급여(예: 의료, 주택, 자동차, 무상 또는 일부 보조로 제공되는 재화나 용역) 등</div></div><div class=\"idt-1\"><div>⑵</div><div>퇴직급여: 퇴직연금, 그 밖의 퇴직급여, 퇴직후생명보험, 퇴직후의료급여 등</div></div><div class=\"idt-1\"><div>⑶</div><div>기타장기종업원급여: 장기근속휴가, 안식년휴가, 그 밖의 장기근속급여, 장기장애급여, 회계기간의 말부터 12개월 이내에 전부나 일부가 지급되지 않는 이익분배금, 상여금 및 이연보상 등</div></div><div class=\"idt-1\"><div>⑷</div><div>해고급여</div></div><div class=\"idt-1\"><div>⑸</div><div>주식기준보상</div></div><br><div class=\"para\"><i>주요 경영진</i>: 직 간접적으로 당해 기업 활동의 계획 지휘 통제에 대한 권한과 책임을 가진 자로서 모든 이사(업무집행이사 여부를 불문함)를 포함함\n  </div><br><div class=\"para\"><i>정부</i>: 지방자치단체, 중앙정부 또는 국제기구인 정부, 정부기관 및 이와 유사한 단체\n  </div><br><div class=\"para\"><i>정부특수관계기업</i>: 정부에 의해 지배 또는 공동지배되거나 유의적인 영향을 받는 기업\n  </div><br><div class=\"para\">‘지배력’, ‘투자기업’, ‘공동지배’와 ‘유의적인 영향력’의 용어는 각각 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">기업회계기준서 제1110호</span></div>, \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공동약정</span><span class=\"std-finder\">기업회계기준서 제1111호</span></div> ‘공동약정’과 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">제1028호</span></div> ‘관계기업과 공동기업에 대한 투자’에서 정의하며 해당 기준서에서 명시한 의미를 이 기준서에서 사용한다.\n  </div></b></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 11개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"연결재무제표에서 연결실체 내 거래내용의 공시 여부\" target=\"_blank\" href=\"/qnas/2014-I-KAQ004\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 연결재무제표에서 연결실체 내 거래내용의 공시 여부</h5><time class=\"sc-gacfCG bRMfLY\">2014-05-13</time></article></a></li><li><a title=\"두 기업의 투자자가 동일한 개인인 경우 그 두 기업은 특수관계에 해당하는가?\" target=\"_blank\" href=\"/qnas/2018-I-KQA011\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 두 기업의 투자자가 동일한 개인인 경우 그 두 기업은 특수관계에 해당하는가?</h5><time class=\"sc-gacfCG bRMfLY\">2018-06-18</time></article></a></li><li><a title=\"특수관계자 거래 공시 여부 - 중요성\" target=\"_blank\" href=\"/qnas/2020-I-KQA013\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 특수관계자 거래 공시 여부 - 중요성</h5><time class=\"sc-gacfCG bRMfLY\">2020-10-19</time></article></a></li><li><a title=\"특수관계자 공시 – 개인의 가까운 가족의 정의\" target=\"_blank\" href=\"/qnas/201505A\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 특수관계자 공시 – 개인의 가까운 가족의 정의</h5><time class=\"sc-gacfCG bRMfLY\">2015-05-31</time></article></a></li><li><a title=\"상호 지분관계가 없는 경우에 특수관계 해당 여부\" target=\"_blank\" href=\"/qnas/SSI-35577\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 상호 지분관계가 없는 경우에 특수관계 해당 여부</h5><time class=\"sc-gacfCG bRMfLY\">2019-03-19</time></article></a></li><li><a title=\"특수관계자 범위\" target=\"_blank\" href=\"/qnas/SSI-36900\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 특수관계자 범위</h5><time class=\"sc-gacfCG bRMfLY\">2020-01-15</time></article></a></li><li><a title=\"특수관계자의 범위\" target=\"_blank\" href=\"/qnas/SSI-38554\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 특수관계자의 범위</h5><time class=\"sc-gacfCG bRMfLY\">2018-03-26</time></article></a></li><li><a title=\"주요경영진\" target=\"_blank\" href=\"/qnas/SSI-202312032\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 주요경영진</h5><time class=\"sc-gacfCG bRMfLY\">2022-04-18</time></article></a></li><li><a title=\"특수관계자거래 공시 대상 여부\" target=\"_blank\" href=\"/qnas/SSI-202312031\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 특수관계자거래 공시 대상 여부</h5><time class=\"sc-gacfCG bRMfLY\">2022-05-17</time></article></a></li><li><a title=\"특수관계자 범위\" target=\"_blank\" href=\"/qnas/SSI-202412013\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 특수관계자 범위</h5><time class=\"sc-gacfCG bRMfLY\">2023-12-22</time></article></a></li><li><a title=\"특수관계자 범위\" target=\"_blank\" href=\"/qnas/SSI-202412014\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 특수관계자 범위</h5><time class=\"sc-gacfCG bRMfLY\">2023-11-02</time></article></a></li></ul></div></div></div>",
       "cross_references": [
         {
@@ -996,7 +996,7 @@
       "section_id": "sHqZd1",
       "section_title": "모든 기업",
       "toc_path": "본문|공시|모든 기업",
-      "text": "특수관계자와의 거래가 있는 경우, 공시하는 거래의 예는 다음과 같다.\n(1) 재화(완성품이나 재공품)의 매입이나 매출\n(2) 부동산과 그 밖의 자산의 구입이나 매각\n(3) 용역의 제공이나 수령\n(4) 리스\n(5) 연구개발의 이전\n(6) 라이선스계약에 따른 이전\n(7) 금융약정에 따른 이전(대여와 현금출자나 현물출자 포함)\n(8) 보증이나 담보의 제공\n(9) 미래에 특정사건이 발생하거나 발생하지 않을 경우 어떠한 일을 수행하는 약정(인식되었거나 인식되지 않은 미이행계약\n(주1)을 포함)\n(10) 당해 기업이 특수관계자를 대신하거나 특수관계자가 당해 기업을 대신한 부채의 결제\n[각주 (주1)] 기업회계기준 제1037호 ‘충당부채, 우발부채 및 우발자산’에서는 미이행계약을 계약당사자 모두가 계약상의 의무를 전혀 이행하지 아니하였거나 양 당사자가 동일한 정도로 자신들의 의무를 부분적으로 이행한 계약으로 정의한다.",
+      "text": "특수관계자와의 거래가 있는 경우, 공시하는 거래의 예는 다음과 같다.\n(1) 재화(완성품이나 재공품)의 매입이나 매출\n(2) 부동산과 그 밖의 자산의 구입이나 매각\n(3) 용역의 제공이나 수령\n(4) 리스\n(5) 연구개발의 이전\n(6) 라이선스계약에 따른 이전\n(7) 금융약정에 따른 이전(대여와 현금출자나 현물출자 포함)\n(8) 보증이나 담보의 제공\n(9) 미래에 특정사건이 발생하거나 발생하지 않을 경우 어떠한 일을 수행하는 약정(인식되었거나 인식되지 않은 미이행계약(주1)을 포함)\n(10) 당해 기업이 특수관계자를 대신하거나 특수관계자가 당해 기업을 대신한 부채의 결제\n[각주 (주1)] 기업회계기준 제1037호 ‘충당부채, 우발부채 및 우발자산’에서는 미이행계약을 계약당사자 모두가 계약상의 의무를 전혀 이행하지 아니하였거나 양 당사자가 동일한 정도로 자신들의 의무를 부분적으로 이행한 계약으로 정의한다.",
       "html": "특수관계자와의 거래가 있는 경우, 공시하는 거래의 예는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 재화(완성품이나 재공품)의 매입이나 매출</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 부동산과 그 밖의 자산의 구입이나 매각</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 용역의 제공이나 수령</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 리스</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\"> 연구개발의 이전</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(6)</div><div class=\"para-num-item-para-con\"> 라이선스계약에 따른 이전</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(7)</div><div class=\"para-num-item-para-con\"> 금융약정에 따른 이전(대여와 현금출자나 현물출자 포함)</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(8)</div><div class=\"para-num-item-para-con\"> 보증이나 담보의 제공</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(9)</div><div class=\"para-num-item-para-con\"> 미래에 특정사건이 발생하거나 발생하지 않을 경우 어떠한 일을 수행하는 약정(인식되었거나 인식되지 않은 미이행계약\n      <sup>(주1)</sup>을 포함)    \n    </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">기업회계기준 제1037호</span></div> ‘충당부채, 우발부채 및 우발자산’에서는 미이행계약을 계약당사자 모두가 계약상의 의무를 전혀 이행하지 아니하였거나 양 당사자가 동일한 정도로 자신들의 의무를 부분적으로 이행한 계약으로 정의한다.              \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(10)</div><div class=\"para-num-item-para-con\"> 당해 기업이 특수관계자를 대신하거나 특수관계자가 당해 기업을 대신한 부채의 결제</div></div>",
       "cross_references": [
         {
@@ -1048,7 +1048,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 42",
-          "standard_number": "1019",
+          "standard_number": "1024",
           "standard_title": null,
           "range": "42",
           "paragraph_ids": [
@@ -1205,7 +1205,7 @@
           "display_text": "문단 3, 9, 11(2), 15, 19(2) 및 (5)와 25",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "3, 9, 11(2), 15, 19(2) 및 (5)와 25",
+          "range": "3,9,11(2),15,19(2),19(5),25",
           "paragraph_ids": [
             "3",
             "9",
@@ -1280,7 +1280,7 @@
           "display_text": "문단 4와 9",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "4와 9",
+          "range": "4,9",
           "paragraph_ids": [
             "4",
             "9"
@@ -1313,7 +1313,7 @@
           "display_text": "문단 17A와 18A",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "17A와 18A",
+          "range": "17A,18A",
           "paragraph_ids": [
             "17A",
             "18A"
@@ -1392,7 +1392,7 @@
       "section_id": "oLg41w",
       "section_title": "면제규정을 적용할 경우 공시요구사항(문단 26)",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1024호(2010년 개정)의 적용사례|정부특수관계기업을 위한 일부 면제규정|사례 1 - 공시 면제규정(문단 25)|면제규정을 적용할 경우 공시요구사항(문단 26)",
-      "text": "정부 G는 간접적으로 공익기업 A의 유통주식의 75%를 보유하고 있으며 20X1년 12월 말에 공익기업 A에게 융자 요구의 50%에 해당하는 자금을 향후 5년 간 분기별로 분할 상환가능한 조건으로 대여하였다. 이 자금대여에는 3%의 이자가 부과되며 이는 기업 A의 은행 차입시에 부과되는 이자와 유사하다\n(주2). 기타 적절한 한국채택국제회계기준에 따른 사항은 (재무제표의) 주석 Y와 Z를 참조.\n집합적으로 유의적인 거래에 대한 공시 예\n기업 A의 재무제표에 문단 26(2)(나)에 따라 집합적으로 유의적인 거래에 대한 공시의 예는 다음의 사항이 될 수 있다.\n정부 G는 간접적으로 기업 A의 유통주식의 75%를 소유하고 있다. 정부 G와 정부 G가 지배력, 공동지배 또는 유의적인 영향력이 있는 기업과의 거래는 [제품의 매출과 원재료 매입에 비중이 크다] 또는 [제품 매출의 50%와 원재료 매입의 약 35%를 차지한다].\n이 기업은 은행 차입에 대한 정부 보증의 혜택도 받고 있다. 기업회계기준서 제1020호 ‘정부보조금의 회계처리와 정부지원의 공시’에 따른 정부지원에 대한 공시 사항은 (재무제표의) 주석 X를, 기타 적절한 한국채택국제회계기준에 따른 사항은 (재무제표의) 주석 Y와 Z를 참조.\n[각주 (주2)] 보고기업이 이 거래가 정부지원에 해당한다고 결론지을 경우 기업회계기준서 제1020호의 공시요구사항을 고려할 필요가 있다.",
+      "text": "정부 G는 간접적으로 공익기업 A의 유통주식의 75%를 보유하고 있으며 20X1년 12월 말에 공익기업 A에게 융자 요구의 50%에 해당하는 자금을 향후 5년 간 분기별로 분할 상환가능한 조건으로 대여하였다. 이 자금대여에는 3%의 이자가 부과되며 이는 기업 A의 은행 차입시에 부과되는 이자와 유사하다(주2). 기타 적절한 한국채택국제회계기준에 따른 사항은 (재무제표의) 주석 Y와 Z를 참조.\n집합적으로 유의적인 거래에 대한 공시 예\n기업 A의 재무제표에 문단 26(2)(나)에 따라 집합적으로 유의적인 거래에 대한 공시의 예는 다음의 사항이 될 수 있다.\n정부 G는 간접적으로 기업 A의 유통주식의 75%를 소유하고 있다. 정부 G와 정부 G가 지배력, 공동지배 또는 유의적인 영향력이 있는 기업과의 거래는 [제품의 매출과 원재료 매입에 비중이 크다] 또는 [제품 매출의 50%와 원재료 매입의 약 35%를 차지한다].\n이 기업은 은행 차입에 대한 정부 보증의 혜택도 받고 있다. 기업회계기준서 제1020호 ‘정부보조금의 회계처리와 정부지원의 공시’에 따른 정부지원에 대한 공시 사항은 (재무제표의) 주석 X를, 기타 적절한 한국채택국제회계기준에 따른 사항은 (재무제표의) 주석 Y와 Z를 참조.\n[각주 (주2)] 보고기업이 이 거래가 정부지원에 해당한다고 결론지을 경우 기업회계기준서 제1020호의 공시요구사항을 고려할 필요가 있다.",
       "html": "정부 G는 간접적으로 공익기업 A의 유통주식의 75%를 보유하고 있으며 20X1년 12월 말에 공익기업 A에게 융자 요구의 50%에 해당하는 자금을 향후 5년 간 분기별로 분할 상환가능한 조건으로 대여하였다. 이 자금대여에는 3%의 이자가 부과되며 이는 기업 A의 은행 차입시에 부과되는 이자와 유사하다\n  <sup data-id=\"(주2)\">(주2)</sup>. 기타 적절한 한국채택국제회계기준에 따른 사항은 (재무제표의) 주석 Y와 Z를 참조.\n\n<i>집합적으로 유의적인 거래에 대한 공시 예</i>\n기업 A의 재무제표에 \n  <span class=\"mundan-finder\">문단 26(2)(나)</span>에 따라 \n  <b>집합적으로</b> 유의적인 거래에 대한 공시의 예는 다음의 사항이 될 수 있다.\n\n정부 G는 간접적으로 기업 A의 유통주식의 75%를 소유하고 있다. 정부 G와 정부 G가 지배력, 공동지배 또는 유의적인 영향력이 있는 기업과의 거래는 [제품의 매출과 원재료 매입에 비중이 크다] 또는 [제품 매출의 50%와 원재료 매입의 약 35%를 차지한다].\n이 기업은 은행 차입에 대한 정부 보증의 혜택도 받고 있다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리와 정부지원의 공시</span><span class=\"std-finder\">기업회계기준서 제1020호</span></div> ‘정부보조금의 회계처리와 정부지원의 공시’에 따른 정부지원에 대한 공시 사항은 (재무제표의) 주석 X를, 기타 적절한 한국채택국제회계기준에 따른 사항은 (재무제표의) 주석 Y와 Z를 참조.\n\n<div class=\"idt-1 comment\"><div>(주2)</div><div>보고기업이 이 거래가 정부지원에 해당한다고 결론지을 경우 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리와 정부지원의 공시</span><span class=\"std-finder\">기업회계기준서 제1020호</span></div>의 공시요구사항을 고려할 필요가 있다.\n  </div></div>",
       "cross_references": [
         {
@@ -1405,10 +1405,10 @@
         },
         {
           "type": "paragraph",
-          "display_text": "문단 26(2)(나)",
-          "standard_number": "1020",
+          "display_text": "문단 26(2)(가)",
+          "standard_number": "1024",
           "standard_title": null,
-          "range": "26(2)(나)",
+          "range": "26(2)",
           "paragraph_ids": [
             "26"
           ]
@@ -1476,7 +1476,7 @@
           "display_text": "문단 9(2)(가)와 (나)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(가)와 (나)",
+          "range": "9(2)",
           "paragraph_ids": [
             "9"
           ]
@@ -1498,7 +1498,7 @@
           "display_text": "문단 9(2)(나)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(나)",
+          "range": "9(2)",
           "paragraph_ids": [
             "9"
           ]
@@ -1520,7 +1520,7 @@
           "display_text": "문단 9(2)(나)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(나)",
+          "range": "9(2)",
           "paragraph_ids": [
             "9"
           ]
@@ -1553,9 +1553,9 @@
           "display_text": "문단 9(2)(바)~(1)(다)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(바)~(1)(다)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1575,9 +1575,9 @@
           "display_text": "문단 9(2)(바)~(1)(다)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(바)~(1)(다)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1597,7 +1597,7 @@
           "display_text": "문단 IE10와 IE11",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "IE10와 IE11",
+          "range": "IE10,IE11",
           "paragraph_ids": [
             "IE10",
             "IE11"
@@ -1608,9 +1608,9 @@
           "display_text": "문단 9(2)(바)~(1)(다)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(바)~(1)(다)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1630,9 +1630,9 @@
           "display_text": "문단 9(2)(사)~(1)(가)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(사)~(1)(가)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1662,9 +1662,9 @@
           "display_text": "문단 9(2)(사)~(1)(가)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(사)~(1)(가)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1684,9 +1684,9 @@
           "display_text": "문단 9(2)(바)~(1)(다)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(바)~(1)(다)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1724,9 +1724,9 @@
           "display_text": "문단 9(2)(바)~(1)(가)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(바)~(1)(가)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1753,9 +1753,9 @@
           "display_text": "문단 9(2)(바)~(1)(가)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(바)~(1)(가)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1811,9 +1811,9 @@
           "display_text": "문단 9(2)(바)~(1)(가)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(바)~(1)(가)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1833,9 +1833,9 @@
           "display_text": "문단 9(2)(바)~(1)(가)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(바)~(1)(가)",
+          "range": "9(2)",
           "paragraph_ids": [
-            "9~"
+            "9"
           ]
         }
       ],
@@ -1877,7 +1877,7 @@
           "display_text": "문단 9(2)(다)와 (라)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(다)와 (라)",
+          "range": "9(2)",
           "paragraph_ids": [
             "9"
           ]
@@ -1899,7 +1899,7 @@
           "display_text": "문단 9(2)(다)와 (라)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "9(2)(다)와 (라)",
+          "range": "9(2)",
           "paragraph_ids": [
             "9"
           ]
@@ -1930,7 +1930,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -1950,7 +1950,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -1964,13 +1964,13 @@
       "section_id": "ScWCDd",
       "section_title": "도입",
       "toc_path": "결론도출근거|IAS 24 ‘특수관계자 공시(Related Party Disclosures)’의 결론도출근거|도입",
-      "text": "2007년 2월에 IASB는 다음 사항을 제안하는 공개초안 ‘국가지배대상기업과 특수관계자의 정의( State-controlled Entities and the Definition of a Related Party)’를 발행하였다.\n⑴ 국가에 의해 지배되거나, 공동지배되거나, 유의적인 영향을 받는 기업(‘국가지배대상기업들\n(주1)’) 간의 거래에 대한 IAS 24의 공시 요구사항의 면제\n⑵ 특수관계자 정의의 개정\n[각주 (주1)] 2009년 IASB는 IAS 24의 개정을 마무리하면서 ‘국가(state)’를 ‘정부(government)’로 대체하였다.",
+      "text": "2007년 2월에 IASB는 다음 사항을 제안하는 공개초안 ‘국가지배대상기업과 특수관계자의 정의( State-controlled Entities and the Definition of a Related Party)’를 발행하였다.\n(1) 국가에 의해 지배되거나, 공동지배되거나, 유의적인 영향을 받는 기업(‘국가지배대상기업들(주1)’) 간의 거래에 대한 IAS 24의 공시 요구사항의 면제\n(2) 특수관계자 정의의 개정\n[각주 (주1)] 2009년 IASB는 IAS 24의 개정을 마무리하면서 ‘국가(state)’를 ‘정부(government)’로 대체하였다.",
       "html": "2007년 2월에 IASB는 다음 사항을 제안하는 공개초안 ‘국가지배대상기업과 특수관계자의 정의(\n  <i>State-controlled Entities and the Definition of a Related Party</i>)’를 발행하였다.\n\n<div class=\"idt-2 comment\"><div>(주1)</div><div>2009년 IASB는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">특수관계자 공시</span><span class=\"std-finder\">IAS 24</span></div>의 개정을 마무리하면서 ‘국가(state)’를 ‘정부(government)’로 대체하였다.\n  </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2001,7 +2001,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2021,7 +2021,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2129,7 +2129,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2160,7 +2160,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2180,7 +2180,7 @@
         {
           "type": "standard",
           "display_text": "IAS 19",
-          "standard_number": null,
+          "standard_number": "19",
           "standard_title": "종업원급여",
           "range": null,
           "paragraph_ids": []
@@ -2200,7 +2200,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2247,14 +2247,22 @@
       "section_id": "zq270L",
       "section_title": "별도재무제표에서의 특수관계자 공시",
       "toc_path": "결론도출근거|IAS 24 ‘특수관계자 공시(Related Party Disclosures)’의 결론도출근거|별도재무제표에서의 특수관계자 공시",
-      "text": "IASB는 이와 같은 주장을 받아들여 지배기업, 관계기업 투자자 또는 공동기업 참여자의 별도재무제표에 IAS 27, IAS 28(주2) 그리고 IAS 31\n(주3)에서 요구하는 공시 요구사항에 추가하여, 특수관계자 거래와 채권ㆍ채무 잔액의 공시를 요구하기로 결정하였다.\n[각주 (주2)] 2011년 5월에 IASB는 IAS 28을 개정하였고 그 제목을 ‘관계기업과 공동기업에 대한 투자’로 변경하였다.\n[각주 (주3)] 2011년 5월에 발표된 제1111호 ‘공동약정’은 IAS 31을 대체하였다.",
+      "text": "IASB는 이와 같은 주장을 받아들여 지배기업, 관계기업 투자자 또는 공동기업 참여자의 별도재무제표에 IAS 27, IAS 28(주2) 그리고 IAS 31(주3)에서 요구하는 공시 요구사항에 추가하여, 특수관계자 거래와 채권ㆍ채무 잔액의 공시를 요구하기로 결정하였다.\n[각주 (주2)] 2011년 5월에 IASB는 IAS 28을 개정하였고 그 제목을 ‘관계기업과 공동기업에 대한 투자’로 변경하였다.\n[각주 (주3)] 2011년 5월에 발표된 제1111호 ‘공동약정’은 IAS 31을 대체하였다.",
       "html": "IASB는 이와 같은 주장을 받아들여 지배기업, 관계기업 투자자 또는 공동기업 참여자의 별도재무제표에 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div><sup data-id=\"(주2)\">(주2)</sup> 그리고 IAS 31\n  <sup data-id=\"(주3)\">(주3)</sup>에서 요구하는 공시 요구사항에 추가하여, 특수관계자 거래와 채권ㆍ채무 잔액의 공시를 요구하기로 결정하였다.\n\n<div class=\"idt-1 comment\"><div>(주2)</div><div>2011년 5월에 IASB는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>을 개정하였고 그 제목을 ‘관계기업과 공동기업에 대한 투자’로 변경하였다.\n  </div></div>\n<div class=\"idt-1 comment\"><div>(주3)</div><div>2011년 5월에 발표된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공동약정</span><span class=\"std-finder\">제1111호</span></div> ‘공동약정’은 IAS 31을 대체하였다.\n  </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         },
@@ -2290,8 +2298,16 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
         }
@@ -2321,7 +2337,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2381,7 +2397,7 @@
           "display_text": "문단 BC30과 BC31",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "BC30과 BC31",
+          "range": "BC30,BC31",
           "paragraph_ids": [
             "BC30",
             "BC31"
@@ -2402,7 +2418,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2422,7 +2438,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2476,7 +2492,7 @@
           "display_text": "문단 BC21과 BC22",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "BC21과 BC22",
+          "range": "BC21,BC22",
           "paragraph_ids": [
             "BC21",
             "BC22"
@@ -2497,7 +2513,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2517,7 +2533,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2537,7 +2553,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2579,7 +2595,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2620,7 +2636,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2640,7 +2656,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2660,7 +2676,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2680,7 +2696,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2764,8 +2780,16 @@
         {
           "type": "standard",
           "display_text": "IAS 19",
-          "standard_number": null,
+          "standard_number": "19",
           "standard_title": "종업원급여",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 24",
+          "standard_number": "24",
+          "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
         }
@@ -2784,7 +2808,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2824,8 +2848,16 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 20",
+          "standard_number": "20",
+          "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
           "range": null,
           "paragraph_ids": []
         }
@@ -2844,8 +2876,16 @@
         {
           "type": "standard",
           "display_text": "IAS 20",
-          "standard_number": null,
+          "standard_number": "20",
           "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 24",
+          "standard_number": "24",
+          "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
         }
@@ -2864,7 +2904,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2897,7 +2937,7 @@
           "display_text": "문단 BC47과 BC48",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "BC47과 BC48",
+          "range": "BC47,BC48",
           "paragraph_ids": [
             "BC47",
             "BC48"
@@ -2918,7 +2958,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2948,7 +2988,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -2979,7 +3019,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -3026,14 +3066,46 @@
       "section_id": "6fQLVt",
       "section_title": "2009년에 이루어진 기타 변경사항",
       "toc_path": "결론도출근거|IAS 24 ‘특수관계자 공시(Related Party Disclosures)’의 결론도출근거|정부특수관계기업|2009년에 이루어진 기타 변경사항",
-      "text": "2009년에 이루어진 IAS 24의 개정에는 다음의 기타 변경사항을 포함한다. ⑴ 특수관계자 거래의 예시로서 미래에 특정사건이 발생하거나 발생하지 않을 경우 어떠한 일을 수행하는 약정(미이행계약 포함)을 문단 21(9)에 포함하도록 개정하였다. IASB는 그러한 약정이 거래의 한 형태이지만 불확실성을 해소하기 위하여 명시적으로 이를 언급하기로 결정하였다. ⑵ 이 기준이 별도재무제표와 연결재무제표 뿐만 아니라 개별재무제표에도 적용됨을 명확히 하기 위하여 IAS 24의 적용범위와 관련된 문단 3을 개정하였다. 왜냐하면 개별재무제표는 IAS 27에 정의된 용어와는 다르기 때문이다\n(주4). ⑶ IFRS 8의 문단 34를 개정하였다. IASB는 IFRS 8의 요구사항을 적용함에 있어, 특히 정부의 지배가 광범위한 상황에서 모든 정부특수관계기업을 단일 고객으로 간주하는 것은 실용적이지 않거나 의미가 없을 수 있다고 인식하였다. ⑷ IAS 19 결론도출근거를 수정하여 특수관계자의 새로운 정의에 주의하도록 하였다. IAS 19의 적격보험계약의 정의는 이 정의를 참조하고 있다.\n[각주 (주4)] 2011년 5월에 발표된 IFRS 10에 의하여 연결 지침이 IAS 27에서 삭제되었으며 그 기준서는 ‘별도재무제표( Separate Financial Statements)’로 재명명되었다. 별도재무제표에 대한 정의는 변경되지 않았다.",
+      "text": "2009년에 이루어진 IAS 24의 개정에는 다음의 기타 변경사항을 포함한다.\n(1) 특수관계자 거래의 예시로서 미래에 특정사건이 발생하거나 발생하지 않을 경우 어떠한 일을 수행하는 약정(미이행계약 포함)을 문단 21(9)에 포함하도록 개정하였다. IASB는 그러한 약정이 거래의 한 형태이지만 불확실성을 해소하기 위하여 명시적으로 이를 언급하기로 결정하였다.\n(2) 이 기준이 별도재무제표와 연결재무제표 뿐만 아니라 개별재무제표에도 적용됨을 명확히 하기 위하여 IAS 24의 적용범위와 관련된 문단 3을 개정하였다. 왜냐하면 개별재무제표는 IAS 27에 정의된 용어와는 다르기 때문이다(주4).\n(3) IFRS 8의 문단 34를 개정하였다. IASB는 IFRS 8의 요구사항을 적용함에 있어, 특히 정부의 지배가 광범위한 상황에서 모든 정부특수관계기업을 단일 고객으로 간주하는 것은 실용적이지 않거나 의미가 없을 수 있다고 인식하였다.\n(4) IAS 19 결론도출근거를 수정하여 특수관계자의 새로운 정의에 주의하도록 하였다. IAS 19의 적격보험계약의 정의는 이 정의를 참조하고 있다.\n[각주 (주4)] 2011년 5월에 발표된 IFRS 10에 의하여 연결 지침이 IAS 27에서 삭제되었으며 그 기준서는 ‘별도재무제표( Separate Financial Statements)’로 재명명되었다. 별도재무제표에 대한 정의는 변경되지 않았다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC49\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC49</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">2009년에 이루어진 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">특수관계자 공시</span><span class=\"std-finder\">IAS 24</span></div>의 개정에는 다음의 기타 변경사항을 포함한다.\n</div><div class=\"idt-1\"><div>⑴</div><div>특수관계자 거래의 예시로서 미래에 특정사건이 발생하거나 발생하지 않을 경우 어떠한 일을 수행하는 약정(미이행계약 포함)을 \n    <span class=\"mundan-finder\">문단 21(9)</span>에 포함하도록 개정하였다. IASB는 그러한 약정이 거래의 한 형태이지만 불확실성을 해소하기 위하여 명시적으로 이를 언급하기로 결정하였다.\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>이 기준이 별도재무제표와 연결재무제표 뿐만 아니라 개별재무제표에도 적용됨을 명확히 하기 위하여 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">특수관계자 공시</span><span class=\"std-finder\">IAS 24</span></div>의 적용범위와 관련된 \n    <span class=\"mundan-finder\">문단 3</span>을 개정하였다. 왜냐하면 개별재무제표는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>에 정의된 용어와는 다르기 때문이다\n    <sup data-id=\"(주4)\">(주4)</sup>.\n  </div></div><div class=\"idt-2 comment\"><div>(주4)</div><div>2011년 5월에 발표된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">IFRS 10</span></div>에 의하여 연결 지침이 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>에서 삭제되었으며 그 기준서는 ‘별도재무제표(\n    <i>Separate Financial Statements</i>)’로 재명명되었다. 별도재무제표에 대한 정의는 변경되지 않았다.\n  </div></div><div class=\"idt-1\"><div>⑶</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">영업부문</span><span class=\"std-finder\">IFRS 8</span></div>의 \n    <span class=\"mundan-finder\">문단 34</span>를 개정하였다. IASB는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">영업부문</span><span class=\"std-finder\">IFRS 8</span></div>의 요구사항을 적용함에 있어, 특히 정부의 지배가 광범위한 상황에서 모든 정부특수관계기업을 단일 고객으로 간주하는 것은 실용적이지 않거나 의미가 없을 수 있다고 인식하였다.\n  </div></div><div class=\"idt-1\"><div>⑷</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">종업원급여</span><span class=\"std-finder\">IAS 19</span></div> 결론도출근거를 수정하여 특수관계자의 새로운 정의에 주의하도록 하였다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">종업원급여</span><span class=\"std-finder\">IAS 19</span></div>의 적격보험계약의 정의는 이 정의를 참조하고 있다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 8",
+          "standard_number": "8",
+          "standard_title": "영업부문",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 19",
+          "standard_number": "19",
+          "standard_title": "종업원급여",
           "range": null,
           "paragraph_ids": []
         },
@@ -3060,7 +3132,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 34",
-          "standard_number": "1024",
+          "standard_number": "1108",
           "standard_title": null,
           "range": "34",
           "paragraph_ids": [
@@ -3093,7 +3165,7 @@
         {
           "type": "standard",
           "display_text": "IAS 24",
-          "standard_number": null,
+          "standard_number": "24",
           "standard_title": "특수관계자 공시",
           "range": null,
           "paragraph_ids": []
@@ -3157,7 +3229,7 @@
           "display_text": "문단 26(2)(가)",
           "standard_number": "1024",
           "standard_title": null,
-          "range": "26(2)(가)",
+          "range": "26(2)",
           "paragraph_ids": [
             "26"
           ]
@@ -3303,6 +3375,61 @@
     ],
     "1020": [
       "IE3"
+    ],
+    "24": [
+      "BC1",
+      "BC2",
+      "BC3",
+      "BC5",
+      "BC6",
+      "BC7",
+      "BC9",
+      "BC11",
+      "BC16",
+      "BC18",
+      "BC21",
+      "BC22",
+      "BC25",
+      "BC26",
+      "BC27",
+      "BC29",
+      "BC31",
+      "BC32",
+      "BC33",
+      "BC34",
+      "BC38",
+      "BC39",
+      "BC40",
+      "BC41",
+      "BC42",
+      "BC43",
+      "BC44",
+      "BC46",
+      "BC49",
+      "BC51"
+    ],
+    "19": [
+      "BC10",
+      "BC38",
+      "BC49"
+    ],
+    "27": [
+      "BC15",
+      "BC16",
+      "BC49"
+    ],
+    "28": [
+      "BC15"
+    ],
+    "20": [
+      "BC40",
+      "BC41"
+    ],
+    "10": [
+      "BC49"
+    ],
+    "8": [
+      "BC49"
     ]
   },
   "qna_index": {

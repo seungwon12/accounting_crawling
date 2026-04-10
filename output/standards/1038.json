@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "무형자산",
   "url": "https://db.kasb.or.kr/s/1038",
-  "crawled_at": "2026-03-24T05:19:05.523721+00:00",
+  "crawled_at": "2026-04-09T06:34:34.854655+00:00",
   "toc": [
     {
       "level": null,
@@ -1975,6 +1975,16 @@
           "paragraph_ids": [
             "21"
           ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 21(2)",
+          "standard_number": "1038",
+          "standard_title": null,
+          "range": "21(2)",
+          "paragraph_ids": [
+            "21"
+          ]
         }
       ],
       "qna_references": [],
@@ -2264,9 +2274,24 @@
           "display_text": "문단 52에서 문단 67",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "52에서 문단 67",
+          "range": "52~67",
           "paragraph_ids": [
-            "52에서 문단 67"
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "57",
+            "58",
+            "59",
+            "60",
+            "61",
+            "62",
+            "63",
+            "64",
+            "65",
+            "66",
+            "67"
           ]
         }
       ],
@@ -2514,7 +2539,7 @@
           "display_text": "문단 21, 22와 57",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "21, 22와 57",
+          "range": "21,22,57",
           "paragraph_ids": [
             "21",
             "22",
@@ -2577,7 +2602,18 @@
       "toc_path": "본문|인식과 측정|내부적으로 창출한 무형자산|내부적으로 창출한 무형자산의 원가",
       "text": "다음 항목은 내부적으로 창출한 무형자산의 원가에 포함하지 아니한다.\n(1) 판매비, 관리비 및 기타 일반경비 지출. 다만, 자산을 의도한 용도로 사용할 수 있도록 준비하는 데 직접 관련된 경우는 제외한다.\n(2) 자산이 계획된 성과를 달성하기 전에 발생한 명백한 비효율로 인한 손실과 초기 영업손실\n(3) 자산을 운용하는 직원의 교육훈련과 관련된 지출",
       "html": "다음 항목은 내부적으로 창출한 무형자산의 원가에 포함하지 아니한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 판매비, 관리비 및 기타 일반경비 지출. 다만, 자산을 의도한 용도로 사용할 수 있도록 준비하는 데 직접 관련된 경우는 제외한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 자산이 계획된 성과를 달성하기 전에 발생한 명백한 비효율로 인한 손실과 초기 영업손실</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 자산을 운용하는 직원의 교육훈련과 관련된 지출</div></div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 65",
+          "standard_number": "1038",
+          "standard_title": null,
+          "range": "65",
+          "paragraph_ids": [
+            "65"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2798,7 +2834,7 @@
       "section_id": "gyiXMR",
       "section_title": "인식 후의 측정",
       "toc_path": "본문|인식 후의 측정",
-      "text": "무형자산의 회계정책으로 문단 74의 원가모형이나 문단 75의 재평가\n(주2)모형을 선택할 수 있다. 재평가모형을 적용하여 무형자산을 회계처리하는 경우에는, 같은 유형의 기타 모든 자산도 그에 대한 활성시장이 없는 경우를 제외하고는 동일한 방법을 적용하여 회계처리한다.\n[각주 (주2)] 이 기준서의 ‘재평가’는 ‘감정평가 및 감정평가사에 관한 법률’ 등에서 언급하는 ‘재평가’와 그 용도, 대상 및 구체적 평가방법 등에서 서로 다른 의미로 사용될 수 있음",
+      "text": "무형자산의 회계정책으로 문단 74의 원가모형이나 문단 75의 재평가(주2)모형을 선택할 수 있다. 재평가모형을 적용하여 무형자산을 회계처리하는 경우에는, 같은 유형의 기타 모든 자산도 그에 대한 활성시장이 없는 경우를 제외하고는 동일한 방법을 적용하여 회계처리한다.\n[각주 (주2)] 이 기준서의 ‘재평가’는 ‘감정평가 및 감정평가사에 관한 법률’ 등에서 언급하는 ‘재평가’와 그 용도, 대상 및 구체적 평가방법 등에서 서로 다른 의미로 사용될 수 있음",
       "html": "<b>무형자산의 회계정책으로 \n    <span class=\"mundan-finder\">문단 74</span>의 원가모형이나 \n    <span class=\"mundan-finder\">문단 75</span>의 재평가\n  </b><sup data-id=\"(주2)\">(주2)</sup><b>모형을 선택할 수 있다. 재평가모형을 적용하여 무형자산을 회계처리하는 경우에는, 같은 유형의 기타 모든 자산도 그에 대한 활성시장이 없는 경우를 제외하고는 동일한 방법을 적용하여 회계처리한다.</b>\n<div class=\"idt-1 comment\"><div>(주2)</div><div>이 기준서의 ‘재평가’는 ‘감정평가 및 감정평가사에 관한 법률’ 등에서 언급하는 ‘재평가’와 그 용도, 대상 및 구체적 평가방법 등에서 서로 다른 의미로 사용될 수 있음</div></div>",
       "cross_references": [
         {
@@ -2941,7 +2977,7 @@
           "display_text": "문단 85와 86",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "85와 86",
+          "range": "85,86",
           "paragraph_ids": [
             "85",
             "86"
@@ -3536,7 +3572,7 @@
       "section_id": "SAuQRi",
       "section_title": "폐기와 처분",
       "toc_path": "본문|폐기와 처분",
-      "text": "무형자산의 제거로 생기는 이익이나 손실은 순매각금액과 장부금액의 차이로 산정한다. 그 이익이나 손실은 자산을 제거할 때 당기손익으로 인식한다(다만 기업회계기준서 제1116호에서 판매후리스거래에 대하여 달리 규정하는 경우는 제외). 차익(gains)은 수익(revenue)으로 분류하지 않는다.\n(주3)\n[각주 (주3)] ‘개념체계’에 따르면 ‘income'은 ‘revenue’와 ‘gains’를 포함하는 ‘광의의 수익’ 개념이고, 한국채택국제회계기준에서는 ‘income'과 ‘revenue'를 동일하게 ‘수익’으로 번역하고 ‘gains'를 ‘차익 또는 이익’으로 번역함을 원칙으로 하였다. 다만, ‘income’과 ‘revenue’ 두 개의 용어를 명확하게 구분할 필요가 있는 경우 ‘income’은 ‘(광의의) 수익’으로 번역하였다. 차익은 흔히 관련 비용을 차감한 금액으로 보고되므로, ‘차익(gains)은 수익(revenue)으로 분류하지 않는다’는 차익을 통상적 활동에서 발생하는 경제적 효익의 총 유입액을 의미하는 수익으로 분류하지 않는다는 의미이다.",
+      "text": "무형자산의 제거로 생기는 이익이나 손실은 순매각금액과 장부금액의 차이로 산정한다. 그 이익이나 손실은 자산을 제거할 때 당기손익으로 인식한다(다만 기업회계기준서 제1116호에서 판매후리스거래에 대하여 달리 규정하는 경우는 제외). 차익(gains)은 수익(revenue)으로 분류하지 않는다.(주3)\n[각주 (주3)] ‘개념체계’에 따르면 ‘income'은 ‘revenue’와 ‘gains’를 포함하는 ‘광의의 수익’ 개념이고, 한국채택국제회계기준에서는 ‘income'과 ‘revenue'를 동일하게 ‘수익’으로 번역하고 ‘gains'를 ‘차익 또는 이익’으로 번역함을 원칙으로 하였다. 다만, ‘income’과 ‘revenue’ 두 개의 용어를 명확하게 구분할 필요가 있는 경우 ‘income’은 ‘(광의의) 수익’으로 번역하였다. 차익은 흔히 관련 비용을 차감한 금액으로 보고되므로, ‘차익(gains)은 수익(revenue)으로 분류하지 않는다’는 차익을 통상적 활동에서 발생하는 경제적 효익의 총 유입액을 의미하는 수익으로 분류하지 않는다는 의미이다.",
       "html": "<b>무형자산의 제거로 생기는 이익이나 손실은 순매각금액과 장부금액의 차이로 산정한다. 그 이익이나 손실은 자산을 제거할 때 당기손익으로 인식한다(다만 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>에서 판매후리스거래에 대하여 달리 규정하는 경우는 제외). 차익(gains)은 수익(revenue)으로 분류하지 않는다.\n  </b><sup data-id=\"\">(주3)</sup>\n<div class=\"idt-1 comment\"><div>(주3)</div><div>‘개념체계’에 따르면 ‘income'은 ‘revenue’와 ‘gains’를 포함하는 ‘광의의 수익’ 개념이고, 한국채택국제회계기준에서는 ‘income'과 ‘revenue'를 동일하게 ‘수익’으로 번역하고 ‘gains'를 ‘차익 또는 이익’으로 번역함을 원칙으로 하였다. 다만, ‘income’과 ‘revenue’ 두 개의 용어를 명확하게 구분할 필요가 있는 경우 ‘income’은 ‘(광의의) 수익’으로 번역하였다. 차익은 흔히 관련 비용을 차감한 금액으로 보고되므로, ‘차익(gains)은 수익(revenue)으로 분류하지 않는다’는 차익을 통상적 활동에서 발생하는 경제적 효익의 총 유입액을 의미하는 수익으로 분류하지 않는다는 의미이다.</div></div>",
       "cross_references": [
         {
@@ -3729,7 +3765,7 @@
           "display_text": "문단 75, 85와 86",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "75, 85와 86",
+          "range": "75,85,86",
           "paragraph_ids": [
             "75",
             "85",
@@ -3786,9 +3822,9 @@
           "display_text": "문단 118(5)(다)~(마)",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "118(5)(다)~(마)",
+          "range": "118",
           "paragraph_ids": [
-            "118~"
+            "118"
           ]
         }
       ],
@@ -3975,7 +4011,7 @@
           "display_text": "문단 66과 67",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "66과 67",
+          "range": "66,67",
           "paragraph_ids": [
             "66",
             "67"
@@ -4078,7 +4114,7 @@
           "display_text": "문단 130C와 130E",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "130C와 130E",
+          "range": "130C,130E",
           "paragraph_ids": [
             "130C",
             "130E"
@@ -4109,7 +4145,7 @@
           "display_text": "문단 12, 33~35, 68, 69, 94 및 130",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "12, 33~35, 68, 69, 94 및 130",
+          "range": "12,33~35,68,69,94,130",
           "paragraph_ids": [
             "12",
             "33",
@@ -4126,7 +4162,7 @@
           "display_text": "문단 38과 129",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "38과 129",
+          "range": "38,129",
           "paragraph_ids": [
             "38",
             "129"
@@ -4147,7 +4183,7 @@
           "display_text": "문단 36과 37",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "36과 37",
+          "range": "36,37",
           "paragraph_ids": [
             "36",
             "37"
@@ -4238,7 +4274,7 @@
           "display_text": "문단 8, 33, 47, 50, 75, 78, 82, 84, 100 및 124",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "8, 33, 47, 50, 75, 78, 82, 84, 100 및 124",
+          "range": "8,33,47,50,75,78,82,84,100,124",
           "paragraph_ids": [
             "8",
             "33",
@@ -4257,7 +4293,7 @@
           "display_text": "문단 39~41 및 130E",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "39~41 및 130E",
+          "range": "39~41,130E",
           "paragraph_ids": [
             "39",
             "40",
@@ -4331,7 +4367,7 @@
           "display_text": "문단 92와 98",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "92와 98",
+          "range": "92,98",
           "paragraph_ids": [
             "92",
             "98"
@@ -4374,7 +4410,7 @@
           "display_text": "문단 3, 114, 116",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "3, 114, 116",
+          "range": "3,114,116",
           "paragraph_ids": [
             "3",
             "114",
@@ -4406,7 +4442,7 @@
           "display_text": "문단 3, 6, 113, 114",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "3, 6, 113, 114",
+          "range": "3,6,113,114",
           "paragraph_ids": [
             "3",
             "6",
@@ -4423,7 +4459,7 @@
       "section_id": "EtOuxb",
       "section_title": "경과규정과 시행일",
       "toc_path": "본문|경과규정과 시행일",
-      "text": "2021년 6월에 공표한 기업회계기준서 제1117호에 따라 문단 3을 개정하였다\n(한1). 이 개정 내용은 기업회계기준서 제1117호를 적용할 때 적용한다.\n[각주 (한1)] 회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 IFRS 17 ’보험계약‘에 대응하는 K-IFRS 제1117호 ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 IFRS 17을 포함하여 K-IFRS 제1117호를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 IFRS 17에 따라 문단 3을 개정하였다. 또 2020년 6월에 발표한 IFRS 17에 따라 문단 3을 추가로 개정하였다.",
+      "text": "2021년 6월에 공표한 기업회계기준서 제1117호에 따라 문단 3을 개정하였다(한1). 이 개정 내용은 기업회계기준서 제1117호를 적용할 때 적용한다.\n[각주 (한1)] 회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 IFRS 17 ’보험계약‘에 대응하는 K-IFRS 제1117호 ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 IFRS 17을 포함하여 K-IFRS 제1117호를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 IFRS 17에 따라 문단 3을 개정하였다. 또 2020년 6월에 발표한 IFRS 17에 따라 문단 3을 추가로 개정하였다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"130M\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">130M</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">2021년 6월에 공표한 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">기업회계기준서 제1117호</span></div>에 따라 \n  <span class=\"mundan-finder\">문단 3</span>을 개정하였다\n  <sup data-id=\"(한1)\">(한1)</sup>. 이 개정 내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">기업회계기준서 제1117호</span></div>를 적용할 때 적용한다.\n</div><div class=\"idt-1 comment\"><div>(한1)</div><div>회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리</span><span class=\"std-finder\">IFRS 17</span></div> ’보험계약‘에 대응하는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">K-IFRS 제1117호</span></div> ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리</span><span class=\"std-finder\">IFRS 17</span></div>을 포함하여 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">K-IFRS 제1117호</span></div>를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리</span><span class=\"std-finder\">IFRS 17</span></div>에 따라 문단 3을 개정하였다. 또 2020년 6월에 발표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리</span><span class=\"std-finder\">IFRS 17</span></div>에 따라 \n    <span class=\"mundan-finder\">문단 3</span>을 추가로 개정하였다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
@@ -4437,20 +4473,10 @@
         {
           "type": "standard",
           "display_text": "IFRS 17",
-          "standard_number": null,
+          "standard_number": "17",
           "standard_title": "정부보조금의 회계처리",
           "range": null,
           "paragraph_ids": []
-        },
-        {
-          "type": "paragraph",
-          "display_text": "문단 3",
-          "standard_number": "1038",
-          "standard_title": null,
-          "range": "3",
-          "paragraph_ids": [
-            "3"
-          ]
         },
         {
           "type": "paragraph",
@@ -4717,7 +4743,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -4737,8 +4763,24 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         }
@@ -4757,7 +4799,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -4767,7 +4809,7 @@
           "display_text": "문단 BCZ29~BCZ46과 BCZ104~BCZ110",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "BCZ29~BCZ46과 BCZ104~BCZ110",
+          "range": "BCZ29~BCZ46,BCZ104~BCZ110",
           "paragraph_ids": [
             "BCZ29",
             "BCZ30",
@@ -4811,7 +4853,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -4842,7 +4884,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -4862,7 +4904,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -4882,8 +4924,16 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
           "range": null,
           "paragraph_ids": []
         }
@@ -4902,7 +4952,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -4922,7 +4972,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -4942,7 +4992,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -4984,7 +5034,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5008,13 +5058,13 @@
       "section_id": "eNQmbp",
       "section_title": "최초인식기준",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|최초인식기준",
-      "text": "개정 전 IAS 38과 마찬가지로 다음을 모두 충족하는 경우에 한하여 이 기준서에 따라 무형자산을 인식한다. ⑴ 자산에서 발생할 것으로 기대되는 미래경제적효익이 기업으로 유입될 가능성이 높다. ⑵ 자산의 원가를 신뢰성 있게 측정할 수 있다.",
+      "text": "개정 전 IAS 38과 마찬가지로 다음을 모두 충족하는 경우에 한하여 이 기준서에 따라 무형자산을 인식한다.\n(1) 자산에서 발생할 것으로 기대되는 미래경제적효익이 기업으로 유입될 가능성이 높다.\n(2) 자산의 원가를 신뢰성 있게 측정할 수 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC15\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC15</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>과 마찬가지로 다음을 모두 충족하는 경우에 한하여 이 기준서에 따라 무형자산을 인식한다.\n</div><div class=\"idt-1\"><div>⑴</div><div>자산에서 발생할 것으로 기대되는 미래경제적효익이 기업으로 유입될 가능성이 높다.</div></div><div class=\"idt-1\"><div>⑵</div><div>자산의 원가를 신뢰성 있게 측정할 수 있다.</div></div><div class=\"para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>을 개정하면서 IASB는 이러한 인식기준이 사업결합으로 취득하는 무형자산에 적용되는지를 고려하였다. 이 문제에 대한 IASB의 심의내용은 \n  <span class=\"mundan-finder\">문단 BC16~BC25</span>에 제시된다.\n</div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5074,14 +5124,22 @@
       "section_id": "yvqb6H",
       "section_title": "발생가능성 인식기준",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|최초인식기준|사업결합으로 인한 취득(문단 33～38)|발생가능성 인식기준",
-      "text": "IAS 38을 개정하면서 IASB는 무형자산과 관련된 미래경제적효익이 취득자에게 유입될 확률에 대한 시장의 기대치를 무형자산의 공정가치가 반영한다는 점에 주목하였다. 바꾸어 말하면, 확률의 효과는 무형자산의 공정가치 측정에 반영된다.\n(주1) 따라서 사업결합으로 취득하는 무형자산의 경우 발생가능성 인식기준은 항상 충족되는 것으로 본다.\n[각주 (주1)] 2011년 5월에 발표된 IFRS 13은 공정가치를 정의하고 공정가치 측정 요구사항을 포함한다.",
+      "text": "IAS 38을 개정하면서 IASB는 무형자산과 관련된 미래경제적효익이 취득자에게 유입될 확률에 대한 시장의 기대치를 무형자산의 공정가치가 반영한다는 점에 주목하였다. 바꾸어 말하면, 확률의 효과는 무형자산의 공정가치 측정에 반영된다.(주1) 따라서 사업결합으로 취득하는 무형자산의 경우 발생가능성 인식기준은 항상 충족되는 것으로 본다.\n[각주 (주1)] 2011년 5월에 발표된 IFRS 13은 공정가치를 정의하고 공정가치 측정 요구사항을 포함한다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC17\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC17</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>을 개정하면서 IASB는 무형자산과 관련된 미래경제적효익이 취득자에게 유입될 확률에 대한 시장의 기대치를 무형자산의 공정가치가 반영한다는 점에 주목하였다. 바꾸어 말하면, 확률의 효과는 무형자산의 공정가치 측정에 반영된다.\n  <sup data-id=\"(주1)\">(주1)</sup> 따라서 사업결합으로 취득하는 무형자산의 경우 발생가능성 인식기준은 항상 충족되는 것으로 본다.  \n</div><div class=\"idt-1 comment\"><div>(주1)</div><div>2011년 5월에 발표된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치를 정의하고 공정가치 측정 요구사항을 포함한다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         }
@@ -5126,14 +5184,30 @@
       "section_id": "ijmIDO",
       "section_title": "측정의 신뢰성 인식기준",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|최초인식기준|사업결합으로 인한 취득(문단 33～38)|측정의 신뢰성 인식기준",
-      "text": "IFRS 3을 제정하는 과정에서 IASB는 사업결합으로 취득하는 식별가능한 무형자산의 공정가치는 일반적으로 영업권과 분리하여 인식하도록 충분히 신뢰성 있게 측정가능하다는 점에 주목하였다. 다양한 확률을 갖는 발생 가능한 결과의 범위에 따른 불확실성의 효과는 자산의 공정가치\n(주3) 측정에 반영되므로, 그러한 범위의 존재가 공정가치를 신뢰성 있게 측정할 수 없다는 것을 나타내지는 않는다. IAS 38(2004년 개정)에는 사업결합으로 취득하는 유한 내용연수의 무형자산의 공정가치는 반증이 없는 한 신뢰성 있게 측정될 수 있다는 가정이 포함되었다. IASB는 계약상 또는 법적 근거에 기초를 둔 자산의 공정가치를 신뢰성 있게 측정하는 것이 항상 가능한 것은 아니라고 결론지었다. 그러나 IAS 38(2004년 개정)에서는 사업결합으로 취득하고 법적 또는 기타 계약상 권리로부터 발생하는 무형자산의 공정가치를 신뢰성 있게 측정할 수 없는 상황은 다음의 경우로 한정하였다.\n(1) 무형자산이 분리가능하지 않다.\n(2) 무형자산이 분리가능하지만, 동일하거나 유사한 자산의 교환거래에 대한 과거 경험이나 증거가 없고, 그렇지 않다면 공정가치 추정이 측정할 수 없는 변수에 의존하고 있을 것이다.\n[각주 (주3)] 2011년 5월에 발표된 IFRS 13은 공정가치 측정 요구사항을 포함한다.",
+      "text": "IFRS 3을 제정하는 과정에서 IASB는 사업결합으로 취득하는 식별가능한 무형자산의 공정가치는 일반적으로 영업권과 분리하여 인식하도록 충분히 신뢰성 있게 측정가능하다는 점에 주목하였다. 다양한 확률을 갖는 발생 가능한 결과의 범위에 따른 불확실성의 효과는 자산의 공정가치(주3) 측정에 반영되므로, 그러한 범위의 존재가 공정가치를 신뢰성 있게 측정할 수 없다는 것을 나타내지는 않는다. IAS 38(2004년 개정)에는 사업결합으로 취득하는 유한 내용연수의 무형자산의 공정가치는 반증이 없는 한 신뢰성 있게 측정될 수 있다는 가정이 포함되었다. IASB는 계약상 또는 법적 근거에 기초를 둔 자산의 공정가치를 신뢰성 있게 측정하는 것이 항상 가능한 것은 아니라고 결론지었다. 그러나 IAS 38(2004년 개정)에서는 사업결합으로 취득하고 법적 또는 기타 계약상 권리로부터 발생하는 무형자산의 공정가치를 신뢰성 있게 측정할 수 없는 상황은 다음의 경우로 한정하였다.\n(1) 무형자산이 분리가능하지 않다.\n(2) 무형자산이 분리가능하지만, 동일하거나 유사한 자산의 교환거래에 대한 과거 경험이나 증거가 없고, 그렇지 않다면 공정가치 추정이 측정할 수 없는 변수에 의존하고 있을 것이다.\n[각주 (주3)] 2011년 5월에 발표된 IFRS 13은 공정가치 측정 요구사항을 포함한다.",
       "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div>을 제정하는 과정에서 IASB는 사업결합으로 취득하는 식별가능한 무형자산의 공정가치는 일반적으로 영업권과 분리하여 인식하도록 충분히 신뢰성 있게 측정가능하다는 점에 주목하였다. 다양한 확률을 갖는 발생 가능한 결과의 범위에 따른 불확실성의 효과는 자산의 공정가치\n  <sup>(주3)</sup> 측정에 반영되므로, 그러한 범위의 존재가 공정가치를 신뢰성 있게 측정할 수 없다는 것을 나타내지는 않는다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>(2004년 개정)에는 사업결합으로 취득하는 유한 내용연수의 무형자산의 공정가치는 반증이 없는 한 신뢰성 있게 측정될 수 있다는 가정이 포함되었다. IASB는 계약상 또는 법적 근거에 기초를 둔 자산의 공정가치를 신뢰성 있게 측정하는 것이 항상 가능한 것은 아니라고 결론지었다. 그러나 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>(2004년 개정)에서는 사업결합으로 취득하고 법적 또는 기타 계약상 권리로부터 발생하는 무형자산의 공정가치를 신뢰성 있게 측정할 수 없는 상황은 다음의 경우로 한정하였다.  \n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주3)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치 측정 요구사항을 포함한다.                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 무형자산이 분리가능하지 않다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 무형자산이 분리가능하지만, 동일하거나 유사한 자산의 교환거래에 대한 과거 경험이나 증거가 없고, 그렇지 않다면 공정가치 추정이 측정할 수 없는 변수에 의존하고 있을 것이다.</div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 3",
-          "standard_number": null,
+          "standard_number": "3",
           "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         }
@@ -5157,7 +5231,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5177,8 +5251,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 3",
-          "standard_number": null,
+          "standard_number": "3",
           "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
         },
@@ -5187,7 +5269,7 @@
           "display_text": "문단 36과 37",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "36과 37",
+          "range": "36,37",
           "paragraph_ids": [
             "36",
             "37"
@@ -5202,14 +5284,22 @@
       "section_id": "ijmIDO",
       "section_title": "측정의 신뢰성 인식기준",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|최초인식기준|사업결합으로 인한 취득(문단 33～38)|측정의 신뢰성 인식기준",
-      "text": "추가적으로 2009년 4월에 발표된 IFRS 연차개선에서 자산이 활성시장에서 거래되지 않는 무형자산의 경우에 그 공정가치\n(주4)를 측정하는 데 일반적으로 사용되는 평가방법들에 대한 기술을 명확히 하기 위해 IAS 38의 문단 40과 41을 개정하였다. IASB는 또한 개정 내용을 소급적용하면 일부 기업들이 과거의 거래와 관련된 공정가치의 재측정을 요구받게 될 수도 있기 때문에 전진적으로 적용하여야 한다고 결정하였다. IASB는 그러한 상황에서 재측정을 한다면 사후판단이 개입될 수 있으므로 적절하지 않다고 생각한다.\n[각주 (주4)] 2011년 5월에 발표된 IFRS 13은 공정가치 측정 요구사항을 포함한다. 이에 따라 IAS 38의 문단 40과 41은 삭제되었다.",
+      "text": "추가적으로 2009년 4월에 발표된 IFRS 연차개선에서 자산이 활성시장에서 거래되지 않는 무형자산의 경우에 그 공정가치(주4)를 측정하는 데 일반적으로 사용되는 평가방법들에 대한 기술을 명확히 하기 위해 IAS 38의 문단 40과 41을 개정하였다. IASB는 또한 개정 내용을 소급적용하면 일부 기업들이 과거의 거래와 관련된 공정가치의 재측정을 요구받게 될 수도 있기 때문에 전진적으로 적용하여야 한다고 결정하였다. IASB는 그러한 상황에서 재측정을 한다면 사후판단이 개입될 수 있으므로 적절하지 않다고 생각한다.\n[각주 (주4)] 2011년 5월에 발표된 IFRS 13은 공정가치 측정 요구사항을 포함한다. 이에 따라 IAS 38의 문단 40과 41은 삭제되었다.",
       "html": "추가적으로 2009년 4월에 발표된 IFRS 연차개선에서 자산이 활성시장에서 거래되지 않는 무형자산의 경우에 그 공정가치\n  <sup>(주4)</sup>를 측정하는 데 일반적으로 사용되는 평가방법들에 대한 기술을 명확히 하기 위해 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>의 \n  <span class=\"mundan-finder\">문단 40과 41</span>을 개정하였다. IASB는 또한 개정 내용을 소급적용하면 일부 기업들이 과거의 거래와 관련된 공정가치의 재측정을 요구받게 될 수도 있기 때문에 전진적으로 적용하여야 한다고 결정하였다. IASB는 그러한 상황에서 재측정을 한다면 사후판단이 개입될 수 있으므로 적절하지 않다고 생각한다.  \n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주4)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치 측정 요구사항을 포함한다. 이에 따라 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>의 \n      <span class=\"mundan-finder\">문단 40과 41</span>은 삭제되었다.                        \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         },
@@ -5218,7 +5308,7 @@
           "display_text": "문단 40과 41",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "40과 41",
+          "range": "40,41",
           "paragraph_ids": [
             "40",
             "41"
@@ -5310,7 +5400,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5356,7 +5446,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5387,7 +5477,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5401,13 +5491,13 @@
       "section_id": "jyGovy",
       "section_title": "내부적으로 창출한 무형자산에 대한 규정의 배경",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|최초인식기준|내부적으로 창출한 무형자산(문단 51~67)|내부적으로 창출한 무형자산에 대한 규정의 배경",
-      "text": "개발 관련 지출에서 발생한 자산과 내부적으로 창출한 그 밖의 무형자산의 인식에 대해 제안되고 승인된 규정들은 다음과 같았다. ⑴ 1978년 IASC는 IAS 9를 승인하였다. 그 기준서에서는 기업이 일정 기준을 충족하기만 하면 언제나 개발 관련 지출에서 발생하는 자산을 인식할 수 있는 선택권을 갖는 경우를 제외하고는, 연구ㆍ개발 지출을 발생 시에 비용으로 처리하도록 규정하였다. ⑵ 1989년 공개초안 제32호(E32) ‘재무제표의 비교가능성(Comparability of Financial Statements)’은 일정 기준을 충족한다면 개발 관련 지출에서 발생하는 자산을 인식할 수 있는 IAS 9의 선택권을 유지할 것을 제안하였으며, 다음 내용에 대한 확인도 제안하였다.\n㈎ 모든 연구ㆍ개발 지출은 발생 시 비용으로 인식하는 것이 선호되는 회계처리 방법이다.\n㈏ 일정 기준을 충족한다면 언제나 개발 관련 지출에서 발생하는 자산을 인식하는 것은 대체적 회계처리로서 허용된다. E32에 대한 대다수의 의견제출자들은 선택권의 유지나 제안된 선호되는 회계처리를 지지하지 않았다. ⑶ 1991년의 공개초안 제37호(E37) ‘연구ㆍ개발원가(Research and Development Costs)’에서는 일정 기준을 충족한다면 항상 개발 관련 지출에서 발생하는 자산을 인식하도록 요구하는 제안을 하였다. 1993년에 IASC는 E37에 근거한 IAS 9를 승인하였다. ⑷ 1995년에 IAS 9와 일관되게 공개초안 제50호(E50) ‘무형자산(Intangible Assets)’에서는 여전히 IAS 9의 적용범위에 해당하는 개발 관련 지출에서 발생하는 무형자산 이외에, 내부적으로 창출한 무형자산은 일정 기준을 충족한다면 언제나 자산으로 인식하는 제안을 하였다. ⑸ 1997년의 공개초안 제60호(E60) ‘무형자산(Intangible Assets)’에서는 다음 사항을 제안하였다.\n㈎ 내부적으로 창출한 무형자산의 인식에 대한 E50의 제안을 견지한다.\n㈏ 그러나 무형자산에 대한 기준서의 적용범위를 확대하여 개발 관련 지출에서 발생하는 무형자산을 포함하여 내부적으로 창출한 모든 무형자산을 다룬다. ⑹ 1998년에 IASC는 다음의 사항을 승인하였다.\n㈎ E60에 근거하되, 중요하지 않은 몇 가지 사항을 변경한 IAS 38\n㈏ IAS 9의 폐지",
+      "text": "개발 관련 지출에서 발생한 자산과 내부적으로 창출한 그 밖의 무형자산의 인식에 대해 제안되고 승인된 규정들은 다음과 같았다.\n(1) 1978년 IASC는 IAS 9를 승인하였다. 그 기준서에서는 기업이 일정 기준을 충족하기만 하면 언제나 개발 관련 지출에서 발생하는 자산을 인식할 수 있는 선택권을 갖는 경우를 제외하고는, 연구ㆍ개발 지출을 발생 시에 비용으로 처리하도록 규정하였다.\n(2) 1989년 공개초안 제32호(E32) ‘재무제표의 비교가능성(Comparability of Financial Statements)’은 일정 기준을 충족한다면 개발 관련 지출에서 발생하는 자산을 인식할 수 있는 IAS 9의 선택권을 유지할 것을 제안하였으며, 다음 내용에 대한 확인도 제안하였다.\n(가) 모든 연구ㆍ개발 지출은 발생 시 비용으로 인식하는 것이 선호되는 회계처리 방법이다.\n(나) 일정 기준을 충족한다면 언제나 개발 관련 지출에서 발생하는 자산을 인식하는 것은 대체적 회계처리로서 허용된다. E32에 대한 대다수의 의견제출자들은 선택권의 유지나 제안된 선호되는 회계처리를 지지하지 않았다.\n(3) 1991년의 공개초안 제37호(E37) ‘연구ㆍ개발원가(Research and Development Costs)’에서는 일정 기준을 충족한다면 항상 개발 관련 지출에서 발생하는 자산을 인식하도록 요구하는 제안을 하였다. 1993년에 IASC는 E37에 근거한 IAS 9를 승인하였다.\n(4) 1995년에 IAS 9와 일관되게 공개초안 제50호(E50) ‘무형자산(Intangible Assets)’에서는 여전히 IAS 9의 적용범위에 해당하는 개발 관련 지출에서 발생하는 무형자산 이외에, 내부적으로 창출한 무형자산은 일정 기준을 충족한다면 언제나 자산으로 인식하는 제안을 하였다.\n(5) 1997년의 공개초안 제60호(E60) ‘무형자산(Intangible Assets)’에서는 다음 사항을 제안하였다.\n(가) 내부적으로 창출한 무형자산의 인식에 대한 E50의 제안을 견지한다.\n(나) 그러나 무형자산에 대한 기준서의 적용범위를 확대하여 개발 관련 지출에서 발생하는 무형자산을 포함하여 내부적으로 창출한 모든 무형자산을 다룬다.\n(6) 1998년에 IASC는 다음의 사항을 승인하였다.\n(가) E60에 근거하되, 중요하지 않은 몇 가지 사항을 변경한 IAS 38\n(나) IAS 9의 폐지",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BCZ31\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BCZ31</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">개발 관련 지출에서 발생한 자산과 내부적으로 창출한 그 밖의 무형자산의 인식에 대해 제안되고 승인된 규정들은 다음과 같았다.</div><div class=\"idt-1\"><div>⑴</div><div>1978년 IASC는 IAS 9를 승인하였다. 그 기준서에서는 기업이 일정 기준을 충족하기만 하면 언제나 개발 관련 지출에서 발생하는 자산을 인식할 수 있는 선택권을 갖는 경우를 제외하고는, 연구ㆍ개발 지출을 발생 시에 비용으로 처리하도록 규정하였다.</div></div><div class=\"idt-1\"><div>⑵</div><div>1989년 공개초안 제32호(E32) ‘재무제표의 비교가능성(Comparability of Financial Statements)’은 일정 기준을 충족한다면 개발 관련 지출에서 발생하는 자산을 인식할 수 있는 IAS 9의 선택권을 유지할 것을 제안하였으며, 다음 내용에 대한 확인도 제안하였다.</div></div><div class=\"idt-2\"><div>㈎</div><div>모든 연구ㆍ개발 지출은 발생 시 비용으로 인식하는 것이 선호되는 회계처리 방법이다.</div></div><div class=\"idt-2\"><div>㈏</div><div>일정 기준을 충족한다면 언제나 개발 관련 지출에서 발생하는 자산을 인식하는 것은 대체적 회계처리로서 허용된다.</div></div><div class=\"idt-1\"><div></div><div>E32에 대한 대다수의 의견제출자들은 선택권의 유지나 제안된 선호되는 회계처리를 지지하지 않았다.</div></div><div class=\"idt-1\"><div>⑶</div><div>1991년의 공개초안 제37호(E37) ‘연구ㆍ개발원가(Research and Development Costs)’에서는 일정 기준을 충족한다면 항상 개발 관련 지출에서 발생하는 자산을 인식하도록 요구하는 제안을 하였다. 1993년에 IASC는 E37에 근거한 IAS 9를 승인하였다.</div></div><div class=\"idt-1\"><div>⑷</div><div>1995년에 IAS 9와 일관되게 공개초안 제50호(E50) ‘무형자산(Intangible Assets)’에서는 여전히 IAS 9의 적용범위에 해당하는 개발 관련 지출에서 발생하는 무형자산 이외에, 내부적으로 창출한 무형자산은 일정 기준을 충족한다면 언제나 자산으로 인식하는 제안을 하였다.</div></div><div class=\"idt-1\"><div>⑸</div><div>1997년의 공개초안 제60호(E60) ‘무형자산(Intangible Assets)’에서는 다음 사항을 제안하였다.</div></div><div class=\"idt-2\"><div>㈎</div><div>내부적으로 창출한 무형자산의 인식에 대한 E50의 제안을 견지한다.</div></div><div class=\"idt-2\"><div>㈏</div><div>그러나 무형자산에 대한 기준서의 적용범위를 확대하여 개발 관련 지출에서 발생하는 무형자산을 포함하여 내부적으로 창출한 모든 무형자산을 다룬다.</div></div><div class=\"idt-1\"><div>⑹</div><div>1998년에 IASC는 다음의 사항을 승인하였다.</div></div><div class=\"idt-2\"><div>㈎</div><div>E60에 근거하되, 중요하지 않은 몇 가지 사항을 변경한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div></div></div><div class=\"idt-2\"><div>㈏</div><div>IAS 9의 폐지</div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5471,8 +5561,16 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         }
@@ -5491,7 +5589,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5505,13 +5603,13 @@
       "section_id": "afX4PF",
       "section_title": "내부적으로 창출한 모든 무형자산에 대한 지출의 비용 인식",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|최초인식기준|내부적으로 창출한 무형자산(문단 51~67)|내부적으로 창출한 모든 무형자산에 대한 지출의 비용 인식",
-      "text": "내부적으로 창출한 모든 무형자산에 대한 지출(개발 관련 지출 포함)을 비용으로 인식하는 것을 지지하는 사람들은 다음과 같이 주장한다.\n(1) 내부적으로 창출한 무형자산은 다음의 이유 때문에 Framework의 자산 인식요구사항을 충족하지 않는다.\n(가) 내부적으로 창출한 무형자산에서 발생하는 미래경제적효익은 내부적으로 창출한 영업권에서 발생하는 미래경제적효익과 구별할 수 없다.\n(나) 내부적으로 창출한 무형자산과 관련된 지출과 내부적으로 창출한 영업권의 증가와 관련된 지출을 신뢰성 있게 구분하는 것은 불가능하다.\n(2) 재무제표의 비교가능성이 달성될 수 없을 것이다. 왜냐하면, 내부적으로 창출한 무형자산에서 미래경제적효익이 유입될 가능성이 높은 지를 결정하는 데 너무 주관적인 판단이 개입되어 유사한 상황에 대해 상이한 회계처리결과를 가져올 수 있기 때문이다.\n(3) 내부적으로 창출한 무형자산의 공정가치가 활성시장\n(주5)에 근거하여 결정되지 않는 한, 당해 자산의 회수가능액을 신뢰성 있게 평가하는 것은 불가능하다. 따라서 내부적으로 창출한 무형자산에 대한 활성시장이 존재하지 않는데도 당해 무형자산을 인식한다면 투자자를 오도할 수 있다.\n(4) 일정 기준을 충족할 때 내부적으로 창출한 무형자산을 원가로 인식하도록 하는 규정은 다음과 같은 이유로 의사결정에 유용한 정보나 예측정보를 거의 제공하지 못한다.\n(가) 인식기준을 충족시키기 위해 기술적 실현가능성 또는 상업적 성공을 제시하는 것은 일반적으로 상당한 지출이 비용으로 인식되고 나서야 가능할 것이다. 따라서 내부적으로 창출한 무형자산으로 인식되는 원가는 그 자산의 총지출을 반영하지 못한다.\n(나) 내부적으로 창출한 무형자산의 원가는 그 자산의 가치와 관련이 없을 수 있다.\n(5) 일부 국가에서는 내부적으로 창출한 무형자산을 인식한 기업에 대해 이용자들이 의구심을 갖는다.\n(6) 내부적으로 창출한 무형자산의 인식을 정당화하고 뒷받침하는 데 필요한 기록 유지를 위해 추가되는 원가에 비해 이에 상당하는 효익이 기대되지 않는다.\n[각주 (주5)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
+      "text": "내부적으로 창출한 모든 무형자산에 대한 지출(개발 관련 지출 포함)을 비용으로 인식하는 것을 지지하는 사람들은 다음과 같이 주장한다.\n(1) 내부적으로 창출한 무형자산은 다음의 이유 때문에 Framework의 자산 인식요구사항을 충족하지 않는다.\n(가) 내부적으로 창출한 무형자산에서 발생하는 미래경제적효익은 내부적으로 창출한 영업권에서 발생하는 미래경제적효익과 구별할 수 없다.\n(나) 내부적으로 창출한 무형자산과 관련된 지출과 내부적으로 창출한 영업권의 증가와 관련된 지출을 신뢰성 있게 구분하는 것은 불가능하다.\n(2) 재무제표의 비교가능성이 달성될 수 없을 것이다. 왜냐하면, 내부적으로 창출한 무형자산에서 미래경제적효익이 유입될 가능성이 높은 지를 결정하는 데 너무 주관적인 판단이 개입되어 유사한 상황에 대해 상이한 회계처리결과를 가져올 수 있기 때문이다.\n(3) 내부적으로 창출한 무형자산의 공정가치가 활성시장(주5)에 근거하여 결정되지 않는 한, 당해 자산의 회수가능액을 신뢰성 있게 평가하는 것은 불가능하다. 따라서 내부적으로 창출한 무형자산에 대한 활성시장이 존재하지 않는데도 당해 무형자산을 인식한다면 투자자를 오도할 수 있다.\n(4) 일정 기준을 충족할 때 내부적으로 창출한 무형자산을 원가로 인식하도록 하는 규정은 다음과 같은 이유로 의사결정에 유용한 정보나 예측정보를 거의 제공하지 못한다.\n(가) 인식기준을 충족시키기 위해 기술적 실현가능성 또는 상업적 성공을 제시하는 것은 일반적으로 상당한 지출이 비용으로 인식되고 나서야 가능할 것이다. 따라서 내부적으로 창출한 무형자산으로 인식되는 원가는 그 자산의 총지출을 반영하지 못한다.\n(나) 내부적으로 창출한 무형자산의 원가는 그 자산의 가치와 관련이 없을 수 있다.\n(5) 일부 국가에서는 내부적으로 창출한 무형자산을 인식한 기업에 대해 이용자들이 의구심을 갖는다.\n(6) 내부적으로 창출한 무형자산의 인식을 정당화하고 뒷받침하는 데 필요한 기록 유지를 위해 추가되는 원가에 비해 이에 상당하는 효익이 기대되지 않는다.\n[각주 (주5)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
       "html": "내부적으로 창출한 모든 무형자산에 대한 지출(개발 관련 지출 포함)을 비용으로 인식하는 것을 지지하는 사람들은 다음과 같이 주장한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 내부적으로 창출한 무형자산은 다음의 이유 때문에 \n      <i>Framework</i>의 자산 인식요구사항을 충족하지 않는다.\n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"> 내부적으로 창출한 무형자산에서 발생하는 미래경제적효익은 내부적으로 창출한 영업권에서 발생하는 미래경제적효익과 구별할 수 없다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\"> 내부적으로 창출한 무형자산과 관련된 지출과 내부적으로 창출한 영업권의 증가와 관련된 지출을 신뢰성 있게 구분하는 것은 불가능하다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 재무제표의 비교가능성이 달성될 수 없을 것이다. 왜냐하면, 내부적으로 창출한 무형자산에서 미래경제적효익이 유입될 가능성이 높은 지를 결정하는 데 너무 주관적인 판단이 개입되어 유사한 상황에 대해 상이한 회계처리결과를 가져올 수 있기 때문이다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> 내부적으로 창출한 무형자산의 공정가치가 활성시장\n      <sup data-id=\"(주5)\">(주5)</sup>에 근거하여 결정되지 않는 한, 당해 자산의 회수가능액을 신뢰성 있게 평가하는 것은 불가능하다. 따라서 내부적으로 창출한 무형자산에 대한 활성시장이 존재하지 않는데도 당해 무형자산을 인식한다면 투자자를 오도할 수 있다.\n    </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주5)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 활성시장을 정의한다.                    \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\"> 일정 기준을 충족할 때 내부적으로 창출한 무형자산을 원가로 인식하도록 하는 규정은 다음과 같은 이유로 의사결정에 유용한 정보나 예측정보를 거의 제공하지 못한다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"> 인식기준을 충족시키기 위해 기술적 실현가능성 또는 상업적 성공을 제시하는 것은 일반적으로 상당한 지출이 비용으로 인식되고 나서야 가능할 것이다. 따라서 내부적으로 창출한 무형자산으로 인식되는 원가는 그 자산의 총지출을 반영하지 못한다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\"> 내부적으로 창출한 무형자산의 원가는 그 자산의 가치와 관련이 없을 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\"> 일부 국가에서는 내부적으로 창출한 무형자산을 인식한 기업에 대해 이용자들이 의구심을 갖는다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(6)</div><div class=\"para-num-item-para-con\"> 내부적으로 창출한 무형자산의 인식을 정당화하고 뒷받침하는 데 필요한 기록 유지를 위해 추가되는 원가에 비해 이에 상당하는 효익이 기대되지 않는다.</div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
@@ -5569,7 +5667,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5587,9 +5685,17 @@
       "html": "그들은 이같은 원칙이 \n  \n  <i>Framework</i>와 상충한다고 주장하며, 특히 자산의 정의를 충족하는 항목은, ‘\n  \n  <i>원가나 가치</i>가 신뢰성 있게 측정될 수 있다’면 인식되어야 한다고 규정하고 있는 \n  \n  <i>Framework</i>의 \n  \n  <span class=\"mundan-finder\">문단 83</span>을 인용하였다. 이들 의견제출자들은 특히 공정가치가 신뢰성 있게 측정될 수 있다면 내부적으로 창출한 무형자산을 포함한 무형자산을 공정가치로 인식하는 것을 지지하였다.\n\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 공정가치를 신뢰성 있게 측정할 수 있더라도 원가 이외의 금액으로 무형자산을 인식해서는 안 된다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 무형자산에 대한 지출로서 전기이전에 비용으로 인식된 부분을 자산으로 다시 변경해서는 안 된다.</div></div>",
       "cross_references": [
         {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
           "type": "paragraph",
           "display_text": "문단 83",
-          "standard_number": "1038",
+          "standard_number": "1000",
           "standard_title": null,
           "range": "83",
           "paragraph_ids": [
@@ -5605,14 +5711,30 @@
       "section_id": "Fmxg8V",
       "section_title": "원가로 최초 인식",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|최초인식기준|내부적으로 창출한 무형자산(문단 51~67)|원가로 최초 인식",
-      "text": "IASC는 무형자산을 공정가치로 최초 인식하는 것을 허용하도록 하는 제안(사업결합이나 이종자산\n(주6)의 교환, 또는 정부보조금으로 무형자산을 취득하는 경우는 제외)을 기각하였다. 그 이유는 다음과 같다.\n(1) 이는 IAS 16과 일관된다. IAS 16은 유형자산 항목을 공정가치로 최초 인식하지 않도록 하고 있다(IAS 38에서와 같이 특정하게 제한된 경우는 제외).\n(2) 해당 자산에 대한 활성시장이 존재하지\n(주7) 않는다면 무형자산의 공정가치를 결정하는 것은 어렵다. 내부적으로 창출한 무형자산에 대해 IAS 38에서 규정한 특성을 갖는 활성시장이 존재할 가능성이 매우 낮으므로 IASC는 비금융 자산의 최초 인식과 측정에 일반적으로 적용되는 원칙에 대한 예외를 만들 필요가 있다고 여기지 않았다.\n(3) E50에 대한 의견제출자들의 대다수는 무형자산을 원가로 최초 인식하는 것을 지지하였으며 비용으로 최초 인식한 무형의 항목에 대한 지출은 이후에 자산으로 수정하지 못하게 하는 안을 지지하였다.\n[각주 (주6)] IAS 16(2003년 개정)에서는 하나 이상의 비화폐성자산 또는 화폐성자산과 비화폐성자산이 결합된 대가와 교환하여 취득하는 유형자산을 그 교환거래에 상업적 실질이 결여되어 있지 않다면 공정가치로 인식하도록 요구한다. 종전에는 유사한 자산 간의 교환이 아니면 기업이 그러한 취득자산을 공정가치로 측정하였다. IASB는 하나 이상의 비화폐성자산 또는 화폐성자산과 비화폐성자산이 결합된 대가와 교환하여 취득하는 무형자산에도 동일한 측정기준이 적용되어야 한다고 결론지었다.\n[각주 (주7)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
+      "text": "IASC는 무형자산을 공정가치로 최초 인식하는 것을 허용하도록 하는 제안(사업결합이나 이종자산(주6)의 교환, 또는 정부보조금으로 무형자산을 취득하는 경우는 제외)을 기각하였다. 그 이유는 다음과 같다.\n(1) 이는 IAS 16과 일관된다. IAS 16은 유형자산 항목을 공정가치로 최초 인식하지 않도록 하고 있다(IAS 38에서와 같이 특정하게 제한된 경우는 제외).\n(2) 해당 자산에 대한 활성시장이 존재하지(주7) 않는다면 무형자산의 공정가치를 결정하는 것은 어렵다. 내부적으로 창출한 무형자산에 대해 IAS 38에서 규정한 특성을 갖는 활성시장이 존재할 가능성이 매우 낮으므로 IASC는 비금융 자산의 최초 인식과 측정에 일반적으로 적용되는 원칙에 대한 예외를 만들 필요가 있다고 여기지 않았다.\n(3) E50에 대한 의견제출자들의 대다수는 무형자산을 원가로 최초 인식하는 것을 지지하였으며 비용으로 최초 인식한 무형의 항목에 대한 지출은 이후에 자산으로 수정하지 못하게 하는 안을 지지하였다.\n[각주 (주6)] IAS 16(2003년 개정)에서는 하나 이상의 비화폐성자산 또는 화폐성자산과 비화폐성자산이 결합된 대가와 교환하여 취득하는 유형자산을 그 교환거래에 상업적 실질이 결여되어 있지 않다면 공정가치로 인식하도록 요구한다. 종전에는 유사한 자산 간의 교환이 아니면 기업이 그러한 취득자산을 공정가치로 측정하였다. IASB는 하나 이상의 비화폐성자산 또는 화폐성자산과 비화폐성자산이 결합된 대가와 교환하여 취득하는 무형자산에도 동일한 측정기준이 적용되어야 한다고 결론지었다.\n[각주 (주7)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
       "html": "IASC는 무형자산을 공정가치로 최초 인식하는 것을 허용하도록 하는 제안(사업결합이나 이종자산\n  <sup>(주6)</sup>의 교환, 또는 정부보조금으로 무형자산을 취득하는 경우는 제외)을 기각하였다. 그 이유는 다음과 같다.        \n  <div class=\"para-inner-number\"><div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주6)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>(2003년 개정)에서는 하나 이상의 비화폐성자산 또는 화폐성자산과 비화폐성자산이 결합된 대가와 교환하여 취득하는 유형자산을 그 교환거래에 상업적 실질이 결여되어 있지 않다면 공정가치로 인식하도록 요구한다. 종전에는 유사한 자산 간의 교환이 아니면 기업이 그러한 취득자산을 공정가치로 측정하였다. IASB는 하나 이상의 비화폐성자산 또는 화폐성자산과 비화폐성자산이 결합된 대가와 교환하여 취득하는 무형자산에도 동일한 측정기준이 적용되어야 한다고 결론지었다.                        \n      </div></div></div><div class=\"para-inner-number\"><div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 이는 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>과 일관된다. \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>은 유형자산 항목을 공정가치로 최초 인식하지 않도록 하고 있다(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에서와 같이 특정하게 제한된 경우는 제외).                        \n      </div></div><div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 해당 자산에 대한 활성시장이 존재하지\n        <sup>(주7)</sup> 않는다면 무형자산의 공정가치를 결정하는 것은 어렵다. 내부적으로 창출한 무형자산에 대해 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에서 규정한 특성을 갖는 활성시장이 존재할 가능성이 매우 낮으므로 IASC는 비금융 자산의 최초 인식과 측정에 일반적으로 적용되는 원칙에 대한 예외를 만들 필요가 있다고 여기지 않았다.                        \n      </div></div><div class=\"para-inner-number\"><div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주7)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n          <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 활성시장을 정의한다.                            \n        </div></div></div><div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\"> E50에 대한 의견제출자들의 대다수는 무형자산을 원가로 최초 인식하는 것을 지지하였으며 비용으로 최초 인식한 무형의 항목에 대한 지출은 이후에 자산으로 수정하지 못하게 하는 안을 지지하였다.</div></div></div>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주6)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>(2003년 개정)에서는 하나 이상의 비화폐성자산 또는 화폐성자산과 비화폐성자산이 결합된 대가와 교환하여 취득하는 유형자산을 그 교환거래에 상업적 실질이 결여되어 있지 않다면 공정가치로 인식하도록 요구한다. 종전에는 유사한 자산 간의 교환이 아니면 기업이 그러한 취득자산을 공정가치로 측정하였다. IASB는 하나 이상의 비화폐성자산 또는 화폐성자산과 비화폐성자산이 결합된 대가와 교환하여 취득하는 무형자산에도 동일한 측정기준이 적용되어야 한다고 결론지었다.                        \n      </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주7)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n          <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 활성시장을 정의한다.                            \n        </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         }
@@ -5640,7 +5762,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5660,7 +5782,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5847,7 +5969,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5867,7 +5989,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5877,9 +5999,9 @@
           "display_text": "문단 BC47의 (2)와 (3)",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "BC47의 (2)와 (3)",
+          "range": "BC47",
           "paragraph_ids": [
-            "BC47의"
+            "BC47"
           ]
         }
       ],
@@ -5913,14 +6035,22 @@
       "section_id": "A387Ul",
       "section_title": "내용연수가 유한하며 사업결합으로 취득하는 무형자산의 회계처리",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|무형자산에 대한 후속 회계처리|내용연수가 유한하며 사업결합으로 취득하는 무형자산의 회계처리",
-      "text": "IASB는 개정 전 IAS 38에서는 최초 인식 후 무형자산을 다음 중 하나로 측정하도록 규정하고 있음에 주목하였다.\n(1) 원가에서 상각누계액과 손상차손누계액을 차감한 금액\n(2) 재평가일에 활성시장\n(주9)에 근거하여 결정된 공정가치에서 이후의 상각누계액과 손상차손누계액을 차감한 재평가금액. 이러한 접근법 하에서는 대차대조표일에 자산의 장부금액이 공정가치와 중요하게 차이나지 않도록 주기적으로 재평가하여야 한다.\n[각주 (주9)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
+      "text": "IASB는 개정 전 IAS 38에서는 최초 인식 후 무형자산을 다음 중 하나로 측정하도록 규정하고 있음에 주목하였다.\n(1) 원가에서 상각누계액과 손상차손누계액을 차감한 금액\n(2) 재평가일에 활성시장(주9)에 근거하여 결정된 공정가치에서 이후의 상각누계액과 손상차손누계액을 차감한 재평가금액. 이러한 접근법 하에서는 대차대조표일에 자산의 장부금액이 공정가치와 중요하게 차이나지 않도록 주기적으로 재평가하여야 한다.\n[각주 (주9)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
       "html": "IASB는 개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에서는 최초 인식 후 무형자산을 다음 중 하나로 측정하도록 규정하고 있음에 주목하였다.\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 원가에서 상각누계액과 손상차손누계액을 차감한 금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 재평가일에 활성시장\n      <sup>(주9)</sup>에 근거하여 결정된 공정가치에서 이후의 상각누계액과 손상차손누계액을 차감한 재평가금액. 이러한 접근법 하에서는 대차대조표일에 자산의 장부금액이 공정가치와 중요하게 차이나지 않도록 주기적으로 재평가하여야 한다.    \n    </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주9)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 활성시장을 정의한다.                  \n      </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         }
@@ -5977,7 +6107,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -5997,8 +6127,16 @@
         {
           "type": "standard",
           "display_text": "IAS 36",
-          "standard_number": null,
+          "standard_number": "36",
           "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -6017,8 +6155,16 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         }
@@ -6031,14 +6177,22 @@
       "section_id": "K95Sl6",
       "section_title": "내용연수가 유한한 무형자산의 잔존가치(문단 100)",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|무형자산에 대한 후속 회계처리|내용연수가 유한하며 사업결합으로 취득하는 무형자산의 회계처리|내용연수가 유한한 무형자산의 잔존가치(문단 100)",
-      "text": "IAS 38을 개정하면서 IASB는 다음 중 하나에 해당하는 경우를 제외하고는, 무형자산의 잔존가치를 영(0)으로 가정하는 개정 전 IAS 38의 규정을 내용연수가 유한한 무형자산에 적용하기 위해 계속 유지해야 될지를 고려하였다.\n(1) 내용연수 종료 시점에 제3자가 자산을 구입하기로 하는 약정이 있다.\n(2) 그 자산에 대한 활성시장\n(주10)이 있고 다음을 모두 충족한다.\n(가) 자산의 잔존가치를 그 활성시장에 근거하여 결정할 수 있다.\n(나) 그러한 활성시장이 그 자산의 내용연수 종료 시점에 존재할 가능성이 높다.\n[각주 (주10)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
+      "text": "IAS 38을 개정하면서 IASB는 다음 중 하나에 해당하는 경우를 제외하고는, 무형자산의 잔존가치를 영(0)으로 가정하는 개정 전 IAS 38의 규정을 내용연수가 유한한 무형자산에 적용하기 위해 계속 유지해야 될지를 고려하였다.\n(1) 내용연수 종료 시점에 제3자가 자산을 구입하기로 하는 약정이 있다.\n(2) 그 자산에 대한 활성시장(주10)이 있고 다음을 모두 충족한다.\n(가) 자산의 잔존가치를 그 활성시장에 근거하여 결정할 수 있다.\n(나) 그러한 활성시장이 그 자산의 내용연수 종료 시점에 존재할 가능성이 높다.\n[각주 (주10)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
       "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>을 개정하면서 IASB는 다음 중 하나에 해당하는 경우를 제외하고는, 무형자산의 잔존가치를 영(0)으로 가정하는 개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>의 규정을 내용연수가 유한한 무형자산에 적용하기 위해 계속 유지해야 될지를 고려하였다.\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 내용연수 종료 시점에 제3자가 자산을 구입하기로 하는 약정이 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 그 자산에 대한 활성시장\n      <sup>(주10)</sup>이 있고 다음을 모두 충족한다.    \n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"> 자산의 잔존가치를 그 활성시장에 근거하여 결정할 수 있다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\"> 그러한 활성시장이 그 자산의 내용연수 종료 시점에 존재할 가능성이 높다.</div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주10)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 활성시장을 정의한다.                \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         }
@@ -6062,8 +6216,16 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         },
@@ -6072,7 +6234,7 @@
           "display_text": "문단 BC57(1) 또는 (2)",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "BC57(1) 또는 (2)",
+          "range": "BC57",
           "paragraph_ids": [
             "BC57"
           ]
@@ -6092,7 +6254,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6112,7 +6274,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6154,7 +6316,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6174,7 +6336,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6194,7 +6356,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6241,13 +6403,13 @@
       "section_id": "dFgNMP",
       "section_title": "계약상 권리 또는 기타 법적 권리에 의해 제약받는 내용연수(문단 94~96)",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|무형자산에 대한 후속 회계처리|무형자산의 내용연수(문단 88~96)|계약상 권리 또는 기타 법적 권리에 의해 제약받는 내용연수(문단 94~96)",
-      "text": "공개초안의 의견제출자들은 일반적으로 이러한 결론을 지지하였다. 동의하지 않는 의견제출자들은 다음의 사항을 제안하였다. ⑴ 갱신기간이 특정 조건에 대한 그 기업의 충족여부 뿐만 아니라 제3자의 결정에 종속되는 경우, 제3자의 결정이 갱신원가 뿐만 아니라 갱신할 가능성에도 영향을 미치기 때문에 우발자산이 발생한다. 따라서 갱신이 제3자의 승인에 종속되지 않을 경우에만 내용연수에 갱신을 반영하여야 한다. ⑵ 그러한 규정은 사업결합일에 무형자산(특히 계약상 고객관계)을 측정하는 데 사용되는 기준과 일관되지 않는다. 예를 들어, 계약상 고객관계의 공정가치가 그 계약이 갱신될 가능성을 반영한 금액을 포함하는지는 불분명하다. 갱신의 가능성은 갱신에 요구되는 원가에 상관없이 공정가치를 가질 수 있을 것이다. 이는 계약상 고객관계의 내용연수가 그 고객관계의 공정가치를 결정하는 데 사용되는 기준과 일관되지 않을 수 있다는 것을 의미한다.\n(주11)\n[각주 (주11)] 2011년 5월에 발표된 IFRS 13은 공정가치 측정 요구사항을 포함한다.",
+      "text": "공개초안의 의견제출자들은 일반적으로 이러한 결론을 지지하였다. 동의하지 않는 의견제출자들은 다음의 사항을 제안하였다.\n(1) 갱신기간이 특정 조건에 대한 그 기업의 충족여부 뿐만 아니라 제3자의 결정에 종속되는 경우, 제3자의 결정이 갱신원가 뿐만 아니라 갱신할 가능성에도 영향을 미치기 때문에 우발자산이 발생한다. 따라서 갱신이 제3자의 승인에 종속되지 않을 경우에만 내용연수에 갱신을 반영하여야 한다.\n(2) 그러한 규정은 사업결합일에 무형자산(특히 계약상 고객관계)을 측정하는 데 사용되는 기준과 일관되지 않는다. 예를 들어, 계약상 고객관계의 공정가치가 그 계약이 갱신될 가능성을 반영한 금액을 포함하는지는 불분명하다. 갱신의 가능성은 갱신에 요구되는 원가에 상관없이 공정가치를 가질 수 있을 것이다. 이는 계약상 고객관계의 내용연수가 그 고객관계의 공정가치를 결정하는 데 사용되는 기준과 일관되지 않을 수 있다는 것을 의미한다.(주11)\n[각주 (주11)] 2011년 5월에 발표된 IFRS 13은 공정가치 측정 요구사항을 포함한다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC69\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC69</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">공개초안의 의견제출자들은 일반적으로 이러한 결론을 지지하였다. 동의하지 않는 의견제출자들은 다음의 사항을 제안하였다.</div><div class=\"idt-1\"><div>⑴</div><div>갱신기간이 특정 조건에 대한 그 기업의 충족여부 뿐만 아니라 제3자의 결정에 종속되는 경우, 제3자의 결정이 갱신원가 뿐만 아니라 갱신할 가능성에도 영향을 미치기 때문에 우발자산이 발생한다. 따라서 갱신이 제3자의 승인에 종속되지 않을 경우에만 내용연수에 갱신을 반영하여야 한다.</div></div><div class=\"idt-1\"><div>⑵</div><div>그러한 규정은 사업결합일에 무형자산(특히 계약상 고객관계)을 측정하는 데 사용되는 기준과 일관되지 않는다. 예를 들어, 계약상 고객관계의 공정가치가 그 계약이 갱신될 가능성을 반영한 금액을 포함하는지는 불분명하다. 갱신의 가능성은 갱신에 요구되는 원가에 상관없이 공정가치를 가질 수 있을 것이다. 이는 계약상 고객관계의 내용연수가 그 고객관계의 공정가치를 결정하는 데 사용되는 기준과 일관되지 않을 수 있다는 것을 의미한다.\n    <sup data-id=\"(주11)\">(주11)</sup></div></div><div class=\"idt-2 comment\"><div>(주11)</div><div>2011년 5월에 발표된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치 측정 요구사항을 포함한다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
@@ -6344,8 +6506,16 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRIC 12",
+          "standard_number": null,
+          "standard_title": "민간투자사업",
           "range": null,
           "paragraph_ids": []
         },
@@ -6354,7 +6524,7 @@
           "display_text": "문단 97과 98",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "97과 98",
+          "range": "97,98",
           "paragraph_ids": [
             "97",
             "98"
@@ -6386,7 +6556,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6416,8 +6586,16 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -6447,7 +6625,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6478,7 +6656,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6498,7 +6676,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6528,7 +6706,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6574,13 +6752,13 @@
       "section_id": "zcaAa4",
       "section_title": "내용연수가 비한정인 무형자산에 대한 회계처리(문단 107~110)",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|무형자산에 대한 후속 회계처리|내용연수가 비한정인 무형자산에 대한 회계처리(문단 107~110)",
-      "text": "공개초안에서의 제안과 일관되게 이 기준서에서는 내용연수가 비한정인 무형자산의 상각을 금지한다. 따라서 그러한 자산은 최초 인식 후에 다음 중 하나로 측정한다.\n(1) 원가에서 손상차손누계액을 차감한 금액\n(2) 활성시장\n(주13)을 근거로 결정된 공정가치에서 손상차손누계액을 차감한 금액인 재평가금액\n[각주 (주13)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
+      "text": "공개초안에서의 제안과 일관되게 이 기준서에서는 내용연수가 비한정인 무형자산의 상각을 금지한다. 따라서 그러한 자산은 최초 인식 후에 다음 중 하나로 측정한다.\n(1) 원가에서 손상차손누계액을 차감한 금액\n(2) 활성시장(주13)을 근거로 결정된 공정가치에서 손상차손누계액을 차감한 금액인 재평가금액\n[각주 (주13)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
       "html": "공개초안에서의 제안과 일관되게 이 기준서에서는 내용연수가 비한정인 무형자산의 상각을 금지한다. 따라서 그러한 자산은 최초 인식 후에 다음 중 하나로 측정한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 원가에서 손상차손누계액을 차감한 금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 활성시장\n      <sup>(주13)</sup>을 근거로 결정된 공정가치에서 손상차손누계액을 차감한 금액인 재평가금액    \n    </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주13)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 활성시장을 정의한다.                  \n      </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
@@ -6616,7 +6794,7 @@
         {
           "type": "standard",
           "display_text": "IAS 36",
-          "standard_number": null,
+          "standard_number": "36",
           "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
@@ -6669,7 +6847,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6679,9 +6857,9 @@
           "display_text": "문단 BC25A-BC25G",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "BC25A-BC25G",
+          "range": "BC25A~BC25G",
           "paragraph_ids": [
-            "BC25A-BC25G"
+            "BC25A~BC25G"
           ]
         }
       ],
@@ -6699,8 +6877,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
         },
@@ -6709,9 +6895,9 @@
           "display_text": "문단 BC25A-BC25G",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "BC25A-BC25G",
+          "range": "BC25A~BC25G",
           "paragraph_ids": [
-            "BC25A-BC25G"
+            "BC25A~BC25G"
           ]
         }
       ],
@@ -6751,8 +6937,16 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         },
@@ -6779,7 +6973,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 119",
-          "standard_number": "1038",
+          "standard_number": "1036",
           "standard_title": null,
           "range": "119",
           "paragraph_ids": [
@@ -6801,7 +6995,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 3",
-          "standard_number": null,
+          "standard_number": "3",
           "standard_title": "사업결합",
           "range": null,
           "paragraph_ids": []
@@ -6821,7 +7015,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6841,7 +7035,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6861,8 +7055,16 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
           "range": null,
           "paragraph_ids": []
         }
@@ -6881,7 +7083,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6895,14 +7097,22 @@
       "section_id": "eV7T6Q",
       "section_title": "사업결합으로 취득하고 무형자산으로 인식된 IPR&D 프로젝트에 대한 후속 회계처리",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|사업결합으로 취득하는 연구⋅개발 프로젝트|사업결합으로 취득하고 무형자산으로 인식된 IPR&D 프로젝트에 대한 후속 회계처리",
-      "text": "IASB는 개정 전 IAS 38에서 인식된 모든 무형자산을 최초 인식 후에 다음 중 하나의 금액으로 회계처리하도록 규정하였다는 점을 주목하였다. ⑴ 원가에서 상각누계액과 손상차손누계액을 차감한 금액 ⑵ 재평가일에 활성시장\n(주14)을 근거로 결정된 공정가치에서 이후의 상각누계액과 손상차손누계액을 차감한 금액인 재평가금액 － 사업결합으로 취득하여 영업권과 분리하여 인식하기 위한 조건을 충족하는 IPR&D 프로젝트 － 무형자산으로 인식하기 위한 조건을 충족시키는 개별 취득 IPR&D 프로젝트 － 내부 프로젝트의 개발 또는 개발단계에서 발생하여 인식된 내부 개발 무형자산\n[각주 (주14)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
+      "text": "IASB는 개정 전 IAS 38에서 인식된 모든 무형자산을 최초 인식 후에 다음 중 하나의 금액으로 회계처리하도록 규정하였다는 점을 주목하였다.\n(1) 원가에서 상각누계액과 손상차손누계액을 차감한 금액\n(2) 재평가일에 활성시장(주14)을 근거로 결정된 공정가치에서 이후의 상각누계액과 손상차손누계액을 차감한 금액인 재평가금액 － 사업결합으로 취득하여 영업권과 분리하여 인식하기 위한 조건을 충족하는 IPR&D 프로젝트 － 무형자산으로 인식하기 위한 조건을 충족시키는 개별 취득 IPR&D 프로젝트 － 내부 프로젝트의 개발 또는 개발단계에서 발생하여 인식된 내부 개발 무형자산\n[각주 (주14)] 2011년 5월에 발표된 IFRS 13은 활성시장을 정의한다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC83\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC83</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에서 인식된 모든 무형자산을 최초 인식 후에 다음 중 하나의 금액으로 회계처리하도록 규정하였다는 점을 주목하였다.\n</div><div class=\"idt-1\"><div>⑴</div><div>원가에서 상각누계액과 손상차손누계액을 차감한 금액</div></div><div class=\"idt-1\"><div>⑵</div><div>재평가일에 활성시장\n    <sup data-id=\"(주14)\">(주14)</sup>을 근거로 결정된 공정가치에서 이후의 상각누계액과 손상차손누계액을 차감한 금액인 재평가금액\n  </div></div><div class=\"idt-2 comment\"><div>(주14)</div><div>2011년 5월에 발표된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 활성시장을 정의한다.\n  </div></div><br><div class=\"para\">이러한 자산에는 다음이 포함된다.</div><div class=\"idt-1\"><div>－</div><div>사업결합으로 취득하여 영업권과 분리하여 인식하기 위한 조건을 충족하는 IPR&amp;D 프로젝트</div></div><div class=\"idt-1\"><div>－</div><div>무형자산으로 인식하기 위한 조건을 충족시키는 개별 취득 IPR&amp;D 프로젝트</div></div><div class=\"idt-1\"><div>－</div><div>내부 프로젝트의 개발 또는 개발단계에서 발생하여 인식된 내부 개발 무형자산</div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         }
@@ -6921,7 +7131,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6963,7 +7173,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -6983,7 +7193,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7003,7 +7213,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7023,7 +7233,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7043,8 +7253,24 @@
         {
           "type": "standard",
           "display_text": "IFRS 3",
-          "standard_number": null,
+          "standard_number": "3",
           "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": "8",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
         }
@@ -7063,8 +7289,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 3",
-          "standard_number": null,
+          "standard_number": "3",
           "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         }
@@ -7083,7 +7317,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7118,14 +7352,22 @@
       "section_id": "87s9pM",
       "section_title": "경과규정(문단 129~132)",
       "toc_path": "결론도출근거|IAS 38 ‘무형자산(Intangible Assets)의 결론도출근거|경과규정(문단 129~132)",
-      "text": "두 번째 문제에 대해, IASB는 자산 내용연수의 재평가가 IFRS 전반에서 회계정책의 변경이 아닌 회계추정치의 변경으로 간주된다는 점에 주목하였다. 예를 들어, 이 기준서에 따르면 개정 전 IAS 38에서와 같이 무형자산의 예상 내용연수의 추정치가 과거의 추정치와 유의적으로 다르다면 그러한 변경은 IAS 8에 따라 회계추정치의 변경으로 회계처리되어야 한다. IAS 8에서 회계추정치의 변경은 당기손익의 변동효과를 다음의 기간에 포함시킴으로써 전진적으로 회계처리하도록 규정하고 있다.\n⑴ 추정치의 변경이 당해 기간에만 영향을 미친다면 그 변경된 기간\n⑵ 추정치의 변경이 당해 기간과 미래기간까지 영향을 미친다면 그 변경된 기간과 미래 기간",
+      "text": "두 번째 문제에 대해, IASB는 자산 내용연수의 재평가가 IFRS 전반에서 회계정책의 변경이 아닌 회계추정치의 변경으로 간주된다는 점에 주목하였다. 예를 들어, 이 기준서에 따르면 개정 전 IAS 38에서와 같이 무형자산의 예상 내용연수의 추정치가 과거의 추정치와 유의적으로 다르다면 그러한 변경은 IAS 8에 따라 회계추정치의 변경으로 회계처리되어야 한다. IAS 8에서 회계추정치의 변경은 당기손익의 변동효과를 다음의 기간에 포함시킴으로써 전진적으로 회계처리하도록 규정하고 있다.\n(1) 추정치의 변경이 당해 기간에만 영향을 미친다면 그 변경된 기간\n(2) 추정치의 변경이 당해 기간과 미래기간까지 영향을 미친다면 그 변경된 기간과 미래 기간",
       "html": "두 번째 문제에 대해, IASB는 자산 내용연수의 재평가가 IFRS 전반에서 회계정책의 변경이 아닌 회계추정치의 변경으로 간주된다는 점에 주목하였다. 예를 들어, 이 기준서에 따르면 개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에서와 같이 무형자산의 예상 내용연수의 추정치가 과거의 추정치와 유의적으로 다르다면 그러한 변경은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에 따라 회계추정치의 변경으로 회계처리되어야 한다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에서 회계추정치의 변경은 당기손익의 변동효과를 다음의 기간에 포함시킴으로써 전진적으로 회계처리하도록 규정하고 있다.\n",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": "8",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
         }
@@ -7144,7 +7386,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -7164,7 +7406,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7184,7 +7426,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7204,7 +7446,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7256,7 +7498,7 @@
         {
           "type": "standard",
           "display_text": "IAS 36",
-          "standard_number": null,
+          "standard_number": "36",
           "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
@@ -7309,8 +7551,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 3",
-          "standard_number": null,
+          "standard_number": "3",
           "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         }
@@ -7329,7 +7579,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7352,7 +7602,7 @@
           "display_text": "문단 BC16~BC25",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "BC16~BC25",
+          "range": "BC16~BC26",
           "paragraph_ids": [
             "BC16",
             "BC16A",
@@ -7368,7 +7618,8 @@
             "BC22",
             "BC23",
             "BC24",
-            "BC25"
+            "BC25",
+            "BC26"
           ]
         },
         {
@@ -7402,7 +7653,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -7477,8 +7728,16 @@
         {
           "type": "standard",
           "display_text": "IAS 36",
-          "standard_number": null,
+          "standard_number": "36",
           "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -7491,15 +7750,15 @@
       "section_id": "iFyVoY",
       "section_title": "Geoffrey Whittington 위원의 소수의견",
       "toc_path": "결론도출근거|IAS 38에 대한 소수의견|Geoffrey Whittington 위원의 소수의견",
-      "text": "Whittington 위원은 문단 21⑴의 발생가능성 인식기준이 그 밖의 모든 무형자산에 적용됨에도 불구하고 사업결합으로 취득하는 무형자산에 적용되도록 명백하게 규정하지 않았기 때문에 이 기준서의 발표에 반대한다.",
+      "text": "Whittington 위원은 문단 21(1)의 발생가능성 인식기준이 그 밖의 모든 무형자산에 적용됨에도 불구하고 사업결합으로 취득하는 무형자산에 적용되도록 명백하게 규정하지 않았기 때문에 이 기준서의 발표에 반대한다.",
       "html": "Whittington 위원은 \n  <span class=\"mundan-finder\">문단 21⑴</span>의 발생가능성 인식기준이 그 밖의 모든 무형자산에 적용됨에도 불구하고 사업결합으로 취득하는 무형자산에 적용되도록 명백하게 규정하지 않았기 때문에 이 기준서의 발표에 반대한다.\n",
       "cross_references": [
         {
           "type": "paragraph",
-          "display_text": "문단 21⑴",
+          "display_text": "문단 21(1)",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "21⑴",
+          "range": "21",
           "paragraph_ids": [
             "21"
           ]
@@ -7519,7 +7778,7 @@
         {
           "type": "standard",
           "display_text": "IAS 37",
-          "standard_number": null,
+          "standard_number": "37",
           "standard_title": "충당부채, 우발부채, 우발자산",
           "range": null,
           "paragraph_ids": []
@@ -7529,7 +7788,7 @@
           "display_text": "문단 33과 BC17",
           "standard_number": "1038",
           "standard_title": null,
-          "range": "33과 BC17",
+          "range": "33,BC17",
           "paragraph_ids": [
             "33",
             "BC17"
@@ -7577,7 +7836,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7597,7 +7856,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -7748,6 +8007,132 @@
     "1038": [
       "130J",
       "IE8"
+    ],
+    "17": [
+      "130M"
+    ],
+    "38": [
+      "BC1",
+      "BC2",
+      "BC3",
+      "BC4",
+      "BC6",
+      "BC7",
+      "BC8",
+      "BC9",
+      "BC10",
+      "BC11",
+      "BC14",
+      "BC15",
+      "BC17",
+      "BC19A",
+      "BC19B",
+      "BC19C",
+      "BC19D",
+      "BC26",
+      "BC28",
+      "BCZ30",
+      "BCZ31",
+      "BCZ36",
+      "BCZ37",
+      "BCZ42",
+      "BCZ43",
+      "BCZ44",
+      "BCZ45",
+      "BCZ46",
+      "BC47",
+      "BC48",
+      "BC50",
+      "BC54",
+      "BC55",
+      "BC56",
+      "BC57",
+      "BC58",
+      "BC59",
+      "BC60",
+      "BC63",
+      "BC64",
+      "BC65",
+      "BC72B",
+      "BC72D",
+      "BC72E",
+      "BC72G",
+      "BC72J",
+      "BC72K",
+      "BC77C",
+      "BC77E",
+      "BC79",
+      "BC80",
+      "BC81",
+      "BC82",
+      "BC83",
+      "BC84",
+      "BC86",
+      "BC87",
+      "BC88",
+      "BC89",
+      "BC90",
+      "BC92",
+      "BC94",
+      "BC96",
+      "BC97",
+      "BC98",
+      "BC103",
+      "BCZ110",
+      "DO4",
+      "DO5"
+    ],
+    "3": [
+      "BC2",
+      "BC8",
+      "BC19A",
+      "BC19C",
+      "BC78",
+      "BC81",
+      "BC90",
+      "BC91",
+      "BC102"
+    ],
+    "36": [
+      "BC2",
+      "BCZ36",
+      "BC55",
+      "BC56",
+      "BC75",
+      "BC77E",
+      "BC91",
+      "BC100",
+      "BC102",
+      "BCZ110"
+    ],
+    "13": [
+      "BC17",
+      "BC19A",
+      "BC19D",
+      "BCZ38",
+      "BCZ44",
+      "BC50",
+      "BC57",
+      "BC69",
+      "BC73",
+      "BC83"
+    ],
+    "16": [
+      "BCZ44",
+      "BC58",
+      "BC72E",
+      "BC72I",
+      "BC77B",
+      "BC77C",
+      "BC95",
+      "BCZ104"
+    ],
+    "8": [
+      "BC90",
+      "BC94"
+    ],
+    "37": [
+      "DO2"
     ]
   },
   "qna_index": {

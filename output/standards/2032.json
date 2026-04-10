@@ -1,0 +1,1105 @@
+{
+  "standard_id": "2032",
+  "standard_type": "기업회계기준해석서",
+  "title": "무형자산: 웹 사이트 원가",
+  "url": "https://db.kasb.or.kr/s/2032",
+  "crawled_at": "2026-04-09T23:42:40.971622+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2032/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2032/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "GmWI5i",
+          "href": "/s/2032/GmWI5i",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "i5p95Z",
+          "href": "/s/2032/i5p95Z",
+          "paragraph_range": "한1.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "kq7WD0",
+          "href": "/s/2032/kq7WD0",
+          "paragraph_range": "1 ~ 6",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "5PluEZ",
+          "href": "/s/2032/5PluEZ",
+          "paragraph_range": "7 ~ 10",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "kVqiDc",
+          "href": "/s/2032/kVqiDc",
+          "paragraph_range": "한10.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2032호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "wE7grb",
+          "href": "/s/2032/wE7grb",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "적용사례 실무적용지침",
+      "section_id": "50d7f1b3",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "기업회계기준해석서 제2032호 ‘무형자산: 웹 사이트 원가’의 적용사례",
+          "section_id": "Tjp8bA",
+          "href": "/s/2032/Tjp8bA",
+          "paragraph_range": null,
+          "children": [
+            {
+              "level": 2.0,
+              "title": "적용사례",
+              "section_id": "GuY0lR",
+              "href": "/s/2032/GuY0lR",
+              "paragraph_range": null,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2032/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거",
+          "section_id": "c80HXT",
+          "href": "/s/2032/c80HXT",
+          "paragraph_range": "11 ~ 19",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "결론도출근거",
+              "section_id": "AuPFZC",
+              "href": "/s/2032/AuPFZC",
+              "paragraph_range": "11 ~ 18",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "개념체계에 대한 참조의 개정",
+              "section_id": "XcVYop",
+              "href": "/s/2032/XcVYop",
+              "paragraph_range": "19",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2032/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2032/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2032/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "IE1",
+      "section_id": "GmWI5i",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "- 기업회계기준서 제1001호 ‘재무제표 표시’",
+      "html": "<div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 기업회계기준서 제1001호 ‘재무제표 표시’</div><div class=\"para\">- 기업회계기준서 제1002호 ‘재고자산’</div><div class=\"para\">- 기업회계기준서 제1016호 ‘유형자산’</div><div class=\"para\">- 기업회계기준서 제1036호 ‘자산손상’</div><div class=\"para\">- 기업회계기준서 제1038호 ‘무형자산’</div><div class=\"para\">- 기업회계기준서 제1103호 ‘사업결합’</div><div class=\"para\">- 기업회계기준서 제1115호 '고객과의 계약에서 생기는 수익’</div><div class=\"para\">- 기업회계기준서 제1116호 ‘리스’</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한1.1",
+      "section_id": "i5p95Z",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "kq7WD0",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "내부 또는 외부 접근을 위한 기업 자체의 웹 사이트의 개발과 운영에 내부 지출이 발생할 수 있다. 외부 접근을 위해 설계한 웹 사이트는 다양한 목적으로 사용된다. 예를 들면, 기업 자체의 재화와 용역의 판매촉진 및 광고, 전자적인 용역 제공, 재화와 용역의 판매 등을 위하여 사용된다. 내부 접근을 위해 설계한 웹 사이트는 회사의 정책과 고객의 세부정보를 저장하고 관련 정보의 검색을 위하여 사용될 수 있다.",
+      "html": "내부 또는 외부 접근을 위한 기업 자체의 웹 사이트의 개발과 운영에 내부 지출이 발생할 수 있다. 외부 접근을 위해 설계한 웹 사이트는 다양한 목적으로 사용된다. 예를 들면, 기업 자체의 재화와 용역의 판매촉진 및 광고, 전자적인 용역 제공, 재화와 용역의 판매 등을 위하여 사용된다. 내부 접근을 위해 설계한 웹 사이트는 회사의 정책과 고객의 세부정보를 저장하고 관련 정보의 검색을 위하여 사용될 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "kq7WD0",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "웹 사이트 개발단계는 다음과 같다.\n(1) 계획단계: 실현가능성 연구, 목적과 세부사항 정의, 대안의 평가 및 선택을 포함한다.\n(2) 응용프로그램과 하부구조 개발단계: 도메인 등록, 하드웨어와 운영 소프트웨어의 구매와 개발, 개발한 응용프로그램의 설치와 안정성 테스트를 포함한다.\n(3) 그래픽 디자인 개발단계: 웹 페이지의 외양설계를 포함한다.\n(4) 콘텐츠 개발단계: 웹 사이트 개발이 완료되기 전에 텍스트나 그래픽 속성의 정보를 창출·구매·작성하여 웹 사이트에 올리는 것을 포함한다. 이러한 정보는 웹 사이트에 통합되어 있거나 웹 사이트에서 접근할 수 있는 데이터베이스에 저장되거나 웹 페이지에 직접 코드화될 수 있다.",
+      "html": "웹 사이트 개발단계는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 계획단계: 실현가능성 연구, 목적과 세부사항 정의, 대안의 평가 및 선택을 포함한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 응용프로그램과 하부구조 개발단계: 도메인 등록, 하드웨어와 운영 소프트웨어의 구매와 개발, 개발한 응용프로그램의 설치와 안정성 테스트를 포함한다.\n\t\t\t\t\t</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 그래픽 디자인 개발단계: 웹 페이지의 외양설계를 포함한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑷</div><div class=\"para-num-item-para-con\"> 콘텐츠 개발단계: 웹 사이트 개발이 완료되기 전에 텍스트나 그래픽 속성의 정보를 창출·구매·작성하여 웹 사이트에 올리는 것을 포함한다. 이러한 정보는 웹 사이트에 통합되어 있거나 웹 사이트에서 접근할 수 있는 데이터베이스에 저장되거나 웹 페이지에 직접 코드화될 수 있다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "kq7WD0",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "웹 사이트의 개발이 완료되면 운영 단계가 개시된다. 이 단계에서 기업은 웹 사이트의 응용프로그램, 하부구조, 그래픽 디자인 및 콘텐츠를 유지하고 향상시킨다.",
+      "html": "웹 사이트의 개발이 완료되면 운영 단계가 개시된다. 이 단계에서 기업은 웹 사이트의 응용프로그램, 하부구조, 그래픽 디자인 및 콘텐츠를 유지하고 향상시킨다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "kq7WD0",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "내부 또는 외부 접근을 위한 기업 자체의 웹 사이트의 개발과 운영에 대한 내부 지출을 회계처리할 때 회계논제는 다음과 같다.\n(1) 웹 사이트가 기업회계기준서 제1038호가 적용되는 내부적으로 창출한 무형자산인지의 여부\n(2) 그러한 지출의 적절한 회계처리",
+      "html": "내부 또는 외부 접근을 위한 기업 자체의 웹 사이트의 개발과 운영에 대한 내부 지출을 회계처리할 때 회계논제는 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 웹 사이트가 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div>가 적용되는 내부적으로 창출한 무형자산인지의 여부\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 그러한 지출의 적절한 회계처리</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1038호",
+          "standard_number": "1038",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "kq7WD0",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "이 해석서는 웹 사이트 하드웨어(예: 웹 서버, 스테이징 서버, 프로덕션 서버, 인터넷 연결)의 구매·개발·운영을 위한 지출에는 적용하지 않는다. 이러한 지출은 기업회계기준서 제1016호에 따라 회계처리한다. 또한 기업의 웹 사이트를 호스팅하는 인터넷 서비스 공급자에 대한 지출은 기업회계기준서 제1001호 문단 88과 ‘재무보고를 위한 개념체계’에 따라 용역의 제공시점에 비용으로 인식한다.",
+      "html": "이 해석서는 웹 사이트 하드웨어(예: 웹 서버, 스테이징 서버, 프로덕션 서버, 인터넷 연결)의 구매·개발·운영을 위한 지출에는 적용하지 않는다. 이러한 지출은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">기업회계기준서 제1016호</span></div>에 따라 회계처리한다. 또한 기업의 웹 사이트를 호스팅하는 인터넷 서비스 공급자에 대한 지출은 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div><span class=\"mundan-finder\"> 문단 88</span>과 ‘재무보고를 위한 개념체계’에 따라 용역의 제공시점에 비용으로 인식한다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1016호",
+          "standard_number": "1016",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 88",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "88",
+          "paragraph_ids": [
+            "88"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "kq7WD0",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "기업회계기준서 제1038호는 기업이 통상적인 영업과정에서 판매를 위하여 보유하는 무형자산(기업회계기준서 제1002호와 제1115호 참조)이나 기업회계기준서 제1116호에 따라 회계처리하는 무형자산의 리스에는 적용하지 아니한다. 따라서 이 해석서는 다른 기업에 판매할 목적이거나 기업회계기준서 제1116호에 따라 회계처리하는 웹 사이트(또는 웹 사이트 소프트웨어) 개발과 운영을 위한 지출에는 적용하지 아니한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"6\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">6</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div>는 기업이 통상적인 영업과정에서 판매를 위하여 보유하는 무형자산(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">기업회계기준서 제1002호</span></div>와 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">제1115호 </span></div>참조)이나 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>에 따라 회계처리하는 무형자산의 리스에는 적용하지 아니한다. 따라서 이 해석서는 다른 기업에 판매할 목적이거나 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>에 따라 회계처리하는 웹 사이트(또는 웹 사이트 소프트웨어) 개발과 운영을 위한 지출에는 적용하지 아니한다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1038호",
+          "standard_number": "1038",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1002호",
+          "standard_number": "1002",
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "제1115호",
+          "standard_number": "1115",
+          "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1116호",
+          "standard_number": "1116",
+          "standard_title": "리스",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "5PluEZ",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "기업이 내부 또는 외부 접근을 위해 개발한 자체의 웹 사이트는 기업회계기준서 제1038호가 적용되는 내부적으로 창출한 무형자산이다.",
+      "html": "기업이 내부 또는 외부 접근을 위해 개발한 자체의 웹 사이트는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div>가 적용되는 내부적으로 창출한 무형자산이다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1038호",
+          "standard_number": "1038",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "SSI-38688",
+          "title": "홈페이지 제작비용 무형자산 여부",
+          "url": "/qnas/SSI-38688",
+          "date": "2021-08-24"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "5PluEZ",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "자체적으로 개발한 웹 사이트는 인식과 최초 측정을 규정한 기업회계기준서 제1038호 문단 21에서 설명하고 있는 일반적인 조건뿐만 아니라 기업회계기준서 제1038호 문단 57의 조건을 모두 충족하는 경우에만 무형자산으로 인식한다. 특히, 웹 사이트가 수익을 창출할 수 있을 때(예: 웹 사이트에서 이루어진 주문접수를 통해 수익을 직접 발생시키는 경우) 웹 사이트가 어떻게 미래경제적효익을 창출할지를 제시하도록 하는 기업회계기준서 제1038호 문단 57(4)의 요건을 충족시킬 수 있을 것이다. 기업이 주로 자체의 재화와 용역의 판매촉진과 광고를 위해 웹 사이트를 개발한 경우에는 그 웹 사이트가 어떻게 미래경제적효익을 창출할지를 제시할 수 없다. 따라서 이러한 웹 사이트 개발에 대한 모든 지출은 발생시점에 비용으로 인식한다.",
+      "html": "자체적으로 개발한 웹 사이트는 인식과 최초 측정을 규정한 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 21</span>에서 설명하고 있는 일반적인 조건뿐만 아니라 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 57</span>의 조건을 모두 충족하는 경우에만 무형자산으로 인식한다. 특히, 웹 사이트가 수익을 창출할 수 있을 때(예: 웹 사이트에서 이루어진 주문접수를 통해 수익을 직접 발생시키는 경우) 웹 사이트가 어떻게 미래경제적효익을 창출할지를 제시하도록 하는 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 57⑷</span>의 요건을 충족시킬 수 있을 것이다. 기업이 주로 자체의 재화와\n\t\t\t\t\t\t용역의 판매촉진과 광고를 위해 웹 사이트를 개발한 경우에는 그 웹 사이트가 어떻게 미래경제적효익을 창출할지를 제시할 수 없다. 따라서 이러한 웹 사이트 개발에 대한 모든 지출은 발생시점에\n\t\t\t\t\t\t비용으로 인식한다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1038호",
+          "standard_number": "1038",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 21",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "21",
+          "paragraph_ids": [
+            "21"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 57",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "57",
+          "paragraph_ids": [
+            "57"
+          ]
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "SSI-38688",
+          "title": "홈페이지 제작비용 무형자산 여부",
+          "url": "/qnas/SSI-38688",
+          "date": "2021-08-24"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "5PluEZ",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "기업 자체의 웹 사이트 개발과 운영에 대한 내부 지출은 기업회계기준서 제1038호에 따라 회계처리 한다. 적절한 회계처리를 위하여 지출이 발생한 활동별 성격(예: 직원 교육과 웹 사이트의 유지)과 웹 사이트의 개발단계 및 개발 후 단계를 평가한다. 예를 들면 다음과 같다.\n(1) 계획단계는 기업회계기준서 제1038호 문단 54∼56의 연구단계와 성격이 유사하다. 이 단계에서의 지출은 발생시점에 비용으로 인식한다.\n(2) 응용프로그램과 하부구조 개발단계, 그래픽 디자인 단계, 콘텐츠 개발단계는 콘텐츠가 기업 자체의 재화와 용역의 광고 및 판매촉진 목적으로 개발된 것이 아니라면 기업회계기준서 제1038호 문단 57∼64의 개발단계와 성격이 유사하다. 이러한 단계에서 발생한 지출이 웹 사이트의 창출, 제조 및 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되며 필수적인 경우에는 이 해석서의 문단 8에 따라 무형자산으로 인식하는 웹 사이트의 취득원가에 포함한다. 예를 들면, 특정 웹 사이트를 위하여 콘텐츠(기업 자체의 재화와 용역의 광고 및 판매촉진을 위한 콘텐츠는 제외)를 구매하거나 창출하기 위한 지출 또는 그 웹 사이트에서 콘텐츠의 사용을 가능하게 하는 지출(예: 복제 라이선스를 취득하기 위한 수수료)은 이 조건을 충족하는 경우에 개발원가에 포함한다. 그러나 기업회계기준서 제1038호 문단 71에 따라 과거 재무제표에 비용으로 인식한 무형자산에 대한 지출은 그 이후에 무형자산의 취득원가로 인식할 수 없다(예: 저작권의 취득원가가 완전히 상각되었고 콘텐츠가 그 이후에 웹 사이트에 제공된 경우).\n(3) 콘텐츠 개발단계에서 발생한 지출은, 콘텐츠가 기업 자체의 재화와 용역을 광고하고 판매를 촉진하기 위하여 개발되었다면(예: 재화의 디지털 사진), 기업회계기준서 제1038호 문단 69(3)에 따라 발생시점에 비용으로 인식한다. 예를 들면, 기업 자체 재화의 디지털 사진을 찍거나 사진의 배열을 개선하기 위한 전문용역에 대한 지출은 디지털 사진이 웹 사이트에 배열된 때가 아니라 그러한 전문용역을 제공받은 시점에 비용으로 인식한다.\n(4) 운영단계는 웹 사이트의 개발이 완성되면 개시한다. 이 단계에서 발생한 지출은 기업회계기준서 제1038호 문단 18의 인식조건을 충족하지 못하면 발생시점에 비용으로 인식한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"9\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">9</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">기업 자체의 웹 사이트 개발과 운영에 대한 내부 지출은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div>에 따라 회계처리 한다. 적절한 회계처리를 위하여 지출이 발생한 활동별 성격(예: 직원 교육과 웹 사이트의 유지)과 웹 사이트의 개발단계 및 개발 후 단계를 평가한다. 예를 들면 다음과 같다.\n</div><div class=\"idt-1\"><div>⑴</div><div>계획단계는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 54∼56</span>의 연구단계와 성격이 유사하다. 이 단계에서의 지출은 발생시점에 비용으로 인식한다.\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>응용프로그램과 하부구조 개발단계, 그래픽 디자인 단계, 콘텐츠 개발단계는 콘텐츠가 기업 자체의 재화와 용역의 광고 및 판매촉진 목적으로 개발된 것이 아니라면 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 57∼64</span>의 개발단계와 성격이 유사하다. 이러한 단계에서 발생한 지출이 웹 사이트의 창출, 제조 및 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되며 필수적인 경우에는 이 해석서의 \n    <span class=\"mundan-finder\">문단 8</span>에 따라 무형자산으로 인식하는 웹 사이트의 취득원가에 포함한다. 예를 들면, 특정 웹 사이트를 위하여 콘텐츠(기업 자체의 재화와 용역의 광고 및 판매촉진을 위한 콘텐츠는 제외)를 구매하거나 창출하기 위한 지출 또는 그 웹 사이트에서 콘텐츠의 사용을 가능하게 하는 지출(예: 복제 라이선스를 취득하기 위한 수수료)은 이 조건을 충족하는 경우에 개발원가에 포함한다. 그러나 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 71</span>에 따라 과거 재무제표에 비용으로 인식한 무형자산에 대한 지출은 그 이후에 무형자산의 취득원가로 인식할 수 없다(예: 저작권의 취득원가가 완전히 상각되었고 콘텐츠가 그 이후에 웹 사이트에 제공된 경우).\n  </div></div><div class=\"idt-1\"><div>⑶</div><div>콘텐츠 개발단계에서 발생한 지출은, 콘텐츠가 기업 자체의 재화와 용역을 광고하고 판매를 촉진하기 위하여 개발되었다면(예: 재화의 디지털 사진), \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 69⑶</span>에 따라 발생시점에 비용으로 인식한다. 예를 들면, 기업 자체 재화의 디지털 사진을 찍거나 사진의 배열을 개선하기 위한 전문용역에 대한 지출은 디지털 사진이 웹 사이트에 배열된 때가 아니라 그러한 전문용역을 제공받은 시점에 비용으로 인식한다.\n  </div></div><div class=\"idt-1\"><div>⑷</div><div>운영단계는 웹 사이트의 개발이 완성되면 개시한다. 이 단계에서 발생한 지출은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 18</span>의 인식조건을 충족하지 못하면 발생시점에 비용으로 인식한다.\n  </div></div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1038호",
+          "standard_number": "1038",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 54∼56",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "54∼56",
+          "paragraph_ids": [
+            "54∼56"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 57∼64",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "57∼64",
+          "paragraph_ids": [
+            "57∼64"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 8",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "8",
+          "paragraph_ids": [
+            "8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 71",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "71",
+          "paragraph_ids": [
+            "71"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 69(3)",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "69",
+          "paragraph_ids": [
+            "69"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 18",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "18",
+          "paragraph_ids": [
+            "18"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "5PluEZ",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "이 해석서의 문단 8에 따라 무형자산으로 인식한 웹 사이트는 최초 인식 후에 기업회계기준서 제1038호 문단 72∼87에 따라 측정한다. 웹 사이트 내용연수에 대한 최선의 추정치는 짧아야 한다.",
+      "html": "이 해석서의 \n  \n  <span class=\"mundan-finder\">문단 8</span>에 따라 무형자산으로 인식한 웹 사이트는 최초 인식 후에 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호</span></div><span class=\"mundan-finder\"> 문단 72∼87</span>에 따라 측정한다. 웹 사이트 내용연수에 대한 최선의 추정치는 짧아야 한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1038호",
+          "standard_number": "1038",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 8",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "8",
+          "paragraph_ids": [
+            "8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 72∼87",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "72∼87",
+          "paragraph_ids": [
+            "72∼87"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE2",
+      "section_id": "kVqiDc",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "[한국회계기준원 한국회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 한국회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한10.1",
+      "section_id": "kVqiDc",
+      "section_title": "시행일",
+      "toc_path": "본문|시행일",
+      "text": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.\n2015년 12월에 공표한 기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’에 따라, ‘참조’ 문단과 문단 6을 개정하였다. 이 개정 내용은 기업회계기준서 제1115호를 적용할 때 적용한다.\n2017년 12월에 공표한 기업회계기준서 제1116호에 따라 문단 6을 개정하였다. 이 개정 내용은 기업회계기준서 제1116호를 적용할 때 적용한다.\n2018년에 공표된 ‘한국채택국제회계기준에서 개념체계의 참조에 대한 개정’에 따라 문단 5를 개정하였다. 이 개정 내용은 2020년 1월 1일 이후 최초로 시작되는 회계연도부터 적용한다. ‘한국채택국제회계기준에서 개념체계의 참조에 대한 개정’의 다른 모든 개정 내용들도 동시에 적용한다면 조기 적용할 수 있다. 이 개정 내용은 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’에 따라 소급하여 적용한다. 그러나 소급 적용이 실무적으로 가능하지 않거나 과도한 원가나 노력을 수반한다면, 기업회계기준서 제1008호 문단 23~28, 50~53 및 54F를 참조하여 적용한다.",
+      "html": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.\n2015년 12월에 공표한   \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">기업회계기준서 제1115호</span></div> ‘고객과의 계약에서 생기는 수익’에 따라, ‘참조’ 문단과   \n  <span class=\"mundan-finder\">문단 6</span>을 개정하였다. 이 개정 내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">기업회계기준서 제1115호</span></div>를 적용할 때 적용한다.\n\n2017년 12월에 공표한 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>에 따라 \n  <span class=\"mundan-finder\">문단 6</span>을 개정하였다. 이 개정 내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div>를 적용할 때 적용한다.\n\n2018년에 공표된 ‘한국채택국제회계기준에서 개념체계의 참조에 대한 개정’에 따라 \n  <span class=\"mundan-finder\">문단 5</span>를 개정하였다. 이 개정 내용은 2020년 1월 1일 이후 최초로 시작되는 회계연도부터 적용한다. ‘한국채택국제회계기준에서 개념체계의 참조에 대한 개정’의 다른 모든 개정 내용들도 동시에 적용한다면 조기 적용할 수 있다. 이 개정 내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">기업회계기준서 제1008호</span></div> ‘회계정책, 회계추정치 변경과 오류’에 따라 소급하여 적용한다. 그러나 소급 적용이 실무적으로 가능하지 않거나 과도한 원가나 노력을 수반한다면, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">기업회계기준서 제1008호</span></div><span class=\"mundan-finder\"> 문단 23~28, 50~53 및 54F</span>를 참조하여 적용한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1115호",
+          "standard_number": "1115",
+          "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1116호",
+          "standard_number": "1116",
+          "standard_title": "리스",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1008호",
+          "standard_number": "1008",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 6",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "6",
+          "paragraph_ids": [
+            "6"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 5",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "5",
+          "paragraph_ids": [
+            "5"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 23~28, 50~53 및 54F",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "23~28,50~53,54F",
+          "paragraph_ids": [
+            "23~28",
+            "50~53",
+            "54F"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE6",
+      "section_id": "wE7grb",
+      "section_title": "기업회계기준해석서 제2032호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준해석서 제2032호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준해석서 제2032호의 제정에 대한 회계기준위원회의 의결(2007년)",
+      "html": "<div value=\"웩6\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2032호의 제정에 대한 회계기준위원회의 의결(2007년)</b></div><br><div class=\"para\">기업회계기준해석서 제2032호 ‘무형자산: 웹 사이트 원가’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">이효익(위원장), 서정우(상임위원), 김성남, 윤순석, 최상태, 황성식, 황인태</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE9",
+      "section_id": "GuY0lR",
+      "section_title": "적용사례",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2032호 ‘무형자산: 웹 사이트 원가’의 적용사례|적용사례",
+      "text": "지출 단계/ 성격 회계처리\n\n계획 • 실현가능성 연구 수행 • 하드웨어와 소프트웨어의 세부사항 정의 • 대안 제품과 공급자의 평가 • 선택사항 결정 무형자산기업회계기준서 제1038호 문단 54에 따라 발생시점에 비용으로 인식한다.\n\n응용프로그램과 하부구조 개발 • 하드웨어의 구매 또는 개발 유형자산기업회계기준서 제1016호의 요구사항을 적용한다.\n\n• 도메인 등록 • 운영 소프트웨어 개발(예: 운영 시스템과 서버 소프트웨어) • 응용프로그램의 코드 개발 • 웹 서버에 개발한 응용프로그램 설치 • 안정성 테스트 웹 사이트가 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되지 않으면서 웹 사이트가 무형자산기업회계기준서 제1038호 문단 21과 문단 57(1)의 인식기준을 충족하는 경우가 아닌 한 지출을 발생시점에 비용으로 인식한다.\n\n그래픽 디자인 개발 • 웹 페이지의 외양(예: 화면배치와 색상) 설계 웹 사이트가 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되지 않으면서, 웹 사이트가 무형자산기업회계기준서 제1038호 문단 21과 문단 57(1)의 인식기준을 충족하는 경우가 아닌 한 지출을 발생시점에 비용으로 인식한다.\n\n콘텐츠 개발 • 웹 사이트 개발이 완료되기 전에 텍스트나 그래픽 속성의 정보를 창출·구매·작성(예: 링크 생성과 태그 식별) 및 웹 사이트에 업로드. 콘텐츠의 예는 기업, 판매목적으로 제공되는 재화 또는 용역 및 가입자들이 이용하는 주제들에 대한 정보를 포함한다. 콘텐츠가 기업 자체의 재화와 용역에 대한 광고와 판매촉진을 위해 개발되었다면(예: 재화의 디지털 사진), 무형자산기업회계기준서 제1038호 문단 69(3)에 따라 발생시점에 비용으로 인식한다. 그 외의 경우로서 웹 사이트가 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되지 않으면서, 웹 사이트가 무형자산기업회계기준서 제1038호 문단 21과 문단 57(1)의 인식기준을 충족하는 경우가 아닌 한 지출을 발생시점에 비용으로 인식한다.\n\n운영 • 그래픽 갱신과 콘텐츠 수정 • 새로운 기능, 특성 및 콘텐츠 추가 • 검색엔진에 웹 사이트 등록 • 데이터의 백업 • 보안 접근의 검토 • 웹 사이트 사용 분석 무형자산의 정의와 무형자산기업회계기준서 제1038호 문단 18에 규정되어 있는 인식기준을 충족하는지 평가한다. 충족하는 경우 지출은 웹 사이트 자산의 장부금액으로 인식한다.\n\n기타 • 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되지 않는 판매, 관리, 및 기타 간접비 지출 • 명확히 식별된 비효율로 인한 손실과 웹 사이트가 계획된 성과를 내기 전에 발생한 초기 운영손실(예: 초기 오류 검사) • 웹 사이트를 운영하기 위한 직원의 훈련비 무형자산기업회계기준서 제1038호 문단 65~70에 따라 발생시점에 비용으로 인식한다.\n\n(1)기업이 주로 자체의 재화와 용역의 판매촉진과 광고를 위해 웹 사이트를 개발하는 데 사용된 모든 지출은 무형자산기업회계기준서 제1038호 문단 68에 따라 발생시점에 비용으로 인식한다.\n[각주 (1)] 기업이 주로 자체의 재화와 용역의 판매촉진과 광고를 위해 웹 사이트를 개발하는 데 사용된 모든 지출은 기업회계기준서 제1038호 문단 68에 따라 발생시점에 비용으로 인식한다.",
+      "html": "<table width=\"600px\" style=\"max-width: 600px; margin: 0px auto; border-collapse: collapse; border: 1px solid;\"><colgroup><col width=\"50%\"><col width=\"50%\"></colgroup><tbody><tr><td style=\"font-weight: bold; border: 1px solid; padding: 6px;\">지출 단계/ 성격</td><td style=\"font-weight: bold; border: 1px solid; padding: 6px;\">회계처리</td></tr><tr><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><b>계획</b><br>        • 실현가능성 연구 수행                \n          <br>        • 하드웨어와 소프트웨어의 세부사항 정의                \n          <br>        • 대안 제품과 공급자의 평가                \n          <br>        • 선택사항 결정              \n        </td><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 </span></div><span class=\"mundan-finder\">문단 54</span>에 따라 발생시점에 비용으로 인식한다.      \n        </td></tr><tr><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><b>응용프로그램과 하부구조 개발</b><br>        • 하드웨어의 구매 또는 개발              \n        </td><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">기업회계기준서 제1016호</span></div>의 요구사항을 적용한다.       \n        </td></tr><tr><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\">        • 도메인 등록                \n          <br>        • 운영 소프트웨어 개발(예: 운영 시스템과 서버 소프트웨어)                \n          <br>        • 응용프로그램의 코드 개발                 \n          <br>        • 웹 서버에 개발한 응용프로그램 설치                \n          <br>        • 안정성 테스트              \n        </td><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\">웹 사이트가 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되지 않으면서 웹 사이트가 \n          <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 </span></div><span class=\"mundan-finder\">문단 21과 문단 57(1)</span>의 인식기준을 충족하는 경우가 아닌 한 지출을 발생시점에 비용으로 인식한다.      \n        </td></tr><tr><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><b>그래픽 디자인 개발</b><br>        •  웹 페이지의 외양(예: 화면배치와 색상) 설계              \n        </td><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\">웹 사이트가 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되지 않으면서, 웹 사이트가 \n          <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 </span></div><span class=\"mundan-finder\">문단 21과 문단 57</span><sup class=\"cmt2\">(1)</sup>의 인식기준을 충족하는 경우가 아닌 한 지출을 발생시점에 비용으로 인식한다.      \n        </td></tr><tr><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><b>콘텐츠 개발</b><br>        • 웹 사이트 개발이 완료되기 전에 텍스트나 그래픽 속성의 정보를 창출·구매·작성(예: 링크 생성과 태그 식별) 및 웹 사이트에 업로드. 콘텐츠의 예는 기업, 판매목적으로 제공되는 재화 또는 용역 및 가입자들이 이용하는 주제들에 대한 정보를 포함한다.               \n        </td><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\">콘텐츠가 기업 자체의 재화와 용역에 대한 광고와 판매촉진을 위해 개발되었다면(예: 재화의 디지털 사진), \n          <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 </span></div><span class=\"mundan-finder\">문단 69⑶</span>에 따라 발생시점에 비용으로 인식한다. 그 외의 경우로서 웹 사이트가 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되지 않으면서, 웹 사이트가 \n          <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 </span></div><span class=\"mundan-finder\">문단 21과 문단 57(1)</span>의 인식기준을 충족하는 경우가 아닌 한 지출을 발생시점에 비용으로 인식한다.      \n        </td></tr><tr><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><b>운영</b><br>        • 그래픽 갱신과 콘텐츠 수정                \n          <br>        • 새로운 기능, 특성 및 콘텐츠 추가                \n          <br>        • 검색엔진에 웹 사이트 등록                 \n          <br>        • 데이터의 백업                 \n          <br>        • 보안 접근의 검토                \n          <br>        • 웹 사이트 사용 분석                     \n        </td><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\">무형자산의 정의와 \n          <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 </span></div><span class=\"mundan-finder\">문단 18</span>에 규정되어 있는 인식기준을 충족하는지 평가한다. 충족하는 경우 지출은 웹 사이트 자산의 장부금액으로 인식한다.      \n        </td></tr><tr><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><b>기타</b><br>        • 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련되지 않는 판매, 관리, 및 기타 간접비 지출                \n          <br>        • 명확히 식별된 비효율로 인한 손실과 웹 사이트가 계획된 성과를 내기 전에 발생한 초기 운영손실(예: 초기 오류 검사)                \n          <br>        • 웹 사이트를 운영하기 위한 직원의 훈련비                     \n        </td><td style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 </span></div><span class=\"mundan-finder\">문단 65~70</span>에 따라 발생시점에 비용으로 인식한다.      \n        </td></tr><tr><td colspan=\"2\" style=\"border: 1px solid; line-height: 150%; padding: 6px 8px 6px 6px; text-align: justify; vertical-align: top;\"><div class=\"idt-1 comment cmt2\"><div>⑴</div><div>기업이 주로 자체의 재화와 용역의 판매촉진과 광고를 위해 웹 사이트를 개발하는 데 사용된 모든 지출은 \n              <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 </span></div><span class=\"mundan-finder\">문단 68</span>에 따라 발생시점에 비용으로 인식한다.          \n            </div></div></td></tr></tbody></table>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "AuPFZC",
+      "section_title": "결론도출근거",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|결론도출근거",
+      "text": "IAS 38 문단 8에서 무형자산을 물리적 실체는 없지만 식별할 수 있는 비화폐성자산으로 정의하고 있다. IAS 38 문단 9에서는 컴퓨터소프트웨어를 무형자산의 일반적인 예로 제시하고 있다. 이에서 유추하면 웹 사이트는 무형자산의 또 다른 예가 된다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"11\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">11</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 8</span>에서 무형자산을 물리적 실체는 없지만 식별할 수 있는 비화폐성자산으로 정의하고 있다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 9</span>에서는 컴퓨터소프트웨어를 무형자산의 일반적인 예로 제시하고 있다. 이에서 유추하면 웹 사이트는 무형자산의 또 다른 예가 된다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 8",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "8",
+          "paragraph_ids": [
+            "8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 9",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "9",
+          "paragraph_ids": [
+            "9"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "AuPFZC",
+      "section_title": "결론도출근거",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|결론도출근거",
+      "text": "IAS 38 문단 68에서 문단 18~67의 인식기준을 충족하는 무형자산 원가의 일부에 해당하지 않는 무형항목 관련 지출은 발생시점에 비용으로 인식하여야 한다고 규정하고 있다. IAS 38 문단 69에서는 사업개시활동에 대한 지출을 발생시점에 비용으로 인식하여야 한다고 규정하고 있다. 내부나 외부의 접근을 위해 자신의 웹 사이트를 개발하는 기업은 내부적으로 창출하고 있는 무형자산에 대해서는 사업개시활동을 하는 것이 아니다. IAS 38 문단 21에 기술되어 있는 무형자산의 인식과 최초 측정에 관한 일반적인 요구사항과 더불어 IAS 38 문단 52~67의 요구사항과 지침은 기업 자신의 웹 사이트 개발 시 발생한 지출에 적용된다. IAS 38 문단 65~67에 기술된 것과 같이 내부적으로 창출한 무형자산으로 인식된 웹 사이트의 원가는 자산의 창출, 제조 및 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 필요한 직접 관련된 모든 지출을 포함한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"12\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">12</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 68에서 문단 18~67</span>의 인식기준을 충족하는 무형자산 원가의 일부에 해당하지 않는 무형항목 관련 지출은 발생시점에 비용으로 인식하여야 한다고 규정하고 있다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 69</span>에서는 사업개시활동에 대한 지출을 발생시점에 비용으로 인식하여야 한다고 규정하고 있다. 내부나 외부의 접근을 위해 자신의 웹 사이트를 개발하는 기업은 내부적으로 창출하고 있는 무형자산에 대해서는 사업개시활동을 하는 것이 아니다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 21</span>에 기술되어 있는 무형자산의 인식과 최초 측정에 관한 일반적인 요구사항과 더불어 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 52~67</span>의 요구사항과 지침은 기업 자신의 웹 사이트 개발 시 발생한 지출에 적용된다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 65~67</span>에 기술된 것과 같이 내부적으로 창출한 무형자산으로 인식된 웹 사이트의 원가는 자산의 창출, 제조 및 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 필요한 직접 관련된 모든 지출을 포함한다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 68에서 문단 18~67",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "68,18~67",
+          "paragraph_ids": [
+            "68",
+            "18~67"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 69",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "69",
+          "paragraph_ids": [
+            "69"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 21",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "21",
+          "paragraph_ids": [
+            "21"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 52~67",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "52~67",
+          "paragraph_ids": [
+            "52~67"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 65~67",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "65~67",
+          "paragraph_ids": [
+            "65~67"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "AuPFZC",
+      "section_title": "결론도출근거",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|결론도출근거",
+      "text": "IAS 38 문단 54에서 연구(또는 내부 프로젝트의 연구단계)에 대한 지출은 발생시점에 비용으로 인식하여야 한다고 규정하고 있다. IAS 38 문단 56에서 제시된 예는 웹 사이트 개발의 계획단계에서 수행되는 활동들과 유사하다. 결과적으로 웹 사이트 개발의 계획단계에서 발생하는 지출은 발생시점에 비용으로 인식한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 54</span>에서 연구(또는 내부 프로젝트의 연구단계)에 대한 지출은 발생시점에 비용으로 인식하여야 한다고 규정하고 있다.   \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 56</span>에서 제시된 예는 웹 사이트 개발의 계획단계에서 수행되는 활동들과 유사하다. 결과적으로 웹 사이트 개발의 계획단계에서 발생하는 지출은 발생시점에 비용으로 인식한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 54",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "54",
+          "paragraph_ids": [
+            "54"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 56",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "56",
+          "paragraph_ids": [
+            "56"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "AuPFZC",
+      "section_title": "결론도출근거",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|결론도출근거",
+      "text": "IAS 38 문단 57에서는 여섯 가지의 특정 기준이 모두 충촉됨을 제시할 수 있는 경우에만 내부 프로젝트의 개발단계에서 발생한 무형자산을 인식하도록 규정하고 있다. 그 기준들 중 하나는 웹 사이트가 미래경제적효익을 창출하는 방법(IAS 38 문단 57(4))을 제시하는 것이다. IAS 38 문단 60에서는 웹 사이트로부터 유입될 경제적효익을 평가하고 그 웹 사이트를 계속 사용함에 따른 추정 미래현금흐름의 현재가치를 고려하는 IAS 36의 원칙을 이용함으로써 그러한 기준이 충족될 수 있다는 것을 보여주고 있다. IAS 38 문단 17에서 기술한 것과 같이 무형자산의 미래경제적효익은 제품의 매출, 용역수익, 원가절감 또는 자산의 사용에 따른 기타 효익의 형태로 발생할 수 있다. 따라서 웹 사이트의 미래경제적효익은 웹 사이트가 수익을 창출할 수 있을 때 평가할 수 있다. 기업이 주로 자체의 재화와 용역의 판매촉진과 광고를 위해 개발한 웹 사이트는 그 기업이 미래경제적효익의 발생을 제시할 수 없으므로 무형자산으로 인식되지 않는다. 결과적으로 기업이 주로 자체의 재화와 용역의 판매촉진과 광고를 위한 웹 사이트를 개발하는 데 쓰인 모든 지출은 발생시점에 비용으로 인식한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 57</span>에서는 여섯 가지의 특정 기준이 모두 충촉됨을 제시할 수 있는 경우에만 내부 프로젝트의 개발단계에서 발생한 무형자산을 인식하도록 규정하고 있다. 그 기준들 중 하나는 웹 사이트가 미래경제적효익을 창출하는 방법(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 57⑷</span>)을 제시하는 것이다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 60</span>에서는 웹 사이트로부터 유입될 경제적효익을 평가하고 그 웹 사이트를 계속 사용함에 따른 추정 미래현금흐름의 현재가치를 고려하는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>의 원칙을 이용함으로써 그러한 기준이 충족될 수 있다는 것을 보여주고 있다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 17</span>에서 기술한 것과 같이 무형자산의 미래경제적효익은 제품의 매출, 용역수익, 원가절감 또는 자산의 사용에 따른 기타 효익의 형태로 발생할 수 있다. 따라서 웹 사이트의 미래경제적효익은 웹 사이트가 수익을 창출할 수 있을 때 평가할 수 있다. 기업이 주로 자체의 재화와 용역의 판매촉진과 광고를 위해 개발한 웹 사이트는 그 기업이 미래경제적효익의 발생을 제시할 수 없으므로 무형자산으로 인식되지 않는다. 결과적으로 기업이 주로 자체의 재화와 용역의 판매촉진과 광고를 위한 웹 사이트를 개발하는 데 쓰인 모든 지출은 발생시점에 비용으로 인식한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 57",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "57",
+          "paragraph_ids": [
+            "57"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 60",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "60",
+          "paragraph_ids": [
+            "60"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 17",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "17",
+          "paragraph_ids": [
+            "17"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "AuPFZC",
+      "section_title": "결론도출근거",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|결론도출근거",
+      "text": "IAS 38 문단 21에 의하면 무형자산은 특정 기준을 충족하는 경우에만 인식한다. IAS 38 문단 65에서는 내부적으로 창출한 무형자산의 원가가 그 무형자산이 특정 인식기준을 최초로 충족한 이후에 발생한 지출금액의 합계임을 보여주고 있다. 콘텐츠를 기업 자체의 재화와 용역의 광고 및 판매촉진 이외의 목적으로 취득하거나 창출한 경우 웹 사이트와 분리하여 무형자산(예: 라이선스나 저작권)으로 식별하는 것이 가능할 수 있다. 그러나 지출이 웹 사이트의 창출, 제조 및 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련된다면 별도의 자산을 인식하지 않고 웹 사이트의 개발원가에 포함한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"15\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">15</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 21</span>에 의하면 무형자산은 특정 기준을 충족하는 경우에만 인식한다. IAS 38 문단 65에서는 내부적으로 창출한 무형자산의 원가가 그 무형자산이 특정 인식기준을 최초로 충족한 이후에 발생한 지출금액의 합계임을 보여주고 있다. 콘텐츠를 기업 자체의 재화와 용역의 광고 및 판매촉진 이외의 목적으로 취득하거나 창출한 경우 웹 사이트와 분리하여 무형자산(예: 라이선스나 저작권)으로 식별하는 것이 가능할 수 있다. 그러나 지출이 웹 사이트의 창출, 제조 및 경영자가 의도하는 방식으로 운영될 수 있게 준비하는 데 직접 관련된다면 별도의 자산을 인식하지 않고 웹 사이트의 개발원가에 포함한다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 21",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "21",
+          "paragraph_ids": [
+            "21"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "AuPFZC",
+      "section_title": "결론도출근거",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|결론도출근거",
+      "text": "IAS 38 문단 69(3)에서 광고와 판매촉진 활동을 위한 지출은 발생시점에 비용으로 인식하도록 규정하고 있다. 기업 자체의 재화와 용역을 광고하고 판매를 촉진하는 콘텐츠(예: 재화의 디지털 사진)를 개발하는 데 발생한 지출은 광고와 판매촉진 활동이므로 발생시점에 비용으로 인식한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 69⑶</span>에서 광고와 판매촉진 활동을 위한 지출은 발생시점에 비용으로 인식하도록 규정하고 있다. 기업 자체의 재화와 용역을 광고하고 판매를 촉진하는 콘텐츠(예: 재화의 디지털 사진)를 개발하는 데 발생한 지출은 광고와 판매촉진 활동이므로 발생시점에 비용으로 인식한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 69(3)",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "69",
+          "paragraph_ids": [
+            "69"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "17",
+      "section_id": "AuPFZC",
+      "section_title": "결론도출근거",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|결론도출근거",
+      "text": "웹 사이트의 개발이 종료되면 기업은 운영단계에 기술된 활동을 시작한다. 기업 자체의 웹 사이트를 향상시키거나 유지하는 후속지출은 IAS 38 문단 18의 인식기준을 충족시키지 않는다면 발생시점에 비용으로 인식한다. IAS 38 문단 20은 대부분의 후속지출이 IAS 38에 규정된 인식기준과 무형자산의 정의를 충족시키기보다는 기존 무형자산의 미래경제적효익을 유지하기 위한 것일 가능성이 높다고 설명하고 있다. 또한 취득이나 완성 후의 지출을 사업 전체가 아닌 특정 무형자산에 직접 귀속시키기 어려운 경우가 많다. 그러므로 후속지출(예: 취득한 무형자산의 최초 인식 후 또는 내부적으로 창출한 무형자산의 완성 후 발생한 지출)이 자산의 장부금액으로 인식되는 경우는 매우 드물다.(주1)\n[각주 (주1)] 2004년에 IFRS 3에 의해 새로운 내용이 추가되었다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"17\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">17</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">웹 사이트의 개발이 종료되면 기업은 운영단계에 기술된 활동을 시작한다. 기업 자체의 웹 사이트를 향상시키거나 유지하는 후속지출은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 18</span>의 인식기준을 충족시키지 않는다면 발생시점에 비용으로 인식한다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 20</span>은 대부분의 후속지출이 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에 규정된 인식기준과 무형자산의 정의를 충족시키기보다는 기존 무형자산의 미래경제적효익을 유지하기 위한 것일 가능성이 높다고 설명하고 있다. 또한 취득이나 완성 후의 지출을 사업 전체가 아닌 특정 무형자산에 직접 귀속시키기 어려운 경우가 많다. 그러므로 후속지출(예: 취득한 무형자산의 최초 인식 후 또는 내부적으로 창출한 무형자산의 완성 후 발생한 지출)이 자산의 장부금액으로 인식되는 경우는 매우 드물다.\n  <sup data-id=\"(주1)\">(주1)</sup></div><div class=\"idt-1 comment\"><div>(주1)</div><div>2004년에 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div>에 의해 새로운 내용이 추가되었다.  \n  </div></div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 18",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "18",
+          "paragraph_ids": [
+            "18"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 20",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "20",
+          "paragraph_ids": [
+            "20"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주1",
+          "display_text": "(주1)"
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "section_id": "AuPFZC",
+      "section_title": "결론도출근거",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|결론도출근거",
+      "text": "무형자산은 최초인식 후 IAS 38 문단 72~87의 요구사항을 적용하여 측정한다. IAS 38 문단 75의 재평가모형은 무형자산의 공정가치가 활성시장(주2)을 참조하여 결정될 수 있을 때에만 적용되고 있다. 그러나 웹 사이트에 대한 활성시장은 존재할 가능성이 낮으므로 원가모형이 적용된다. 추가적으로 IAS 38 문단 92에 언급한 바와 같이 많은 무형자산은 기술적 진부화의 영향을 받기 쉽고 과거 경험상 기술변화가 빠르기 때문에 웹 사이트의 내용연수는 짧을 것이다.\n[각주 (주2)] 2011년 5월에 발표된 IFRS 13은 공정가치를 정의하고 공정가치 측정 요구사항을 포함한다. IFRS 13은 활성시장을 정의한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"18\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">18</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">무형자산은 최초인식 후 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 72~87</span>의 요구사항을 적용하여 측정한다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 75</span>의 재평가모형은 무형자산의 공정가치가 활성시장\n  <sup data-id=\"(주2)\">(주2)</sup>을 참조하여 결정될 수 있을 때에만 적용되고 있다. 그러나 웹 사이트에 대한 활성시장은 존재할 가능성이 낮으므로 원가모형이 적용된다. 추가적으로 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div><span class=\"mundan-finder\"> 문단 92</span>에 언급한 바와 같이 많은 무형자산은 기술적 진부화의 영향을 받기 쉽고 과거 경험상 기술변화가 빠르기 때문에 웹 사이트의 내용연수는 짧을 것이다.\n</div><div class=\"idt-1 comment\"><div>(주2)</div><div>2011년 5월에 발표된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치를 정의하고 공정가치 측정 요구사항을 포함한다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 활성시장을 정의한다.\n  </div></div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 72~87",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "72~87",
+          "paragraph_ids": [
+            "72~87"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 75",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "75",
+          "paragraph_ids": [
+            "75"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 92",
+          "standard_number": "2032",
+          "standard_title": null,
+          "range": "92",
+          "paragraph_ids": [
+            "92"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주2",
+          "display_text": "(주2)"
+        }
+      ]
+    },
+    {
+      "number": "19",
+      "section_id": "XcVYop",
+      "section_title": "개념체계에 대한 참조의 개정",
+      "toc_path": "결론도출근거|SIC 32 ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’의 결론도출근거|개념체계에 대한 참조의 개정",
+      "text": "IASB는 전면개정된 ’개념체계‘(2018)의 공표에 따라 ’IFRS에서 개념체계의 참조에 대한 개정‘을 공표하였다. 이에 따라, SIC-32 문단 5의 ’재무제표의 작성과 표시를 위한 개념체계‘(2001)에 대한 참조를 ’개념체계‘(2018)에 대한 참조로 대체하였다. IASB는 위 대체가 이 해석서를 적용하는 데 유의한 영향을 미치지 않을 것으로 기대한다. 문단 5에서는 이 해석서의 적용범위에서 제외된 지출에 대한 회계처리를 기술한다. 또한 이 문단은 이러한 유형의 지출(기업의 웹사이트를 호스팅하는 인터넷 서비스 공급자에 대한 지출)을 비용으로 인식하라고 기술한다. 따라서 이번 개정이 회계처리에 미치는 영향은 없을 것이다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"19\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">19</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 전면개정된 ’개념체계‘(2018)의 공표에 따라 ’IFRS에서 개념체계의 참조에 대한 개정‘을 공표하였다. 이에 따라, SIC-32 문단 5의 ’재무제표의 작성과 표시를 위한 개념체계‘(2001)에 대한 참조를 ’개념체계‘(2018)에 대한 참조로 대체하였다. IASB는 위 대체가 이 해석서를 적용하는 데 유의한 영향을 미치지 않을 것으로 기대한다. 문단 5에서는 이 해석서의 적용범위에서 제외된 지출에 대한 회계처리를 기술한다. 또한 이 문단은 이러한 유형의 지출(기업의 웹사이트를 호스팅하는 인터넷 서비스 공급자에 대한 지출)을 비용으로 인식하라고 기술한다. 따라서 이번 개정이 회계처리에 미치는 영향은 없을 것이다.</div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2032호와 국제회계기준해석 제32호(SIC 32) 기업회계기준해석서 제2032호는 상설해석위원회가 제정한 국제회계기준해석 제32호(SIC 32) ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한10.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 해석서를 적용하게 됨에 따라 시행일과 관련된 문단이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제회계기준해석 제32호(SIC 32)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2032호가 SIC 32의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2032호를 준수하면 동시에 SIC 32를 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2032호와 국제회계기준해석 제32호(SIC 32)</h3>\n<p>기업회계기준해석서 제2032호는 상설해석위원회가 제정한 국제회계기준해석 제32호(SIC 32) ‘무형자산: 웹 사이트 원가(Intangible Assets-Web Site Costs)’에 대응하는 해석이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한1.1과 한10.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 해석서를 적용하게 됨에 따라 시행일과 관련된 문단이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제회계기준해석 제32호(SIC 32)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2032호가 SIC 32의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2032호를 준수하면 동시에 SIC 32를 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 ‘무형자산: 웹 사이트 원가’에 대한 해석을 제공하기 위하여 필요한 사항을 정하고 있다. ### 1. 회계논제 내부 또는 외부 접근을 위한 기업 자체의 웹 사이트의 개발과 운영에 대한 내부 지출을 회계처리 할 때 회계논제는 다음과 같다. ### 2. 결론 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 ‘무형자산: 웹 사이트 원가’에 대한 해석을 제공하기 위하여 필요한 사항을 정하고 있다.</p>\n<h3>1. 회계논제</h3>\n<p>내부 또는 외부 접근을 위한 기업 자체의 웹 사이트의 개발과 운영에 대한 내부 지출을 회계처리 할 때 회계논제는 다음과 같다.</p>\n<h3>2. 결론</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제정하였다. \n\n| 제정․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2007.11.23. 제정 | ‘무형자산: 웹 사이트 원가’ | SIC 32 Intangible Assets-Web Site Costs |\n\n이 해석서는 다른 기준서의 제정⋅개정에 따라 다음과 같이 개정되었다. \n\n| 제정․개정일자 | 다른 기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2018.11.14. 개정 | 한국채택국제회계기준에서 개념체계의 참조에 대한 개정 | Amendments to References to the Conceptual Framework in IFRS Standards |\n| 2017.5.22. 제정 | 기업회계기준서 제1116호 ‘리스’ | IFRS 16 Leases |\n| 2015.11.6. 제정 | 기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’ | IFRS 15 Revenue from Contracts with Customers |\n| 2011.11.18. 제정 | 기업회계기준서 제1113호 ‘공정가치 측정’ | IFRS 13 Fair Value Measurement |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 0pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; font-weight: 400; font-style: normal; color: rgb(0, 0, 0); font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"margin: 0px; padding: 0px; position: relative;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; text-align: justify; text-indent: -80px; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 138px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 28.8px;\">제정․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 172px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 28.8px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 247px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 138px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">2007.11.23. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 172px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">‘무형자산: 웹 사이트 원가’</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 247px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">SIC 32</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-style: italic; line-height: 20.8px;\">&nbsp;Intangible Assets-Web Site Costs</span></p></td></tr></tbody></table>\n<p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">이 해석서는 다른 기준서의 제정⋅개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 28.8px;\">제정․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 195px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 28.8px;\">다른 기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 251px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 28.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">2018.11.14. 개정</span></p><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span class=\"hnc_page_break\" style=\"margin: 0px; padding: 0px; word-spacing: -0.5em;\">&nbsp;</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 195px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">한국채택국제회계기준에서 개념체계의 참조에 대한 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 251px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">Amendments to References to the Conceptual Framework in IFRS Standards</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 43px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">2017.5.22. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 195px; height: 43px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">기업회계기준서 제1116호 ‘리스’</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 251px; height: 43px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">IFRS 16 </span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-style: italic; line-height: 20.8px;\">Leases</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">2015.11.6. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 195px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 251px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 0px; padding: 0px; text-align: justify; text-indent: 2.6pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">IFRS 15</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-style: italic; line-height: 20.8px;\"> Revenue from Contracts with Customers</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px 0pt 60pt; padding: 0px; text-align: center; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">2011.11.18. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 195px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: -60pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">기업회계기준서 제1113호</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\"> ‘공정가치 측정’</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 251px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 0px; padding: 0px; text-align: justify; text-indent: 2.6pt; line-height: 20.8px; font-size: 12pt; font-family: 휴먼명조; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; line-height: 20.8px;\">IFRS 13</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-style: italic; line-height: 20.8px;\"> Fair Value Measurement</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1038": [
+      "4",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "1016": [
+      "5"
+    ],
+    "1001": [
+      "5"
+    ],
+    "1002": [
+      "6"
+    ],
+    "1115": [
+      "6",
+      "한10.1"
+    ],
+    "1116": [
+      "6",
+      "한10.1"
+    ],
+    "1008": [
+      "한10.1"
+    ],
+    "38": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "36": [
+      "14"
+    ],
+    "3": [
+      "17"
+    ],
+    "13": [
+      "18"
+    ]
+  },
+  "qna_index": {
+    "SSI-38688": [
+      "7",
+      "8"
+    ]
+  }
+}

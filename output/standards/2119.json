@@ -1,0 +1,1669 @@
+{
+  "standard_id": "2119",
+  "standard_type": "기업회계기준해석서",
+  "title": "지분상품에 의한 금융부채의 소멸",
+  "url": "https://db.kasb.or.kr/s/2119",
+  "crawled_at": "2026-04-09T23:52:14.076599+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2119/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2119/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "ygjvhz",
+          "href": "/s/2119/ygjvhz",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "배경",
+          "section_id": "Xi7rdn",
+          "href": "/s/2119/Xi7rdn",
+          "paragraph_range": "1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "rwJJXS",
+          "href": "/s/2119/rwJJXS",
+          "paragraph_range": "한2.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "OWjm4x",
+          "href": "/s/2119/OWjm4x",
+          "paragraph_range": "2 ~ 3",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "h1wZk0",
+          "href": "/s/2119/h1wZk0",
+          "paragraph_range": "4",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "t9t1Fv",
+          "href": "/s/2119/t9t1Fv",
+          "paragraph_range": "5 ~ 11",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "시행일과 경과규정",
+          "section_id": "EsKcBG",
+          "href": "/s/2119/EsKcBG",
+          "paragraph_range": "한12.1 ~ 17",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2119호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "a7Jy2j",
+          "href": "/s/2119/a7Jy2j",
+          "paragraph_range": "BC1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2119/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거",
+          "section_id": "ldXFOy",
+          "href": "/s/2119/ldXFOy",
+          "paragraph_range": "BC1 ~ BC34",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "도입",
+              "section_id": "MPg9ox",
+              "href": "/s/2119/MPg9ox",
+              "paragraph_range": "BC1 ~ BC5",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "적용범위",
+              "section_id": "qMcxra",
+              "href": "/s/2119/qMcxra",
+              "paragraph_range": "BC6 ~ BC34",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "발행자의 지분상품이 ‘지급한 대가’인가?",
+                  "section_id": "TopMVw",
+                  "href": "/s/2119/TopMVw",
+                  "paragraph_range": "BC10 ~ BC14",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "지분상품이 어떻게 측정되어야 하는가?",
+                  "section_id": "MylwOX",
+                  "href": "/s/2119/MylwOX",
+                  "paragraph_range": "BC15 ~ BC23",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "금융부채의 장부금액과 지급한 대가의 차이를 어떻게 회계처리해야 하는가?",
+                  "section_id": "971NDF",
+                  "href": "/s/2119/971NDF",
+                  "paragraph_range": "BC24",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "전부 소멸",
+                  "section_id": "mL94bk",
+                  "href": "/s/2119/mL94bk",
+                  "paragraph_range": "BC25 ~ BC27",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "부분 소멸",
+                  "section_id": "yueVS8",
+                  "href": "/s/2119/yueVS8",
+                  "paragraph_range": "BC28 ~ BC31",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "표시",
+                  "section_id": "P0wTkS",
+                  "href": "/s/2119/P0wTkS",
+                  "paragraph_range": "BC32",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "경과규정",
+                  "section_id": "ylkCMs",
+                  "href": "/s/2119/ylkCMs",
+                  "paragraph_range": "BC33",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "해석서 초안에서 변경된 주요 사항의 요약",
+                  "section_id": "8zpVT8",
+                  "href": "/s/2119/8zpVT8",
+                  "paragraph_range": "BC34",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2119/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2119/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2119/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "IE1",
+      "section_id": "ygjvhz",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "- 재무제표의 작성과 표시를 위한 개념체계(주1)\n[각주 (주1)] 2010년 9월에 IASB는 이 framework을 ‘재무보고를 위한 개념체계’로 대체하였다.",
+      "html": "<div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 재무제표의 작성과 표시를 위한 개념체계\n  <sup data-id=\"(주1)\">(주1)</sup></div><div class=\"para\">- 기업회계기준서 제1102호 ‘주식기준보상’</div><div class=\"para\">- 기업회계기준서 제1103호 ‘사업결합’</div><div class=\"para\">- 기업회계기준서 제1001호 ‘재무제표 표시’</div><div class=\"para\">- 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’</div><div class=\"para\">- 기업회계기준서 제1032호 ‘금융상품: 표시’</div><div class=\"para\">- 기업회계기준서 제1109호 ‘금융상품’</div><div class=\"para\">- 기업회계기준서 제1113호 ‘공정가치 측정’</div><br><div class=\"idt-2 comment\"><div>(주1)</div><div>2010년 9월에 IASB는 이 \n    <i>framework</i>을 ‘재무보고를 위한 개념체계’로 대체하였다.\n  </div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주1",
+          "display_text": "(주1)"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "section_id": "Xi7rdn",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "채무자와 채권자가 금융부채의 조건을 재협상한 결과, 채무자가 채권자에게 지분상품을 발행하여 금융부채의 전부 또는 일부를 소멸시키게 될 수 있다. 이러한 거래를 ‘출자전환’이라고도 한다. 국제재무보고기준해석위원회는 이러한 거래의 회계처리 지침에 대한 요청을 받았다.",
+      "html": "채무자와 채권자가 금융부채의 조건을 재협상한 결과, 채무자가 채권자에게 지분상품을 발행하여 금융부채의 전부 또는 일부를 소멸시키게 될 수 있다. 이러한 거래를 ‘출자전환’이라고도 한다. 국제재무보고기준해석위원회는 이러한 거래의 회계처리 지침에 대한 요청을 받았다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한2.1",
+      "section_id": "rwJJXS",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 해석서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "OWjm4x",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 금융부채 조건의 재협상 결과 금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 지분상품을 발행하는 기업의 회계처리를 다룬다. 이 해석서는 채권자의 회계처리를 다루지 않는다.",
+      "html": "이 해석서는 금융부채 조건의 재협상 결과 금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 지분상품을 발행하는 기업의 회계처리를 다룬다. 이 해석서는 채권자의 회계처리를 다루지 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "OWjm4x",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 다음 상황의 거래에 적용하지 않는다.\n(1) 직접적인 또는 간접적인 주주이기도 한 채권자가 직접적인 또는 간접적인 기존 주주로서의 자격에서 행동한다.\n(2) 채권자와 채무자가 거래 전후로 하나 이상의 동일한 당사자에 의해 지배되며, 거래의 실질이 채무자의 지분 분배나 채무자에 대한 출자를 포함한다.\n(3) 주식을 발행하여 금융부채를 소멸시키는 것이 금융부채의 최초 조건에 따른 것이다.",
+      "html": "이 해석서는 다음 상황의 거래에 적용하지 않는다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 직접적인 또는 간접적인 주주이기도 한 채권자가 직접적인 또는 간접적인 기존 주주로서의 자격에서 행동한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 채권자와 채무자가 거래 전후로 하나 이상의 동일한 당사자에 의해 지배되며, 거래의 실질이 채무자의 지분 분배나 채무자에 대한 출자를 포함한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 주식을 발행하여 금융부채를 소멸시키는 것이 금융부채의 최초 조건에 따른 것이다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "h1wZk0",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "이 해석서는 다음의 회계논제를 다룬다.\n(1) 금융부채의 전부 또는 일부를 소멸시키기 위하여 발행된 지분상품이 기업회계기준서 제1109호의 문단 3.3.3에 따른 ‘지급한 대가’인가?\n(2) 그러한 금융부채를 소멸시키기 위하여 발행된 지분상품을 최초에 어떻게 측정해야 하는가?\n(3) 소멸된 금융부채의 장부금액과 발행된 지분상품의 최초 측정금액의 차이를 어떻게 회계처리해야 하는가?",
+      "html": "이 해석서는 다음의 회계논제를 다룬다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 금융부채의 전부 또는 일부를 소멸시키기 위하여 발행된 지분상품이 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>의 \n      \n      <span class=\"mundan-finder\">문단 3.3.3</span>에 따른 ‘지급한 대가’인가?\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 그러한 금융부채를 소멸시키기 위하여 발행된 지분상품을 최초에 어떻게 측정해야 하는가?</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 소멸된 금융부채의 장부금액과 발행된 지분상품의 최초 측정금액의 차이를 어떻게 회계처리해야 하는가?</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3.3.3",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "3.3.3",
+          "paragraph_ids": [
+            "3.3.3"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "t9t1Fv",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 발행한 지분상품은 기업회계기준서 제1109호 문단 3.3.3에 따른 지급한 대가이다. 기업회계기준서 제1109호 문단 3.3.1에 따라 금융부채가 소멸되는 경우에만 재무상태표에서 해당 금융부채(또는 금융부채의 일부)를 제거한다.",
+      "html": "금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 발행한 지분상품은 \n      \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div><span class=\"mundan-finder\"> 문단 3.3.3</span>에 따른 지급한 대가이다. \n      \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div><span class=\"mundan-finder\"> 문단 3.3.1</span>에 따라 금융부채가 소멸되는 경우에만 재무상태표에서 해당 금융부채(또는 금융부채의 일부)를 제거한다.\n\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3.3.3",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "3.3.3",
+          "paragraph_ids": [
+            "3.3.3"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3.3.1",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "3.3.1",
+          "paragraph_ids": [
+            "3.3.1"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "t9t1Fv",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 발행한 지분상품을 최초에 인식할 때, 해당 지분상품의 공정가치를 신뢰성 있게 측정할 수 없는 경우가 아니라면, 공정가치로 측정한다.",
+      "html": "금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 발행한 지분상품을 최초에 인식할 때, 해당 지분상품의 공정가치를 신뢰성 있게 측정할 수 없는 경우가 아니라면, 공정가치로 측정한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-38595",
+          "title": "전환사채 중도 전환시 회계처리",
+          "url": "/qnas/SSI-38595",
+          "date": "2018-08-08"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "t9t1Fv",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없다면 소멸된 금융부채의 공정가치를 반영하여 지분상품을 측정한다. 요구불 특성(예: 요구불예금)을 가진 금융부채의 소멸시 공정가치를 측정하는 경우 기업회계기준서 제1113호 문단 47을 적용하지 않는다.",
+      "html": "발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없다면 소멸된 금융부채의 공정가치를 반영하여 지분상품을 측정한다. 요구불 특성(예: 요구불예금)을 가진 금융부채의 소멸시 공정가치를 측정하는 경우 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div><span class=\"mundan-finder\"> 문단 47</span>을 적용하지 않는다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 47",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "47",
+          "paragraph_ids": [
+            "47"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "t9t1Fv",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "금융부채의 일부만 소멸시키는 경우, 지급한 대가의 일부가 남아있는 부채의 조건변경과 관련되는지를 검토한다. 지급한 대가의 일부가 금융부채의 남아있는 부분의 조건변경과 관련된다면, 지급한 대가를 소멸된 부채의 부분과 남아있는 부채의 부분에 배분한다. 이러한 배분을 할 때 거래와 관계된 모든 관련 사실과 상황을 고려한다.",
+      "html": "금융부채의 일부만 소멸시키는 경우, 지급한 대가의 일부가 남아있는 부채의 조건변경과 관련되는지를 검토한다. 지급한 대가의 일부가 금융부채의 남아있는 부분의 조건변경과 관련된다면, 지급한 대가를 소멸된 부채의 부분과 남아있는 부채의 부분에 배분한다. 이러한 배분을 할 때 거래와 관계된 모든 관련 사실과 상황을 고려한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "t9t1Fv",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "소멸된 금융부채(또는 금융부채의 일부)의 장부금액과 지급한 대가의 차이는 기업회계기준서 제1109호 문단 3.3.3에 따라 당기손익으로 인식한다. 발행된 지분상품은 금융부채(또는 금융부채의 일부)가 소멸된 날에 최초로 인식하고 측정한다.",
+      "html": "소멸된 금융부채(또는 금융부채의 일부)의 장부금액과 지급한 대가의 차이는 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div><span class=\"mundan-finder\"> 문단 3.3.3</span>에 따라 당기손익으로 인식한다. 발행된 지분상품은 금융부채(또는 금융부채의 일부)가 소멸된 날에 최초로 인식하고 측정한다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3.3.3",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "3.3.3",
+          "paragraph_ids": [
+            "3.3.3"
+          ]
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "SSI-38595",
+          "title": "전환사채 중도 전환시 회계처리",
+          "url": "/qnas/SSI-38595",
+          "date": "2018-08-08"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "t9t1Fv",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "금융부채의 일부만 소멸되는 경우, 대가는 문단 8에 따라 배분한다. 남아있는 부채의 조건이 실질적으로 변경되었지를 평가할 때 남아있는 부채에 배분된 대가를 포함해야 한다. 남아있는 부채가 실질적으로 변경된 경우, 기업회계기준서 제1109호 문단 3.3.2의 요구에 따라 조건변경을 기존 부채의 소멸과 새로운 부채의 인식으로 회계처리한다.",
+      "html": "금융부채의 일부만 소멸되는 경우, 대가는 \n  \n  <span class=\"mundan-finder\">문단 8</span>에 따라 배분한다. 남아있는 부채의 조건이 실질적으로 변경되었지를 평가할 때 남아있는 부채에 배분된 대가를 포함해야 한다. 남아있는 부채가 실질적으로 변경된 경우, \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div><span class=\"mundan-finder\"> 문단 3.3.2</span>의 요구에 따라 조건변경을 기존 부채의 소멸과 새로운 부채의 인식으로 회계처리한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 8",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "8",
+          "paragraph_ids": [
+            "8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3.3.2",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "3.3.2",
+          "paragraph_ids": [
+            "3.3.2"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "t9t1Fv",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "문단 9와 10에 따라 인식한 손익을 당기손익의 별도 항목이나 주석에 공시한다.",
+      "html": "<span class=\"mundan-finder\">문단 9와 10</span>에 따라 인식한 손익을 당기손익의 별도 항목이나 주석에 공시한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 9와 10",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "9,10",
+          "paragraph_ids": [
+            "9",
+            "10"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한12.1",
+      "section_id": "EsKcBG",
+      "section_title": "시행일과 경과규정",
+      "toc_path": "본문|시행일과 경과규정",
+      "text": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "html": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한12.2",
+      "section_id": "EsKcBG",
+      "section_title": "시행일과 경과규정",
+      "toc_path": "본문|시행일과 경과규정",
+      "text": "한국채택국제회계기준 적용선택기업이 이 기준서를 2009년 1월1일 이후 개시하는 회계연도부터 적용하는 경우에는 문단 12를 적용한다.",
+      "html": "한국채택국제회계기준 적용선택기업이 이 기준서를 2009년 1월1일 이후 개시하는 회계연도부터 적용하는 경우에는 \n  <span class=\"mundan-finder\">문단 12</span>를 적용한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 12",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "12",
+          "paragraph_ids": [
+            "12"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "EsKcBG",
+      "section_title": "시행일과 경과규정",
+      "toc_path": "본문|시행일과 경과규정",
+      "text": "이 해석서는 2010년 7월 1일 이후 개시하는 회계연도부터 적용한다. 조기적용은 허용된다. 2010년 7월 1일 이전에 개시하는 기간에 적용하는 경우 그 사실을 공시한다.",
+      "html": "이 해석서는 2010년 7월 1일 이후 개시하는 회계연도부터 적용한다. 조기적용은 허용된다. 2010년 7월 1일 이전에 개시하는 기간에 적용하는 경우 그 사실을 공시한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "EsKcBG",
+      "section_title": "시행일과 경과규정",
+      "toc_path": "본문|시행일과 경과규정",
+      "text": "표시된 가장 이른 비교기간의 개시일부터 기업회계기준서 제1008호에 따라 회계정책의 변경을 적용한다.",
+      "html": "표시된 가장 이른 비교기간의 개시일부터 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">기업회계기준서 제1008호</span></div>에 따라 회계정책의 변경을 적용한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1008호",
+          "standard_number": "1008",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "EsKcBG",
+      "section_title": "시행일과 경과규정",
+      "toc_path": "본문|시행일과 경과규정",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "15",
+      "section_id": "EsKcBG",
+      "section_title": "시행일과 경과규정",
+      "toc_path": "본문|시행일과 경과규정",
+      "text": "2011년 12월 발표된 기업회계기준 제1113호에 따라 문단 7이 개정되었다. 이러한 개정내용은 기업회계기준서 제1113호를 적용할 때 적용한다.",
+      "html": "2011년 12월 발표된 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준 제1113호</span></div>에 따라 \n  \n  <span class=\"mundan-finder\">문단 7</span>이 개정되었다. 이러한 개정내용은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">기업회계기준서 제1113호</span></div>를 적용할 때 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준 제1113호",
+          "standard_number": "1113",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 7",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "7",
+          "paragraph_ids": [
+            "7"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "16",
+      "section_id": "EsKcBG",
+      "section_title": "시행일과 경과규정",
+      "toc_path": "본문|시행일과 경과규정",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "17",
+      "section_id": "EsKcBG",
+      "section_title": "시행일과 경과규정",
+      "toc_path": "본문|시행일과 경과규정",
+      "text": "2015년 12월에 발표된 기업회계기준서 제1109호에 따라 문단 4, 5, 7, 9, 10을 개정하고 문단 14, 16을 삭제하였다. 이러한 개정내용은 기업회계기준서 제1109호를 적용할 때 적용한다.",
+      "html": "2015년 12월에 발표된 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>에 따라 \n  \n  <span class=\"mundan-finder\">문단 4, 5, 7, 9, 10</span>을 개정하고 \n  \n  <span class=\"mundan-finder\">문단 14, 16</span>을 삭제하였다. 이러한 개정내용은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>를 적용할 때 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 4, 5, 7, 9, 10",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "4,5,7,9,10",
+          "paragraph_ids": [
+            "4",
+            "5",
+            "7",
+            "9",
+            "10"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 14, 16",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "14,16",
+          "paragraph_ids": [
+            "14",
+            "16"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE4",
+      "section_id": "a7Jy2j",
+      "section_title": "기업회계기준해석서 제2119호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준해석서 제2119호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준해석서 제2119호의 제정에 대한 회계기준위원회의 의결(2010년)",
+      "html": "<div value=\"웩4\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2119호의 제정에 대한 회계기준위원회의 의결(2010년)</b></div><br><div class=\"para\">기업회계기준해석서 제2119호 ‘지분상품에 의한 금융부채의 소멸’의 제정(2010.6.25.)은 회계기준위원회 위원 6명 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원:</div><div class=\"para\">서정우(위원장), 김찬홍(상임위원), 박영진, 변용희, 전  괄, 최  관</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC1",
+      "section_id": "MPg9ox",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|도입",
+      "text": "IFRIC이 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "html": "IFRIC이 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중 있게 고려하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC2",
+      "section_id": "MPg9ox",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|도입",
+      "text": "IFRIC은 금융부채의 전부 또는 일부를 소멸시키기 위해 자기지분상품을 발행할 때 IAS 39(주1)와 IAS 32의 적용에 관한 지침을 제공해 줄 것을 요청받았다. 그것은 발행된 지분상품을 어떻게 인식해야 하는가에 대한 문제였다.\n[각주 (주1)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 있던 모든 항목에 적용한다.",
+      "html": "IFRIC은 금융부채의 전부 또는 일부를 소멸시키기 위해 자기지분상품을 발행할 때 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주1)</sup>와 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 표시</span><span class=\"std-finder\">IAS 32</span></div>의 적용에 관한 지침을 제공해 줄 것을 요청받았다. 그것은 발행된 지분상품을 어떻게 인식해야 하는가에 대한 문제였다.\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 있던 모든 항목에 적용한다.\n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 32",
+          "standard_number": "32",
+          "standard_title": "금융상품: 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주1",
+          "display_text": "(주1)"
+        }
+      ]
+    },
+    {
+      "number": "BC3",
+      "section_id": "MPg9ox",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|도입",
+      "text": "IFRIC은 대여자가 재무적으로 어려운 기업에 대한 대여금을 다음 중 하나 이상의 방법을 포함하는 다양한 방법으로 관리한다는 점을 주목하였다.\n(1) 시장에서 다른 투자자/대여자에게 대여금을 매각\n(2) 대여금 조건의 재협상(예: 만기일의 연장 또는 지급이자의 인하)\n(3) 부채의 전부 또는 부분 결제로 채권자의 지분상품을 인수[‘출자전환(debt for equity swap)’]이라고도 함)",
+      "html": "IFRIC은 대여자가 재무적으로 어려운 기업에 대한 대여금을 다음 중 하나 이상의 방법을 포함하는 다양한 방법으로 관리한다는 점을 주목하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 시장에서 다른 투자자/대여자에게 대여금을 매각</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 대여금 조건의 재협상(예: 만기일의 연장 또는 지급이자의 인하)</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 부채의 전부 또는 부분 결제로 채권자의 지분상품을 인수[‘출자전환(debt for equity swap)’]이라고도 함)</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC4",
+      "section_id": "MPg9ox",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|도입",
+      "text": "IFRIC은 금융부채 조건의 재협상에 따라 금융부채의 전부 또는 일부를 결제하여 발행되는 지분상품을 측정하는 데 실무적 다양성이 있다는 것을 알게 되었다. 일부에서는 지분상품을 금융부채의 장부금액으로 인식하고 어떠한 손익도 당기손익으로 인식하지 않는다. 다른 일부에서는 소멸되는 부채나 발행되는 지분상품의 공정가치로 인식하고 그 금액과 금융부채의 장부금액의 차이를 당기손익으로 인식한다.",
+      "html": "IFRIC은 금융부채 조건의 재협상에 따라 금융부채의 전부 또는 일부를 결제하여 발행되는 지분상품을 측정하는 데 실무적 다양성이 있다는 것을 알게 되었다. 일부에서는 지분상품을 금융부채의 장부금액으로 인식하고 어떠한 손익도 당기손익으로 인식하지 않는다. 다른 일부에서는 소멸되는 부채나 발행되는 지분상품의 공정가치로 인식하고 그 금액과 금융부채의 장부금액의 차이를 당기손익으로 인식한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC5",
+      "section_id": "MPg9ox",
+      "section_title": "도입",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|도입",
+      "text": "2009년 8월에 IFRIC은 해석서 공개초안 D25 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’을 공표하여 33개의 외부검토의견서를 받았다.",
+      "html": "2009년 8월에 IFRIC은 해석서 공개초안 D25 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’을 공표하여 33개의 외부검토의견서를 받았다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC6",
+      "section_id": "qMcxra",
+      "section_title": "적용범위",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위",
+      "text": "IFRIC은 금융부채의 조건 재협상 결과, 금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 지분상품을 발행하게 되는 기업의 회계처리만을 다루어야 한다고 결론내렸다. 다른 IFRS에서 채권자의 회계처리에 관한 규정을 두고 있으므로 이 해석서는 채권자의 회계처리는 다루지 않는다.",
+      "html": "IFRIC은 금융부채의 조건 재협상 결과, 금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 지분상품을 발행하게 되는 기업의 회계처리만을 다루어야 한다고 결론내렸다. 다른 IFRS에서 채권자의 회계처리에 관한 규정을 두고 있으므로 이 해석서는 채권자의 회계처리는 다루지 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC7",
+      "section_id": "qMcxra",
+      "section_title": "적용범위",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위",
+      "text": "IFRIC은 직접적인 또는 간접적인 주주이기도 한 채권자가 직접적인 또는 간접적인 기존 주주로서의 자격에서 행동하는 거래에 대한 지침을 제공할 것인지를 고려하였다. IFRIC은 이 해석서에서 그러한 거래를 다루지 않기로 결정하였다. IFRIC은 그러한 상황에서 금융부채를 소멸시키기 위하여 지분상품을 발행하는 것이 소유주 자격에서의 소유주와의 거래로 간주될 수 있는지를 결정하는 것은 사실과 상황에 따라 판단해야 할 문제일 것이라고 보았다.",
+      "html": "IFRIC은 직접적인 또는 간접적인 주주이기도 한 채권자가 직접적인 또는 간접적인 기존 주주로서의 자격에서 행동하는 거래에 대한 지침을 제공할 것인지를 고려하였다. IFRIC은 이 해석서에서 그러한 거래를 다루지 않기로 결정하였다. IFRIC은 그러한 상황에서 금융부채를 소멸시키기 위하여 지분상품을 발행하는 것이 소유주 자격에서의 소유주와의 거래로 간주될 수 있는지를 결정하는 것은 사실과 상황에 따라 판단해야 할 문제일 것이라고 보았다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC8",
+      "section_id": "qMcxra",
+      "section_title": "적용범위",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위",
+      "text": "IFRIC은 재심의 과정에서 거래실질이 채무자의 지분분배 또는 채무자에 대한 출자이며 채권자와 채무자가 거래전후로 동일한 하나 이상의 실체에 의해 지배되는 경우의 거래가 이 해석서의 적용범위에서 제외된다는 점을 명확히 하였다. IFRIC은 금융부채의 전부 또는 일부의 소멸과 지분분배 또는 출자 요소 간의 대가의 배분이 항상 신뢰성 있게 측정될 수 있는 것이 아니라는 점을 인식하였다.",
+      "html": "IFRIC은 재심의 과정에서 거래실질이 채무자의 지분분배 또는 채무자에 대한 출자이며 채권자와 채무자가 거래전후로 동일한 하나 이상의 실체에 의해 지배되는 경우의 거래가 이 해석서의 적용범위에서 제외된다는 점을 명확히 하였다. IFRIC은 금융부채의 전부 또는 일부의 소멸과 지분분배 또는 출자 요소 간의 대가의 배분이 항상 신뢰성 있게 측정될 수 있는 것이 아니라는 점을 인식하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC9",
+      "section_id": "qMcxra",
+      "section_title": "적용범위",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위",
+      "text": "일부 의견제출자들은 금융부채의 최초 조건에 따라 주식발행으로 금융부채를 소멸시키는 거래에 이 해석서를 적용해야 하는지에 의문을 제기하였다. IFRIC은 재심의 과정에서 IAS 32가 그러한 금융상품에 대한 구체적인 지침을 포함하고 있다고 보아 이러한 거래가 이 해석서의 적용범위에서 제외되어야 한다고 결정하였다.",
+      "html": "일부 의견제출자들은 금융부채의 최초 조건에 따라 주식발행으로 금융부채를 소멸시키는 거래에 이 해석서를 적용해야 하는지에 의문을 제기하였다. IFRIC은 재심의 과정에서 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 표시</span><span class=\"std-finder\">IAS 32</span></div>가 그러한 금융상품에 대한 구체적인 지침을 포함하고 있다고 보아 이러한 거래가 이 해석서의 적용범위에서 제외되어야 한다고 결정하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 32",
+          "standard_number": "32",
+          "standard_title": "금융상품: 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC10",
+      "section_id": "TopMVw",
+      "section_title": "발행자의 지분상품이 ‘지급한 대가’인가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|발행자의 지분상품이 ‘지급한 대가’인가?",
+      "text": "IFRIC은 금융부채의 전부 또는 일부를 소멸시키기 위하여 발행된 지분상품의 측정에 대한 구체적인 지침이 IFRS에 포함되어 있지 않다는 점을 주목하였다. IAS 39(주2)의 문단 41에서는 소멸된 부채의 장부금액과 지급한 대가의 차이를 당기손익으로 인식하도록 요구한다. 그 문단은 ‘지급한 대가’에 양도된 비현금자산이나 부담한 부채가 포함되는 것으로 기술하고 있지만 발행된 지분상품을 명시적으로 언급하지는 않는다. 따라서 일부에서는 지분상품이 ‘지급한 대가’가 아니라는 의견을 갖고 있다.\n[각주 (주2)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 있던 모든 항목에 적용한다.",
+      "html": "IFRIC은 금융부채의 전부 또는 일부를 소멸시키기 위하여 발행된 지분상품의 측정에 대한 구체적인 지침이 IFRS에 포함되어 있지 않다는 점을 주목하였다. \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주2)</sup>의 문단 41에서는 소멸된 부채의 장부금액과 지급한 대가의 차이를 당기손익으로 인식하도록 요구한다. 그 문단은 ‘지급한 대가’에 양도된 비현금자산이나 부담한 부채가 포함되는 것으로 기술하고 있지만 발행된 지분상품을 명시적으로 언급하지는 않는다. 따라서 일부에서는 지분상품이 ‘지급한 대가’가 아니라는 의견을 갖고 있다.\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주2)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 있던 모든 항목에 적용한다.\n    \n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주2",
+          "display_text": "(주2)"
+        }
+      ]
+    },
+    {
+      "number": "BC11",
+      "section_id": "TopMVw",
+      "section_title": "발행자의 지분상품이 ‘지급한 대가’인가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|발행자의 지분상품이 ‘지급한 대가’인가?",
+      "text": "이러한 의견을 가진 사람들은 최초 인식시점에 지분상품을 어떻게 측정하는지에 대하여 IFRS에서 일반적으로 언급하고 있지 않기 때문에(문단 BC15 참조) 다양한 실무가 있어 왔다고 믿는다. 이러한 실무의 한 방법은 발행된 지분상품을 소멸된 금융부채의 장부금액으로 인식하는 것이다.",
+      "html": "이러한 의견을 가진 사람들은 최초 인식시점에 지분상품을 어떻게 측정하는지에 대하여 IFRS에서 일반적으로 언급하고 있지 않기 때문에(<span class=\"mundan-finder\">문단 BC15</span> 참조) 다양한 실무가 있어 왔다고 믿는다. 이러한 실무의 한 방법은 발행된 지분상품을 소멸된 금융부채의 장부금액으로 인식하는 것이다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC15",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "BC15",
+          "paragraph_ids": [
+            "BC15"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC12",
+      "section_id": "TopMVw",
+      "section_title": "발행자의 지분상품이 ‘지급한 대가’인가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|발행자의 지분상품이 ‘지급한 대가’인가?",
+      "text": "그러나 IFRIC은 IFRS 2와 IFRS 3 모두에서 지분상품이 사업의 지배력을 획득하기 위해서 뿐 아니라 상품과 용역을 취득하기 위한 대가로 사용됨을 명확히 하고 있다는 점을 주목하였다.",
+      "html": "그러나 IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">주식기준보상</span><span class=\"std-finder\">IFRS 2</span></div>와 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div> 모두에서 지분상품이 사업의 지배력을 획득하기 위해서 뿐 아니라 상품과 용역을 취득하기 위한 대가로 사용됨을 명확히 하고 있다는 점을 주목하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 2",
+          "standard_number": "2",
+          "standard_title": "주식기준보상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC13",
+      "section_id": "TopMVw",
+      "section_title": "발행자의 지분상품이 ‘지급한 대가’인가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|발행자의 지분상품이 ‘지급한 대가’인가?",
+      "text": "IFRIC은 또한 금융부채를 소멸시키기 위한 지분상품의 발행이 두 개의 거래로 구성된 것으로 분석될 수 있다고 보았다. 즉 첫째, 현금을 대가로 채권자에게 새로운 지분상품을 발행하고 둘째, 금융부채를 소멸시키기 위한 그 금액의 현금지급을 채권자가 수용하는 두 개의 거래로 구성된다.",
+      "html": "IFRIC은 또한 금융부채를 소멸시키기 위한 지분상품의 발행이 두 개의 거래로 구성된 것으로 분석될 수 있다고 보았다. 즉 첫째, 현금을 대가로 채권자에게 새로운 지분상품을 발행하고 둘째, 금융부채를 소멸시키기 위한 그 금액의 현금지급을 채권자가 수용하는 두 개의 거래로 구성된다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC14",
+      "section_id": "TopMVw",
+      "section_title": "발행자의 지분상품이 ‘지급한 대가’인가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|발행자의 지분상품이 ‘지급한 대가’인가?",
+      "text": "이러한 분석의 결과, IFRIC은 금융부채를 소멸시키기 위해 발행된 지분상품이 IAS 39(주3) 문단 41에 따른 ‘지급한 대가’라고 결론내렸다.\n[각주 (주3)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 있던 모든 항목에 적용한다.",
+      "html": "이러한 분석의 결과, IFRIC은 금융부채를 소멸시키기 위해 발행된 지분상품이 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주3)</sup> 문단 41에 따른 ‘지급한 대가’라고 결론내렸다.\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주3)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 있던 모든 항목에 적용한다.\n    \n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주3",
+          "display_text": "(주3)"
+        }
+      ]
+    },
+    {
+      "number": "BC15",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "IFRIC은 비록 IFRS에 지분상품의 최초인식과 측정에 대한 일반적 원칙이 포함되어 있지 않지만, 다음을 포함하여 특정 거래들에 대한 지침이 있다는 것을 알게 되었다.\n(1)복합금융상품의 최초인식(IAS 32). 지분 요소에 배분되는 금액은 전체 복합금융상품의 공정가치에서 금융부채 요소의 공정가치를 차감한 후의 잔여 금액이다.\n(2)지분 거래 및 취득하여 재발행하거나 소각한 자기지분상품(‘자기주식’)의 원가(IAS 32). 자기지분상품을 매입, 매도, 발행 또는 소각하는 경우의 손익은 당기손익으로 인식하지 않는다. 이러한 거래는 소유주로서의 자격을 가진 소유주와의 거래이다.\n(3)주식기준보상거래에서 발행된 지분상품(IFRS 2). 주식결제형 주식기준보상거래의 경우, 제공받는 재화나 용역과 그에 상응한 자본의 증가를 그 공정가치를 신뢰성 있게 측정할 수 없는 경우가 아니라면, 제공받는 재화나 용역의 공정가치로 직접 측정한다. 제공받는 재화나 용역의 공정가치를 신뢰성 있게 추정할 수 없다면, 제공받는 재화나 용역과 그에 상응하는 자본의 증가는 부여한 지분상품의 공정가치에 기초하여 간접 측정한다.\n(4)사업결합에서 이전대가(IFRS 3). 사업결합에서 이전된 총대가는 공정가치로 측정한다. 그 공정가치는 취득자가 발행한 지분의 취득일의 공정가치를 포함한다.",
+      "html": "IFRIC은 비록 IFRS에 지분상품의 최초인식과 측정에 대한 일반적 원칙이 포함되어 있지 않지만, 다음을 포함하여 특정 거래들에 대한 지침이 있다는 것을 알게 되었다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"><i>복합금융상품의 최초인식</i>(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 표시</span><span class=\"std-finder\">IAS 32</span></div>). 지분 요소에 배분되는 금액은 전체 복합금융상품의 공정가치에서 금융부채 요소의 공정가치를 차감한 후의 잔여 금액이다.        \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"><i>지분 거래 및 취득하여 재발행하거나 소각한 자기지분상품(‘자기주식’)의 원가</i>(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 표시</span><span class=\"std-finder\">IAS 32</span></div>). 자기지분상품을 매입, 매도, 발행 또는 소각하는 경우의 손익은 당기손익으로 인식하지 않는다. 이러한 거래는 소유주로서의 자격을 가진 소유주와의 거래이다.        \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"><i>주식기준보상거래에서 발행된 지분상품</i>(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">주식기준보상</span><span class=\"std-finder\">IFRS 2</span></div>). 주식결제형 주식기준보상거래의 경우, 제공받는 재화나 용역과 그에 상응한 자본의 증가를 그 공정가치를 신뢰성 있게 측정할 수 없는 경우가 아니라면, 제공받는 재화나 용역의 공정가치로 직접 측정한다. 제공받는 재화나 용역의 공정가치를 신뢰성 있게 추정할 수 없다면, 제공받는 재화나 용역과 그에 상응하는 자본의 증가는 부여한 지분상품의 공정가치에 기초하여 간접 측정한다.        \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑷</div><div class=\"para-num-item-para-con\"><i>사업결합에서 이전대가</i>(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div>). 사업결합에서 이전된 총대가는 공정가치로 측정한다. 그 공정가치는 취득자가 발행한 지분의 취득일의 공정가치를 포함한다.        \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 32",
+          "standard_number": "32",
+          "standard_title": "금융상품: 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 2",
+          "standard_number": "2",
+          "standard_title": "주식기준보상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC16",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "IFRIC은 IFRS의 일반원칙에서 자본은 잔여금액이며 자산과 부채의 변동에 기초하여 최초에 측정되어야 한다(개념체계(주4)와 IFRS 2)는 점을 주목하였다. IFRS 2는 지분상품의 발행에 대한 대가로 재화나 용역을 제공받는 경우, 자본의 증가를 제공받는 재화나 용역의 공정가치로 직접 측정한다는 것을 명확히 하고 있다.\n[각주 (주4)] 이 결론도출근거에서 언급하는 ‘개념체계’는 IASB가 2001년에 채택하여 이 해석서가 제정되었을 당시 시행 중이었던 IASC의 ‘재무제표의 작성과 표시를 위한 개념체계’를 말한다.",
+      "html": "IFRIC은 IFRS의 일반원칙에서 자본은 잔여금액이며 자산과 부채의 변동에 기초하여 최초에 측정되어야 한다(개념체계\n  <sup>(주4)</sup>와 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">주식기준보상</span><span class=\"std-finder\">IFRS 2</span></div>)는 점을 주목하였다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">주식기준보상</span><span class=\"std-finder\">IFRS 2</span></div>는 지분상품의 발행에 대한 대가로 재화나 용역을 제공받는 경우, 자본의 증가를 제공받는 재화나 용역의 공정가치로 직접 측정한다는 것을 명확히 하고 있다.\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주4)</div><div class=\"para-num-item-para-con\"> 이 결론도출근거에서 언급하는 ‘개념체계’는 IASB가 2001년에 채택하여 이 해석서가 제정되었을 당시 시행 중이었던 IASC의 ‘재무제표의 작성과 표시를 위한 개념체계’를 말한다.</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 2",
+          "standard_number": "2",
+          "standard_title": "주식기준보상",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주4",
+          "display_text": "(주4)"
+        }
+      ]
+    },
+    {
+      "number": "BC17",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "IFRIC은 금융부채를 소멸시키기 위하여 지분상품을 발행하는 경우에 동일한 원칙을 적용해야 한다고 결정하였다. 그러나 IFRIC은 발행된 지분상품과 금융부채 모두의 공정가치를 측정하는 데 실무적 어려움(특히 발행자가 재무적 어려움에 처해 있는 경우)에 처할 수 있다는 점을 우려하였다. 그러므로 IFRIC은 금융부채를 소멸시키기 위하여 발행된 지분상품은 발행된 지분상품의 공정가치 또는 소멸된 부채의 공정가치 중 보다 신뢰성있게 결정될 수 있는 금액으로 최초에 측정되어야 한다고 D25에서 결정하였다.",
+      "html": "IFRIC은 금융부채를 소멸시키기 위하여 지분상품을 발행하는 경우에 동일한 원칙을 적용해야 한다고 결정하였다. 그러나 IFRIC은 발행된 지분상품과 금융부채 모두의 공정가치를 측정하는 데 실무적 어려움(특히 발행자가 재무적 어려움에 처해 있는 경우)에 처할 수 있다는 점을 우려하였다. 그러므로 IFRIC은 금융부채를 소멸시키기 위하여 발행된 지분상품은 발행된 지분상품의 공정가치 또는 소멸된 부채의 공정가치 중 보다 신뢰성있게 결정될 수 있는 금액으로 최초에 측정되어야 한다고 D25에서 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC18",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "그러나 D25의 외부검토의견에 대응하여, IFRIC은 금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 발행된 지분상품을 발행된 지분상품의 공정가치나 소멸된 부채의 공정가치로 최초에 측정해야 하는지를 재고하였다. IFRIC은 많은 의견제출자들이 두 측정 접근법 중 어느 방법이 더 신뢰성 있게 결정가능한지를 식별하기 위하여 두 측정 접근법이 모두 사용될 필요가 있기 때문에, 실무에서 ‘회계선택(accounting choice)’이 나타나는 것을 피하기 위해서는 둘 중 선호되는 측정기준이 결정되어야 한다고 제안한 것을 주목하였다.",
+      "html": "그러나 D25의 외부검토의견에 대응하여, IFRIC은 금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 발행된 지분상품을 발행된 지분상품의 공정가치나 소멸된 부채의 공정가치로 최초에 측정해야 하는지를 재고하였다. IFRIC은 많은 의견제출자들이 두 측정 접근법 중 어느 방법이 더 신뢰성 있게 결정가능한지를 식별하기 위하여 두 측정 접근법이 모두 사용될 필요가 있기 때문에, 실무에서 ‘회계선택(accounting choice)’이 나타나는 것을 피하기 위해서는 둘 중 선호되는 측정기준이 결정되어야 한다고 제안한 것을 주목하였다.\n",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC19",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "그러므로 IFRIC은 D25의 제안을 개정하여 선호되는 측정기준을 식별하기로 결정하였다. 이러한 선호되는 측정기준을 식별하면서, IFRIC은 많은 의견제출자들이 문단 BC16에서 언급된 IFRS 2와 개념체계의 원칙에서 소멸된 부채의 공정가치에 기반한 측정이 지지되는 것을 고려하였다는 점을 주목하였다.",
+      "html": "그러므로 IFRIC은 D25의 제안을 개정하여 선호되는 측정기준을 식별하기로 결정하였다. 이러한 선호되는 측정기준을 식별하면서, IFRIC은 많은 의견제출자들이 \n  \n  <span class=\"mundan-finder\">문단 BC16</span>에서 언급된 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">주식기준보상</span><span class=\"std-finder\">IFRS 2</span></div>와 개념체계의 원칙에서 소멸된 부채의 공정가치에 기반한 측정이 지지되는 것을 고려하였다는 점을 주목하였다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 2",
+          "standard_number": "2",
+          "standard_title": "주식기준보상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC16",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "BC16",
+          "paragraph_ids": [
+            "BC16"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC20",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "그러나 일부 의견제출자들은 발행된 자본의 공정가치가 제안된 측정기준이어야 한다고 주장하였다. 그들은 이 접근법이 지분상품의 발행이 IAS 39(주5)의 문단 41에 따른 지급한 대가라는 인식과 일관될 것이라는 점을 지적하였다. 그들은 또한 발행된 자본의 공정가치가 거래에서 지급한 대가의 총금액(채권자가 금융부채의 조건을 재협상하기 위하여 요구하는 금액도 포함 가능)을 가장 잘 반영한다고 주장하였다.\n[각주 (주5)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 있던 모든 항목에 적용한다.",
+      "html": "그러나 일부 의견제출자들은 발행된 자본의 공정가치가 제안된 측정기준이어야 한다고 주장하였다. 그들은 이 접근법이 지분상품의 발행이 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주5)</sup>의 문단 41에 따른 지급한 대가라는 인식과 일관될 것이라는 점을 지적하였다. 그들은 또한 발행된 자본의 공정가치가 거래에서 지급한 대가의 총금액(채권자가 금융부채의 조건을 재협상하기 위하여 요구하는 금액도 포함 가능)을 가장 잘 반영한다고 주장하였다.\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주5)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 있던 모든 항목에 적용한다.\n    \n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주5",
+          "display_text": "(주5)"
+        }
+      ]
+    },
+    {
+      "number": "BC21",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "IFRIC은 발행된 자본의 공정가치가 문단 BC20에서 기술된 이유 때문에 제안된 측정기준이어야 한다는 점을 고려하였다. 그 결과 IFRIC은 금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 발행된 지분상품을, 발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없는 경우가 아니라면, 발행된 지분상품의 공정가치로 최초에 측정해야 한다고 결론내렸다. 발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없다면 이러한 지분상품은 소멸된 부채의 공정가치를 반영하여 최초에 측정해야 한다.",
+      "html": "IFRIC은 발행된 자본의 공정가치가 \n  <span class=\"mundan-finder\">문단 BC20</span>에서 기술된 이유 때문에 제안된 측정기준이어야 한다는 점을 고려하였다. 그 결과 IFRIC은 금융부채의 전부 또는 일부를 소멸시키기 위하여 채권자에게 발행된 지분상품을, 발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없는 경우가 아니라면, 발행된 지분상품의 공정가치로 최초에 측정해야 한다고 결론내렸다. 발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없다면 이러한 지분상품은 소멸된 부채의 공정가치를 반영하여 최초에 측정해야 한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC20",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "BC20",
+          "paragraph_ids": [
+            "BC20"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC22",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "IFRIC은 재심의과정에서, 금융부채의 조건이 위반되어 요구하면 상환해야 하는 부채가 되는 상황에서 이러한 거래가 종종 발생한다고 보았다. IFRIC은 이러한 상황에서 IAS 39의 문단 49(주6)가 소멸된 금융부채의 전부 또는 일부의 공정가치를 측정하는 데 적용되지 않는다는 외부검토의견에 동의하였다. 이는 그러한 소멸 거래가 요구불 특성이 더 이상 실질적이지 않다는 것을 나타내기 때문이다.\n[각주 (주6)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IAS 39의 문단 49는 IFRS 13의 문단 47로 옮겨졌다. 문단 22는 IFRIC 19가 발표되었을 때 관련된 사항들을 언급한다.",
+      "html": "IFRIC은 재심의과정에서, 금융부채의 조건이 위반되어 요구하면 상환해야 하는 부채가 되는 상황에서 이러한 거래가 종종 발생한다고 보았다. IFRIC은 이러한 상황에서 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 문단 49\n  <sup>(주6)</sup>가 소멸된 금융부채의 전부 또는 일부의 공정가치를 측정하는 데 적용되지 않는다는 외부검토의견에 동의하였다. 이는 그러한 소멸 거래가 요구불 특성이 더 이상 실질적이지 않다는 것을 나타내기 때문이다.\n\n\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주6)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 문단 49는 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>의 \n      \n      \n      \n      <span class=\"mundan-finder\">문단 47</span>로 옮겨졌다. 문단 22는 \n      \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">지분상품에 의한 금융부채의 소멸</span><span class=\"std-finder\">IFRIC 19</span></div>가 발표되었을 때 관련된 사항들을 언급한다.\n    \n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRIC 19",
+          "standard_number": null,
+          "standard_title": "지분상품에 의한 금융부채의 소멸",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 47",
+          "standard_number": "1113",
+          "standard_title": null,
+          "range": "47",
+          "paragraph_ids": [
+            "47"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주6",
+          "display_text": "(주6)"
+        }
+      ]
+    },
+    {
+      "number": "BC23",
+      "section_id": "MylwOX",
+      "section_title": "지분상품이 어떻게 측정되어야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|지분상품이 어떻게 측정되어야 하는가?",
+      "text": "외부검토의견에 대응하여, IFRIC은 또한 발행된 지분상품을 금융부채(또는 금융부채의 일부)가 소멸되는 시점에 최초로 인식하고 측정해야 한다는 것을 명확히 하였다. 이는 IFRS 3의 결론도출근거 문단 BC341과 BC342와 일관된다. 이들 결론도출근거에서는 사업결합에서 대가로 발행된 지분상품을 약정일의 공정가치로 측정해야 하는지 또는 취득일의 공정가치로 측정해야 하는지에 대한 의견을 논의하면서, 취득일에 측정해야 한다고 결론내렸다.",
+      "html": "외부검토의견에 대응하여, IFRIC은 또한 발행된 지분상품을 금융부채(또는 금융부채의 일부)가 소멸되는 시점에 최초로 인식하고 측정해야 한다는 것을 명확히 하였다. 이는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div>의 결론도출근거 \n  <span class=\"mundan-finder\">문단 BC341과 BC342</span>와 일관된다. 이들 결론도출근거에서는 사업결합에서 대가로 발행된 지분상품을 약정일의 공정가치로 측정해야 하는지 또는 취득일의 공정가치로 측정해야 하는지에 대한 의견을 논의하면서, 취득일에 측정해야 한다고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC341과 BC342",
+          "standard_number": "1103",
+          "standard_title": null,
+          "range": "BC341,BC342",
+          "paragraph_ids": [
+            "BC341",
+            "BC342"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC24",
+      "section_id": "971NDF",
+      "section_title": "금융부채의 장부금액과 지급한 대가의 차이를 어떻게 회계처리해야 하는가?",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|금융부채의 장부금액과 지급한 대가의 차이를 어떻게 회계처리해야 하는가?",
+      "text": "IAS 39의 문단 41에 따라, 소멸되는 금융부채의 장부금액과 지급한 대가의 차이로 인한 손익을 당기손익으로 인식해야 한다. 이 요구사항은 개념체계의 수익에 대한 다음의 논의와 일관된다.\n(1) 수익은 자산의 유입이나 증가 또는 부채의 감소에 따라 자본의 증가를 초래하는 특정 회계기간 동안에 발생한 경제적효익의 증가로서, 지분참여자에 의한 출연과 관련된 것은 제외한다.(문단 70(1)) (기울임꼴로 표시된 부분은 강조된 부분임)\n(2) 차익은 광의의 수익의 정의를 충족하는 그 밖의 항목으로 기업의 정상영업활동의 일환이나 그 이외의 활동에서 발생할 수 있다. 차익도 경제적효익의 증가를 나타내므로 ... (문단 75)\n(3) 수익은 또한 부채의 상환에 따라 발생할 수도 있는데 예를 들어, 기업이 차입금의 상환의무를 이행하기 위해 대여자에게 재화나 용역을 제공하는 경우가 이에 해당한다.(문단 77)",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 문단 41에 따라, 소멸되는 금융부채의 장부금액과 지급한 대가의 차이로 인한 손익을 당기손익으로 인식해야 한다. 이 요구사항은 개념체계의 수익에 대한 다음의 논의와 일관된다.\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 수익은 자산의 유입이나 증가 또는 \n      <i>부채의 감소에 따라 자본의 증가를 초래</i>하는 특정 회계기간 동안에 발생한 경제적효익의 증가로서, 지분참여자에 의한 출연과 관련된 것은 제외한다.(문단 70⑴) (기울임꼴로 표시된 부분은 강조된 부분임)\n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 차익은 광의의 수익의 정의를 충족하는 그 밖의 항목으로 기업의 정상영업활동의 일환이나 그 이외의 활동에서 발생할 수 있다. 차익도 경제적효익의 증가를 나타내므로 ... (문단 75)</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 수익은 또한 부채의 상환에 따라 발생할 수도 있는데 예를 들어, 기업이 차입금의 상환의무를 이행하기 위해 대여자에게 재화나 용역을 제공하는 경우가 이에 해당한다.(문단 77)</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC25",
+      "section_id": "mL94bk",
+      "section_title": "전부 소멸",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|전부 소멸",
+      "text": "IFRIC은 문단 BC13에서 논의된 것처럼 부채를 소멸시키기 위하여 지분상품을 발행하는 거래가 다음과 같이 분석될 수 있다고 보았다. 첫째, 현금을 대가로 채권자에게 새로운 지분상품을 발행하고 둘째, 금융부채를 소멸시키기 위한 그 금액의 현금지급을 채권자가 수용하는 두개의 거래로 분석될 수 있다. 문단 BC24와 일관되게, 금융부채를 소멸시키기 위한 현금을 채권자가 받는 경우 발행자는 손익을 당기손익으로 인식해야 한다.",
+      "html": "IFRIC은 \n  <span class=\"mundan-finder\">문단 BC13</span>에서 논의된 것처럼 부채를 소멸시키기 위하여 지분상품을 발행하는 거래가 다음과 같이 분석될 수 있다고 보았다. 첫째, 현금을 대가로 채권자에게 새로운 지분상품을 발행하고 둘째, 금융부채를 소멸시키기 위한 그 금액의 현금지급을 채권자가 수용하는 두개의 거래로 분석될 수 있다. \n  <span class=\"mundan-finder\">문단 BC24</span>와 일관되게, 금융부채를 소멸시키기 위한 현금을 채권자가 받는 경우 발행자는 손익을 당기손익으로 인식해야 한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC13",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "BC13",
+          "paragraph_ids": [
+            "BC13"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC24",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "BC24",
+          "paragraph_ids": [
+            "BC24"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC26",
+      "section_id": "mL94bk",
+      "section_title": "전부 소멸",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|전부 소멸",
+      "text": "이와 유사하게, IFRIC은 IAS 32에 따라 조기전환을 유도하기 위해 전환증권의 조건을 변경하는 경우 보유자에게 지급되는 추가적인 대가의 공정가치를 당기손익으로 인식한다는 점을 주목하였다. 따라서 IFRIC은 자기지분상품을 발행하여 금융상품을 결제하며 그러한 결제가 금융부채의 최초 조건에 따르는 것이 아닌 경우, 손익을 당기손익으로 인식해야 한다고 결론내렸다.",
+      "html": "이와 유사하게, IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 표시</span><span class=\"std-finder\">IAS 32</span></div>에 따라 조기전환을 유도하기 위해 전환증권의 조건을 변경하는 경우 보유자에게 지급되는 추가적인 대가의 공정가치를 당기손익으로 인식한다는 점을 주목하였다. 따라서 IFRIC은 자기지분상품을 발행하여 금융상품을 결제하며 그러한 결제가 금융부채의 최초 조건에 따르는 것이 아닌 경우, 손익을 당기손익으로 인식해야 한다고 결론내렸다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 32",
+          "standard_number": "32",
+          "standard_title": "금융상품: 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC27",
+      "section_id": "mL94bk",
+      "section_title": "전부 소멸",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|전부 소멸",
+      "text": "이러한 결론의 결과로 IFRIC은 손익을 당기손익으로 인식해야 한다고 결정하였다. 이러한 손익은 금융부채의 장부금액과 발행된 지분상품의 공정가치나 (발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없는 경우) 소멸되는 부채의 공정가치의 차이와 일치한다.",
+      "html": "이러한 결론의 결과로 IFRIC은 손익을 당기손익으로 인식해야 한다고 결정하였다. 이러한 손익은 금융부채의 장부금액과 발행된 지분상품의 공정가치나 (발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없는 경우) 소멸되는 부채의 공정가치의 차이와 일치한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC28",
+      "section_id": "yueVS8",
+      "section_title": "부분 소멸",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|부분 소멸",
+      "text": "IFRIC은 또한 금융부채의 재조정이 채권자에 대한 지분상품 발행에 의한 부채의 부분결제와 남아 있는 부채의 조건변경 모두를 포함할 수 있다고 보았다. 그러므로 IFRIC은 이 해석서가 부분 소멸에도 적용되어야 한다고 결정하였다. 부분 소멸의 경우, 문단 BC25~BC27의 논의가 소멸되는 부채의 부분에 적용된다.",
+      "html": "IFRIC은 또한 금융부채의 재조정이 채권자에 대한 지분상품 발행에 의한 부채의 부분결제와 남아 있는 부채의 조건변경 모두를 포함할 수 있다고 보았다. 그러므로 IFRIC은 이 해석서가 부분 소멸에도 적용되어야 한다고 결정하였다. 부분 소멸의 경우, \n  <span class=\"mundan-finder\">문단 BC25~BC27</span>의 논의가 소멸되는 부채의 부분에 적용된다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 BC25~BC27",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "BC25∼BC27",
+          "paragraph_ids": [
+            "BC25∼BC27"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC29",
+      "section_id": "yueVS8",
+      "section_title": "부분 소멸",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|부분 소멸",
+      "text": "많은 의견제출자들은 D25에 포함된 부분 소멸에 대한 지침을 명확히 해줄 것을 요청하였다. IFRIC은 재심의 과정에서 주식의 발행이 금융부채의 부분 소멸과 남아 있는 부채 부분의 조건변경 모두에 대해 지급한 대가를 반영할 수 있다는 점을 인지하였다.",
+      "html": "많은 의견제출자들은 D25에 포함된 부분 소멸에 대한 지침을 명확히 해줄 것을 요청하였다. IFRIC은 재심의 과정에서 주식의 발행이 금융부채의 부분 소멸과 남아 있는 부채 부분의 조건변경 모두에 대해 지급한 대가를 반영할 수 있다는 점을 인지하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC30",
+      "section_id": "yueVS8",
+      "section_title": "부분 소멸",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|부분 소멸",
+      "text": "IFRIC은 이를 반영하기 위해 지급한 대가를 소멸된 부채 부분과 남아 있는 부채 부분에 배분해야 한다고 결정하였다. 기업은 이러한 배분을 소멸된 부채 부분에 대해 인식되어야 할 당기손익을 결정하는 데에 그리고 남아 있는 부채의 조건이 실질적으로 변경되었는지를 검토하는 데 고려할 것이다.",
+      "html": "IFRIC은 이를 반영하기 위해 지급한 대가를 소멸된 부채 부분과 남아 있는 부채 부분에 배분해야 한다고 결정하였다. 기업은 이러한 배분을 소멸된 부채 부분에 대해 인식되어야 할 당기손익을 결정하는 데에 그리고 남아 있는 부채의 조건이 실질적으로 변경되었는지를 검토하는 데 고려할 것이다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC31",
+      "section_id": "yueVS8",
+      "section_title": "부분 소멸",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|부분 소멸",
+      "text": "IFRIC은 남아 있는 금융부채 부분의 조건이 IAS 39(주7)의 문단 40에 따라 실질적으로 변경되었는지를 결정하는 데 대한 추가적인 지침을 제공하는 것은 이 해석서의 적용범위가 아니라고 결론내렸다.\n[각주 (주7)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 있던 모든 항목에 적용한다.",
+      "html": "IFRIC은 남아 있는 금융부채 부분의 조건이 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주7)</sup>의 문단 40에 따라 실질적으로 변경되었는지를 결정하는 데 대한 추가적인 지침을 제공하는 것은 이 해석서의 적용범위가 아니라고 결론내렸다.\n\n\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주7)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n      \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 있던 모든 항목에 적용한다.\n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주7",
+          "display_text": "(주7)"
+        }
+      ]
+    },
+    {
+      "number": "BC32",
+      "section_id": "P0wTkS",
+      "section_title": "표시",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|표시",
+      "text": "IFRIC은 지분상품의 발행으로 금융부채를 소멸시키며 발생하는 손익을 당기손익의 별도항목이나 주석으로 공시해야 한다고 결정하였다. 이 요구사항은 다음에서처럼 개념체계와 기타 IFRS의 요구사항과 일관된다.\n(1) 차익을 포괄손익계산서에 인식하는 경우 일반적으로 구분 표시하는데 의사결정자가 이를 알면 경제적 의사결정에 도움이 되기 때문이다.(개념체계 문단 76)\n(2) 기업의 재무성과를 이해하는 데 목적적합한 경우에는 포괄손익계산서와 별개의 손익계산서(표시하는 경우)에 항목, 제목 및 중간합계를 추가하여 표시한다.(IAS 1의 문단 85)\n(3) 금융부채에 대한 순손익을 포괄손익계산서 또는 주석에 공시한다.(IFRS 7의 문단 20)",
+      "html": "IFRIC은 지분상품의 발행으로 금융부채를 소멸시키며 발생하는 손익을 당기손익의 별도항목이나 주석으로 공시해야 한다고 결정하였다. 이 요구사항은 다음에서처럼 개념체계와 기타 IFRS의 요구사항과 일관된다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 차익을 포괄손익계산서에 인식하는 경우 일반적으로 구분 표시하는데 의사결정자가 이를 알면 경제적 의사결정에 도움이 되기 때문이다.(개념체계 문단 76)</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 기업의 재무성과를 이해하는 데 목적적합한 경우에는 포괄손익계산서와 별개의 손익계산서(표시하는 경우)에 항목, 제목 및 중간합계를 추가하여 표시한다.(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>의 \n      \n      <span class=\"mundan-finder\">문단 85</span>)\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 금융부채에 대한 순손익을 포괄손익계산서 또는 주석에 공시한다.(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 공시</span><span class=\"std-finder\">IFRS 7</span></div>의 \n      \n      <span class=\"mundan-finder\">문단 20</span>)\n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 7",
+          "standard_number": "7",
+          "standard_title": "금융상품: 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 85",
+          "standard_number": "1001",
+          "standard_title": null,
+          "range": "85",
+          "paragraph_ids": [
+            "85"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 20",
+          "standard_number": "1107",
+          "standard_title": null,
+          "range": "20",
+          "paragraph_ids": [
+            "20"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC33",
+      "section_id": "ylkCMs",
+      "section_title": "경과규정",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|경과규정",
+      "text": "IFRIC은 공정가치를 소급하여 결정하는 것에 문제가 있을 수 있다는 점을 인식하였지만 이 해석서를 소급적용하도록 결정하였다. IFRIC은 IAS 8에서 소급적용이 실무적으로 불가능할 수 있는 상황에 대한 지침을 제공한다고 보았다. IFRIC은 모든 기업에 대하여 미래 거래에 대해 전진적으로 적용하도록 요구하는 것보다는 소급하여 적용할 수 있는 기업은 그렇게 하도록 요구하는 것이 더 선호된다고 결론내렸다. 그러나 경과규정을 단순화하기 위하여, IFRIC은 또한 표시된 가장 이른 비교기간의 개시일 이후에 한하여 소급적용을 요구하도록 결론내렸다. 그 이유는 더 이른 기간에 적용하면 자본 내 금액의 재분류만 될 것이기 때문이다.",
+      "html": "IFRIC은 공정가치를 소급하여 결정하는 것에 문제가 있을 수 있다는 점을 인식하였지만 이 해석서를 소급적용하도록 결정하였다. IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div>에서 소급적용이 실무적으로 불가능할 수 있는 상황에 대한 지침을 제공한다고 보았다. IFRIC은 모든 기업에 대하여 미래 거래에 대해 전진적으로 적용하도록 요구하는 것보다는 소급하여 적용할 수 있는 기업은 그렇게 하도록 요구하는 것이 더 선호된다고 결론내렸다. 그러나 경과규정을 단순화하기 위하여, IFRIC은 또한 표시된 가장 이른 비교기간의 개시일 이후에 한하여 소급적용을 요구하도록 결론내렸다. 그 이유는 더 이른 기간에 적용하면 자본 내 금액의 재분류만 될 것이기 때문이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": "8",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC34",
+      "section_id": "8zpVT8",
+      "section_title": "해석서 초안에서 변경된 주요 사항의 요약",
+      "toc_path": "결론도출근거|IFRIC 19 ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’의 결론도출근거|적용범위|해석서 초안에서 변경된 주요 사항의 요약",
+      "text": "IFRIC의 공개초안 D25에서 변경된 주요 사항은 다음과 같다.\n(1) IFRIC은 이 해석서의 적용범위에서 제외되는 특정한 거래들을 식별하였기 때문에 문단 3을 추가하였다.\n(2) 발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없는 경우가 아니라면, 측정은 발행된 지분상품의 공정가치에 기초하여야 한다고 문단 6을 수정하여 기술하였다.\n(3) 문단 6의 수정을 반영하여 문단 7을 추가하였다. 이 문단에서는 또한 요구불 특성(예: 요구불예금)을 포함하는 소멸된 금융부채의 공정가치를 측정하는 데, IAS 39의 문단 49(주8)가 적용되지 않는다는 IFRIC의 의도를 명확히 하였다.\n(4) 문단 8을 추가하였고 문단 10을 수정하여, 지분상품의 발행으로 금융부채의 일부만을 소멸할 때 이 해석서가 어떻게 적용되어야 하는지를 명확히 하였다.\n(5) 발행된 지분상품을 언제 최초로 측정하는지를 기술하기 위해 문단 9를 수정하였다.\n[각주 (주8)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IAS 39의 문단 49는 IFRS 13의 문단 47로 옮겨졌다. 문단 22는 IFRIC 19가 발표되었을 때 관련된 사항들을 언급한다.",
+      "html": "IFRIC의 공개초안 D25에서 변경된 주요 사항은 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> IFRIC은 이 해석서의 적용범위에서 제외되는 특정한 거래들을 식별하였기 때문에 \n      \n      <span class=\"mundan-finder\">문단 3</span>을 추가하였다.\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 발행된 지분상품의 공정가치를 신뢰성 있게 측정할 수 없는 경우가 아니라면, 측정은 발행된 지분상품의 공정가치에 기초하여야 한다고 \n      \n      <span class=\"mundan-finder\">문단 6</span>을 수정하여 기술하였다.\n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 6</span>의 수정을 반영하여 \n      \n      <span class=\"mundan-finder\">문단 7</span>을 추가하였다. 이 문단에서는 또한 요구불 특성(예: 요구불예금)을 포함하는 소멸된 금융부채의 공정가치를 측정하는 데, \n      \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 문단 49\n      <sup>(주8)</sup>가 적용되지 않는다는 IFRIC의 의도를 명확히 하였다.\n    \n    </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주8)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n      \n      \n      \n      \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      \n      \n      \n      \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 문단 49는 \n      \n      \n      \n      \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">IFRS 13</span></div>의 \n      \n      \n      \n      \n        <span class=\"mundan-finder\">문단 47</span>로 옮겨졌다. \n      \n        <span class=\"mundan-finder\">문단 22</span>는 \n      \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">지분상품에 의한 금융부채의 소멸</span><span class=\"std-finder\">IFRIC 19</span></div>가 발표되었을 때 관련된 사항들을 언급한다.\n    \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑷</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 8</span>을 추가하였고 \n      \n      \n      \n      \n      \n      <span class=\"mundan-finder\">문단 10</span>을 수정하여, 지분상품의 발행으로 금융부채의 일부만을 소멸할 때 이 해석서가 어떻게 적용되어야 하는지를 명확히 하였다.\n    \n    \n    \n    \n    \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑸</div><div class=\"para-num-item-para-con\"> 발행된 지분상품을 언제 최초로 측정하는지를 기술하기 위해 \n      \n      \n      \n      \n      \n      <span class=\"mundan-finder\">문단 9</span>를 수정하였다.\n    \n    \n    \n    \n    \n    </div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "리스",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRIC 19",
+          "standard_number": null,
+          "standard_title": "지분상품에 의한 금융부채의 소멸",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 3",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "3",
+          "paragraph_ids": [
+            "3"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 6",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "6",
+          "paragraph_ids": [
+            "6"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 7",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "7",
+          "paragraph_ids": [
+            "7"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 47",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "47",
+          "paragraph_ids": [
+            "47"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 22",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "BC22",
+          "paragraph_ids": [
+            "BC22"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 8",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "8",
+          "paragraph_ids": [
+            "8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 10",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "10",
+          "paragraph_ids": [
+            "10"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 9",
+          "standard_number": "2119",
+          "standard_title": null,
+          "range": "9",
+          "paragraph_ids": [
+            "9"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": [
+        {
+          "id": "주8",
+          "display_text": "(주8)"
+        }
+      ]
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2119호와 국제재무보고기준해석 제19호(IFRIC 19) 기업회계기준해석서 제2119호는 국제재무보고기준해석위원회(International Financial Reporting Interpretations Committee : IFRIC)가 제정한 국제재무보고기준해석 제19호(IFRIC 19) ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’에 대응하는 기준이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한2.1, 한12.1 및 한12.2가 추가되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제재무보고기준해석 제19호(IFRIC 19)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2119호가 IFRIC 19의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제2119호를 준수하면 동시에 IFRIC 19를 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2119호와 국제재무보고기준해석 제19호(IFRIC 19)</h3>\n<p>기업회계기준해석서 제2119호는 국제재무보고기준해석위원회(International Financial Reporting Interpretations Committee : IFRIC)가 제정한 국제재무보고기준해석 제19호(IFRIC 19) ‘지분상품에 의한 금융부채의 소멸(Extinguishing Financial Liabilities with Equity Instruments)’에 대응하는 기준이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한2.1, 한12.1 및 한12.2가 추가되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제재무보고기준해석 제19호(IFRIC 19)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2119호가 IFRIC 19의 내용에 근거하여 제정되었기 때문에 기업회계기준서 제2119호를 준수하면 동시에 IFRIC 19를 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 지분상품에 의한 금융부채의 소멸에 필요한 사항을 정하고 있다. ### 1. 회계논제 이 해석서는 다음의 회계논제를 다룬다. ### 2. 결론 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 지분상품에 의한 금융부채의 소멸에 필요한 사항을 정하고 있다.</p>\n<h3>1. 회계논제</h3>\n<p>이 해석서는 다음의 회계논제를 다룬다. </p>\n<h3>2. 결론</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다. \n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2010.6.25. 제정 | 지분상품에 의한 금융부채의 소멸 | IFRIC 19 Extinguishing Financial Liabilities with Equity Instruments |\n\n이 해석서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다. \n\n| 제․개정일자 | 타 기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2018.11.14. 개정 | 한국채택국제회계기준에서 ‘개념체계의 참조에 대한 개정’ | Amendment to the References to Conceptual Framwork in IFRS |\n| 2015.9.25. 제정 | 기업회계기준서 제1109호 금융상품 | IFRS 9 Financial Instruments |\n| 2011.11.18. 제정 | 기업회계기준서 제1113호 공정가치 측정 | IFRS 13 Fair Value Measurement |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.</span><span style=\"word-spacing: -0.5em; font-family: 한양견명조; font-size: 12pt; text-indent: 15pt;\">&nbsp;</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 161px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 278px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 130px; height: 44px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2010.6.25. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 161px; height: 44px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">지분상품에 의한 금융부채의 소멸</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 278px; height: 44px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 20px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 24px;\">IFRIC 19 Extinguishing Financial Liabilities with Equity Instruments</span></p></td></tr></tbody></table>\n<p class=\"HStyle2\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span class=\"hnc_page_break\" style=\"margin: 0px; padding: 0px; word-spacing: -0.5em;\">&nbsp;</span><span style=\"font-family: 휴먼명조; font-size: 12pt;\">이 해석서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 127px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 168px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">타 기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 270px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 127px; height: 61px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2018.11.14. 개정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 168px; height: 61px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">한국채택국제회계기준에서 ‘개념체계의 참조에 대한 개정’</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 270px; height: 61px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 2.6pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">Amendment to the References to Conceptual Framwork in IFRS</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 127px; height: 43px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2015.9.25. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 168px; height: 43px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1109호 금융상품</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 270px; height: 43px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 6.7pt; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 9 Financial Instruments</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 127px; height: 43px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2011.11.18. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 168px; height: 43px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서 제1113호</span><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\"> 공정가치 측정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 270px; height: 43px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 0px; padding: 0px; text-align: justify; text-indent: 2.6pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; font-weight: normal; font-style: normal; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 13 Fair Value Measurement</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1109": [
+      "4",
+      "5",
+      "9",
+      "10",
+      "17"
+    ],
+    "1113": [
+      "7",
+      "15"
+    ],
+    "1008": [
+      "13"
+    ],
+    "39": [
+      "BC2",
+      "BC10",
+      "BC14",
+      "BC20",
+      "BC22",
+      "BC24",
+      "BC31",
+      "BC34"
+    ],
+    "32": [
+      "BC2",
+      "BC9",
+      "BC15",
+      "BC26"
+    ],
+    "9": [
+      "BC2",
+      "BC10",
+      "BC14",
+      "BC20",
+      "BC22",
+      "BC31",
+      "BC34"
+    ],
+    "2": [
+      "BC12",
+      "BC15",
+      "BC16",
+      "BC19"
+    ],
+    "3": [
+      "BC12",
+      "BC15",
+      "BC23"
+    ],
+    "13": [
+      "BC22",
+      "BC34"
+    ],
+    "1": [
+      "BC32"
+    ],
+    "7": [
+      "BC32"
+    ],
+    "8": [
+      "BC33"
+    ]
+  },
+  "qna_index": {
+    "SSI-38595": [
+      "6",
+      "9"
+    ]
+  }
+}

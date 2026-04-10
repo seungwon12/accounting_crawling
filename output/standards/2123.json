@@ -1,0 +1,1576 @@
+{
+  "standard_id": "2123",
+  "standard_type": "기업회계기준해석서",
+  "title": "법인세 처리의 불확실성",
+  "url": "https://db.kasb.or.kr/s/2123",
+  "crawled_at": "2026-04-09T23:55:18.575999+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2123/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2123/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "cKnbwF",
+          "href": "/s/2123/cKnbwF",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "배경",
+          "section_id": "DsDQj8",
+          "href": "/s/2123/DsDQj8",
+          "paragraph_range": "1 ~ 3",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "JiPMhq",
+          "href": "/s/2123/JiPMhq",
+          "paragraph_range": "한4.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용범위",
+          "section_id": "UNtpQm",
+          "href": "/s/2123/UNtpQm",
+          "paragraph_range": "4",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "tGW3o2",
+          "href": "/s/2123/tGW3o2",
+          "paragraph_range": "5",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "T6tBBT",
+          "href": "/s/2123/T6tBBT",
+          "paragraph_range": "6 ~ 14",
+          "children": [
+            {
+              "level": 3.0,
+              "title": "불확실한 법인세 처리를 개별적으로 고려할지",
+              "section_id": "DiGDOt",
+              "href": "/s/2123/DiGDOt",
+              "paragraph_range": "6 ~ 7",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "과세당국의 조사",
+              "section_id": "uEs90L",
+              "href": "/s/2123/uEs90L",
+              "paragraph_range": "8",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+              "section_id": "vdI8wS",
+              "href": "/s/2123/vdI8wS",
+              "paragraph_range": "9 ~ 12",
+              "children": []
+            },
+            {
+              "level": 3.0,
+              "title": "사실 및 상황의 변화",
+              "section_id": "4Aoj4y",
+              "href": "/s/2123/4Aoj4y",
+              "paragraph_range": "13 ~ 14",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1.5,
+      "title": "부록 A. 적용지침",
+      "section_id": "WsaoO0",
+      "href": "/s/2123/WsaoO0",
+      "paragraph_range": "A1 ~ A5",
+      "children": [
+        {
+          "level": 2.0,
+          "title": "사실 및 상황의 변화 (문단 13)",
+          "section_id": "HyjLKA",
+          "href": "/s/2123/HyjLKA",
+          "paragraph_range": "A1 ~ A3",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "공시",
+          "section_id": "grJ5Tv",
+          "href": "/s/2123/grJ5Tv",
+          "paragraph_range": "A4 ~ A5",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1.5,
+      "title": "부록 B. 시행일과 경과규정",
+      "section_id": "xRoSCs",
+      "href": "/s/2123/xRoSCs",
+      "paragraph_range": "B1 ~ B2",
+      "children": [
+        {
+          "level": 2.0,
+          "title": "시행일",
+          "section_id": "JKGX5Y",
+          "href": "/s/2123/JKGX5Y",
+          "paragraph_range": "B1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "경과 규정",
+          "section_id": "eXVJ9Q",
+          "href": "/s/2123/eXVJ9Q",
+          "paragraph_range": "B2",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2123호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "GNxse3",
+          "href": "/s/2123/GNxse3",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "적용사례 실무적용지침",
+      "section_id": "50d7f1b3",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례",
+          "section_id": "jhs1Tt",
+          "href": "/s/2123/jhs1Tt",
+          "paragraph_range": "IE1 ~ IE10",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+              "section_id": "1WzBMk",
+              "href": "/s/2123/1WzBMk",
+              "paragraph_range": "IE2 ~ IE6",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+              "section_id": "icnZRg",
+              "href": "/s/2123/icnZRg",
+              "paragraph_range": "IE7 ~ IE10",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2123/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거",
+          "section_id": "FZi913",
+          "href": "/s/2123/FZi913",
+          "paragraph_range": "BC1 ~ BC26",
+          "children": [
+            {
+              "level": 2.0,
+              "title": "배경",
+              "section_id": "7ggkr4",
+              "href": "/s/2123/7ggkr4",
+              "paragraph_range": "BC1 ~ BC3",
+              "children": []
+            },
+            {
+              "level": 2.0,
+              "title": "적용범위",
+              "section_id": "vzGssO",
+              "href": "/s/2123/vzGssO",
+              "paragraph_range": "BC4 ~ BC9",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "이자와 벌과금",
+                  "section_id": "VUTlzi",
+                  "href": "/s/2123/VUTlzi",
+                  "paragraph_range": "BC7 ~ BC9",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 2.0,
+              "title": "결론",
+              "section_id": "RvupzW",
+              "href": "/s/2123/RvupzW",
+              "paragraph_range": "BC10 ~ BC24",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "기업이 불확실한 법인세 처리를 개별적으로 고려해야 하는지",
+                  "section_id": "c6OuwN",
+                  "href": "/s/2123/c6OuwN",
+                  "paragraph_range": "BC10",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "과세당국의 조사",
+                  "section_id": "Mny1V1",
+                  "href": "/s/2123/Mny1V1",
+                  "paragraph_range": "BC11 ~ BC13",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정",
+                  "section_id": "mz947B",
+                  "href": "/s/2123/mz947B",
+                  "paragraph_range": "BC14 ~ BC19",
+                  "children": [
+                    {
+                      "level": 4.0,
+                      "title": "불확실성의 영향을 반영하는 시점",
+                      "section_id": "r9qpv8",
+                      "href": "/s/2123/r9qpv8",
+                      "paragraph_range": "BC14 ~ BC16",
+                      "children": []
+                    },
+                    {
+                      "level": 4.0,
+                      "title": "불확실성의 영향을 반영하는 방법",
+                      "section_id": "lCJIJZ",
+                      "href": "/s/2123/lCJIJZ",
+                      "paragraph_range": "BC17 ~ BC19",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "level": 3.0,
+                  "title": "사실 및 상황의 변화",
+                  "section_id": "1sKkNt",
+                  "href": "/s/2123/1sKkNt",
+                  "paragraph_range": "BC20 ~ BC21",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "공시",
+                  "section_id": "Uigqko",
+                  "href": "/s/2123/Uigqko",
+                  "paragraph_range": "BC22",
+                  "children": []
+                },
+                {
+                  "level": 3.0,
+                  "title": "사업결합",
+                  "section_id": "EQsdaA",
+                  "href": "/s/2123/EQsdaA",
+                  "paragraph_range": "BC23 ~ BC24",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 2.0,
+              "title": "경과 규정",
+              "section_id": "9mUXMD",
+              "href": "/s/2123/9mUXMD",
+              "paragraph_range": "BC25 ~ BC26",
+              "children": [
+                {
+                  "level": 3.0,
+                  "title": "최초채택기업",
+                  "section_id": "TOTUPl",
+                  "href": "/s/2123/TOTUPl",
+                  "paragraph_range": "BC26",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2123/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2123/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2123/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "IE1",
+      "section_id": "cKnbwF",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "- 기업회계기준서 제1001호 ‘재무제표 표시’",
+      "html": "<div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 기업회계기준서 제1001호 ‘재무제표 표시’</div><div class=\"para\">- 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’</div><div class=\"para\">- 기업회계기준서 제1010호 ‘보고기간후사건’</div><div class=\"para\">- 기업회계기준서 제1012호 ‘법인세’</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "DsDQj8",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "기업회계기준서 제1012호 ‘법인세’에서는 당기 및 이연 법인세 자산·부채에 대한 요구사항을 규정한다. 기업은 적용되는 세법에 기초하여 기업회계기준서 제1012호의 요구사항을 적용한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div> ‘법인세’에서는 당기 및 이연 법인세 자산·부채에 대한 요구사항을 규정한다. 기업은 적용되는 세법에 기초하여 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div>의 요구사항을 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "DsDQj8",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "특정한 거래나 상황에 세법을 어떻게 적용할지가 분명하지 않은 경우가 있다. 관련 과세당국이나 법원이 미래에 수용 여부를 결정한 후에나 세법에 따른 특정한 법인세 처리의 수용 가능성을 알게 되는 경우도 있다. 따라서 특정한 법인세 처리에 대한 과세당국의 조사나 분쟁은 기업의 당기 및 이연 법인세 자산·부채 회계처리에 영향을 미칠 수 있다.",
+      "html": "특정한 거래나 상황에 세법을 어떻게 적용할지가 분명하지 않은 경우가 있다. 관련 과세당국이나 법원이 미래에 수용 여부를 결정한 후에나 세법에 따른 특정한 법인세 처리의 수용 가능성을 알게 되는 경우도 있다. 따라서 특정한 법인세 처리에 대한 과세당국의 조사나 분쟁은 기업의 당기 및 이연 법인세 자산·부채 회계처리에 영향을 미칠 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "DsDQj8",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "이 해석서에서 사용하는 용어의 뜻은 다음과 같다.\n(1) ‘법인세 처리’란 기업이 법인세 신고에 사용하였거나 사용하려는 처리를 말한다.\n(2) ‘과세당국’이란 세법에 따라 법인세 처리를 수용할 수 있는지를 결정하는 기구(들)를 말한다. 여기에는 법원이 포함될 수 있다.\n(3) ‘불확실한 법인세 처리’란 관련 과세당국이 세법에 따라 수용할지가 불확실한 법인세 처리를 말한다. 예를 들면, 기업이 어떤 조세 관할권에서 법인세 신고서를 제출하지 않기로 결정하거나 과세소득에 특정한 소득을 포함하지 않기로 결정한 경우에 세법에 따라 그 처리의 수용 가능성이 불확실하다면 이는 불확실한 법인세 처리이다.",
+      "html": "이 해석서에서 사용하는 용어의 뜻은 다음과 같다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> ‘법인세 처리’란 기업이 법인세 신고에 사용하였거나 사용하려는 처리를 말한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> ‘과세당국’이란 세법에 따라 법인세 처리를 수용할 수 있는지를 결정하는 기구(들)를 말한다. 여기에는 법원이 포함될 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> ‘불확실한 법인세 처리’란 관련 과세당국이 세법에 따라 수용할지가 불확실한 법인세 처리를 말한다. 예를 들면, 기업이 어떤 조세 관할권에서 법인세 신고서를 제출하지 않기로 결정하거나 과세소득에 특정한 소득을 포함하지 않기로 결정한 경우에 세법에 따라 그 처리의 수용 가능성이 불확실하다면 이는 불확실한 법인세 처리이다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한4.1",
+      "section_id": "JiPMhq",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 「주식회사 등의 외부감사에 관한 법률」에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 그리고 이 해석서는 같은 법률에 따라 재무제표를 작성하고 표시하기 위해 한국채택국제회계기준을 적용하기로 선택하거나 다른 법률 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"한4.1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">한4.1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>이 해석서는 「주식회사 등의 외부감사에 관한 법률」에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 그리고 이 해석서는 같은 법률에 따라 재무제표를 작성하고 표시하기 위해 한국채택국제회계기준을 적용하기로 선택하거나 다른 법률 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.</b></div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "UNtpQm",
+      "section_title": "적용범위",
+      "toc_path": "본문|적용범위",
+      "text": "이 해석서는 법인세 처리에 불확실성이 있을 때 기업회계기준서 제1012호의 인식 및 측정 요구사항을 적용하는 방법을 명확히 한다. 그러한 상황에서 기업은 이 해석서에 따라 산정한 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 기초로 기업회계기준서 제1012호의 요구사항을 적용하여 당기 및 이연 법인세 자산·부채를 인식하고 측정한다.",
+      "html": "이 해석서는 법인세 처리에 불확실성이 있을 때 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div>의 인식 및 측정 요구사항을 적용하는 방법을 명확히 한다. 그러한 상황에서 기업은 이 해석서에 따라 산정한 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 기초로 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div>의 요구사항을 적용하여 당기 및 이연 법인세 자산·부채를 인식하고 측정한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "201909D",
+          "title": "불확실한 법인세 처리에 관련되는 부채 또는 자산의 표시",
+          "url": "/qnas/201909D",
+          "date": "2019-09-30"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "tGW3o2",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "이 해석서는 법인세 처리에 불확실성이 있는 경우에 다음 논제를 다룬다.\n(1) 기업이 불확실한 법인세 처리를 개별적으로 고려할지\n(2) 법인세 처리에 대한 과세당국의 조사에 관한 기업의 가정\n(3) 기업이 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 어떻게 산정할지\n(4) 기업이 사실 및 상황의 변화를 어떻게 고려할지",
+      "html": "이 해석서는 법인세 처리에 불확실성이 있는 경우에 다음 논제를 다룬다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 기업이 불확실한 법인세 처리를 개별적으로 고려할지</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 법인세 처리에 대한 과세당국의 조사에 관한 기업의 가정</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 기업이 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 어떻게 산정할지</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑷</div><div class=\"para-num-item-para-con\"> 기업이 사실 및 상황의 변화를 어떻게 고려할지</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "DiGDOt",
+      "section_title": "불확실한 법인세 처리를 개별적으로 고려할지",
+      "toc_path": "본문|결론|불확실한 법인세 처리를 개별적으로 고려할지",
+      "text": "어떤 접근법이 불확실성의 해소를 더 잘 예측하는지에 기초하여 불확실한 법인세 처리 각각을 개별적으로 고려할지 아니면 하나 이상의 다른 불확실한 법인세 처리와 함께 고려할지를 판단한다. 불확실성의 해소를 더 잘 예측하는 접근법을 판단할 때에 예를 들면 기업은 다음을 고려할 수 있다.\n(1) 어떻게 법인세 신고서를 작성하고, 법인세 처리의 근거를 제공하는지\n(2) 어떻게 과세당국이 조사를 하고, 그 조사에서 생길 수 있는 쟁점들을 결정할 것으로 예상하는지",
+      "html": "어떤 접근법이 불확실성의 해소를 더 잘 예측하는지에 기초하여 불확실한 법인세 처리 각각을 개별적으로 고려할지 아니면 하나 이상의 다른 불확실한 법인세 처리와 함께 고려할지를 판단한다. 불확실성의 해소를 더 잘 예측하는 접근법을 판단할 때에 예를 들면 기업은 다음을 고려할 수 있다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 어떻게 법인세 신고서를 작성하고, 법인세 처리의 근거를 제공하는지</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 어떻게 과세당국이 조사를 하고, 그 조사에서 생길 수 있는 쟁점들을 결정할 것으로 예상하는지</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "DiGDOt",
+      "section_title": "불확실한 법인세 처리를 개별적으로 고려할지",
+      "toc_path": "본문|결론|불확실한 법인세 처리를 개별적으로 고려할지",
+      "text": "문단 6을 적용하여 하나 이상의 불확실한 법인세 처리를 함께 고려하는 경우에 이 해석서에서 ‘불확실한 법인세 처리’에 대한 언급은 함께 고려하는 불확실한 법인세 처리의 집단으로 이해해야 한다.",
+      "html": "<span class=\"mundan-finder\">문단 6</span>을 적용하여 하나 이상의 불확실한 법인세 처리를 함께 고려하는 경우에 이 해석서에서 ‘불확실한 법인세 처리’에 대한 언급은 함께 고려하는 불확실한 법인세 처리의 집단으로 이해해야 한다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 6",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "6",
+          "paragraph_ids": [
+            "6"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "uEs90L",
+      "section_title": "과세당국의 조사",
+      "toc_path": "본문|결론|과세당국의 조사",
+      "text": "불확실한 법인세 처리가 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정에 영향을 미치는지, 어떻게 영향을 미치는지를 검토할 때에 과세당국이 조사할 권한이 있는 만큼 모두 조사할 것이고, 그 조사를 할 때에 관련되는 정보를 모두 알고 있다고 가정한다.",
+      "html": "불확실한 법인세 처리가 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정에 영향을 미치는지, 어떻게 영향을 미치는지를 검토할 때에 과세당국이 조사할 권한이 있는 만큼 모두 조사할 것이고, 그 조사를 할 때에 관련되는 정보를 모두 알고 있다고 가정한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "vdI8wS",
+      "section_title": "과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+      "toc_path": "본문|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+      "text": "기업은 과세당국이 불확실한 법인세 처리를 수용할 가능성이 높은지를 고려한다.",
+      "html": "기업은 과세당국이 불확실한 법인세 처리를 수용할 가능성이 높은지를 고려한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-202412047",
+          "title": "이의신청으로 법인세 일부를 환급받는 경우, 수정을 요하는 보고기간 후 사건인지",
+          "url": "/qnas/SSI-202412047",
+          "date": "2023-01-27"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "vdI8wS",
+      "section_title": "과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+      "toc_path": "본문|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+      "text": "과세당국이 불확실한 법인세 처리를 수용할 가능성이 높다고 결론 내리는 경우에는 법인세 신고에 사용하였거나 사용하려는 그 법인세 처리와 일관되게 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 산정한다.",
+      "html": "과세당국이 불확실한 법인세 처리를 수용할 가능성이 높다고 결론 내리는 경우에는 법인세 신고에 사용하였거나 사용하려는 그 법인세 처리와 일관되게 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 산정한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "vdI8wS",
+      "section_title": "과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+      "toc_path": "본문|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+      "text": "과세당국이 불확실한 법인세 처리를 수용할 가능성이 높지 않다고 결론 내리는 경우에는 관련되는 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 산정할 때에 불확실성의 영향을 반영한다. 기업은 불확실한 법인세 처리 각각에 다음 방법 가운데 불확실성의 해소를 더 잘 예측할 것으로 예상하는 방법을 사용하여 불확실성의 영향을 반영한다.\n(1) 가능성이 가장 높은 금액: 가능한 결과치의 범위에서 가능성이 가장 높은 단일 금액. 가능한 결과치가 두 가지이거나 하나의 값에 집중되어 있다면 가능성이 가장 높은 금액이 불확실성의 해소를 더 잘 예측할 수 있다.\n(2) 기댓값: 가능한 결과치의 범위에 있는 모든 금액에 각 확률을 곱한 금액의 합. 가능한 결과치의 범위가 두 가지 값도 아니고 하나의 값에 집중되어 있지도 않다면 기댓값이 불확실성의 해소를 더 잘 예측할 수 있다.",
+      "html": "과세당국이 불확실한 법인세 처리를 수용할 가능성이 높지 않다고 결론 내리는 경우에는 관련되는 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 산정할 때에 불확실성의 영향을 반영한다. 기업은 불확실한 법인세 처리 각각에 다음 방법 가운데 불확실성의 해소를 더 잘 예측할 것으로 예상하는 방법을 사용하여 불확실성의 영향을 반영한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 가능성이 가장 높은 금액: 가능한 결과치의 범위에서 가능성이 가장 높은 단일 금액. 가능한 결과치가 두 가지이거나 하나의 값에 집중되어 있다면 가능성이 가장 높은 금액이 불확실성의 해소를 더 잘 예측할 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 기댓값: 가능한 결과치의 범위에 있는 모든 금액에 각 확률을 곱한 금액의 합. 가능한 결과치의 범위가 두 가지 값도 아니고 하나의 값에 집중되어 있지도 않다면 기댓값이 불확실성의 해소를 더 잘 예측할 수 있다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "vdI8wS",
+      "section_title": "과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+      "toc_path": "본문|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상 결손금, 미사용 세액공제, 세율 산정",
+      "text": "불확실한 법인세 처리가 당기법인세와 이연법인세에 영향을 미친다면(예를 들면, 당기법인세를 산정하기 위해 사용하는 과세소득과 이연법인세를 산정하기 위해 사용하는 세무기준액 모두에 영향을 미친다면) 당기법인세와 이연법인세 모두에 대해 일관되게 판단하고 추정한다.",
+      "html": "불확실한 법인세 처리가 당기법인세와 이연법인세에 영향을 미친다면(예를 들면, 당기법인세를 산정하기 위해 사용하는 과세소득과 이연법인세를 산정하기 위해 사용하는 세무기준액 모두에 영향을 미친다면) 당기법인세와 이연법인세 모두에 대해 일관되게 판단하고 추정한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "4Aoj4y",
+      "section_title": "사실 및 상황의 변화",
+      "toc_path": "본문|결론|사실 및 상황의 변화",
+      "text": "판단이나 추정치의 기초가 된 사실 및 상황이 달라지거나 판단이나 추정치에 영향을 미치는 새로운 정보에 따라 이 해석서에서 요구하는 판단이나 추정치를 다시 검토한다. 예를 들면, 사실 및 상황이 달라지면 법인세 처리의 수용 가능성에 대한 기업의 결론이나(과) 불확실성의 영향에 대한 기업의 추정치를 변경할 수 있다. 문단 A1~A3에서는 사실 및 상황의 변화에 대한 지침을 제공한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"13\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">13</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">판단이나 추정치의 기초가 된 사실 및 상황이 달라지거나 판단이나 추정치에 영향을 미치는 새로운 정보에 따라 이 해석서에서 요구하는 판단이나 추정치를 다시 검토한다. 예를 들면, 사실 및 상황이 달라지면 법인세 처리의 수용 가능성에 대한 기업의 결론이나(과) 불확실성의 영향에 대한 기업의 추정치를 변경할 수 있다. \n  <span class=\"mundan-finder\">문단 A1~A3</span>에서는 사실 및 상황의 변화에 대한 지침을 제공한다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 A1~A3",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "A1~A3",
+          "paragraph_ids": [
+            "A1",
+            "A2",
+            "A3"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "4Aoj4y",
+      "section_title": "사실 및 상황의 변화",
+      "toc_path": "본문|결론|사실 및 상황의 변화",
+      "text": "기업은 사실 및 상황의 변화나 새로운 정보의 영향을 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’를 적용하여 회계추정치의 변경으로 반영한다. 기업은 보고기간 후에 생긴 변화가 수정이 필요한 사건인지, 수정이 필요하지 않는 사건인지를 판단하기 위하여 기업회계기준서 제1010호 ‘보고기간후사건’을 적용한다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"14\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">14</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">기업은 사실 및 상황의 변화나 새로운 정보의 영향을 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’</span></div>를 적용하여 회계추정치의 변경으로 반영한다. 기업은 보고기간 후에 생긴 변화가 수정이 필요한 사건인지, 수정이 필요하지 않는 사건인지를 판단하기 위하여 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보고기간후사건</span><span class=\"std-finder\">기업회계기준서 제1010호 ‘보고기간후사건’</span></div>을 적용한다.\n</div></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"이의신청으로 법인세 일부를 환급받는 경우, 수정을 요하는 보고기간 후 사건인지\" target=\"_blank\" href=\"/qnas/SSI-202412047\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 이의신청으로 법인세 일부를 환급받는 경우, 수정을 요하는 보고기간 후 사건인지</h5><time class=\"sc-gacfCG bRMfLY\">2023-01-27</time></article></a></li></ul></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’",
+          "standard_number": "1008",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1010호 ‘보고기간후사건’",
+          "standard_number": "1010",
+          "standard_title": "보고기간후사건",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "SSI-202412047",
+          "title": "이의신청으로 법인세 일부를 환급받는 경우, 수정을 요하는 보고기간 후 사건인지",
+          "url": "/qnas/SSI-202412047",
+          "date": "2023-01-27"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "A1",
+      "section_id": "HyjLKA",
+      "section_title": "사실 및 상황의 변화 (문단 13)",
+      "toc_path": "부록 A. 적용지침|사실 및 상황의 변화 (문단 13)",
+      "text": "이 해석서 문단 13을 적용할 때에 사실 및 상황의 변화나 새로운 정보의 관련성 및 영향을 적용되는 세법의 맥락에서 검토해야 한다. 예를 들면, 법인세 처리가 서로 다른 세법을 적용받는 경우에 특정한 사건이 한 법인세 처리에 대해서는 판단이나 추정치를 다시 검토하게 하나, 다른 법인세 처리에 대해서는 다시 검토하게 하지 않는 결과를 가져올 수 있다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"A1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">A1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">이 해석서 \n  <span class=\"mundan-finder\">문단 13</span>을 적용할 때에 사실 및 상황의 변화나 새로운 정보의 관련성 및 영향을 적용되는 세법의 맥락에서 검토해야 한다. 예를 들면, 법인세 처리가 서로 다른 세법을 적용받는 경우에 특정한 사건이 한 법인세 처리에 대해서는 판단이나 추정치를 다시 검토하게 하나, 다른 법인세 처리에 대해서는 다시 검토하게 하지 않는 결과를 가져올 수 있다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 13",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "13",
+          "paragraph_ids": [
+            "13"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "A2",
+      "section_id": "HyjLKA",
+      "section_title": "사실 및 상황의 변화 (문단 13)",
+      "toc_path": "부록 A. 적용지침|사실 및 상황의 변화 (문단 13)",
+      "text": "상황에 따라 이 해석서에서 요구하는 판단이나 추정치를 다시 검토하게 하는 결과를 가져올 수 있는 사실 및 상황의 변화나 새로운 정보의 예는 다음과 같으나, 이에 한정되지는 않는다.\n(1) 과세당국의 조사나 조치. 그 예는 다음과 같다.\n(가) 기업의 법인세 처리나 이와 비슷한 법인세 처리에 대한 과세당국의 동의나 부인\n(나) 다른 기업의 비슷한 법인세 처리에 대한 과세당국의 동의나 부인에 관한 정보\n(다) 비슷한 법인세 처리를 정산하기 위하여 받았거나 지급한 금액에 대한 정보\n(2) 과세당국이 정한 규칙의 변경\n(3) 법인세 처리를 조사하거나 다시 조사하는 과세당국의 권한 만료",
+      "html": "상황에 따라 이 해석서에서 요구하는 판단이나 추정치를 다시 검토하게 하는 결과를 가져올 수 있는 사실 및 상황의 변화나 새로운 정보의 예는 다음과 같으나, 이에 한정되지는 않는다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 과세당국의 조사나 조치. 그 예는 다음과 같다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈎</div><div class=\"para-num-item-para-con\"> 기업의 법인세 처리나 이와 비슷한 법인세 처리에 대한 과세당국의 동의나 부인</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈏</div><div class=\"para-num-item-para-con\"> 다른 기업의 비슷한 법인세 처리에 대한 과세당국의 동의나 부인에 관한 정보</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">㈐</div><div class=\"para-num-item-para-con\"> 비슷한 법인세 처리를 정산하기 위하여 받았거나 지급한 금액에 대한 정보</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 과세당국이 정한 규칙의 변경</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> 법인세 처리를 조사하거나 다시 조사하는 과세당국의 권한 만료</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "A3",
+      "section_id": "HyjLKA",
+      "section_title": "사실 및 상황의 변화 (문단 13)",
+      "toc_path": "부록 A. 적용지침|사실 및 상황의 변화 (문단 13)",
+      "text": "어떤 법인세 처리에 대하여 과세당국의 동의나 부인이 없다면, 그 자체가 이 해석서에서 요구하는 판단이나 추정치에 영향을 미치는 사실 및 상황의 변화나 새로운 정보가 되지는 않을 것이다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"A3\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">A3</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">어떤 법인세 처리에 대하여 과세당국의 동의나 부인이 없다면, 그 자체가 이 해석서에서 요구하는 판단이나 추정치에 영향을 미치는 사실 및 상황의 변화나 새로운 정보가 되지는 않을 것이다.</div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "A4",
+      "section_id": "grJ5Tv",
+      "section_title": "공시",
+      "toc_path": "부록 A. 적용지침|공시",
+      "text": "법인세 처리에 불확실성이 있을 때 다음 내용을 공시할지를 판단한다.\n(1) 기업회계기준서 제1001호 ‘재무제표 표시’ 문단 122를 적용하여 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 산정할 때에 사용한 판단\n(2) 기업회계기준서 제1001호 문단 125~129를 적용하여 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 산정할 때에 사용한 가정과 추정치에 대한 정보",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"A4\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">A4</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">법인세 처리에 불확실성이 있을 때 다음 내용을 공시할지를 판단한다.</div><div class=\"idt-1\"><div>⑴</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div> ‘재무제표 표시’ \n    <span class=\"mundan-finder\"> 문단 122</span>를 적용하여 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 산정할 때에 사용한 판단  \n  </div></div><div class=\"idt-1\"><div>⑵</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\"> 기업회계기준서 제1001호</span></div><span class=\"mundan-finder\"> 문단 125~129</span>를 적용하여 과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율을 산정할 때에 사용한 가정과 추정치에 대한 정보  \n  </div></div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1001호",
+          "standard_number": "1001",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 122",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "122",
+          "paragraph_ids": [
+            "122"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 125~129",
+          "standard_number": "1001",
+          "standard_title": null,
+          "range": "125∼129",
+          "paragraph_ids": [
+            "125∼129"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "A5",
+      "section_id": "grJ5Tv",
+      "section_title": "공시",
+      "toc_path": "부록 A. 적용지침|공시",
+      "text": "과세당국이 불확실한 법인세 처리를 수용할 가능성이 높다고 결론 내린다면 불확실성의 잠재적 영향을 기업회계기준서 제1012호 문단 88에 따라 법인세와 관련된 우발부채와 우발자산으로 공시할지를 판단한다.",
+      "html": "과세당국이 불확실한 법인세 처리를 수용할 가능성이 높다고 결론 내린다면 불확실성의 잠재적 영향을 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div><span class=\"mundan-finder\"> 문단 88</span>에 따라 법인세와 관련된 우발부채와 우발자산으로 공시할지를 판단한다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 88",
+          "standard_number": "1012",
+          "standard_title": null,
+          "range": "88",
+          "paragraph_ids": [
+            "88"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "B1",
+      "section_id": "JKGX5Y",
+      "section_title": "시행일",
+      "toc_path": "부록 B. 시행일과 경과규정|시행일",
+      "text": "이 해석서는 2019년 1월 1일 이후 최초로 시작되는 회계연도부터 적용하되 조기 적용할 수도 있다. 이 해석서를 조기 적용하는 경우에는 그 사실을 공시한다.",
+      "html": "이 해석서는 2019년 1월 1일 이후 최초로 시작되는 회계연도부터 적용하되 조기 적용할 수도 있다. 이 해석서를 조기 적용하는 경우에는 그 사실을 공시한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "B2",
+      "section_id": "eXVJ9Q",
+      "section_title": "경과 규정",
+      "toc_path": "부록 B. 시행일과 경과규정|경과 규정",
+      "text": "이 해석서를 처음 적용할 때, 다음 중 어느 하나의 방법을 사용하여 이 해석서를 적용한다.\n(1) 사후판단을 사용하지 않고 적용하는 것이 가능하다면 기업회계기준서 제1008호에 따라 소급 적용한다.\n(2) 이 해석서의 최초 적용 누적효과를 최초 적용일에 인식하는 방식으로 소급 적용한다. 기업이 이 경과 규정을 선택하는 경우에는 비교 정보를 다시 작성하지 않는다. 그 대신에 해석서의 최초 적용 누적효과는 기초 이익잉여금(또는 적절하다면 자본의 다른 항목)을 조정하여 인식한다. 최초 적용일은 이 해석서를 처음 적용하는 회계연도의 시작일이다.",
+      "html": "이 해석서를 처음 적용할 때, 다음 중 어느 하나의 방법을 사용하여 이 해석서를 적용한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 사후판단을 사용하지 않고 적용하는 것이 가능하다면 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">기업회계기준서 제1008호</span></div>에 따라 소급 적용한다.\n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 이 해석서의 최초 적용 누적효과를 최초 적용일에 인식하는 방식으로 소급 적용한다. 기업이 이 경과 규정을 선택하는 경우에는 비교 정보를 다시 작성하지 않는다. 그 대신에 해석서의 최초 적용 누적효과는 기초 이익잉여금(또는 적절하다면 자본의 다른 항목)을 조정하여 인식한다. 최초 적용일은 이 해석서를 처음 적용하는 회계연도의 시작일이다.</div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1008호",
+          "standard_number": "1008",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE6",
+      "section_id": "1WzBMk",
+      "section_title": "사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "text": "따라서 기업 A는 불확실성의 영향을 반영하기 위해 650원을 포함하는 과세소득에 기초하여 기업회계기준서 제1012호에 따른 당기법인세부채를 인식하고 측정한다. 650원이라는 금액은 기업의 법인세 신고에 보고된 과세소득 금액에 더해진다.",
+      "html": "따라서 기업 A는 불확실성의 영향을 반영하기 위해 650원을 포함하는 과세소득에 기초하여 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div>에 따른 당기법인세부채를 인식하고 측정한다. 650원이라는 금액은 기업의 법인세 신고에 보고된 과세소득 금액에 더해진다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE2",
+      "section_id": "1WzBMk",
+      "section_title": "사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "text": "어떤 국가에서 기업 A의 법인세 신고에는 이전가격에 관련되는 세무상 공제가 포함되어 있다. 과세당국은 그 법인세 처리에 이의를 제기할 수 있다. 기업회계기준서 제1012호를 적용하는 맥락에서 그 불확실한 법인세 처리는 당기 과세소득 산정에만 영향을 미친다.",
+      "html": "어떤 국가에서 기업 A의 법인세 신고에는 이전가격에 관련되는 세무상 공제가 포함되어 있다. 과세당국은 그 법인세 처리에 이의를 제기할 수 있다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div>를 적용하는 맥락에서 그 불확실한 법인세 처리는 당기 과세소득 산정에만 영향을 미친다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE3",
+      "section_id": "1WzBMk",
+      "section_title": "사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "text": "기업 A는 하나의 이전가격 문제에 대한 과세당국의 결정은 다른 이전가격 문제에 영향을 주거나 다른 이전가격 문제에서 영향을 받을 수 있다는 점에 주목한다. 기업 A는 기업회계기준해석서 제2123호 문단 6을 적용하여 해당 국가에서의 모든 이전가격 문제에 관한 법인세 처리를 함께 고려하는 것이 불확실성의 해소를 더 잘 예측한다고 결론 내린다. 또 기업 A는 과세당국이 해당 법인세 처리를 수용할 가능성이 높지 않다고 결론 내린다. 따라서 기업 A는 과세소득을 산정할 때에 기업회계기준해석서 제2123호 문단 11을 적용하여 불확실성의 영향을 반영한다.",
+      "html": "기업 A는 하나의 이전가격 문제에 대한 과세당국의 결정은 다른 이전가격 문제에 영향을 주거나 다른 이전가격 문제에서 영향을 받을 수 있다는 점에 주목한다. 기업 A는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세 처리의 불확실성</span><span class=\"std-finder\">기업회계기준해석서 제2123호</span></div><span class=\"mundan-finder\"> 문단 6</span>을 적용하여 해당 국가에서의 모든 이전가격 문제에 관한 법인세 처리를 함께 고려하는 것이 불확실성의 해소를 더 잘 예측한다고 결론 내린다. 또 기업 A는 과세당국이 해당 법인세 처리를 수용할 가능성이 높지 않다고 결론 내린다. 따라서 기업 A는 과세소득을 산정할 때에 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세 처리의 불확실성</span><span class=\"std-finder\">기업회계기준해석서 제2123호</span></div><span class=\"mundan-finder\"> 문단 11</span>을 적용하여 불확실성의 영향을 반영한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준해석서 제2123호",
+          "standard_number": "2123",
+          "standard_title": "법인세 처리의 불확실성",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 6",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "6",
+          "paragraph_ids": [
+            "6"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 11",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "11",
+          "paragraph_ids": [
+            "11"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE4",
+      "section_id": "1WzBMk",
+      "section_title": "사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "text": "기업 A는 과세소득에 가산될 수 있을 가능한 추가 금액의 확률을 다음과 같이 추정한다.\n[각주 (*)] 이 적용사례에서 통화금액은 ‘원’으로 표시한다.",
+      "html": "기업 A는 과세소득에 가산될 수 있을 가능한 추가 금액의 확률을 다음과 같이 추정한다.\n<div class=\"idt-2 comment cmt2\"><div>(*)</div><div> 이 적용사례에서 통화금액은 ‘원’으로 표시한다.</div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE5",
+      "section_id": "1WzBMk",
+      "section_title": "사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 1: 함께 고려하는 법인세 처리의 불확실성의 영향을 반영하기 위하여 기댓값 방법을 사용한다.",
+      "text": "결과치 5는 가장 가능성이 높은 결과치이다. 그러나 기업 A는 가능한 결과치의 범위가 두 가지 값도 아니고 하나의 값에 집중되어 있지도 않다는 점을 알게 되었다. 따라서 기업 A는 650원의 기댓값이 불확실성의 해소를 더 잘 예측한다고 결론 내린다.",
+      "html": "결과치 5는 가장 가능성이 높은 결과치이다. 그러나 기업 A는 가능한 결과치의 범위가 두 가지 값도 아니고 하나의 값에 집중되어 있지도 않다는 점을 알게 되었다. 따라서 기업 A는 650원의 기댓값이 불확실성의 해소를 더 잘 예측한다고 결론 내린다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE7",
+      "section_id": "icnZRg",
+      "section_title": "사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+      "text": "기업 B는 개별적으로 식별 가능한 무형자산을 100원에 취득한다. 이 무형자산은 내용연수가 비한정이므로 기업회계기준서 제1038호 ‘무형자산’에 따라 상각하지 않는다. 세법에서는 해당 무형자산의 전체 원가가 세무상 공제될 수 있다고 규정하나, 공제 시점은 불확실하다. 기업 B는 기업회계기준해석서 제2123호 문단 6을 적용하여, 이 법인세 처리는 개별적으로 고려하는 것이 불확실성의 해소를 더 잘 예측한다고 결론 내린다.",
+      "html": "기업 B는 개별적으로 식별 가능한 무형자산을 100원에 취득한다. 이 무형자산은 내용연수가 비한정이므로 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">기업회계기준서 제1038호 ‘무형자산’</span></div>에 따라 상각하지 않는다. 세법에서는 해당 무형자산의 전체 원가가 세무상 공제될 수 있다고 규정하나, 공제 시점은 불확실하다. 기업 B는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세 처리의 불확실성</span><span class=\"std-finder\">기업회계기준해석서 제2123호</span></div><span class=\"mundan-finder\"> 문단 6</span>을 적용하여, 이 법인세 처리는 개별적으로 고려하는 것이 불확실성의 해소를 더 잘 예측한다고 결론 내린다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1038호 ‘무형자산’",
+          "standard_number": "1038",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준해석서 제2123호",
+          "standard_number": "2123",
+          "standard_title": "법인세 처리의 불확실성",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 6",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "6",
+          "paragraph_ids": [
+            "6"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE8",
+      "section_id": "icnZRg",
+      "section_title": "사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+      "text": "기업 B는 법인세 신고에서 1차 연도의 과세소득을 계산할 때 100원(무형자산의 원가)을 공제한다. 1차 연도 말에 기업 B는 과세당국이 그 법인세 처리를 수용할 가능성이 높지 않다고 결론 내린다. 따라서 기업 B는 기업회계기준해석서 제2123호 문단 11을 적용하여 과세소득과 무형자산의 세무기준액을 산정할 때에 불확실성의 영향을 반영한다. 기업 B는 과세당국이 1차 연도에 공제될 금액으로 수용할 가능성이 가장 높은 금액은 10원이고, 가능성이 가장 높은 금액이 불확실성의 해소를 더 잘 예측한다고 결론 내린다.",
+      "html": "기업 B는 법인세 신고에서 1차 연도의 과세소득을 계산할 때 100원(무형자산의 원가)을 공제한다. 1차 연도 말에 기업 B는 과세당국이 그 법인세 처리를 수용할 가능성이 높지 않다고 결론 내린다. 따라서 기업 B는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세 처리의 불확실성</span><span class=\"std-finder\">기업회계기준해석서 제2123호</span></div><span class=\"mundan-finder\"> 문단 11</span>을 적용하여 과세소득과 무형자산의 세무기준액을 산정할 때에 불확실성의 영향을 반영한다. 기업 B는 과세당국이 1차 연도에 공제될 금액으로 수용할 가능성이 가장 높은 금액은 10원이고, 가능성이 가장 높은 금액이 불확실성의 해소를 더 잘 예측한다고 결론 내린다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준해석서 제2123호",
+          "standard_number": "2123",
+          "standard_title": "법인세 처리의 불확실성",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 11",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "11",
+          "paragraph_ids": [
+            "11"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE9",
+      "section_id": "icnZRg",
+      "section_title": "사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+      "text": "따라서 기업 B는 1차 연도 말에 기업회계기준서 제1012호를 적용하여 이연법인세부채를 인식하고 측정할 때, 법인세 신고에 기초하여 계산된 세무기준액(0원) 대신에 불확실성의 영향을 반영하여 가능성이 가장 높은 세무기준액 90원(100원 - 10원)에 따라 가산할 일시적차이를 계산한다.",
+      "html": "따라서 기업 B는 1차 연도 말에 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div>를 적용하여 이연법인세부채를 인식하고 측정할 때, 법인세 신고에 기초하여 계산된 세무기준액(0원) 대신에 불확실성의 영향을 반영하여 가능성이 가장 높은 세무기준액 90원(100원 - 10원)에 따라 가산할 일시적차이를 계산한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE10",
+      "section_id": "icnZRg",
+      "section_title": "사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+      "toc_path": "적용사례 실무적용지침|기업회계기준해석서 제2123호 ‘법인세 처리의 불확실성’의 적용사례|사례 2: 이연법인세와 당기법인세를 인식하고 측정할 때 불확실성의 영향을 반영하기 위하여 가능성이 가장 높은 금액 방법을 사용한다.",
+      "text": "이와 비슷하게, 기업회계기준해석서 제2123호 문단 12에서 요구하는 바와 같이 기업 B는 이연법인세부채를 계산하기 위해 사용한 판단과 추정치에 일관되는 판단과 추정치를 사용하여 1차 연도의 과세소득을 산정할 때에 불확실성의 영향을 반영한다. 기업 B는 90원(100원 - 10원)을 포함하는 과세소득에 기초하여 기업회계기준서 제1012호에 따른 당기법인세부채를 인식하고 측정한다. 90원이라는 금액은 기업의 법인세 신고에 포함된 과세소득 금액에 더해진다. 이는 기업 B가 1차 연도의 과세소득을 계산할 때에 100원을 공제하였으나 세무상 공제될 가능성이 가장 높은 금액은 10원이기 때문이다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"IE10\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">IE10</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">이와 비슷하게, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세 처리의 불확실성</span><span class=\"std-finder\">기업회계기준해석서 제2123호</span></div><span class=\"mundan-finder\"> 문단 12</span>에서 요구하는 바와 같이 기업 B는 이연법인세부채를 계산하기 위해 사용한 판단과 추정치에 일관되는 판단과 추정치를 사용하여 1차 연도의 과세소득을 산정할 때에 불확실성의 영향을 반영한다. 기업 B는 90원(100원 - 10원)을 포함하는 과세소득에 기초하여 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">기업회계기준서 제1012호</span></div>에 따른 당기법인세부채를 인식하고 측정한다. 90원이라는 금액은 기업의 법인세 신고에 포함된 과세소득 금액에 더해진다. 이는 기업 B가 1차 연도의 과세소득을 계산할 때에 100원을 공제하였으나 세무상 공제될 가능성이 가장 높은 금액은 10원이기 때문이다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준해석서 제2123호",
+          "standard_number": "2123",
+          "standard_title": "법인세 처리의 불확실성",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1012호",
+          "standard_number": "1012",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 12",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "12",
+          "paragraph_ids": [
+            "12"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC1",
+      "section_id": "7ggkr4",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|배경",
+      "text": "해석위원회는 분쟁 중인 법인세 처리에 대해 세법에서 기업이 납부하도록 요구한다면 기업이 당기법인세자산을 언제 인식하는 것이 적절한지를 묻는 질문을 받았다. 질문에 기술된 상황에서는 기업이 과세 결정에 불복하기로 하였었다.",
+      "html": "해석위원회는 분쟁 중인 법인세 처리에 대해 세법에서 기업이 납부하도록 요구한다면 기업이 당기법인세자산을 언제 인식하는 것이 적절한지를 묻는 질문을 받았다. 질문에 기술된 상황에서는 기업이 과세 결정에 불복하기로 하였었다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC2",
+      "section_id": "7ggkr4",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|배경",
+      "text": "IAS 12 ‘법인세’에서는 법인세 자산 및 부채의 인식 및 측정 요구사항을 포함하지만, 불확실성을 반영하는 방법은 규정하지 않는다. 해석위원회는 세법의 적용이 불확실할 때 기업이 다양한 보고 방법을 적용하고 있다고 보았다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div> ‘법인세’에서는 법인세 자산 및 부채의 인식 및 측정 요구사항을 포함하지만, 불확실성을 반영하는 방법은 규정하지 않는다. 해석위원회는 세법의 적용이 불확실할 때 기업이 다양한 보고 방법을 적용하고 있다고 보았다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC3",
+      "section_id": "7ggkr4",
+      "section_title": "배경",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|배경",
+      "text": "따라서 2015년 10월에 해석위원회는 외부 의견조회를 위해 법인세 처리의 불확실성 해석서 초안을 발표하였다. 해석위원회는 검토의견서를 61건 받았다. 해석위원회는 이 해석서를 개발하는 과정에서 받은 의견을 고려하였다.",
+      "html": "따라서 2015년 10월에 해석위원회는 외부 의견조회를 위해 법인세 처리의 불확실성 해석서 초안을 발표하였다. 해석위원회는 검토의견서를 61건 받았다. 해석위원회는 이 해석서를 개발하는 과정에서 받은 의견을 고려하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC4",
+      "section_id": "vzGssO",
+      "section_title": "적용범위",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|적용범위",
+      "text": "해석위원회가 받은 질문은 분쟁 중인 법인세 처리에 대해 기업이 과세당국에 지급하도록 요구받는 특정한 상황에 관련되었다. 그러나 해석위원회는 해당 이슈를 논의하는 과정에서 법인세 처리에 불확실성이 있는 다른 상황에서도 비슷한 질문이 제기될 수 있다는 점에 주목하였다. 따라서 해석위원회는 법인세 처리가 IAS 12의 적용에 영향을 미치는 불확실성에 관련되는 모든 경우의 법인세 회계처리를 이 해석서에서 다루어야 한다고 결정하였다. 해석서 초안에 대한 응답자들은 대부분 해석위원회가 제안한 적용범위를 지지하였다.",
+      "html": "해석위원회가 받은 질문은 분쟁 중인 법인세 처리에 대해 기업이 과세당국에 지급하도록 요구받는 특정한 상황에 관련되었다. 그러나 해석위원회는 해당 이슈를 논의하는 과정에서 법인세 처리에 불확실성이 있는 다른 상황에서도 비슷한 질문이 제기될 수 있다는 점에 주목하였다. 따라서 해석위원회는 법인세 처리가 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>의 적용에 영향을 미치는 불확실성에 관련되는 모든 경우의 법인세 회계처리를 이 해석서에서 다루어야 한다고 결정하였다. 해석서 초안에 대한 응답자들은 대부분 해석위원회가 제안한 적용범위를 지지하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC5",
+      "section_id": "vzGssO",
+      "section_title": "적용범위",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|적용범위",
+      "text": "법인세 처리의 불확실성은 당기법인세와 이연법인세에 모두 영향을 미칠 수 있다. 예를 들면, 세법에 따른 무형자산 원가의 공제 시점이 불확실할 수 있고, 이것이 과세소득과 자산의 세무기준액에 모두 영향을 미쳐 결과적으로 당기법인세와 이연법인세 산정에 각각 영향을 미칠 수 있다. 해석위원회는 당기법인세와 이연법인세에 모두 불확실성의 영향을 반영하기 위한 일관된 접근법을 요구하기로 결정하였다. 그러므로 해석서는 당기법인세와 이연법인세를 산정할 때에 모두 적용한다.",
+      "html": "법인세 처리의 불확실성은 당기법인세와 이연법인세에 모두 영향을 미칠 수 있다. 예를 들면, 세법에 따른 무형자산 원가의 공제 시점이 불확실할 수 있고, 이것이 과세소득과 자산의 세무기준액에 모두 영향을 미쳐 결과적으로 당기법인세와 이연법인세 산정에 각각 영향을 미칠 수 있다. 해석위원회는 당기법인세와 이연법인세에 모두 불확실성의 영향을 반영하기 위한 일관된 접근법을 요구하기로 결정하였다. 그러므로 해석서는 당기법인세와 이연법인세를 산정할 때에 모두 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC6",
+      "section_id": "vzGssO",
+      "section_title": "적용범위",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|적용범위",
+      "text": "해석위원회는 이 해석서를 IAS 12에 대한 해석으로 개발하였다. 즉 해석서의 요구사항은 IAS 12의 요구사항에 더해지고, 그것을 보완한다. 해석위원회는 해석서의 적용범위를 IAS 12의 적용범위에서 벗어나는 세금이나 부담금까지 확대하지는 않기로 결정하였다. 해석서의 적용범위 확대가 IFRS 내에서 상충을 일으킬 수 있다고 우려되었기 때문이다.",
+      "html": "해석위원회는 이 해석서를 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>에 대한 해석으로 개발하였다. 즉 해석서의 요구사항은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>의 요구사항에 더해지고, 그것을 보완한다. 해석위원회는 해석서의 적용범위를 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>의 적용범위에서 벗어나는 세금이나 부담금까지 확대하지는 않기로 결정하였다. 해석서의 적용범위 확대가 IFRS 내에서 상충을 일으킬 수 있다고 우려되었기 때문이다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC7",
+      "section_id": "VUTlzi",
+      "section_title": "이자와 벌과금",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|적용범위|이자와 벌과금",
+      "text": "IAS 12에서는 과세당국에 지급하거나 과세당국에서 받을 이자와 벌과금을 분명하게 언급하지도 않고, 다른 IFRS에서도 이를 분명하게 언급하지 않는다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>에서는 과세당국에 지급하거나 과세당국에서 받을 이자와 벌과금을 분명하게 언급하지도 않고, 다른 IFRS에서도 이를 분명하게 언급하지 않는다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC8",
+      "section_id": "VUTlzi",
+      "section_title": "이자와 벌과금",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|적용범위|이자와 벌과금",
+      "text": "해석서 초안에 대한 응답자 다수는 해석서에서 그 적용범위에 포함되는 불확실한 법인세 처리와 관련되는 이자와 벌과금을 분명히 포함해야 한다고 제안하였다. 일부 응답자는 기업이 IAS 12를 적용하는지 아니면 IAS 37 ‘충당부채, 우발부채, 우발자산’을 적용하는지에 따라 이자와 벌과금 금액을 다르게 회계처리한다고 하였다.",
+      "html": "해석서 초안에 대한 응답자 다수는 해석서에서 그 적용범위에 포함되는 불확실한 법인세 처리와 관련되는 이자와 벌과금을 분명히 포함해야 한다고 제안하였다. 일부 응답자는 기업이 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>를 적용하는지 아니면 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37 ‘충당부채, 우발부채, 우발자산’</span></div>을 적용하는지에 따라 이자와 벌과금 금액을 다르게 회계처리한다고 하였다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37 ‘충당부채, 우발부채, 우발자산’",
+          "standard_number": "37",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC9",
+      "section_id": "VUTlzi",
+      "section_title": "이자와 벌과금",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|적용범위|이자와 벌과금",
+      "text": "해석위원회는 불확실한 법인세 처리와 관련되는 이자와 벌과금에 관련되는 요구사항을 해석서에 추가하지 않기로 결정하였다. 오히려 해석위원회는 기업이 이자와 벌과금으로 지급하거나 받을 특정한 금액을 법인세(income tax)로 보는 경우에 그 금액이 IAS 12의 적용범위에 해당하고, 불확실성이 있을 때에는 해석서의 적용범위에도 해당한다는 점에 주목하였다. 이와 반대로 기업이 지급하거나 받을 특정한 금액에 IAS 12를 적용하지 않는다면, 불확실성이 존재하는지에 관계없이 그 금액에는 이 해석서를 적용하지 않는다.",
+      "html": "해석위원회는 불확실한 법인세 처리와 관련되는 이자와 벌과금에 관련되는 요구사항을 해석서에 추가하지 않기로 결정하였다. 오히려 해석위원회는 기업이 이자와 벌과금으로 지급하거나 받을 특정한 금액을 법인세(income tax)로 보는 경우에 그 금액이 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>의 적용범위에 해당하고, 불확실성이 있을 때에는 해석서의 적용범위에도 해당한다는 점에 주목하였다. 이와 반대로 기업이 지급하거나 받을 특정한 금액에 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>를 적용하지 않는다면, 불확실성이 존재하는지에 관계없이 그 금액에는 이 해석서를 적용하지 않는다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC10",
+      "section_id": "c6OuwN",
+      "section_title": "기업이 불확실한 법인세 처리를 개별적으로 고려해야 하는지",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|기업이 불확실한 법인세 처리를 개별적으로 고려해야 하는지",
+      "text": "법인세 자산 또는 부채의 금액은 기업이 불확실한 법인세 처리 각각을 개별적으로 고려하는지 아니면 하나 이상의 다른 불확실한 법인세 처리와 함께 고려하는지에 따라 영향을 받을 수 있다. 따라서 해석위원회는 이 점에 대한 요구사항을 해석서 문단 6에 포함하기로 결정하였다. 해석위원회는 기업이 해당 요구사항을 적용할 때에 판단할 필요가 있을 수 있다고 보았다.",
+      "html": "법인세 자산 또는 부채의 금액은 기업이 불확실한 법인세 처리 각각을 개별적으로 고려하는지 아니면 하나 이상의 다른 불확실한 법인세 처리와 함께 고려하는지에 따라 영향을 받을 수 있다. 따라서 해석위원회는 이 점에 대한 요구사항을 해석서 \n  <span class=\"mundan-finder\">문단 6</span>에 포함하기로 결정하였다. 해석위원회는 기업이 해당 요구사항을 적용할 때에 판단할 필요가 있을 수 있다고 보았다.\n",
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 6",
+          "standard_number": "2123",
+          "standard_title": null,
+          "range": "6",
+          "paragraph_ids": [
+            "6"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC11",
+      "section_id": "Mny1V1",
+      "section_title": "과세당국의 조사",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세당국의 조사",
+      "text": "해석위원회는 과세당국이 조사할 권한이 있는 만큼 모두 조사할 것이고, 관련되는 정보를 모두 알고 있다고 기업이 가정해야 한다고 결정하였다. 이 결정을 하는 과정에서 해석위원회는 IAS 12 문단 46~47에서 기업이 제정되었거나 실질적으로 제정된 세율에 기초하여 법인세 자산 및 부채를 측정하도록 요구한다는 점에 주목하였다.",
+      "html": "해석위원회는 과세당국이 조사할 권한이 있는 만큼 모두 조사할 것이고, 관련되는 정보를 모두 알고 있다고 기업이 가정해야 한다고 결정하였다. 이 결정을 하는 과정에서 해석위원회는   \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div><span class=\"mundan-finder\"> 문단 46~47</span>에서 기업이 제정되었거나 실질적으로 제정된 세율에 기초하여 법인세 자산 및 부채를 측정하도록 요구한다는 점에 주목하였다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 46~47",
+          "standard_number": "1012",
+          "standard_title": null,
+          "range": "46~47",
+          "paragraph_ids": [
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC12",
+      "section_id": "Mny1V1",
+      "section_title": "과세당국의 조사",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세당국의 조사",
+      "text": "해석서 초안에 대한 일부 응답자는 기업이 조사가 이루어질 것이라고 가정하는 대신에 조사 가능성을 고려하는 것을 제안하였다. 이 응답자들은 법인세 신고를 조사하는 과세당국의 권한에 기한이 없다면 그러한 가능성 판단이 특히 중요하다고 하였다.",
+      "html": "해석서 초안에 대한 일부 응답자는 기업이 조사가 이루어질 것이라고 가정하는 대신에 조사 가능성을 고려하는 것을 제안하였다. 이 응답자들은 법인세 신고를 조사하는 과세당국의 권한에 기한이 없다면 그러한 가능성 판단이 특히 중요하다고 하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC13",
+      "section_id": "Mny1V1",
+      "section_title": "과세당국의 조사",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세당국의 조사",
+      "text": "해석위원회는 이러한 조사 가정을 바꾸지 않기로 결정하였고, 법인세 신고를 조사하는 과세당국의 권한에 기한이 없는 상황에 대해 그 가정에 예외 규정을 만들지도 않기로 결정하였다. 해석서 초안에 대한 응답자 거의 모두는 그 조사 가정을 지지하였다. 해석위원회는 과세당국의 조사에 대한 가정 자체만으로는 기업이 불확실성의 영향을 반영하도록 요구하지 않을 것이라는 점에도 주목하였다. 불확실성의 영향을 반영하는 임계치는 과세당국이 불확실한 법인세 처리를 수용할 가능성이 높은지 아닌지이다. 다시 말해서 불확실성의 인식은 과세당국이 법인세 처리를 조사할지에 기초하여 결정되지 않는다.",
+      "html": "해석위원회는 이러한 조사 가정을 바꾸지 않기로 결정하였고, 법인세 신고를 조사하는 과세당국의 권한에 기한이 없는 상황에 대해 그 가정에 예외 규정을 만들지도 않기로 결정하였다. 해석서 초안에 대한 응답자 거의 모두는 그 조사 가정을 지지하였다. 해석위원회는 과세당국의 조사에 대한 가정 자체만으로는 기업이 불확실성의 영향을 반영하도록 요구하지 않을 것이라는 점에도 주목하였다. 불확실성의 영향을 반영하는 임계치는 과세당국이 불확실한 법인세 처리를 수용할 가능성이 높은지 아닌지이다. 다시 말해서 불확실성의 인식은 과세당국이 법인세 처리를 조사할지에 기초하여 결정되지 않는다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC14",
+      "section_id": "r9qpv8",
+      "section_title": "불확실성의 영향을 반영하는 시점",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정|불확실성의 영향을 반영하는 시점",
+      "text": "IAS 12 문단 24에서는 기업이 과세소득에서 공제하여 차감할 일시적차이를 사용할 가능성이 높은 범위까지 이연법인세자산를 인식하도록 요구한다. IAS 12의 목적에서도 이연법인세의 맥락에서 ‘가능성이 높다’라는 임계치(probable threshold)를 언급한다. 더욱이 IAS 12에서는 비록 당기법인세에 대한 분명한 인식 임계치(recognition threshold)를 포함하지 않지만, IAS 12 문단 14에서는 ‘가능성이 높다’라는 임계치가 세무상결손금에서 생기는 당기법인세자산에 적용되어야 함을 암시한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div><span class=\"mundan-finder\"> 문단 24</span>에서는 기업이 과세소득에서 공제하여 차감할 일시적차이를 사용할 가능성이 높은 범위까지 이연법인세자산를 인식하도록 요구한다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>의 목적에서도 이연법인세의 맥락에서 ‘가능성이 높다’라는 임계치(probable threshold)를 언급한다. 더욱이 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>에서는 비록 당기법인세에 대한 분명한 인식 임계치(recognition threshold)를 포함하지 않지만, \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div><span class=\"mundan-finder\"> 문단 14</span>에서는 ‘가능성이 높다’라는 임계치가 세무상결손금에서 생기는 당기법인세자산에 적용되어야 함을 암시한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 24",
+          "standard_number": "1012",
+          "standard_title": null,
+          "range": "24",
+          "paragraph_ids": [
+            "24"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 14",
+          "standard_number": "1012",
+          "standard_title": null,
+          "range": "14",
+          "paragraph_ids": [
+            "14"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC15",
+      "section_id": "r9qpv8",
+      "section_title": "불확실성의 영향을 반영하는 시점",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정|불확실성의 영향을 반영하는 시점",
+      "text": "따라서 해석위원회는 과세당국이 불확실한 법인세 처리를 수용할 가능성이 높지 않다고(그러므로 기업이 불확실한 법인세 처리와 관련되는 금액을 받거나 지급할 가능성이 높다고) 기업이 결론 내리는 경우에 기업은 당기법인세와 이연법인세 회계처리에서 불확실성의 영향을 반영해야 한다고 결론 내렸다.",
+      "html": "따라서 해석위원회는 과세당국이 불확실한 법인세 처리를 수용할 가능성이 높지 않다고(그러므로 기업이 불확실한 법인세 처리와 관련되는 금액을 받거나 지급할 가능성이 높다고) 기업이 결론 내리는 경우에 기업은 당기법인세와 이연법인세 회계처리에서 불확실성의 영향을 반영해야 한다고 결론 내렸다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC16",
+      "section_id": "r9qpv8",
+      "section_title": "불확실성의 영향을 반영하는 시점",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정|불확실성의 영향을 반영하는 시점",
+      "text": "해석위원회는 불확실성의 영향을 인식하기 위한 분명한 임계치를 설정하면 기업 간 비교 가능성을 높이고, 측정 원가를 일부 줄일 것이라고 결론 내렸다.",
+      "html": "해석위원회는 불확실성의 영향을 인식하기 위한 분명한 임계치를 설정하면 기업 간 비교 가능성을 높이고, 측정 원가를 일부 줄일 것이라고 결론 내렸다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC17",
+      "section_id": "lCJIJZ",
+      "section_title": "불확실성의 영향을 반영하는 방법",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정|불확실성의 영향을 반영하는 방법",
+      "text": "해석위원회는 기업이 불확실성의 영향을 반영하기 위하여 기댓값이나 가능성이 가장 높은 금액 중 불확실성의 해소를 더 잘 예측하는 방법을 사용해야 한다고 결론 내렸다. 이 접근법은 수익 계약에서 변동대가의 금액을 추정하기 위해 IFRS 15 ‘고객과의 계약에서 생기는 수익’에서 사용하는 접근법과 비슷하다.",
+      "html": "해석위원회는 기업이 불확실성의 영향을 반영하기 위하여 기댓값이나 가능성이 가장 높은 금액 중 불확실성의 해소를 더 잘 예측하는 방법을 사용해야 한다고 결론 내렸다. 이 접근법은 수익 계약에서 변동대가의 금액을 추정하기 위해 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">IFRS 15 ‘고객과의 계약에서 생기는 수익’</span></div>에서 사용하는 접근법과 비슷하다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 15 ‘고객과의 계약에서 생기는 수익’",
+          "standard_number": "15",
+          "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC18",
+      "section_id": "lCJIJZ",
+      "section_title": "불확실성의 영향을 반영하는 방법",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정|불확실성의 영향을 반영하는 방법",
+      "text": "해석위원회는 누적확률 접근법(cumulative-probability approach, 미국에서 일반적으로 인정된 회계원칙에 따라 법인세 처리의 불확실성을 반영하기 위해 사용하는 측정방법)과 같은 제삼의 측정방법을 허용할지 아니면 요구할지를 고려하였다. 해석위원회는 제삼의 방법을 포함하면 해석서를 적용할 때에 필요한 판단을 복잡하게 할 것이라고 보았다. 이는 기업이 세 측정방법 가운데 불확실성의 해소를 가장 잘 예측하는 방법을 평가해야 할 것이기 때문이다. 해석위원회는 IFRS에서 누적확률 접근법을 사용하지 않는 반면, 기댓값과 가능성이 가장 높은 금액은 기준서의 다른 곳에서도 사용한다는 점에도 주목하였다. 기준서의 다른 곳에서 사용하지 않는 측정방법을 포함하면 비교 가능성을 떨어뜨릴 수 있다.",
+      "html": "해석위원회는 누적확률 접근법(cumulative-probability approach, 미국에서 일반적으로 인정된 회계원칙에 따라 법인세 처리의 불확실성을 반영하기 위해 사용하는 측정방법)과 같은 제삼의 측정방법을 허용할지 아니면 요구할지를 고려하였다. 해석위원회는 제삼의 방법을 포함하면 해석서를 적용할 때에 필요한 판단을 복잡하게 할 것이라고 보았다. 이는 기업이 세 측정방법 가운데 불확실성의 해소를 가장 잘 예측하는 방법을 평가해야 할 것이기 때문이다. 해석위원회는 IFRS에서 누적확률 접근법을 사용하지 않는 반면, 기댓값과 가능성이 가장 높은 금액은 기준서의 다른 곳에서도 사용한다는 점에도 주목하였다. 기준서의 다른 곳에서 사용하지 않는 측정방법을 포함하면 비교 가능성을 떨어뜨릴 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC19",
+      "section_id": "lCJIJZ",
+      "section_title": "불확실성의 영향을 반영하는 방법",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|과세소득(세무상결손금), 세무기준액, 미사용 세무상결손금, 미사용 세액공제, 세율 산정|불확실성의 영향을 반영하는 방법",
+      "text": "따라서 해석위원회는 불확실성의 영향을 반영하기 위한 제삼의 측정방법을 허용하지도 요구하지도 않기로 결정하였다.",
+      "html": "따라서 해석위원회는 불확실성의 영향을 반영하기 위한 제삼의 측정방법을 허용하지도 요구하지도 않기로 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC20",
+      "section_id": "1sKkNt",
+      "section_title": "사실 및 상황의 변화",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|사실 및 상황의 변화",
+      "text": "법인세 처리의 불확실성을 고려한다는 것은 추정이 필요하다는 뜻이고, 그러한 추정은 구할 수 있는 정보에 기초한 판단에 관련된다. 불확실한 법인세 처리와 관련하여 기업이 구할 수 있는 정보는 시간의 경과에 따라 달라질 수 있다. 따라서 해석위원회는 관련되는 사실 및 상황이 달라질 때에 기업은 해석서에서 요구하는 판단이나 추정치를 다시 검토해야 한다고 결론 내렸다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC20\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC20</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">법인세 처리의 불확실성을 고려한다는 것은 추정이 필요하다는 뜻이고, 그러한 추정은 구할 수 있는 정보에 기초한 판단에 관련된다. 불확실한 법인세 처리와 관련하여 기업이 구할 수 있는 정보는 시간의 경과에 따라 달라질 수 있다. 따라서 해석위원회는 관련되는 사실 및 상황이 달라질 때에 기업은 해석서에서 요구하는 판단이나 추정치를 다시 검토해야 한다고 결론 내렸다.</div></div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC21",
+      "section_id": "1sKkNt",
+      "section_title": "사실 및 상황의 변화",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|사실 및 상황의 변화",
+      "text": "해석위원회는 기업이 회계추정치의 변경에 대한 IAS 8 ‘회계정책, 회계추정치 변경과 오류’의 요구사항과 일관되게 판단 또는 추정치 변경의 영향을 반영해야 한다고도 결정하였다.",
+      "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC21\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC21</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">해석위원회는 기업이 회계추정치의 변경에 대한 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div> ‘회계정책, 회계추정치 변경과 오류’의 요구사항과 일관되게 판단 또는 추정치 변경의 영향을 반영해야 한다고도 결정하였다.\n</div></div></div></div>",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": "8",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC22",
+      "section_id": "Uigqko",
+      "section_title": "공시",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|공시",
+      "text": "IAS 1 '재무제표 표시'와 IAS 12에서는 법인세 처리에 불확실성이 있을 때 목적 적합할 수 있는 공시 요구사항을 제공한다. 따라서 해석위원회는 해석서에 새로운 공시 요구사항을 도입하는 대신에 그 기존 요구사항을 강조하기로 결정하였다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div> '재무제표 표시'와 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>에서는 법인세 처리에 불확실성이 있을 때 목적 적합할 수 있는 공시 요구사항을 제공한다. 따라서 해석위원회는 해석서에 새로운 공시 요구사항을 도입하는 대신에 그 기존 요구사항을 강조하기로 결정하였다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC23",
+      "section_id": "EQsdaA",
+      "section_title": "사업결합",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|사업결합",
+      "text": "해석위원회는 법인세 처리에 불확실성이 있을 때 사업결합으로 취득하거나 인수한 법인세 자산 및 부채의 회계처리를 해석서에서 다루어야 하는지를 고려하였다. 해석위원회는 IFRS 3 '사업결합'이 사업결합으로 취득한 자산과 인수한 부채에 모두 적용된다는 점에 주목하였다. 따라서 해석위원회는 해석서에서 사업결합으로 취득하거나 인수한 법인세 자산 및 부채를 명시적으로 다루어서는 안 된다고 결론 내렸다.",
+      "html": "해석위원회는 법인세 처리에 불확실성이 있을 때 사업결합으로 취득하거나 인수한 법인세 자산 및 부채의 회계처리를 해석서에서 다루어야 하는지를 고려하였다. 해석위원회는 \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div> '사업결합'이 사업결합으로 취득한 자산과 인수한 부채에 모두 적용된다는 점에 주목하였다. 따라서 해석위원회는 해석서에서 사업결합으로 취득하거나 인수한 법인세 자산 및 부채를 명시적으로 다루어서는 안 된다고 결론 내렸다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC24",
+      "section_id": "EQsdaA",
+      "section_title": "사업결합",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|결론|사업결합",
+      "text": "그러나 IFRS 3 문단 24에서는 기업이 사업결합의 일부로 생기는 이연법인세 자산 및 부채를 IAS 12를 적용하여 회계처리 하도록 요구한다. 따라서 이연법인세에 영향을 미치는 법인세 처리에 불확실성이 있을 때 해석서는 그러한 자산 및 부채에 적용한다.",
+      "html": "그러나 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">사업결합</span><span class=\"std-finder\">IFRS 3</span></div><span class=\"mundan-finder\"> 문단 24</span>에서는 기업이 사업결합의 일부로 생기는 이연법인세 자산 및 부채를 \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">법인세</span><span class=\"std-finder\">IAS 12</span></div>를 적용하여 회계처리 하도록 요구한다. 따라서 이연법인세에 영향을 미치는 법인세 처리에 불확실성이 있을 때 해석서는 그러한 자산 및 부채에 적용한다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IFRS 3",
+          "standard_number": "3",
+          "standard_title": "사업결합",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 12",
+          "standard_number": "12",
+          "standard_title": "법인세",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 24",
+          "standard_number": "1103",
+          "standard_title": null,
+          "range": "24",
+          "paragraph_ids": [
+            "24"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC25",
+      "section_id": "9mUXMD",
+      "section_title": "경과 규정",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|경과 규정",
+      "text": "해석위원회는 기업이 사후판단을 사용하지 않고 해석서를 소급 적용하는 것이 때때로 불가능할 수 있다고 보았다. 따라서 해석위원회는 기업이 이 해석서를 처음 적용할 때에 비교 정보를 다시 작성하도록 요구하지 않기로 결정하였다. 그러나 해석위원회는 기업이 사후판단을 사용하지 않고 해석서를 소급 적용할 수 있다면 이를 금지해서는 안 된다고 결론 내렸다. 따라서 해석위원회는 사후판단을 사용하지 않고 소급 적용하는 것이 가능하다면 소급 적용을 허용하기로 결정하였다.",
+      "html": "해석위원회는 기업이 사후판단을 사용하지 않고 해석서를 소급 적용하는 것이 때때로 불가능할 수 있다고 보았다. 따라서 해석위원회는 기업이 이 해석서를 처음 적용할 때에 비교 정보를 다시 작성하도록 요구하지 않기로 결정하였다. 그러나 해석위원회는 기업이 사후판단을 사용하지 않고 해석서를 소급 적용할 수 있다면 이를 금지해서는 안 된다고 결론 내렸다. 따라서 해석위원회는 사후판단을 사용하지 않고 소급 적용하는 것이 가능하다면 소급 적용을 허용하기로 결정하였다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "BC26",
+      "section_id": "TOTUPl",
+      "section_title": "최초채택기업",
+      "toc_path": "결론도출근거|IFRIC 23 ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’의 결론도출근거|경과 규정|최초채택기업",
+      "text": "해석위원회는 최초채택기업의 IFRS 전환일이 해석서의 공표일 전이라면 최초채택기업도 이미 IFRS를 적용하는 기업과 동일하게 사후판단의 어려움에 직면할 수 있다고 보았다. 따라서 해석위원회는 IFRS 전환일이 2017년 7월 1일 전인 최초채택기업에 최초 IFRS 재무제표에서 이 해석서를 반영하는 비교 정보를 표시하도록 요구하지 않기로 결론 내렸다.",
+      "html": "해석위원회는 최초채택기업의 IFRS 전환일이 해석서의 공표일 전이라면 최초채택기업도 이미 IFRS를 적용하는 기업과 동일하게 사후판단의 어려움에 직면할 수 있다고 보았다. 따라서 해석위원회는 IFRS 전환일이 2017년 7월 1일 전인 최초채택기업에 최초 IFRS 재무제표에서 이 해석서를 반영하는 비교 정보를 표시하도록 요구하지 않기로 결론 내렸다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2123호와 국제재무보고기준해석 제23호(IFRIC 23) 기업회계기준해석서 제2123호는 국제회계기준해석위원회(IFRS Interpretations Committee)가 제정한 국제재무보고기준해석 제23호(IFRIC 23) ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분을 제한적으로 수정하였다. 즉, 한국채택국제회계기준의 의무적용대상기업을 밝히기 위하여 문단 한4.1을 추가하였다. 해당 국제회계기준에 추가한 문단은 관련된 문단번호에 접두어 ‘한’을 붙여 구분하였다. ### 국제재무보고기준해석 제23호(IFRIC 23)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2123호는 IFRIC 23의 내용에 근거하여 제정하였기 때문에 기업회계기준해석서 제2123호를 따르면 IFRIC 23도 따르는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2123호와 국제재무보고기준해석 제23호(IFRIC 23)</h3>\n<p>기업회계기준해석서 제2123호는 국제회계기준해석위원회(IFRS Interpretations Committee)가 제정한 국제재무보고기준해석 제23호(IFRIC 23) ‘법인세 처리의 불확실성(Uncertainty over Income Tax Treatments)’에 대응하는 해석이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분을 제한적으로 수정하였다. 즉, 한국채택국제회계기준의 의무적용대상기업을 밝히기 위하여 문단 한4.1을 추가하였다. 해당 국제회계기준에 추가한 문단은 관련된 문단번호에 접두어 ‘한’을 붙여 구분하였다.</p>\n<h3>국제재무보고기준해석 제23호(IFRIC 23)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2123호는 IFRIC 23의 내용에 근거하여 제정하였기 때문에 기업회계기준해석서 제2123호를 따르면 IFRIC 23도 따르는 것이 된다.</p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 ‘법인세 처리의 불확실성’의 회계처리에 필요한 사항을 정하고 있다. ### 1. 회계논제 이 해석서는 법인세 처리에 불확실성이 있을 때 기업회계기준서 제1012호의 인식 및 측정 요구사항을 어떻게 적용할지를 다룬다. ### 2. 결론 ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 ‘법인세 처리의 불확실성’의 회계처리에 필요한 사항을 정하고 있다.</p>\n<h3>1. 회계논제</h3>\n<p>이 해석서는 법인세 처리에 불확실성이 있을 때 기업회계기준서 제1012호의 인식 및 측정 요구사항을 어떻게 적용할지를 다룬다.</p>\n<h3>2. 결론</h3>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다. \n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2017. 12. 15. 제정 | 법인세 처리의 불확실성 | IFRIC 23 Uncertainty over Income Tax Treatments |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 함초롬바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 해석서를 다음과 같이 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 152px; height: 36px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 함초롬바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 28.8px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 187px; height: 36px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 함초롬바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 227px; height: 36px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 21.3333px; font-size: 10pt; font-family: 함초롬바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; font-weight: bold; line-height: 25.6px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 152px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 함초롬바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2017. 12. 15. 제정</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 187px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 함초롬바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">법인세 처리의 불확실성</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 227px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 함초롬바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRIC 23 Uncertainty over Income Tax Treatments</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1012": [
+      "1",
+      "4",
+      "A5",
+      "IE6",
+      "IE2",
+      "IE9",
+      "IE10"
+    ],
+    "1008": [
+      "14",
+      "B2"
+    ],
+    "1010": [
+      "14"
+    ],
+    "1001": [
+      "A4"
+    ],
+    "2123": [
+      "IE3",
+      "IE7",
+      "IE8",
+      "IE10"
+    ],
+    "1038": [
+      "IE7"
+    ],
+    "12": [
+      "BC2",
+      "BC4",
+      "BC6",
+      "BC7",
+      "BC8",
+      "BC9",
+      "BC11",
+      "BC14",
+      "BC22",
+      "BC24"
+    ],
+    "37": [
+      "BC8"
+    ],
+    "15": [
+      "BC17"
+    ],
+    "8": [
+      "BC21"
+    ],
+    "1": [
+      "BC22"
+    ],
+    "3": [
+      "BC23",
+      "BC24"
+    ]
+  },
+  "qna_index": {
+    "201909D": [
+      "4"
+    ],
+    "SSI-202412047": [
+      "9",
+      "14"
+    ]
+  }
+}

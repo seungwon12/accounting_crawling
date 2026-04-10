@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "환율변동효과",
   "url": "https://db.kasb.or.kr/s/1021",
-  "crawled_at": "2026-03-24T04:49:09.548307+00:00",
+  "crawled_at": "2026-04-09T06:09:16.394281+00:00",
   "toc": [
     {
       "level": null,
@@ -880,7 +880,7 @@
       "section_id": "pf09VJ",
       "section_title": "교환 가능한 (문단 A2~A10)",
       "toc_path": "본문|용어의 정의|정의에 대한 자세한 설명|교환 가능한 (문단 A2~A10)",
-      "text": "기업은 한 통화를 다른 통화로 교환 가능한지를 ⑴측정일에 그리고⑵특정 목적을 위해 평가한다",
+      "text": "기업은 한 통화를 다른 통화로 교환 가능한지를\n(1)측정일에 그리고(2)특정 목적을 위해 평가한다",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">기업은 한 통화를 다른 통화로 교환 가능한지를\n\n<div class=\"idt-1\"><div>⑴</div><div>측정일에 그리고</div></div><div class=\"idt-1\"><div>⑵</div><div>특정 목적을 위해 평가한다</div></div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -955,7 +955,7 @@
           "display_text": "문단 10과 11",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "10과 11",
+          "range": "10,11",
           "paragraph_ids": [
             "10",
             "11"
@@ -1019,7 +1019,7 @@
           "display_text": "문단 32와 33",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "32와 33",
+          "range": "32,33",
           "paragraph_ids": [
             "32",
             "33"
@@ -1140,7 +1140,7 @@
           "display_text": "문단 20~37과 문단 50",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "20~37과 문단 50",
+          "range": "20~37,50",
           "paragraph_ids": [
             "20",
             "21",
@@ -1258,7 +1258,38 @@
       "toc_path": "본문|통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 A11~A17)",
       "text": "(문단 8, 8A~8B와 A2~A10에 기술된 바와 같이) 한 통화가 다른 통화로 교환 가능하지 않은 경우 기업은 측정일에 현물환율을 추정한다. 현물환율을 추정하는 기업의 목적은 일반적인 경제 상황에서 측정일에 시장참여자 사이의 정상적 교환 거래에 적용되었을 환율을 반영하는 것이다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">(<span class=\"mundan-finder\">문단 8, 8A~8B</span>와 \n<span class=\"mundan-finder\">A2~A10</span>에 기술된 바와 같이) 한 통화가 다른 통화로 교환 가능하지 않은 경우 기업은 측정일에 현물환율을 추정한다. 현물환율을 추정하는 기업의 목적은 일반적인 경제 상황에서 측정일에 시장참여자 사이의 정상적 교환 거래에 적용되었을 환율을 반영하는 것이다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 8, 8A~8B",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "8,8A~8B",
+          "paragraph_ids": [
+            "8",
+            "8A",
+            "8B"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "A2~A10",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A2~A10",
+          "paragraph_ids": [
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "A6",
+            "A7",
+            "A8",
+            "A9",
+            "A10"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -1499,7 +1530,7 @@
           "display_text": "문단 3(1)과 5",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "3(1)과 5",
+          "range": "3(1),5",
           "paragraph_ids": [
             "3",
             "5"
@@ -1739,7 +1770,7 @@
           "display_text": "문단 32와 39(3)",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "32와 39(3)",
+          "range": "32,39(3)",
           "paragraph_ids": [
             "32",
             "39"
@@ -1939,7 +1970,7 @@
           "display_text": "문단 38~43과 문단 45~47",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "38~43과 문단 45~47",
+          "range": "38~43,45~47",
           "paragraph_ids": [
             "38",
             "39",
@@ -2034,7 +2065,7 @@
           "display_text": "문단 39와 42",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "39와 42",
+          "range": "39,42",
           "paragraph_ids": [
             "39",
             "42"
@@ -2183,7 +2214,7 @@
           "display_text": "문단 53과 문단 55~57",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "53과 문단 55~57",
+          "range": "53,55~57",
           "paragraph_ids": [
             "53",
             "55",
@@ -2250,7 +2281,7 @@
           "display_text": "문단 39와 42",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "39와 42",
+          "range": "39,42",
           "paragraph_ids": [
             "39",
             "42"
@@ -2319,9 +2350,20 @@
       "section_id": "mNdb6y",
       "section_title": "공시",
       "toc_path": "본문|공시",
-      "text": "한 통화가 다른 통화로 교환 가능하지 않아 현물환율을 추정하는 경우(문단 19A 참조), 통화가 교환 가능하지 않은 상황이 기업의 재무성과, 재무상태 및 현금흐름에 어떻게 영향을 미치는지 또는 영향을 미칠 것으로 예상되는 지에 대해 재무제표 이용자가 이해할 수 있는 정보를 공시한다. 이 목적을 달성하기 위하여 다음 사항에 대한 정보를 공시한다. ⑴통화가 교환 가능하지 않는 상황의 성격 및 재무적 영향⑵사용된 현물환율⑶추정 프로세스⑷통화가 교환 가능하지 않음으로 인해 기업이 노출되는 위험",
+      "text": "한 통화가 다른 통화로 교환 가능하지 않아 현물환율을 추정하는 경우(문단 19A 참조), 통화가 교환 가능하지 않은 상황이 기업의 재무성과, 재무상태 및 현금흐름에 어떻게 영향을 미치는지 또는 영향을 미칠 것으로 예상되는 지에 대해 재무제표 이용자가 이해할 수 있는 정보를 공시한다. 이 목적을 달성하기 위하여 다음 사항에 대한 정보를 공시한다.\n(1)통화가 교환 가능하지 않는 상황의 성격 및 재무적 영향(2)사용된 현물환율(3)추정 프로세스(4)통화가 교환 가능하지 않음으로 인해 기업이 노출되는 위험",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">한 통화가 다른 통화로 교환 가능하지 않아 현물환율을 추정하는 경우(<span class=\"mundan-finder\">문단 19A</span> 참조), 통화가 교환 가능하지 않은 상황이 기업의 재무성과, 재무상태 및 현금흐름에 어떻게 영향을 미치는지 또는 영향을 미칠 것으로 예상되는 지에 대해 재무제표 이용자가 이해할 수 있는 정보를 공시한다. 이 목적을 달성하기 위하여 다음 사항에 대한 정보를 공시한다.\n\n<div class=\"idt-1\"><div>⑴</div><div>통화가 교환 가능하지 않는 상황의 성격 및 재무적 영향</div></div><div class=\"idt-1\"><div>⑵</div><div>사용된 현물환율</div></div><div class=\"idt-1\"><div>⑶</div><div>추정 프로세스</div></div><div class=\"idt-1\"><div>⑷</div><div>통화가 교환 가능하지 않음으로 인해 기업이 노출되는 위험</div></div></div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 19A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "19A",
+          "paragraph_ids": [
+            "19A"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2332,7 +2374,30 @@
       "toc_path": "본문|공시",
       "text": "문단 A18~A20에서 기업이 문단 57A를 적용하는 방법을 명시한다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><span class=\"mundan-finder\">문단 A18~A20</span>에서 기업이 \n<span class=\"mundan-finder\">문단 57A</span>를 적용하는 방법을 명시한다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 A18~A20",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A18~A20",
+          "paragraph_ids": [
+            "A18",
+            "A19",
+            "A20"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 57A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "57A",
+          "paragraph_ids": [
+            "57A"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2560,7 +2625,7 @@
           "display_text": "문단 3(2), 8, 11, 18, 19, 33, 44~46, 및 48A",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "3(2), 8, 11, 18, 19, 33, 44~46, 및 48A",
+          "range": "3(2),8,11,18,19,33,44~46,48A",
           "paragraph_ids": [
             "3",
             "8",
@@ -2597,7 +2662,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 8",
-          "standard_number": "1113",
+          "standard_number": "1021",
           "standard_title": null,
           "range": "8",
           "paragraph_ids": [
@@ -2661,7 +2726,7 @@
           "display_text": "문단 3, 4, 5, 27, 52",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "3, 4, 5, 27, 52",
+          "range": "3,4,5,27,52",
           "paragraph_ids": [
             "3",
             "4",
@@ -2675,7 +2740,7 @@
           "display_text": "문단 60C, 60E, 60I",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "60C, 60E, 60I",
+          "range": "60C,60E,60I",
           "paragraph_ids": [
             "60C",
             "60E",
@@ -2723,7 +2788,33 @@
       "toc_path": "본문|시행일과 경과규정",
       "text": "2023년 12월에 발표된 ‘교환가능성 결여’는 문단 8과 26을 개정하고 문단 8A~8B, 19A와 57A~57B와 부록 A를 추가하였다. 이 개정 내용은 2025년 1월 1일 이후 최초로 시작되는 회계연도부터 적용한다. 이 개정 내용의 조기 적용이 허용되며, 조기 적용하는 경우 그러한 사실을 공시한다. 최초 적용일은 기업이 이러한 개정을 최초로 적용하는 연차보고기간의 개시일이다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">2023년 12월에 발표된 ‘교환가능성 결여’는 \n<span class=\"mundan-finder\">문단 8과 26</span>을 개정하고 \n<span class=\"mundan-finder\">문단 8A~8B, 19A와 57A~57B</span>와 부록 A를 추가하였다. 이 개정 내용은 2025년 1월 1일 이후 최초로 시작되는 회계연도부터 적용한다. 이 개정 내용의 조기 적용이 허용되며, 조기 적용하는 경우 그러한 사실을 공시한다. 최초 적용일은 기업이 이러한 개정을 최초로 적용하는 연차보고기간의 개시일이다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 8과 26",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "8,26",
+          "paragraph_ids": [
+            "8",
+            "26"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 8A~8B, 19A와 57A~57B",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "8A~8B,19A,57A~57B",
+          "paragraph_ids": [
+            "8A",
+            "8B",
+            "19A",
+            "57A",
+            "57B"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2732,7 +2823,7 @@
       "section_id": "9eCJeb",
       "section_title": "시행일과 경과규정",
       "toc_path": "본문|시행일과 경과규정",
-      "text": "‘교환가능성 결여’를 적용할 때 비교정보를 재작성하는 대신 다음과 같이 적용한다. ⑴기능통화로 외화거래를 보고하는 경우로서 최초 적용일에 기능통화가 외화로 교환 가능하지 않거나, 외화가 기능통화로 교환 가능하지 않다고 결론 내린다면, 최초 적용일에 다음과 같이 적용한다.㈎영향을 받는 화폐성 외화항목과 공정가치로 측정되는 비화폐성 외화항목을 해당 날짜의 추정 현물환율을 사용하여 환산한다.㈏최초 적용효과를 기초 이익잉여금의 조정으로 인식한다.(2)기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 경영성과와 재무상태를 환산하는 경우로서 최초 적용일에 기업의 기능통화(또는 해외사업장의 기능통화)가 표시통화로 교환 가능하지 않거나, 표시통화가 기업의 기능통화(또는 해외사업장의 기능통화)로 교환 가능하지 않다고 결론 내린다면, 최초 적용일에 다음과 같이 적용한다㈎영향을 받는 자산과 부채를 해당 날짜의 추정 현물환율을 사용하여 환산한다.㈏기업의 기능통화가 초인플레이션인 경우 영향을 받는 자본항목을 추정 현물환율을 사용하여 환산한다.㈐최초 적용효과를 누적환산차이(자본의 별도항목)에 대한 조정으로 인식한다.",
+      "text": "‘교환가능성 결여’를 적용할 때 비교정보를 재작성하는 대신 다음과 같이 적용한다.\n(1)기능통화로 외화거래를 보고하는 경우로서 최초 적용일에 기능통화가 외화로 교환 가능하지 않거나, 외화가 기능통화로 교환 가능하지 않다고 결론 내린다면, 최초 적용일에 다음과 같이 적용한다.(가)영향을 받는 화폐성 외화항목과 공정가치로 측정되는 비화폐성 외화항목을 해당 날짜의 추정 현물환율을 사용하여 환산한다.(나)최초 적용효과를 기초 이익잉여금의 조정으로 인식한다.(2)기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 경영성과와 재무상태를 환산하는 경우로서 최초 적용일에 기업의 기능통화(또는 해외사업장의 기능통화)가 표시통화로 교환 가능하지 않거나, 표시통화가 기업의 기능통화(또는 해외사업장의 기능통화)로 교환 가능하지 않다고 결론 내린다면, 최초 적용일에 다음과 같이 적용한다(가)영향을 받는 자산과 부채를 해당 날짜의 추정 현물환율을 사용하여 환산한다.(나)기업의 기능통화가 초인플레이션인 경우 영향을 받는 자본항목을 추정 현물환율을 사용하여 환산한다.(다)최초 적용효과를 누적환산차이(자본의 별도항목)에 대한 조정으로 인식한다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">‘교환가능성 결여’를 적용할 때 비교정보를 재작성하는 대신 다음과 같이 적용한다.\n\n<div class=\"idt-1\"><div>⑴</div><div>기능통화로 외화거래를 보고하는 경우로서 최초 적용일에 기능통화가 외화로 교환 가능하지 않거나, 외화가 기능통화로 교환 가능하지 않다고 결론 내린다면, 최초 적용일에 다음과 같이 적용한다.</div></div><div class=\"idt-2\"><div>㈎</div><div>영향을 받는 화폐성 외화항목과 공정가치로 측정되는 비화폐성 외화항목을 해당 날짜의 추정 현물환율을 사용하여 환산한다.</div></div><div class=\"idt-2\"><div>㈏</div><div>최초 적용효과를 기초 이익잉여금의 조정으로 인식한다.</div></div><div class=\"idt-1\"><div>(2)</div><div>기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 경영성과와 재무상태를 환산하는 경우로서 최초 적용일에 기업의 기능통화(또는 해외사업장의 기능통화)가 표시통화로 교환 가능하지 않거나, 표시통화가 기업의 기능통화(또는 해외사업장의 기능통화)로 교환 가능하지 않다고 결론 내린다면, 최초 적용일에 다음과 같이 적용한다</div></div><div class=\"idt-2\"><div>㈎</div><div>영향을 받는 자산과 부채를 해당 날짜의 추정 현물환율을 사용하여 환산한다.</div></div><div class=\"idt-2\"><div>㈏</div><div>기업의 기능통화가 초인플레이션인 경우 영향을 받는 자본항목을 추정 현물환율을 사용하여 환산한다.</div></div><div class=\"idt-2\"><div>㈐</div><div>최초 적용효과를 누적환산차이(자본의 별도항목)에 대한 조정으로 인식한다.</div></div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -2778,7 +2869,25 @@
       "toc_path": "부록 A 적용지침|교환가능성|1단계: 통화가 교환 가능한지 평가 (문단 8과 8A~8B)",
       "text": "문단 A3~A10은 기업이 한 통화가 다른 통화로 교환 가능한지를 평가하는 데 도움이 되는 적용지침을 제시한다. 기업은 다른 통화가 해당 통화로 교환 가능하더라도 그 해당 통화가 다른 통화로 교환 가능하지 않다고 판단할 수 있다. 예를 들어, 기업은 통화 LC를 통화 PC로 교환 가능하더라도 통화 PC는 통화 LC로 교환 가능하지 않다고 판단할 수 있다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><span class=\"mundan-finder\">문단 A3~A10</span>은 기업이 한 통화가 다른 통화로 교환 가능한지를 평가하는 데 도움이 되는 적용지침을 제시한다. 기업은 다른 통화가 해당 통화로 교환 가능하더라도 그 해당 통화가 다른 통화로 교환 가능하지 않다고 판단할 수 있다. 예를 들어, 기업은 통화 LC를 통화 PC로 교환 가능하더라도 통화 PC는 통화 LC로 교환 가능하지 않다고 판단할 수 있다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 A3~A10",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A3~A10",
+          "paragraph_ids": [
+            "A3",
+            "A4",
+            "A5",
+            "A6",
+            "A7",
+            "A8",
+            "A9",
+            "A10"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2789,7 +2898,18 @@
       "toc_path": "부록 A 적용지침|교환가능성|1단계: 통화가 교환 가능한지 평가 (문단 8과 8A~8B)|기간범위",
       "text": "문단 8에서는 현물환율을 즉시 인도가 이루어지는 거래에서 사용하는 환율로 정의하고 있다. 그러나 교환거래에 법적 또는 규제 요구사항이 적용되거나 법정공휴일과 같은 실무적 이유로 인해 교환거래가 항상 즉각적으로 완료되는 것은 아니다. 다른 통화를 획득하는 데 정상적인 행정 처리상의 지연이 있다고 한 통화가 다른 통화로 교환 가능하지 않은 것은 아니다. 정상적인 행정 처리상의 지연에 해당하는지는 사실과 상황에 따라 다르다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><span class=\"mundan-finder\">문단 8</span>에서는 현물환율을 즉시 인도가 이루어지는 거래에서 사용하는 환율로 정의하고 있다. 그러나 교환거래에 법적 또는 규제 요구사항이 적용되거나 법정공휴일과 같은 실무적 이유로 인해 교환거래가 항상 즉각적으로 완료되는 것은 아니다. 다른 통화를 획득하는 데 정상적인 행정 처리상의 지연이 있다고 한 통화가 다른 통화로 교환 가능하지 않은 것은 아니다. 정상적인 행정 처리상의 지연에 해당하는지는 사실과 상황에 따라 다르다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 8",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "8",
+          "paragraph_ids": [
+            "8"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2800,7 +2920,26 @@
       "toc_path": "부록 A 적용지침|교환가능성|1단계: 통화가 교환 가능한지 평가 (문단 8과 8A~8B)|다른 통화를 획득할 능력",
       "text": "한 통화가 다른 통화로 교환 가능한지를 평가할 때, 기업은 다른 통화를 획득하고자 하는 기업의 의도나 결정이 아닌 능력을 고려하여야 한다. 문단 A2~A10의 다른 요구사항을 충족한다면, 기업이 통화를 교환할 의도가 없거나 교환하지 않기로 결정하더라도 기업이 직접 또는 간접적으로 다른 통화를 획득할 수 있다면 그 통화는 다른 통화로 교환 가능하다. 예를 들어 문단 A2~A10의 다른 요구사항을 충족한다면, 기업이 LC를 PC로 교환하거나, LC를 다른 통화(FC)로 교환한 다음 FC를 PC로 교환할 수 있다면, 기업이 PC를 획득할 의도 또는 결정 여부에 관계없이, 통화 LC는 통화 PC로 교환 가능하다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">한 통화가 다른 통화로 교환 가능한지를 평가할 때, 기업은 다른 통화를 획득하고자 하는 기업의 의도나 결정이 아닌 능력을 고려하여야 한다. \n<span class=\"mundan-finder\">문단 A2~A10</span>의 다른 요구사항을 충족한다면, 기업이 통화를 교환할 의도가 없거나 교환하지 않기로 결정하더라도 기업이 직접 또는 간접적으로 다른 통화를 획득할 수 있다면 그 통화는 다른 통화로 교환 가능하다. 예를 들어 \n<span class=\"mundan-finder\">문단 A2~A10</span>의 다른 요구사항을 충족한다면, 기업이 LC를 PC로 교환하거나, LC를 다른 통화(FC)로 교환한 다음 FC를 PC로 교환할 수 있다면, 기업이 PC를 획득할 의도 또는 결정 여부에 관계없이, 통화 LC는 통화 PC로 교환 가능하다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 A2~A10",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A2~A10",
+          "paragraph_ids": [
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "A6",
+            "A7",
+            "A8",
+            "A9",
+            "A10"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2820,7 +2959,7 @@
       "section_id": "8835gW",
       "section_title": "다른 통화의 획득 목적",
       "toc_path": "부록 A 적용지침|교환가능성|1단계: 통화가 교환 가능한지 평가 (문단 8과 8A~8B)|다른 통화의 획득 목적",
-      "text": "통화의 용도에 따라 다른 환율이 적용될 수 있다. 예를 들어, 지급잔액에 대한 압박을 받고 있는 국가에서는 다른 국가로의 자본 송금(배당 지급 등)을 억제하고자 하는 반면, 이러한 국가로부터 특정 상품의 수입을 장려하려 할 수 있다. 이러한 상황에서 해당 국가는 다음 중 어느 하나와 같이 운영할 수 있다. ⑴해당 상품의 수입에 특혜성 환율을 설정하고 다른 국가로의 자본 송금에 벌칙성 환율을 설정하여 서로 다른 교환거래에 다른 환율이 적용되도록 한다.⑵다른 국가로의 자본 송금이 아닌 해당 상품의 수입에 대해서만 다른 통화를 사용할 수 있게 한다.",
+      "text": "통화의 용도에 따라 다른 환율이 적용될 수 있다. 예를 들어, 지급잔액에 대한 압박을 받고 있는 국가에서는 다른 국가로의 자본 송금(배당 지급 등)을 억제하고자 하는 반면, 이러한 국가로부터 특정 상품의 수입을 장려하려 할 수 있다. 이러한 상황에서 해당 국가는 다음 중 어느 하나와 같이 운영할 수 있다.\n(1)해당 상품의 수입에 특혜성 환율을 설정하고 다른 국가로의 자본 송금에 벌칙성 환율을 설정하여 서로 다른 교환거래에 다른 환율이 적용되도록 한다.(2)다른 국가로의 자본 송금이 아닌 해당 상품의 수입에 대해서만 다른 통화를 사용할 수 있게 한다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">통화의 용도에 따라 다른 환율이 적용될 수 있다. 예를 들어, 지급잔액에 대한 압박을 받고 있는 국가에서는 다른 국가로의 자본 송금(배당 지급 등)을 억제하고자 하는 반면, 이러한 국가로부터 특정 상품의 수입을 장려하려 할 수 있다. 이러한 상황에서 해당 국가는 다음 중 어느 하나와 같이 운영할 수 있다.\n\n<div class=\"idt-1\"><div>⑴</div><div>해당 상품의 수입에 특혜성 환율을 설정하고 다른 국가로의 자본 송금에 벌칙성 환율을 설정하여 서로 다른 교환거래에 다른 환율이 적용되도록 한다.</div></div><div class=\"idt-1\"><div>⑵</div><div>다른 국가로의 자본 송금이 아닌 해당 상품의 수입에 대해서만 다른 통화를 사용할 수 있게 한다.</div></div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -2831,9 +2970,65 @@
       "section_id": "8835gW",
       "section_title": "다른 통화의 획득 목적",
       "toc_path": "부록 A 적용지침|교환가능성|1단계: 통화가 교환 가능한지 평가 (문단 8과 8A~8B)|다른 통화의 획득 목적",
-      "text": "따라서 한 통화가 다른 통화로 교환 가능한지 여부는 기업이 다른 통화를 획득하는 (또는 획득을 가정하는) 목적에 따라 달라질 수 있다. 교환가능성을 평가할 때, 다른 통화를 획득하는 목적은 다음을 가정한다. ⑴기업이 기능통화로 외화 거래를 보고하는 경우(문단 20~37 참조), 개별 외화거래, 자산 또는 부채를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다. ⑵기업이 기능통화가 아닌 표시통화를 사용하는 경우(문단 38~43 참조), 기업의 순자산 또는 순부채를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다. ⑶기업이 해외사업장의 경영성과와 재무상태를 표시통화로 환산하는 경우(문단 44~47 참조), 해외사업장에 대한 기업의 순투자를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다.",
+      "text": "따라서 한 통화가 다른 통화로 교환 가능한지 여부는 기업이 다른 통화를 획득하는 (또는 획득을 가정하는) 목적에 따라 달라질 수 있다. 교환가능성을 평가할 때, 다른 통화를 획득하는 목적은 다음을 가정한다.\n(1)기업이 기능통화로 외화 거래를 보고하는 경우(문단 20~37 참조), 개별 외화거래, 자산 또는 부채를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다.\n(2)기업이 기능통화가 아닌 표시통화를 사용하는 경우(문단 38~43 참조), 기업의 순자산 또는 순부채를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다.\n(3)기업이 해외사업장의 경영성과와 재무상태를 표시통화로 환산하는 경우(문단 44~47 참조), 해외사업장에 대한 기업의 순투자를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">따라서 한 통화가 다른 통화로 교환 가능한지 여부는 기업이 다른 통화를 획득하는 (또는 획득을 가정하는) 목적에 따라 달라질 수 있다. 교환가능성을 평가할 때, 다른 통화를 획득하는 목적은 다음을 가정한다.\n\n<div class=\"idt-1\"><div>⑴</div><div>기업이 기능통화로 외화 거래를 보고하는 경우(<span class=\"mundan-finder\">문단 20~37</span> 참조), 개별 외화거래, 자산 또는 부채를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다.\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>기업이 기능통화가 아닌 표시통화를  사용하는 경우(<span class=\"mundan-finder\">문단 38~43</span> 참조), 기업의 순자산 또는 순부채를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다.\n  </div></div><div class=\"idt-1\"><div>⑶</div><div>기업이 해외사업장의 경영성과와 재무상태를 표시통화로 환산하는 경우(<span class=\"mundan-finder\">문단 44~47</span> 참조), 해외사업장에 대한 기업의 순투자를 실현하거나 결제하기 위한 목적으로 다른 통화를 획득한다.\n  </div></div></div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 20~37",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "20~37",
+          "paragraph_ids": [
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 38~43",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "38~43",
+          "paragraph_ids": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 44~47",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "44~47",
+          "paragraph_ids": [
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2842,7 +3037,7 @@
       "section_id": "8835gW",
       "section_title": "다른 통화의 획득 목적",
       "toc_path": "부록 A 적용지침|교환가능성|1단계: 통화가 교환 가능한지 평가 (문단 8과 8A~8B)|다른 통화의 획득 목적",
-      "text": "기업의 순자산이나 해외사업장에 대한 순투자는 예를 들어 다음과 같이 실현될 수 있다. ⑴기업 소유주에 대한 재무적 수익의 분배⑵기업의 해외사업장으로부터 재무적 수익의 수령⑶투자의 처분 등을 통한 기업 또는 기업 소유주의 투자금 회수",
+      "text": "기업의 순자산이나 해외사업장에 대한 순투자는 예를 들어 다음과 같이 실현될 수 있다.\n(1)기업 소유주에 대한 재무적 수익의 분배(2)기업의 해외사업장으로부터 재무적 수익의 수령(3)투자의 처분 등을 통한 기업 또는 기업 소유주의 투자금 회수",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">기업의 순자산이나 해외사업장에 대한 순투자는 예를 들어 다음과 같이 실현될 수 있다.\n\n<div class=\"idt-1\"><div>⑴</div><div>기업 소유주에 대한 재무적 수익의 분배</div></div><div class=\"idt-1\"><div>⑵</div><div>기업의 해외사업장으로부터 재무적 수익의 수령</div></div><div class=\"idt-1\"><div>⑶</div><div>투자의 처분 등을 통한 기업 또는 기업 소유주의 투자금 회수</div></div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -2853,9 +3048,20 @@
       "section_id": "8835gW",
       "section_title": "다른 통화의 획득 목적",
       "toc_path": "부록 A 적용지침|교환가능성|1단계: 통화가 교환 가능한지 평가 (문단 8과 8A~8B)|다른 통화의 획득 목적",
-      "text": "기업은 문단 A7에 명시된 각 목적에 따라 한 통화가 다른 통화로 교환 가능한지를 개별적으로 평가한다. 예를 들어, 법인은 기능통화로 외화 거래를 보고하기 위한 목적의 교환가능성(문단 A7⑴ 참조)과 해외사업장의 경영성과와 재무상태를 환산하기 위한 목적의 교환가능성(문단 A7⑶ 참조)을 구분하여 평가한다.",
+      "text": "기업은 문단 A7에 명시된 각 목적에 따라 한 통화가 다른 통화로 교환 가능한지를 개별적으로 평가한다. 예를 들어, 법인은 기능통화로 외화 거래를 보고하기 위한 목적의 교환가능성(문단 A7(1) 참조)과 해외사업장의 경영성과와 재무상태를 환산하기 위한 목적의 교환가능성(문단 A7(3) 참조)을 구분하여 평가한다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">기업은 \n<span class=\"mundan-finder\">문단 A7</span>에 명시된 각 목적에 따라 한 통화가 다른 통화로 교환 가능한지를 개별적으로 평가한다. 예를 들어, 법인은 기능통화로 외화 거래를 보고하기 위한 목적의 교환가능성(<span class=\"mundan-finder\">문단 A7⑴</span> 참조)과 해외사업장의 경영성과와 재무상태를 환산하기 위한 목적의 교환가능성(<span class=\"mundan-finder\">문단 A7⑶</span> 참조)을 구분하여 평가한다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 A7",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A7",
+          "paragraph_ids": [
+            "A7"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2866,7 +3072,18 @@
       "toc_path": "부록 A 적용지침|교환가능성|1단계: 통화가 교환 가능한지 평가 (문단 8과 8A~8B)|다른 통화를 단지 제한적인 금액만 획득할 수 있는 능력",
       "text": "문단 A7에 명시된 목적을 위해 다른 통화를 단지 경미한 금액만 획득할 수 있는 경우 그 통화는 다른 통화로 교환 가능하지 않다. 특정 목적을 위해 획득할 수 있는 다른 통화 금액의 유의성은 그 목적상 필요한 다른 통화의 금액과 비교하여 평가한다. 예를 들어 기능통화가 LC인 기업이 통화 FC로 표시된 외화부채를 보유하고 있다. 기업은 FC로 표시된 외화부채 잔액의 총액(합계)과 비교하여 해당 부채를 결제하기 위해 기업이 획득할 수 있는 FC의 금액이 경미한지 평가한다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><span class=\"mundan-finder\">문단 A7</span>에 명시된 목적을 위해 다른 통화를 단지 경미한 금액만 획득할 수 있는 경우 그 통화는 다른 통화로 교환 가능하지 않다. 특정 목적을 위해 획득할 수 있는 다른 통화 금액의 유의성은  그 목적상 필요한 다른 통화의 금액과 비교하여 평가한다. 예를 들어 기능통화가 LC인 기업이 통화 FC로 표시된 외화부채를 보유하고 있다. 기업은 FC로 표시된 외화부채 잔액의 총액(합계)과 비교하여 해당 부채를 결제하기 위해 기업이 획득할 수 있는 FC의 금액이 경미한지 평가한다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 A7",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A7",
+          "paragraph_ids": [
+            "A7"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2877,7 +3094,42 @@
       "toc_path": "부록 A 적용지침|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A)",
       "text": "이 기준서는 기업이 문단 19A의 목적을 충족하기 위해 현물환율을 추정하는 방법을 명시하지 않는다. 기업은 관측 가능한 환율을 조정 없이 사용하거나 (문단 A12~A16 참조) 또는 다른 추정 기법(문단 A17 참조)을 사용할 수 있다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">이 기준서는 기업이 \n<span class=\"mundan-finder\">문단 19A</span>의 목적을 충족하기 위해 현물환율을 추정하는 방법을 명시하지 않는다. 기업은 관측 가능한 환율을 조정 없이 사용하거나 (<span class=\"mundan-finder\">문단 A12~A16</span> 참조) 또는 다른 추정 기법(<span class=\"mundan-finder\">문단 A17</span> 참조)을 사용할 수 있다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 19A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "19A",
+          "paragraph_ids": [
+            "19A"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 A12~A16",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A12~A16",
+          "paragraph_ids": [
+            "A12",
+            "A13",
+            "A14",
+            "A15",
+            "A16"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 A17",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A17",
+          "paragraph_ids": [
+            "A17"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2888,7 +3140,40 @@
       "toc_path": "부록 A 적용지침|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A)|관측 가능한 환율을 조정없이 사용",
       "text": "문단 19A에서 요구되는 현물환율을 추정할 때, 관측 가능한 환율이 문단 19A의 목적을 충족한다면 관측 가능한 환율을 조정 없이 사용할 수 있다. 관측 가능한 환율의 예는 다음과 같다.\n(1)기업이 교환가능성을 평가하는 목적 이외의 목적을 위한 현물환율(문단 A13~A14 참조)\n(2)통화의 교환가능성이 회복된 후 기업이 특정 목적을 위해 다른 통화를 처음으로 획득할 때의 환율 (첫 번째 후속환율)(문단 A15~A16 참조)",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><span class=\"mundan-finder\">문단 19A</span>에서 요구되는 현물환율을 추정할 때, 관측 가능한 환율이 \n<span class=\"mundan-finder\">문단 19A</span>의 목적을 충족한다면 관측 가능한 환율을 조정 없이 사용할 수 있다. 관측 가능한 환율의 예는 다음과 같다.\n\n<div class=\"idt-1\"><div>(1)</div><div>기업이 교환가능성을 평가하는 목적 이외의 목적을 위한 현물환율(<span class=\"mundan-finder\">문단 A13~A14</span> 참조)\n  </div></div><div class=\"idt-1\"><div>(2)</div><div>통화의 교환가능성이 회복된 후 기업이 특정 목적을 위해 다른 통화를 처음으로 획득할 때의 환율 (첫 번째 후속환율)(<span class=\"mundan-finder\">문단 A15~A16</span> 참조)\n  </div></div></div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 19A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "19A",
+          "paragraph_ids": [
+            "19A"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 A13~A14",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A13~A14",
+          "paragraph_ids": [
+            "A13",
+            "A14"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 A15~A16",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A15~A16",
+          "paragraph_ids": [
+            "A15",
+            "A16"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2899,7 +3184,18 @@
       "toc_path": "부록 A 적용지침|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A)|다른 목적을 위해 관측 가능한 환율의 사용",
       "text": "특정 목적을 위해 다른 통화로 교환 가능하지 않은 통화이더라도 다른 목적을 위해 해당 통화로 교환 가능할 수 있다. 예를 들면 특정 재화를 수입하기 위하여 한 통화를 획득할 수 있지만 배당금을 지급하기 위해서는 그렇지 않을 수 있다. 이러한 상황에서는 다른 목적을 위해 관측 가능한 환율이 문단 19A의 목적을 충족한다고 결론지을 수 있으며, 그러한 경우에는 해당 환율을 추정 현물환율로 사용할 수 있다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">특정 목적을 위해 다른 통화로 교환 가능하지 않은 통화이더라도 다른 목적을 위해 해당 통화로 교환 가능할 수 있다. 예를 들면 특정 재화를 수입하기 위하여 한 통화를 획득할 수 있지만 배당금을 지급하기 위해서는 그렇지 않을 수 있다. 이러한 상황에서는 다른 목적을 위해 관측 가능한 환율이 \n<span class=\"mundan-finder\">문단 19A</span>의 목적을 충족한다고 결론지을 수 있으며, 그러한 경우에는 해당 환율을 추정 현물환율로 사용할 수 있다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 19A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "19A",
+          "paragraph_ids": [
+            "19A"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2908,9 +3204,20 @@
       "section_id": "K0QtFt",
       "section_title": "다른 목적을 위해 관측 가능한 환율의 사용",
       "toc_path": "부록 A 적용지침|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A)|다른 목적을 위해 관측 가능한 환율의 사용",
-      "text": "이러한 관측 가능한 환율이 문단 19A의 목적을 충족하는지 평가할 때, 무엇보다도 다음의 요소를 고려한다. ⑴여러 관측 가능한 환율이 존재하는지 여부 ― 둘 이상의 관측 가능한 환율이 존재한다는 것은 특정 목적을 위해 다른 통화를 획득하는 것을 장려하거나 억제하기 위해 환율이 설정되어 있음을 나타낼 수 있다. 따라서 이러한 관측 가능한 환율에는 '우대(incentive)'나 '불이익(penalty)'이 포함될 수 있으므로 일반적인 경제 상황을 충실히 반영하지 못할 수 있다.⑵교환 가능한 목적 ― 제한적인 목적(예: 비상물자 수입)으로만 다른 통화를 획득할 수 있다면 관측 가능한 환율은 일반적인 경제 상황을 충실히 반영하지 못할 수 있다.⑶환율의 특성 ― 관측 가능한 변동환율은 관련 당국의 정기적인 개입을 통해 설정된 환율보다 현재의 경제 상황을 충실하게 반영할 가능성이 더 높다.⑷환율이 갱신되는 빈도 ― 시간이 지나도 변하지 않는 관측 가능한 환율은 매일(또는 그보다 더 자주) 갱신되는 관측 가능한 환율보다 현재의 경제 상황을 충실히 반영할 가능성이 낮다.",
+      "text": "이러한 관측 가능한 환율이 문단 19A의 목적을 충족하는지 평가할 때, 무엇보다도 다음의 요소를 고려한다.\n(1)여러 관측 가능한 환율이 존재하는지 여부 ― 둘 이상의 관측 가능한 환율이 존재한다는 것은 특정 목적을 위해 다른 통화를 획득하는 것을 장려하거나 억제하기 위해 환율이 설정되어 있음을 나타낼 수 있다. 따라서 이러한 관측 가능한 환율에는 '우대(incentive)'나 '불이익(penalty)'이 포함될 수 있으므로 일반적인 경제 상황을 충실히 반영하지 못할 수 있다.(2)교환 가능한 목적 ― 제한적인 목적(예: 비상물자 수입)으로만 다른 통화를 획득할 수 있다면 관측 가능한 환율은 일반적인 경제 상황을 충실히 반영하지 못할 수 있다.(3)환율의 특성 ― 관측 가능한 변동환율은 관련 당국의 정기적인 개입을 통해 설정된 환율보다 현재의 경제 상황을 충실하게 반영할 가능성이 더 높다.(4)환율이 갱신되는 빈도 ― 시간이 지나도 변하지 않는 관측 가능한 환율은 매일(또는 그보다 더 자주) 갱신되는 관측 가능한 환율보다 현재의 경제 상황을 충실히 반영할 가능성이 낮다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">이러한 관측 가능한 환율이 \n<span class=\"mundan-finder\">문단 19A</span>의 목적을 충족하는지 평가할 때, 무엇보다도 다음의 요소를 고려한다.\n\n<div class=\"idt-1\"><div>⑴</div><div>여러 관측 가능한 환율이 존재하는지 여부 ― 둘 이상의 관측 가능한 환율이 존재한다는 것은 특정 목적을 위해 다른 통화를 획득하는 것을 장려하거나 억제하기 위해 환율이 설정되어 있음을 나타낼 수 있다. 따라서 이러한 관측 가능한 환율에는 '우대(incentive)'나 '불이익(penalty)'이 포함될 수 있으므로 일반적인 경제 상황을 충실히 반영하지 못할 수 있다.</div></div><div class=\"idt-1\"><div>⑵</div><div>교환 가능한 목적 ― 제한적인 목적(예: 비상물자 수입)으로만 다른 통화를 획득할 수 있다면 관측 가능한 환율은 일반적인 경제 상황을 충실히 반영하지 못할 수 있다.</div></div><div class=\"idt-1\"><div>⑶</div><div>환율의 특성 ― 관측 가능한 변동환율은 관련 당국의 정기적인 개입을 통해 설정된 환율보다 현재의 경제 상황을 충실하게 반영할 가능성이 더 높다.</div></div><div class=\"idt-1\"><div>⑷</div><div>환율이 갱신되는 빈도 ― 시간이 지나도 변하지 않는 관측 가능한 환율은 매일(또는 그보다 더 자주) 갱신되는 관측 가능한 환율보다 현재의 경제 상황을 충실히 반영할 가능성이 낮다.</div></div></div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 19A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "19A",
+          "paragraph_ids": [
+            "19A"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2921,7 +3228,18 @@
       "toc_path": "부록 A 적용지침|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A)|첫 번째 후속환율의 사용",
       "text": "측정일에 특정 목적을 위해 다른 통화로 교환 가능하지 않은 통화도 후속적으로 교환이 가능해 질 수 있다. 이러한 상황에서는 첫 번째 후속환율이 문단 19A의 목적을 충족한다고 결론지을 수 있으며, 그러한 경우에는 해당 환율을 추정 현물환율로 사용할 수 있다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">측정일에 특정 목적을 위해 다른 통화로 교환 가능하지 않은 통화도 후속적으로 교환이 가능해 질 수 있다. 이러한 상황에서는 첫 번째 후속환율이 \n<span class=\"mundan-finder\">문단 19A</span>의 목적을 충족한다고 결론지을 수 있으며, 그러한 경우에는 해당 환율을 추정 현물환율로 사용할 수 있다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 19A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "19A",
+          "paragraph_ids": [
+            "19A"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2930,9 +3248,28 @@
       "section_id": "biZ8az",
       "section_title": "첫 번째 후속환율의 사용",
       "toc_path": "부록 A 적용지침|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A)|첫 번째 후속환율의 사용",
-      "text": "첫 번째 후속환율이 문단 19A의 목적을 충족하는지 평가할 때 무엇보다도 다음 요소를 고려한다. ⑴측정일과 교환가능성이 회복된 날짜 사이의 시간—이 기간이 짧을수록 첫 번째 후속환율은 현재의 경제 상황을 충실하게 반영할 가능성이 더 높다.⑵인플레이션율— 초인플레이션 상태(기업회계기준서 제1029호 ‘초인플레이션 경제에서의 재무보고’에 명시된 바와 같은)를 포함하여 높은 인플레이션을 겪고 있는 경제에서는 가격은 종종 빠르게 변화하며 하루에도 여러번 변할 수 있다. 따라서, 그러한 경제의 통화에 대한 첫 번째 후속환율은 현재의 경제 상황을 충실히 반영하지 못할 수도 있다.",
+      "text": "첫 번째 후속환율이 문단 19A의 목적을 충족하는지 평가할 때 무엇보다도 다음 요소를 고려한다.\n(1)측정일과 교환가능성이 회복된 날짜 사이의 시간—이 기간이 짧을수록 첫 번째 후속환율은 현재의 경제 상황을 충실하게 반영할 가능성이 더 높다.(2)인플레이션율— 초인플레이션 상태(기업회계기준서 제1029호 ‘초인플레이션 경제에서의 재무보고’에 명시된 바와 같은)를 포함하여 높은 인플레이션을 겪고 있는 경제에서는 가격은 종종 빠르게 변화하며 하루에도 여러번 변할 수 있다. 따라서, 그러한 경제의 통화에 대한 첫 번째 후속환율은 현재의 경제 상황을 충실히 반영하지 못할 수도 있다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">첫 번째 후속환율이 \n<span class=\"mundan-finder\">문단 19A</span>의 목적을 충족하는지 평가할 때 무엇보다도 다음 요소를 고려한다.\n\n<div class=\"idt-1\"><div>⑴</div><div>측정일과 교환가능성이 회복된 날짜 사이의 시간—이 기간이 짧을수록 첫 번째 후속환율은 현재의 경제 상황을 충실하게 반영할 가능성이 더 높다.</div></div><div class=\"idt-1\"><div>⑵</div><div>인플레이션율— 초인플레이션 상태(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\"></span><span class=\"std-finder\">기업회계기준서 제1029호</span></div> ‘초인플레이션 경제에서의 재무보고’에 명시된 바와 같은)를 포함하여 높은 인플레이션을 겪고 있는 경제에서는 가격은 종종 빠르게 변화하며 하루에도 여러번 변할 수 있다. 따라서, 그러한 경제의 통화에 대한 첫 번째 후속환율은 현재의 경제 상황을 충실히 반영하지 못할 수도 있다.\n  </div></div></div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1029호",
+          "standard_number": "1029",
+          "standard_title": null,
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 19A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "19A",
+          "paragraph_ids": [
+            "19A"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2943,7 +3280,18 @@
       "toc_path": "부록 A 적용지침|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A)|다른 추정 기법의 사용",
       "text": "다른 추정 기법을 사용하는 기업은 집행 가능한 권리 및 의무를 창출하지 않는 시장이나 교환메커니즘에서 이루어진 교환거래의 환율을 포함한 관측 가능한 환율을 사용할 수 있으며, 필요에 따라 문단 19A의 목적을 달성하기 위해 해당 환율을 조정한다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">다른 추정 기법을 사용하는 기업은 집행 가능한 권리 및 의무를 창출하지 않는 시장이나 교환메커니즘에서 이루어진 교환거래의 환율을 포함한 관측 가능한 환율을 사용할 수 있으며, 필요에 따라 \n<span class=\"mundan-finder\">문단 19A</span>의 목적을 달성하기 위해 해당 환율을 조정한다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 19A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "19A",
+          "paragraph_ids": [
+            "19A"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2954,7 +3302,29 @@
       "toc_path": "부록 A 적용지침|교환가능성|통화가 교환 가능하지 않은 경우의 공시",
       "text": "문단 57A의 공시 목적을 충족하는 데 필요한 세부사항의 정도를 고려한다. 문단 A19~A20에서 정한 정보와 문단 57A의 목적을 달성하기 위해 필요한 추가 정보를 공시한다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><span class=\"mundan-finder\">문단 57A</span>의 공시 목적을 충족하는 데 필요한 세부사항의 정도를 고려한다. \n<span class=\"mundan-finder\">문단 A19~A20</span>에서 정한 정보와 \n<span class=\"mundan-finder\">문단 57A</span>의 목적을 달성하기 위해 필요한 추가 정보를 공시한다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 57A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "57A",
+          "paragraph_ids": [
+            "57A"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 A19~A20",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A19~A20",
+          "paragraph_ids": [
+            "A19",
+            "A20"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2963,9 +3333,44 @@
       "section_id": "pI7n9D",
       "section_title": "통화가 교환 가능하지 않은 경우의 공시",
       "toc_path": "부록 A 적용지침|교환가능성|통화가 교환 가능하지 않은 경우의 공시",
-      "text": "문단 57A를 적용할 때 다음 사항을 공시한다. ⑴다른 통화로 교환 가능하지 않은 통화의 명칭 및 그러한 통화가 교환 가능하지 않도록 만드는 제한사항에 대한 설명⑵영향을 받는 거래에 대한 설명⑶영향을 받는 자산과 부채의 장부금액⑷사용된 현물환율 및 그 환율이 다음 중 무엇에 해당하는지㈎조정되지 않은 관측 가능한 환율(문단 A12~A16 참조)\n㈏다른 추정 기법을 사용하여 추정된 현물환율(문단 A17 참조) ⑸기업이 사용한 추정 기법에 대한 설명, 그리고 그 추정 기법에 사용된 투입변수와 가정에 대한 질적 정보와 양적 정보⑹통화가 다른 통화로 교환 가능하지 않음으로 인해 기업이 노출되는 각 유형의 위험에 대한 질적 정보와 각 유형의 위험에 노출되는 자산과 부채의 성격과 장부금액",
+      "text": "문단 57A를 적용할 때 다음 사항을 공시한다.\n(1)다른 통화로 교환 가능하지 않은 통화의 명칭 및 그러한 통화가 교환 가능하지 않도록 만드는 제한사항에 대한 설명(2)영향을 받는 거래에 대한 설명(3)영향을 받는 자산과 부채의 장부금액(4)사용된 현물환율 및 그 환율이 다음 중 무엇에 해당하는지(가)조정되지 않은 관측 가능한 환율(문단 A12~A16 참조)\n(나)다른 추정 기법을 사용하여 추정된 현물환율(문단 A17 참조)\n(5)기업이 사용한 추정 기법에 대한 설명, 그리고 그 추정 기법에 사용된 투입변수와 가정에 대한 질적 정보와 양적 정보(6)통화가 다른 통화로 교환 가능하지 않음으로 인해 기업이 노출되는 각 유형의 위험에 대한 질적 정보와 각 유형의 위험에 노출되는 자산과 부채의 성격과 장부금액",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><span class=\"mundan-finder\">문단 57A</span>를 적용할 때 다음 사항을 공시한다.\n\n<div class=\"idt-1\"><div>⑴</div><div>다른 통화로 교환 가능하지 않은 통화의 명칭 및 그러한 통화가 교환 가능하지 않도록 만드는 제한사항에 대한 설명</div></div><div class=\"idt-1\"><div>⑵</div><div>영향을 받는 거래에 대한 설명</div></div><div class=\"idt-1\"><div>⑶</div><div>영향을 받는 자산과 부채의 장부금액</div></div><div class=\"idt-1\"><div>⑷</div><div>사용된 현물환율 및 그 환율이 다음 중 무엇에 해당하는지</div></div><div class=\"idt-2\"><div>㈎</div><div>조정되지 않은 관측 가능한 환율(<span class=\"mundan-finder\">문단 A12~A16</span> 참조)\n  </div></div><div class=\"idt-2\"><div>㈏</div><div>다른 추정 기법을 사용하여 추정된 현물환율(<span class=\"mundan-finder\">문단 A17</span> 참조)\n  </div></div><div class=\"idt-1\"><div>⑸</div><div>기업이 사용한 추정 기법에 대한 설명, 그리고 그 추정 기법에 사용된 투입변수와 가정에 대한 질적 정보와 양적 정보</div></div><div class=\"idt-1\"><div>⑹</div><div>통화가 다른 통화로 교환 가능하지 않음으로 인해 기업이 노출되는 각 유형의 위험에 대한 질적 정보와 각 유형의 위험에 노출되는 자산과 부채의 성격과 장부금액</div></div></div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 57A",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "57A",
+          "paragraph_ids": [
+            "57A"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 A12~A16",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A12~A16",
+          "paragraph_ids": [
+            "A12",
+            "A13",
+            "A14",
+            "A15",
+            "A16"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 A17",
+          "standard_number": "1021",
+          "standard_title": null,
+          "range": "A17",
+          "paragraph_ids": [
+            "A17"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2974,7 +3379,7 @@
       "section_id": "pI7n9D",
       "section_title": "통화가 교환 가능하지 않은 경우의 공시",
       "toc_path": "부록 A 적용지침|교환가능성|통화가 교환 가능하지 않은 경우의 공시",
-      "text": "해외사업장의 기능통화가 표시통화로 교환 가능하지 않거나, 표시통화가 해외사업장의 기능통화로 교환 가능하지 않은 경우, 다음 사항도 공시한다. ⑴해외사업장의 명칭, 해외사업장의 유형(종속기업, 공동영업, 공동기업, 관계기업 또는 지점) 및 주요 사업 장소⑵해외사업장의 요약 재무정보⑶기업이 손실에 노출될 수 있는 사건이나 상황을 포함하여, 기업이 해외사업장에 재정적 지원을 제공하도록 요구할 수 있는 계약약정의 내용과 조건",
+      "text": "해외사업장의 기능통화가 표시통화로 교환 가능하지 않거나, 표시통화가 해외사업장의 기능통화로 교환 가능하지 않은 경우, 다음 사항도 공시한다.\n(1)해외사업장의 명칭, 해외사업장의 유형(종속기업, 공동영업, 공동기업, 관계기업 또는 지점) 및 주요 사업 장소(2)해외사업장의 요약 재무정보(3)기업이 손실에 노출될 수 있는 사건이나 상황을 포함하여, 기업이 해외사업장에 재정적 지원을 제공하도록 요구할 수 있는 계약약정의 내용과 조건",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">해외사업장의 기능통화가 표시통화로 교환 가능하지 않거나, 표시통화가 해외사업장의 기능통화로 교환 가능하지 않은 경우, 다음 사항도 공시한다.\n\n<div class=\"idt-1\"><div>⑴</div><div>해외사업장의 명칭, 해외사업장의 유형(종속기업, 공동영업, 공동기업, 관계기업 또는 지점) 및 주요 사업 장소</div></div><div class=\"idt-1\"><div>⑵</div><div>해외사업장의 요약 재무정보</div></div><div class=\"idt-1\"><div>⑶</div><div>기업이 손실에 노출될 수 있는 사건이나 상황을 포함하여, 기업이 해외사업장에 재정적 지원을 제공하도록 요구할 수 있는 계약약정의 내용과 조건</div></div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -3016,7 +3421,7 @@
       "section_id": "Us3blg",
       "section_title": "교환가능성",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1021호 ‘환율변동효과’의 적용사례|교환가능성",
-      "text": "사례 1~3은 기업이 한 통화가 교환 가능한지 평가하는 방법을 보여 준다(문단 8, 8A~8B 및 A2~A10에 명시된 1단계에 해당). 사례 4~5는 한 통화가 교환 가능하지 않은 경우 기업이 현물환율을 추정하는 방법을 보여준다(문단 19A 및 A11~A17에 명시된 2단계에 해당). 다섯 가지 사례 모두에서 다음을 가정한다. ⑴ 기업 X의 기능통화 및 표시통화는 PC이다. 기업 X는 연결재무제표를 작성한다. ⑵ 기업 X는 해외사업장인 종속회사 Y를 보유한다. 기업 Y의 기능통화는 법인 Y가 사업을 영위하는 국가의 통화인 LC이다. 관련 당국은 LC와 다른 통화 간 교환가능성을 관리한다.",
+      "text": "사례 1~3은 기업이 한 통화가 교환 가능한지 평가하는 방법을 보여 준다(문단 8, 8A~8B 및 A2~A10에 명시된 1단계에 해당). 사례 4~5는 한 통화가 교환 가능하지 않은 경우 기업이 현물환율을 추정하는 방법을 보여준다(문단 19A 및 A11~A17에 명시된 2단계에 해당). 다섯 가지 사례 모두에서 다음을 가정한다.\n(1) 기업 X의 기능통화 및 표시통화는 PC이다. 기업 X는 연결재무제표를 작성한다.\n(2) 기업 X는 해외사업장인 종속회사 Y를 보유한다. 기업 Y의 기능통화는 법인 Y가 사업을 영위하는 국가의 통화인 LC이다. 관련 당국은 LC와 다른 통화 간 교환가능성을 관리한다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"IE2\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">IE2</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">사례 1~3은 기업이 한 통화가 교환 가능한지 평가하는 방법을 보여 준다(<span class=\"mundan-finder\">문단 8, 8A~8B 및 A2~A10</span>에 명시된 1단계에 해당). 사례 4~5는 한 통화가 교환 가능하지 않은 경우 기업이 현물환율을 추정하는 방법을 보여준다(<span class=\"mundan-finder\">문단 19A 및 A11~A17</span>에 명시된 2단계에 해당). 다섯 가지 사례 모두에서 다음을 가정한다.\n</div><div class=\"idt-1\"><div>⑴</div><div>기업 X의 기능통화 및 표시통화는 PC이다. 기업 X는 연결재무제표를 작성한다.</div></div><div class=\"idt-1\"><div>⑵</div><div>기업 X는 해외사업장인 종속회사 Y를 보유한다. 기업 Y의 기능통화는 법인 Y가 사업을 영위하는 국가의 통화인 LC이다. 관련 당국은 LC와 다른 통화 간 교환가능성을 관리한다.</div></div></div></div></div>",
       "cross_references": [
         {
@@ -3024,7 +3429,7 @@
           "display_text": "문단 8, 8A~8B 및 A2~A10",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "8, 8A~8B 및 A2~A10",
+          "range": "8,8A~8B,A2~A10",
           "paragraph_ids": [
             "8",
             "8A",
@@ -3045,7 +3450,7 @@
           "display_text": "문단 19A 및 A11~A17",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "19A 및 A11~A17",
+          "range": "19A,A11~A17",
           "paragraph_ids": [
             "19A",
             "A11",
@@ -3195,7 +3600,7 @@
       "section_id": "skSkej",
       "section_title": "현물환율의 추정",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1021호 ‘환율변동효과’의 적용사례|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A와 문단 A11~A16)|사례4 - 다른 목적을 위해 관측 가능한 환율의 사용 (문단 A11~A14)|현물환율의 추정",
-      "text": "기업 X는 문단 A11~A14를 적용하여 기업의 순투자를 실현할 목적으로 관측 가능한 LC:PC 환율을 사용할 수 있는지를 고려한다. 이를 위해 관측 가능한 환율이 문단 19A의 목적을 충족하는지 평가하고 다음 사항을 고려한다. ⑴ 여러 환율이 존재하는지 여부 - LC와 PC 사이에 관측 가능한 환율이 하나만 존재한다. ⑵ 교환하는 목적 - 기업 X는 기업 Y에 대한 순투자를 실현시키는 거래 이외의 거래를 위해 PC를 획득할 수 있다. ⑶ 환율의 특성 - 관측 가능한 환율은 변동환율이다. ⑷ 환율이 갱신되는 빈도 - 관측 가능한 환율은 하루에 여러 번 갱신된다.",
+      "text": "기업 X는 문단 A11~A14를 적용하여 기업의 순투자를 실현할 목적으로 관측 가능한 LC:PC 환율을 사용할 수 있는지를 고려한다. 이를 위해 관측 가능한 환율이 문단 19A의 목적을 충족하는지 평가하고 다음 사항을 고려한다.\n(1) 여러 환율이 존재하는지 여부 - LC와 PC 사이에 관측 가능한 환율이 하나만 존재한다.\n(2) 교환하는 목적 - 기업 X는 기업 Y에 대한 순투자를 실현시키는 거래 이외의 거래를 위해 PC를 획득할 수 있다.\n(3) 환율의 특성 - 관측 가능한 환율은 변동환율이다.\n(4) 환율이 갱신되는 빈도 - 관측 가능한 환율은 하루에 여러 번 갱신된다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"IE12\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">IE12</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">기업 X는 \n  <span class=\"mundan-finder\">문단 A11~A14</span>를 적용하여 기업의 순투자를 실현할 목적으로 관측 가능한 LC:PC 환율을 사용할 수 있는지를 고려한다. 이를 위해 관측 가능한 환율이 \n  <span class=\"mundan-finder\">문단 19A</span>의 목적을 충족하는지 평가하고 다음 사항을 고려한다.\n</div><div class=\"idt-1\"><div>⑴</div><div>여러 환율이 존재하는지 여부 - LC와 PC 사이에 관측 가능한 환율이 하나만 존재한다.</div></div><div class=\"idt-1\"><div>⑵</div><div>교환하는 목적 - 기업 X는 기업 Y에 대한 순투자를 실현시키는 거래 이외의 거래를 위해 PC를 획득할 수 있다.</div></div><div class=\"idt-1\"><div>⑶</div><div>환율의 특성 - 관측 가능한 환율은 변동환율이다.</div></div><div class=\"idt-1\"><div>⑷</div><div>환율이 갱신되는 빈도 - 관측 가능한 환율은 하루에 여러 번 갱신된다.</div></div></div></div></div>",
       "cross_references": [
         {
@@ -3296,7 +3701,7 @@
       "section_id": "Lik0KQ",
       "section_title": "현물환율의 추정",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1021호 ‘환율변동효과’의 적용사례|교환가능성|2단계: 통화가 교환 가능하지 않은 경우 현물환율의 추정 (문단 19A와 문단 A11~A16)|사례 5 - 첫 번째 후속환율의 사용 (문단 A11~A12와 문단A15~A16)|현물환율의 추정",
-      "text": "기업 X는 문단 A11~A12 및 A15~A16을 적용하여 통화의 교환가능성이 회복된 후 기업이 다른 통화를 처음으로 획득할 때의 환율(첫 번째 후속환율)을 사용할 수 있을지 고려한다. 이를 위해 해당 첫 번째 후속환율이 문단 19A의 목적을 충족하는지 평가하고 다음 사항을 고려한다. ⑴ 측정일과 교환가능성이 회복된 날짜 사이의 시간 - 측정일로부터 4개월 후 교환가능성이 회복된다. ⑵ 인플레이션율 - 기업 Y가 사업을 영위하는 국가는 초인플레이션의 영향을 받고 있다.",
+      "text": "기업 X는 문단 A11~A12 및 A15~A16을 적용하여 통화의 교환가능성이 회복된 후 기업이 다른 통화를 처음으로 획득할 때의 환율(첫 번째 후속환율)을 사용할 수 있을지 고려한다. 이를 위해 해당 첫 번째 후속환율이 문단 19A의 목적을 충족하는지 평가하고 다음 사항을 고려한다.\n(1) 측정일과 교환가능성이 회복된 날짜 사이의 시간 - 측정일로부터 4개월 후 교환가능성이 회복된다.\n(2) 인플레이션율 - 기업 Y가 사업을 영위하는 국가는 초인플레이션의 영향을 받고 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"IE17\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">IE17</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">기업 X는 \n  <span class=\"mundan-finder\">문단 A11~A12 및 A15~A16</span>을 적용하여 통화의 교환가능성이 회복된 후 기업이 다른 통화를 처음으로 획득할 때의 환율(첫 번째 후속환율)을 사용할 수 있을지 고려한다. 이를 위해 해당 첫 번째 후속환율이 \n  <span class=\"mundan-finder\">문단 19A</span>의 목적을 충족하는지 평가하고 다음 사항을 고려한다.\n</div><div class=\"idt-1\"><div>⑴</div><div>측정일과 교환가능성이 회복된 날짜 사이의 시간 - 측정일로부터 4개월 후 교환가능성이 회복된다.</div></div><div class=\"idt-1\"><div>⑵</div><div>인플레이션율 - 기업 Y가 사업을 영위하는 국가는 초인플레이션의 영향을 받고 있다.</div></div></div></div></div>",
       "cross_references": [
         {
@@ -3304,7 +3709,7 @@
           "display_text": "문단 A11~A12 및 A15~A16",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "A11~A12 및 A15~A16",
+          "range": "A11~A12,A15~A16",
           "paragraph_ids": [
             "A11",
             "A12",
@@ -3359,7 +3764,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3379,7 +3784,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3399,7 +3804,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3419,8 +3824,16 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 29",
+          "standard_number": "29",
+          "standard_title": "초인플레이션 경제에서의 재무보고",
           "range": null,
           "paragraph_ids": []
         }
@@ -3460,13 +3873,13 @@
       "section_id": "sCxpUz",
       "section_title": "기능통화",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|기능통화",
-      "text": "또한 IASB는 보고기업의 일부인 해외사업장(개정 전 IAS 21에서 설명하듯이)이 ‘지배기업’\n(주1)의 기능통화와 다른 기능통화를 가질 수 있는지에 대하여 논의하였다. IASB는 ‘보고기업 영업장의 확장인 것처럼 영업을 하는’\n(주2) 보고기업의 일부인 해외사업장이 지배기업과 다른 주된 경제 환경에서 영업을 수행한다는 것은 모순이기 때문에 기능통화는 언제나 동일할 것이라고 결정하였다.\n[각주 (주1)] 여기에서 ‘지배기업’이라는 용어는 종속기업을 가지고 있는 기업뿐만 아니라, 지점, 관계기업 또는 공동기업을 가지고 있는 기업을 의미하는 것으로 광의로 사용된다.\n[각주 (주2)] IAS 21(1993년 개정), 문단 24",
+      "text": "또한 IASB는 보고기업의 일부인 해외사업장(개정 전 IAS 21에서 설명하듯이)이 ‘지배기업’(주1)의 기능통화와 다른 기능통화를 가질 수 있는지에 대하여 논의하였다. IASB는 ‘보고기업 영업장의 확장인 것처럼 영업을 하는’(주2) 보고기업의 일부인 해외사업장이 지배기업과 다른 주된 경제 환경에서 영업을 수행한다는 것은 모순이기 때문에 기능통화는 언제나 동일할 것이라고 결정하였다.\n[각주 (주1)] 여기에서 ‘지배기업’이라는 용어는 종속기업을 가지고 있는 기업뿐만 아니라, 지점, 관계기업 또는 공동기업을 가지고 있는 기업을 의미하는 것으로 광의로 사용된다.\n[각주 (주2)] IAS 21(1993년 개정), 문단 24",
       "html": "또한 IASB는 보고기업의 일부인 해외사업장(개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에서 설명하듯이)이 ‘지배기업’\n  <sup>(주1)</sup>의 기능통화와 다른 기능통화를 가질 수 있는지에 대하여 논의하였다. IASB는 ‘보고기업 영업장의 확장인 것처럼 영업을 하는’\n  <sup>(주2)</sup> 보고기업의 일부인 해외사업장이 지배기업과 다른 주된 경제 환경에서 영업을 수행한다는 것은 모순이기 때문에 기능통화는 언제나 동일할 것이라고 결정하였다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\"> 여기에서 ‘지배기업’이라는 용어는 종속기업을 가지고 있는 기업뿐만 아니라, 지점, 관계기업 또는 공동기업을 가지고 있는 기업을 의미하는 것으로 광의로 사용된다.</div></div>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주2)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>(1993년 개정), \n      <span class=\"mundan-finder\">문단 24</span></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3499,13 +3912,13 @@
       "section_id": "sCxpUz",
       "section_title": "기능통화",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|기능통화",
-      "text": "따라서 이는 보고기업의 일부인 해외사업장의 경영성과와 재무상태를 지배기업의 재무제표에 반영할 때 그 해외사업장의 경영성과와 재무상태를 환산할 필요는 없다는 말이 된다. 왜냐하면 그들은 이미 지배기업의 기능통화로 측정되어 있을 것이기 때문이다. 더욱이 보고기업의 일부인 해외사업장과 해외기업\n(한1)을 구별할 필요가 없다. 해외사업장의 기능통화와 지배기업의 기능통화가 다르다면 해외사업장은 해외기업에 해당하며 이 기준서의 문단 38~49의 환산방법을 적용한다.\n[각주 (한1)] 개정 전 IAS 21에서는 ‘foreign entity’를 보고기업의 일부가 아닌 해외사업장으로 정의하고 있다.",
+      "text": "따라서 이는 보고기업의 일부인 해외사업장의 경영성과와 재무상태를 지배기업의 재무제표에 반영할 때 그 해외사업장의 경영성과와 재무상태를 환산할 필요는 없다는 말이 된다. 왜냐하면 그들은 이미 지배기업의 기능통화로 측정되어 있을 것이기 때문이다. 더욱이 보고기업의 일부인 해외사업장과 해외기업(한1)을 구별할 필요가 없다. 해외사업장의 기능통화와 지배기업의 기능통화가 다르다면 해외사업장은 해외기업에 해당하며 이 기준서의 문단 38~49의 환산방법을 적용한다.\n[각주 (한1)] 개정 전 IAS 21에서는 ‘foreign entity’를 보고기업의 일부가 아닌 해외사업장으로 정의하고 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC7\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC7</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">따라서 이는 보고기업의 일부인 해외사업장의 경영성과와 재무상태를 지배기업의 재무제표에 반영할 때 그 해외사업장의 경영성과와 재무상태를 환산할 필요는 없다는 말이 된다. 왜냐하면 그들은 이미 지배기업의 기능통화로 측정되어 있을 것이기 때문이다. 더욱이 보고기업의 일부인 해외사업장과 해외기업\n  <sup data-id=\"(한1)\">(한1)</sup>을 구별할 필요가 없다. 해외사업장의 기능통화와 지배기업의 기능통화가 다르다면 해외사업장은 해외기업에 해당하며 이 기준서의 \n  <span class=\"mundan-finder\">문단 38~49</span>의 환산방법을 적용한다.\n</div><div class=\"idt-1 comment\"><div>(한1)</div><div>개정 전 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에서는 ‘foreign entity’를 보고기업의 일부가 아닌 해외사업장으로 정의하고 있다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3555,7 +3968,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3587,7 +4000,7 @@
           "display_text": "문단 10과 11",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "10과 11",
+          "range": "10,11",
           "paragraph_ids": [
             "10",
             "11"
@@ -3624,7 +4037,7 @@
       "section_id": "fi93dd",
       "section_title": "표시통화",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|표시통화",
-      "text": "또한 다른 위원들은 글로벌화의 추세가 점점 강해지고 있으므로 기업이 어떤 통화로도 재무제표를 표시할 수 있도록 허용해야 한다고 믿는다. 그들은 대부분의 거대 연결실체가 하나의 기능통화를 가지고 있는 것이 아니라 다수의 기능통화를 가지고 있는 여러 영업장으로 구성되어 있다는 점을 주목한다. 그런 기업들의 경우에는 어떤 통화가 표시통화가 되어야 하는지 또는 왜 어떤 통화가 다른 통화보다 선호되는지가 명확하지 않다고 생각한다. 그들은 또한 그러한 연결실체의 경영성과와 재무상태를 관리하고 통제할 때 경영자가 단일의 통화만을 사용할 수는 없다는 점을 지적한다. 추가적으로, 어떤 나라에서는 기업이 기능통화가 아닌 현지통화로 재무제표를 표시하는 것이 요구된다는 점에 주목하였다.\n(주3) 따라서 만일 IFRS가 재무제표를 기능통화로 표시할 것을 요구한다면 어떤 기업은 두 가지의 재무제표, 즉 기능통화로 작성된 IFRS에 따른 재무제표와 다른 통화로 작성된 현지규정에 따른 재무제표를 작성해야 할 것이다.\n[각주 (주3)] 이것은 다른 나라에서 영업을 하면서, 예를 들어, 그 나라의 상장요건에 따라 재무제표를 공표하는 기업을 포함한다.",
+      "text": "또한 다른 위원들은 글로벌화의 추세가 점점 강해지고 있으므로 기업이 어떤 통화로도 재무제표를 표시할 수 있도록 허용해야 한다고 믿는다. 그들은 대부분의 거대 연결실체가 하나의 기능통화를 가지고 있는 것이 아니라 다수의 기능통화를 가지고 있는 여러 영업장으로 구성되어 있다는 점을 주목한다. 그런 기업들의 경우에는 어떤 통화가 표시통화가 되어야 하는지 또는 왜 어떤 통화가 다른 통화보다 선호되는지가 명확하지 않다고 생각한다. 그들은 또한 그러한 연결실체의 경영성과와 재무상태를 관리하고 통제할 때 경영자가 단일의 통화만을 사용할 수는 없다는 점을 지적한다. 추가적으로, 어떤 나라에서는 기업이 기능통화가 아닌 현지통화로 재무제표를 표시하는 것이 요구된다는 점에 주목하였다.(주3) 따라서 만일 IFRS가 재무제표를 기능통화로 표시할 것을 요구한다면 어떤 기업은 두 가지의 재무제표, 즉 기능통화로 작성된 IFRS에 따른 재무제표와 다른 통화로 작성된 현지규정에 따른 재무제표를 작성해야 할 것이다.\n[각주 (주3)] 이것은 다른 나라에서 영업을 하면서, 예를 들어, 그 나라의 상장요건에 따라 재무제표를 공표하는 기업을 포함한다.",
       "html": "또한 다른 위원들은 글로벌화의 추세가 점점 강해지고 있으므로 기업이 어떤 통화로도 재무제표를 표시할 수 있도록 허용해야 한다고 믿는다. 그들은 대부분의 거대 연결실체가 하나의 기능통화를 가지고 있는 것이 아니라 다수의 기능통화를 가지고 있는 여러 영업장으로 구성되어 있다는 점을 주목한다. 그런 기업들의 경우에는 어떤 통화가 표시통화가 되어야 하는지 또는 왜 어떤 통화가 다른 통화보다 선호되는지가 명확하지 않다고 생각한다. 그들은 또한 그러한 연결실체의 경영성과와 재무상태를 관리하고 통제할 때 경영자가 단일의 통화만을 사용할 수는 없다는 점을 지적한다. 추가적으로, 어떤 나라에서는 기업이 기능통화가 아닌 현지통화로 재무제표를 표시하는 것이 요구된다는 점에 주목하였다.\n  <sup>(주3)</sup> 따라서 만일 IFRS가 재무제표를 기능통화로 표시할 것을 요구한다면 어떤 기업은 두 가지의 재무제표, 즉 기능통화로 작성된 IFRS에 따른 재무제표와 다른 통화로 작성된 현지규정에 따른 재무제표를 작성해야 할 것이다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주3)</div><div class=\"para-num-item-para-con\"> 이것은 다른 나라에서 영업을 하면서, 예를 들어, 그 나라의 상장요건에 따라 재무제표를 공표하는 기업을 포함한다.</div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -3695,13 +4108,13 @@
       "section_id": "rJF7KC",
       "section_title": "환산방법",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|환산방법",
-      "text": "IASB가 고려한 두 번째 방법은 개정 전 IAS 21에서 해외사업장의 재무제표를 환산할 때 요구하였던 방법\n(주4)이다. 이 방법은 해외사업장의 재무제표를 아래의 어느 방법으로 환산하든지 표시통화로는 동일한 금액이 나타난다. ⑴ 먼저 연결실체의 다른 기업(예: 지배기업)의 기능통화로 환산한 다음 표시통화로 환산한다. ⑵ 직접 표시통화로 환산한다.\n[각주 (주4)] 기업의 기능통화가 초인플레이션 경제의 기능통화인 경우를 제외하고 재무상태표항목은 마감환율로 손익계산서항목은 실제(또는 평균)환율로 환산한다.",
+      "text": "IASB가 고려한 두 번째 방법은 개정 전 IAS 21에서 해외사업장의 재무제표를 환산할 때 요구하였던 방법(주4)이다. 이 방법은 해외사업장의 재무제표를 아래의 어느 방법으로 환산하든지 표시통화로는 동일한 금액이 나타난다.\n(1) 먼저 연결실체의 다른 기업(예: 지배기업)의 기능통화로 환산한 다음 표시통화로 환산한다.\n(2) 직접 표시통화로 환산한다.\n[각주 (주4)] 기업의 기능통화가 초인플레이션 경제의 기능통화인 경우를 제외하고 재무상태표항목은 마감환율로 손익계산서항목은 실제(또는 평균)환율로 환산한다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC18\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC18</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB가 고려한 두 번째 방법은 개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에서 해외사업장의 재무제표를 환산할 때 요구하였던 방법\n  <sup data-id=\"(주4)\">(주4)</sup>이다. 이 방법은 해외사업장의 재무제표를 아래의 어느 방법으로 환산하든지 표시통화로는 동일한 금액이 나타난다.\n</div><div class=\"idt-1 comment\"><div>(주4)</div><div>기업의 기능통화가 초인플레이션 경제의 기능통화인 경우를 제외하고 재무상태표항목은 마감환율로 손익계산서항목은 실제(또는 평균)환율로 환산한다.</div></div><div class=\"idt-1\"><div>⑴</div><div>먼저 연결실체의 다른 기업(예: 지배기업)의 기능통화로 환산한 다음 표시통화로 환산한다.</div></div><div class=\"idt-1\"><div>⑵</div><div>직접 표시통화로 환산한다.</div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3812,13 +4225,13 @@
       "section_id": "zVhInh",
       "section_title": "외환차이의 자본화",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|외환차이의 자본화",
-      "text": "개정 전 IAS 21은 ‘위험회피를 위한 현실적인 실무적 수단이 없고, 최근의 자산취득에서 직접 발생한 부채로서 결제될 수 없는 부채에 영향을 주는 심각한 통화의 평가절하나 가치하락’\n(주5)으로 인하여 발생한 외환차이에 대하여 선택적 회계처리방법을 제한적으로 허용하였다. 원칙적인 회계처리방법은 그러한 외환차이를 당기손익으로 인식하는 것이었다. 허용되는 대체적인 처리방법은 그러한 외환차이를 자산으로 인식하는 것이었다.\n[각주 (주5)] IAS 21(1993년 개정), 문단 21",
+      "text": "개정 전 IAS 21은 ‘위험회피를 위한 현실적인 실무적 수단이 없고, 최근의 자산취득에서 직접 발생한 부채로서 결제될 수 없는 부채에 영향을 주는 심각한 통화의 평가절하나 가치하락’(주5)으로 인하여 발생한 외환차이에 대하여 선택적 회계처리방법을 제한적으로 허용하였다. 원칙적인 회계처리방법은 그러한 외환차이를 당기손익으로 인식하는 것이었다. 허용되는 대체적인 처리방법은 그러한 외환차이를 자산으로 인식하는 것이었다.\n[각주 (주5)] IAS 21(1993년 개정), 문단 21",
       "html": "개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>은 ‘위험회피를 위한 현실적인 실무적 수단이 없고, 최근의 자산취득에서 직접 발생한 부채로서 결제될 수 없는 부채에 영향을 주는 심각한 통화의 평가절하나 가치하락’\n  <sup>(주5)</sup>으로 인하여 발생한 외환차이에 대하여 선택적 회계처리방법을 제한적으로 허용하였다. 원칙적인 회계처리방법은 그러한 외환차이를 당기손익으로 인식하는 것이었다. 허용되는 대체적인 처리방법은 그러한 외환차이를 자산으로 인식하는 것이었다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주5)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>(1993년 개정), \n      <span class=\"mundan-finder\">문단 21</span></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3853,7 +4266,7 @@
         {
           "type": "standard",
           "display_text": "IAS 29",
-          "standard_number": null,
+          "standard_number": "29",
           "standard_title": "초인플레이션 경제에서의 재무보고",
           "range": null,
           "paragraph_ids": []
@@ -3872,14 +4285,22 @@
       "section_id": "g4Afop",
       "section_title": "해외사업장에 대한 순투자",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|외환차이의 자본화|해외사업장에 대한 순투자",
-      "text": "문단 32의 원칙은 사실상 보고기업의 해외사업장에 대한 순투자의 일부분인 화폐성항목에서 발생하는 외환차이는 보고기업의 연결재무제표에서 자본의 별도 항목\n(주7)으로 최초에 인식된다는 것이다. IAS 21에 대한 2003년의 개정내용에는 보고기업이나 해외사업장 중 하나의 기능통화로 그 화폐성항목을 표시할 것을 요구하는 이러한 원칙에 대한 지침이 있었다. 개정 전 IAS 21은 그러한 지침을 포함하지 않았다.\n[각주 (주7)] 2007년 IAS 1 ‘재무제표 표시’의 개정으로 그러한 차이는 기타포괄손익으로 인식한다.",
+      "text": "문단 32의 원칙은 사실상 보고기업의 해외사업장에 대한 순투자의 일부분인 화폐성항목에서 발생하는 외환차이는 보고기업의 연결재무제표에서 자본의 별도 항목(주7)으로 최초에 인식된다는 것이다. IAS 21에 대한 2003년의 개정내용에는 보고기업이나 해외사업장 중 하나의 기능통화로 그 화폐성항목을 표시할 것을 요구하는 이러한 원칙에 대한 지침이 있었다. 개정 전 IAS 21은 그러한 지침을 포함하지 않았다.\n[각주 (주7)] 2007년 IAS 1 ‘재무제표 표시’의 개정으로 그러한 차이는 기타포괄손익으로 인식한다.",
       "html": "<span class=\"mundan-finder\">문단 32</span>의 원칙은 사실상 보고기업의 해외사업장에 대한 순투자의 일부분인 화폐성항목에서 발생하는 외환차이는 보고기업의 연결재무제표에서 자본의 별도 항목\n  <sup>(주7)</sup>으로 최초에 인식된다는 것이다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에 대한 2003년의 개정내용에는 보고기업이나 해외사업장 중 하나의 기능통화로 그 화폐성항목을 표시할 것을 요구하는 이러한 원칙에 대한 지침이 있었다. 개정 전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>은 그러한 지침을 포함하지 않았다.    \n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주7)</div><div class=\"para-num-item-para-con\"> 2007년 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div> ‘재무제표 표시’의 개정으로 그러한 차이는 기타포괄손익으로 인식한다.                    \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
           "range": null,
           "paragraph_ids": []
         },
@@ -3913,7 +4334,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3933,7 +4354,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -3995,7 +4416,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -4015,7 +4436,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -4045,7 +4466,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -4120,7 +4541,7 @@
         {
           "type": "standard",
           "display_text": "IAS 36",
-          "standard_number": null,
+          "standard_number": "36",
           "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
@@ -4134,14 +4555,22 @@
       "section_id": "28nOwm",
       "section_title": "해외사업장의 처분 또는 일부 처분",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|해외사업장의 처분 또는 일부 처분",
-      "text": "사업결합과제의 제2단계에서, IASB는 기업에 대한 지배력, 중대한 영향력이나 공동지배력을 상실한 때에 IAS 21의 목적상 처분으로 회계처리하도록 결정하였다. 따라서 이전 지배기업은 종속기업에 대한 지배력을 상실한 때에 이전의 종속기업이 이전 지배기업의 관계기업 또는 공동지배기업\n(주9)이 되더라도 종속기업의 처분으로 회계처리한다. 이와 유사하게 투자자가 관계기업에 대한 중대한 영향력을 상실하거나 공동지배기업에 대한 공동지배력을 상실한 때에 처분으로 회계처리한다. IASB는 투자성격의 변동은 유의적인 경제적 사건이라고 결정하였다.\n[각주 (주9)] ‘공동지배기업’은 IAS 31에서 정의되었다. 2011년 5월에 발표된 IFRS 11은 IAS 31을 대체하였고 용어를 변경하였다.",
+      "text": "사업결합과제의 제2단계에서, IASB는 기업에 대한 지배력, 중대한 영향력이나 공동지배력을 상실한 때에 IAS 21의 목적상 처분으로 회계처리하도록 결정하였다. 따라서 이전 지배기업은 종속기업에 대한 지배력을 상실한 때에 이전의 종속기업이 이전 지배기업의 관계기업 또는 공동지배기업(주9)이 되더라도 종속기업의 처분으로 회계처리한다. 이와 유사하게 투자자가 관계기업에 대한 중대한 영향력을 상실하거나 공동지배기업에 대한 공동지배력을 상실한 때에 처분으로 회계처리한다. IASB는 투자성격의 변동은 유의적인 경제적 사건이라고 결정하였다.\n[각주 (주9)] ‘공동지배기업’은 IAS 31에서 정의되었다. 2011년 5월에 발표된 IFRS 11은 IAS 31을 대체하였고 용어를 변경하였다.",
       "html": "사업결합과제의 제2단계에서, IASB는 기업에 대한 지배력, 중대한 영향력이나 공동지배력을 상실한 때에 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>의 목적상 처분으로 회계처리하도록 결정하였다. 따라서 이전 지배기업은 종속기업에 대한 지배력을 상실한 때에 이전의 종속기업이 이전 지배기업의 관계기업 또는 공동지배기업\n  <sup>(주9)</sup>이 되더라도 종속기업의 처분으로 회계처리한다. 이와 유사하게 투자자가 관계기업에 대한 중대한 영향력을 상실하거나 공동지배기업에 대한 공동지배력을 상실한 때에 처분으로 회계처리한다. IASB는 투자성격의 변동은 유의적인 경제적 사건이라고 결정하였다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주9)</div><div class=\"para-num-item-para-con\">‘공동지배기업’은 IAS 31에서 정의되었다. 2011년 5월에 발표된 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공동약정</span><span class=\"std-finder\">IFRS 11</span></div>은 IAS 31을 대체하였고 용어를 변경하였다.                \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
           "range": null,
           "paragraph_ids": []
         }
@@ -4192,14 +4621,38 @@
       "section_id": "28nOwm",
       "section_title": "해외사업장의 처분 또는 일부 처분",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|해외사업장의 처분 또는 일부 처분",
-      "text": "2008년 5월에 발표된 ‘종속기업, 공동지배기업 또는 관계기업에 대한 투자 원가(Cost of an Investment in a Subsidiary, Jointly Controlled Entity or Associate)’ (IFRS 1과 IAS 27의 개정)의 일부로, IASB는 IAS 27을 개정하여 ‘원가법’의 정의를 삭제하였다. 원가법은 기업이 취득 후에 발생한 이익잉여금에서 분배받은 금액만을 수익으로 인식하도록 요구하였다. 그 이익을 초과하여 받은 분배금은 투자의 회수로 보아 투자자산의 원가를 감소시켰다. 결과적으로 IASB는 문단 49를 개정하여 취득전 이익에 대한 언급을 삭제하고 IAS 27 문단 38A에 따라 회계처리되는 배당금은 IAS 21에서 순투자의 처분이나 일부 처분이 될 수 없다는 것을 명확히 하였다\n(주10).\n[각주 (주10)] 2011년 5월에 발표된 IFRS 10에 의하여 연결 지침이 IAS 27에서 삭제되었으며 그 기준서는 ‘별도재무제표(Separate Financial Statements)’로 재명명되었다. 배당금에 대한 회계처리 요구사항은 변경되지 않았다.",
+      "text": "2008년 5월에 발표된 ‘종속기업, 공동지배기업 또는 관계기업에 대한 투자 원가(Cost of an Investment in a Subsidiary, Jointly Controlled Entity or Associate)’ (IFRS 1과 IAS 27의 개정)의 일부로, IASB는 IAS 27을 개정하여 ‘원가법’의 정의를 삭제하였다. 원가법은 기업이 취득 후에 발생한 이익잉여금에서 분배받은 금액만을 수익으로 인식하도록 요구하였다. 그 이익을 초과하여 받은 분배금은 투자의 회수로 보아 투자자산의 원가를 감소시켰다. 결과적으로 IASB는 문단 49를 개정하여 취득전 이익에 대한 언급을 삭제하고 IAS 27 문단 38A에 따라 회계처리되는 배당금은 IAS 21에서 순투자의 처분이나 일부 처분이 될 수 없다는 것을 명확히 하였다(주10).\n[각주 (주10)] 2011년 5월에 발표된 IFRS 10에 의하여 연결 지침이 IAS 27에서 삭제되었으며 그 기준서는 ‘별도재무제표(Separate Financial Statements)’로 재명명되었다. 배당금에 대한 회계처리 요구사항은 변경되지 않았다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC35\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC35</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">2008년 5월에 발표된 ‘종속기업, 공동지배기업 또는 관계기업에 대한 투자 원가(Cost of an Investment in a Subsidiary, Jointly Controlled Entity or Associate)’ (<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">한국채택국제회계기준의 최초채택</span><span class=\"std-finder\">IFRS 1</span></div>과 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>의 개정)의 일부로, IASB는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>을 개정하여 ‘원가법’의 정의를 삭제하였다. 원가법은 기업이 취득 후에 발생한 이익잉여금에서 분배받은 금액만을 수익으로 인식하도록 요구하였다. 그 이익을 초과하여 받은 분배금은 투자의 회수로 보아 투자자산의 원가를 감소시켰다. 결과적으로 IASB는 \n  <span class=\"mundan-finder\">문단 49</span>를 개정하여 취득전 이익에 대한 언급을 삭제하고 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div><span class=\"mundan-finder\"> 문단 38A</span>에 따라 회계처리되는 배당금은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>에서 순투자의 처분이나 일부 처분이 될 수 없다는 것을 명확히 하였다\n  <sup data-id=\"(주10)\">(주10)</sup>.\n</div><div class=\"idt-1 comment\"><div>(주10)</div><div>2011년 5월에 발표된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">IFRS 10</span></div>에 의하여 연결 지침이 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>에서 삭제되었으며 그 기준서는 ‘별도재무제표(Separate Financial Statements)’로 재명명되었다. 배당금에 대한 회계처리 요구사항은 변경되지 않았다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "한국채택국제회계기준의 최초채택",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": "21",
+          "standard_title": "환율변동효과",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
         },
@@ -4216,11 +4669,11 @@
         {
           "type": "paragraph",
           "display_text": "문단 38A",
-          "standard_number": "1021",
+          "standard_number": "1027",
           "standard_title": null,
-          "range": "38A",
+          "range": "12",
           "paragraph_ids": [
-            "38A"
+            "12"
           ]
         }
       ],
@@ -4243,7 +4696,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
@@ -4263,7 +4716,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
@@ -4305,7 +4758,7 @@
         {
           "type": "standard",
           "display_text": "IAS 21",
-          "standard_number": null,
+          "standard_number": "21",
           "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
@@ -4330,7 +4783,7 @@
       "section_id": "KmMeZm",
       "section_title": "통화가 교환 가능한지 평가",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|통화가 교환 가능한지 평가",
-      "text": "한 통화의 다른 통화로의 교환가능성에는 여러 가지 요인이 영향을 미친다. '교환 가능한'의 정의를 적용가능하게 하고, 기업이 이 정의를 일관성 있게 적용할 수 있도록 돕기 위해 이 기준서에서는 기업이 한 통화를 다른 통화로 교환 가능한 상태를 명시하고 있다. 정의 및 관련 적용지침을 개발하는 과정에서 IASB는 다음과 같은 질문을 논의했다. ⑴ 기업이 다른 통화를 획득할 때 고려해야 할 기간은 무엇인가(문단 BC43~BC44 참조)? ⑵ 기업이 다른 통화를 획득할 수 있지만 획득할 의도가 없는 경우 어떻게 해야 하는가(문단 BC45 참조)? ⑶ 기업이 다른 통화를 획득하기 위한 어떤 시장 또는 교환메커니즘을 고려하는가(문단 BC46 참조)? ⑷ 기업이 다른 통화를 획득하는 목적은 무엇인가(문단 BC47~BC50 참조)? ⑸ 기업이 다른 통화를 제한된 금액만 획득할 수 있는 경우 어떻게 해야 하는가(문단 BC51~BC52 참조)?",
+      "text": "한 통화의 다른 통화로의 교환가능성에는 여러 가지 요인이 영향을 미친다. '교환 가능한'의 정의를 적용가능하게 하고, 기업이 이 정의를 일관성 있게 적용할 수 있도록 돕기 위해 이 기준서에서는 기업이 한 통화를 다른 통화로 교환 가능한 상태를 명시하고 있다. 정의 및 관련 적용지침을 개발하는 과정에서 IASB는 다음과 같은 질문을 논의했다.\n(1) 기업이 다른 통화를 획득할 때 고려해야 할 기간은 무엇인가(문단 BC43~BC44 참조)?\n(2) 기업이 다른 통화를 획득할 수 있지만 획득할 의도가 없는 경우 어떻게 해야 하는가(문단 BC45 참조)?\n(3) 기업이 다른 통화를 획득하기 위한 어떤 시장 또는 교환메커니즘을 고려하는가(문단 BC46 참조)?\n(4) 기업이 다른 통화를 획득하는 목적은 무엇인가(문단 BC47~BC50 참조)?\n(5) 기업이 다른 통화를 제한된 금액만 획득할 수 있는 경우 어떻게 해야 하는가(문단 BC51~BC52 참조)?",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC42\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC42</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">한 통화의 다른 통화로의 교환가능성에는 여러 가지 요인이 영향을 미친다. '교환 가능한'의 정의를 적용가능하게 하고, 기업이 이 정의를 일관성 있게 적용할 수 있도록 돕기 위해 이 기준서에서는 기업이 한 통화를 다른 통화로 교환 가능한 상태를 명시하고 있다. 정의 및 관련 적용지침을 개발하는 과정에서 IASB는 다음과 같은 질문을 논의했다.</div><div class=\"idt-1\"><div>⑴</div><div>기업이 다른 통화를 획득할 때 고려해야 할 기간은 무엇인가(<span class=\"mundan-finder\">문단 BC43~BC44</span> 참조)?\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>기업이 다른 통화를 획득할 수 있지만 획득할 의도가 없는 경우 어떻게 해야 하는가(<span class=\"mundan-finder\">문단 BC45</span> 참조)?\n  </div></div><div class=\"idt-1\"><div>⑶</div><div>기업이 다른 통화를 획득하기 위한 어떤 시장 또는 교환메커니즘을 고려하는가(<span class=\"mundan-finder\">문단 BC46</span> 참조)?\n  </div></div><div class=\"idt-1\"><div>⑷</div><div>기업이 다른 통화를 획득하는 목적은 무엇인가(<span class=\"mundan-finder\">문단 BC47~BC50</span> 참조)?\n  </div></div><div class=\"idt-1\"><div>⑸</div><div>기업이 다른 통화를 제한된 금액만 획득할 수 있는 경우 어떻게 해야 하는가(<span class=\"mundan-finder\">문단 BC51~BC52</span> 참조)?\n  </div></div></div></div></div>",
       "cross_references": [
         {
@@ -4397,7 +4850,7 @@
       "section_id": "HijTBJ",
       "section_title": "기간범위",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|통화가 교환 가능한지 평가|기간범위",
-      "text": "IASB는 다른 통화를 획득하는 과정에서 생기는 정상적인 행정 처리상의 지연을 다음과 같이 결론지었다. ⑴ 기준서 문단 8의 현물환율 정의에서 '즉시 인도'의 개념과 모순되지 않는다. IASB의 견해에 따르면 '즉시 인도'의 개념은 통화를 교환할 때 행정적, 법적, 또는 규제적 요구사항을 충족하기 위한 단기간의 시간을 포함한다. ⑵ 그러한 지연 때문에 한 통화가 다른 통화로 교환 가능하지 않은 것은 아니다. IASB의 견해에 따르면, 통화 교환에 정상적인 행정 처리상의 지연이 존재함을 인정하는 것이 요구사항의 적용가능성을 향상시킨다. 기업이 한 통화를 다른 통화로 교환하는 데 소요되는 기간을 평가할 때 정상적인 행정 처리상의 지연을 고려할 수 없는 경우, 기업은 한 통화가 다른 통화로 교환 가능하지 않다는 부적절한 결론을 내릴 수 있다.",
+      "text": "IASB는 다른 통화를 획득하는 과정에서 생기는 정상적인 행정 처리상의 지연을 다음과 같이 결론지었다.\n(1) 기준서 문단 8의 현물환율 정의에서 '즉시 인도'의 개념과 모순되지 않는다. IASB의 견해에 따르면 '즉시 인도'의 개념은 통화를 교환할 때 행정적, 법적, 또는 규제적 요구사항을 충족하기 위한 단기간의 시간을 포함한다.\n(2) 그러한 지연 때문에 한 통화가 다른 통화로 교환 가능하지 않은 것은 아니다. IASB의 견해에 따르면, 통화 교환에 정상적인 행정 처리상의 지연이 존재함을 인정하는 것이 요구사항의 적용가능성을 향상시킨다. 기업이 한 통화를 다른 통화로 교환하는 데 소요되는 기간을 평가할 때 정상적인 행정 처리상의 지연을 고려할 수 없는 경우, 기업은 한 통화가 다른 통화로 교환 가능하지 않다는 부적절한 결론을 내릴 수 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC43\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC43</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 다른 통화를 획득하는 과정에서 생기는 정상적인 행정 처리상의 지연을 다음과 같이 결론지었다.</div><div class=\"idt-1\"><div>⑴</div><div>기준서 \n    <span class=\"mundan-finder\">문단 8</span>의 현물환율 정의에서 '즉시 인도'의 개념과 모순되지 않는다. IASB의 견해에 따르면 '즉시 인도'의 개념은 통화를 교환할 때 행정적, 법적, 또는 규제적 요구사항을 충족하기 위한 단기간의 시간을 포함한다.\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>그러한 지연 때문에 한 통화가 다른 통화로 교환 가능하지 않은 것은 아니다. IASB의 견해에 따르면, 통화 교환에 정상적인 행정 처리상의 지연이 존재함을 인정하는 것이 요구사항의 적용가능성을 향상시킨다. 기업이 한 통화를 다른 통화로 교환하는 데 소요되는 기간을 평가할 때 정상적인 행정 처리상의 지연을 고려할 수 없는 경우, 기업은 한 통화가 다른 통화로 교환 가능하지 않다는 부적절한 결론을 내릴 수 있다.</div></div></div></div></div>",
       "cross_references": [
         {
@@ -4463,7 +4916,7 @@
       "section_id": "IbsMZt",
       "section_title": "다른 통화의 획득 목적",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|통화가 교환 가능한지 평가|다른 통화의 획득 목적",
-      "text": "IASB는 다음과 같은 상황을 별도로 고려하였다. ⑴ 기업이 외화 거래를 기능통화로 보고하는 경우(문단 BC49 참조) ⑵ 기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 경영성과 및 재무상태를 환산하는 경우(문단 BC50 참조)",
+      "text": "IASB는 다음과 같은 상황을 별도로 고려하였다.\n(1) 기업이 외화 거래를 기능통화로 보고하는 경우(문단 BC49 참조)\n(2) 기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 경영성과 및 재무상태를 환산하는 경우(문단 BC50 참조)",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC48\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC48</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 다음과 같은 상황을 별도로 고려하였다.</div><div class=\"idt-1\"><div>⑴</div><div>기업이 외화 거래를 기능통화로 보고하는 경우(<span class=\"mundan-finder\">문단 BC49</span> 참조)\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 경영성과 및 재무상태를 환산하는 경우(<span class=\"mundan-finder\">문단 BC50</span> 참조)\n  </div></div></div></div></div>",
       "cross_references": [
         {
@@ -4544,7 +4997,7 @@
       "section_id": "IbsMZt",
       "section_title": "다른 통화의 획득 목적",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|통화가 교환 가능한지 평가|다른 통화의 획득 목적",
-      "text": "기준서 문단 38~49는 기능통화 이외의 표시통화의 사용과 해외사업장의 경영성과 및 재무상태 환산에 대한 요구사항을 명시하고 있다. 이러한 요구사항은 개별 자산이나 부채가 아닌 기업 또는 기업의 해외사업장의 모든 자산과 부채(즉, 순자산 또는 순부채)에 적용된다. 따라서 IASB는 이러한 상황에서 기업은 순자산 또는 순부채(또는 해외사업장에 대한 순투자)를 실현하거나 결제하는 거래의 관점에서 교환가능성을 평가해야 한다고 결정하였다. IASB는 다음에 주목하였다. ⑴ 일부 국가에서 기업은 배당금 송금 시 지연을 겪을 수 있으며, 이러한 지연이 반드시 한 통화가 다른 통화로 교환 가능하지 않다는 것을 의미하지는 않는다. 이러한 지연은 정상적인 행정처리 상 지연일 수 있다. 또한, 기업이 한 통화를 다른 통화로 교환 가능하지 않다고 결론을 내린다고 해서 자동적으로 복잡한 추정 기법을 사용해야 하는 것은 아니다(문단 BC55 참조). ⑵ 비록 기업이 종종 단일 거래를 통해 순자산을 실현하지 못하는 경우가 있더라도 기업은 순자산(또는 해외사업장에 대한 순투자)을 기간에 걸쳐 실현하는 것이 아닌 단일 거래에서 실현할 수 있는 능력을 고려한다. 이러한 고려사항은 기준서의 다른 요구사항과 일관된다(문단 BC49 참조). 기준서 문단 A10에 따라, 기업이 기업의 순자산이나 해외사업장에 대한 순투자를 실현하는 데 필요한 다른 통화의 전액을 획득할 수 없으나 경미한 금액 이상을 획득할 수 있는 경우 해당 통화는 다른 통화로 교환 가능하다(문단 BC51~BC52 참조).",
+      "text": "기준서 문단 38~49는 기능통화 이외의 표시통화의 사용과 해외사업장의 경영성과 및 재무상태 환산에 대한 요구사항을 명시하고 있다. 이러한 요구사항은 개별 자산이나 부채가 아닌 기업 또는 기업의 해외사업장의 모든 자산과 부채(즉, 순자산 또는 순부채)에 적용된다. 따라서 IASB는 이러한 상황에서 기업은 순자산 또는 순부채(또는 해외사업장에 대한 순투자)를 실현하거나 결제하는 거래의 관점에서 교환가능성을 평가해야 한다고 결정하였다. IASB는 다음에 주목하였다.\n(1) 일부 국가에서 기업은 배당금 송금 시 지연을 겪을 수 있으며, 이러한 지연이 반드시 한 통화가 다른 통화로 교환 가능하지 않다는 것을 의미하지는 않는다. 이러한 지연은 정상적인 행정처리 상 지연일 수 있다. 또한, 기업이 한 통화를 다른 통화로 교환 가능하지 않다고 결론을 내린다고 해서 자동적으로 복잡한 추정 기법을 사용해야 하는 것은 아니다(문단 BC55 참조).\n(2) 비록 기업이 종종 단일 거래를 통해 순자산을 실현하지 못하는 경우가 있더라도 기업은 순자산(또는 해외사업장에 대한 순투자)을 기간에 걸쳐 실현하는 것이 아닌 단일 거래에서 실현할 수 있는 능력을 고려한다. 이러한 고려사항은 기준서의 다른 요구사항과 일관된다(문단 BC49 참조). 기준서 문단 A10에 따라, 기업이 기업의 순자산이나 해외사업장에 대한 순투자를 실현하는 데 필요한 다른 통화의 전액을 획득할 수 없으나 경미한 금액 이상을 획득할 수 있는 경우 해당 통화는 다른 통화로 교환 가능하다(문단 BC51~BC52 참조).",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC50\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC50</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">기준서 \n  <span class=\"mundan-finder\">문단 38~49</span>는 기능통화 이외의 표시통화의 사용과 해외사업장의 경영성과 및 재무상태 환산에 대한 요구사항을 명시하고 있다. 이러한 요구사항은 개별 자산이나 부채가 아닌 기업 또는 기업의 해외사업장의 모든 자산과 부채(즉, 순자산 또는 순부채)에 적용된다. 따라서 IASB는 이러한 상황에서 기업은 순자산 또는 순부채(또는 해외사업장에 대한 순투자)를 실현하거나 결제하는 거래의 관점에서 교환가능성을 평가해야 한다고 결정하였다. IASB는 다음에 주목하였다.\n</div><div class=\"idt-1\"><div>⑴</div><div>일부 국가에서 기업은 배당금 송금 시 지연을 겪을 수 있으며, 이러한 지연이 반드시 한 통화가 다른 통화로 교환 가능하지 않다는 것을 의미하지는 않는다. 이러한 지연은 정상적인 행정처리 상 지연일 수 있다. 또한, 기업이 한 통화를 다른 통화로 교환 가능하지 않다고 결론을 내린다고 해서 자동적으로 복잡한 추정 기법을 사용해야 하는 것은 아니다(<span class=\"mundan-finder\">문단 BC55</span> 참조).\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>비록 기업이 종종 단일 거래를 통해 순자산을 실현하지 못하는 경우가 있더라도 기업은 순자산(또는 해외사업장에 대한 순투자)을 기간에 걸쳐 실현하는 것이 아닌 단일 거래에서 실현할 수 있는 능력을 고려한다. 이러한 고려사항은 기준서의 다른 요구사항과 일관된다(<span class=\"mundan-finder\"><span class=\"mundan-finder\">문단 BC49</span></span> 참조). 기준서 \n    <span class=\"mundan-finder\">문단 A10</span>에 따라, 기업이 기업의 순자산이나 해외사업장에 대한 순투자를 실현하는 데 필요한 다른 통화의 전액을 획득할 수 없으나 경미한 금액 이상을 획득할 수 있는 경우 해당 통화는 다른 통화로 교환 가능하다(<span class=\"mundan-finder\">문단 BC51~BC52</span> 참조).\n  </div></div></div></div></div>",
       "cross_references": [
         {
@@ -4628,7 +5081,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
@@ -4706,13 +5159,13 @@
       "section_id": "7DgTNq",
       "section_title": "통화가 교환 가능하지 않은 경우 현물환율의 추정",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|통화가 교환 가능하지 않은 경우 현물환율의 추정",
-      "text": "IASB는 다음과 같은 이유로 기업이 현물환율을 추정하는 방법에 대한 세부 요구사항을 제공하지 않기로 결정하였다. ⑴ 현물환율을 추정하는 것은 복잡할 수 있으며, 기업별 및 국가별 사실과 상황에 따라 달라질 수 있다. ⑵ 기업이 현물환율을 추정하는 데 사용할 수 있는 경제 모형은 다양하다. 이러한 모형의 복잡성이 각기 다르며, 투입변수로 사용하는 경제 요인(예: 인플레이션, 이자율, 국제수지 또는 국가의 생산성)도 각기 다르다. IASB는 단일의 특정 추정 기법이나 접근법을 규정하지 않기로 결정했는데, 이는 해당 기법이나 접근법이 과도한 부담 없이 모든 가능한 상황에 대한 모든 관련 요인을 고려할 수 없을 것이기 때문이다. ⑶ 교환가능성 평가를 위한 요구사항은 기업이 한정된 상황에서만 현물환율을 추정하는 결과를 가져올 것으로 예상된다. ⑷ 현물환율 추정에 내재된 불확실성은 추정에 기반한 다른 재무정보와 관련된 불확실성과 유사하다. 기업은 추정 현물환율 및 추정 기법에 대한 관련 정보를 공시해야 한다(문단 BC58~BC62 참조). ⑸ 이러한 접근 방식은 다른 IFRS 회계기준의 측정 요구사항과 일관된다. 예를 들어, IFRS 9 금융상품은 기대신용손실 측정을 위한 특정 기법을 명시하지 않고 대신 목적을 제시하고 있다.",
+      "text": "IASB는 다음과 같은 이유로 기업이 현물환율을 추정하는 방법에 대한 세부 요구사항을 제공하지 않기로 결정하였다.\n(1) 현물환율을 추정하는 것은 복잡할 수 있으며, 기업별 및 국가별 사실과 상황에 따라 달라질 수 있다.\n(2) 기업이 현물환율을 추정하는 데 사용할 수 있는 경제 모형은 다양하다. 이러한 모형의 복잡성이 각기 다르며, 투입변수로 사용하는 경제 요인(예: 인플레이션, 이자율, 국제수지 또는 국가의 생산성)도 각기 다르다. IASB는 단일의 특정 추정 기법이나 접근법을 규정하지 않기로 결정했는데, 이는 해당 기법이나 접근법이 과도한 부담 없이 모든 가능한 상황에 대한 모든 관련 요인을 고려할 수 없을 것이기 때문이다.\n(3) 교환가능성 평가를 위한 요구사항은 기업이 한정된 상황에서만 현물환율을 추정하는 결과를 가져올 것으로 예상된다.\n(4) 현물환율 추정에 내재된 불확실성은 추정에 기반한 다른 재무정보와 관련된 불확실성과 유사하다. 기업은 추정 현물환율 및 추정 기법에 대한 관련 정보를 공시해야 한다(문단 BC58~BC62 참조).\n(5) 이러한 접근 방식은 다른 IFRS 회계기준의 측정 요구사항과 일관된다. 예를 들어, IFRS 9 금융상품은 기대신용손실 측정을 위한 특정 기법을 명시하지 않고 대신 목적을 제시하고 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC54\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC54</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 다음과 같은 이유로 기업이 현물환율을 추정하는 방법에 대한 세부 요구사항을 제공하지 않기로 결정하였다.</div><div class=\"idt-1\"><div>⑴</div><div>현물환율을 추정하는 것은 복잡할 수 있으며, 기업별 및 국가별 사실과 상황에 따라 달라질 수 있다.</div></div><div class=\"idt-1\"><div>⑵</div><div>기업이 현물환율을 추정하는 데 사용할 수 있는 경제 모형은 다양하다.  이러한 모형의 복잡성이 각기 다르며, 투입변수로  사용하는 경제 요인(예: 인플레이션, 이자율, 국제수지 또는 국가의 생산성)도 각기 다르다. IASB는 단일의 특정 추정 기법이나 접근법을 규정하지 않기로 결정했는데, 이는 해당 기법이나 접근법이 과도한 부담 없이 모든 가능한 상황에 대한 모든 관련 요인을 고려할 수 없을 것이기 때문이다.</div></div><div class=\"idt-1\"><div>⑶</div><div>교환가능성 평가를 위한 요구사항은 기업이 한정된 상황에서만 현물환율을 추정하는 결과를 가져올 것으로 예상된다.</div></div><div class=\"idt-1\"><div>⑷</div><div>현물환율 추정에 내재된 불확실성은 추정에 기반한 다른 재무정보와 관련된 불확실성과 유사하다. 기업은 추정 현물환율 및 추정 기법에 대한 관련 정보를 공시해야 한다(<span class=\"mundan-finder\">문단 BC58~BC62</span> 참조).\n  </div></div><div class=\"idt-1\"><div>⑸</div><div>이러한 접근 방식은 다른 IFRS 회계기준의 측정 요구사항과 일관된다. 예를 들어, \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> 금융상품은 기대신용손실 측정을 위한 특정 기법을 명시하지 않고 대신 목적을 제시하고 있다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
@@ -4740,7 +5193,7 @@
       "section_id": "7DgTNq",
       "section_title": "통화가 교환 가능하지 않은 경우 현물환율의 추정",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|통화가 교환 가능하지 않은 경우 현물환율의 추정",
-      "text": "IASB는 한 통화가 다른 통화로 교환 가능하지 않은 경우, 기업이 반드시 복잡한 추정 기법을 사용할 필요는 없다는 점에 주목했다. 복잡성을 줄이기 위해 IASB는 다음과 같이 결정하였다. ⑴ 관측 가능한 환율이 기준서 문단 19A의 목적을 충족하는 경우 기업은 조정 없이 관측가능한 환율을 추정 현물환율로 사용할 수 있음을 명시한다(기준서 문단 A12 참조). ⑵ 기업이 고려할 수 있는 관측 가능한 환율의 두 가지 예를 포함하고, 기업이 해당 관측 가능한 환율이 기준서 문단 19A의 목적을 충족하는지 평가하는 데 도움이 되는 요소의 목록(모두 망라한 것은 아님)을 제시한다(기준서 문단 A13~A16 참조). ⑶ 다른 추정 기법을 사용하는 기업은, 예를 들어, 집행 가능한 권리 및 의무를 창출하지 않는 시장 또는 교환메커니즘에 의한 교환 거래의 환율 등의 관측 가능한 환율에서 시작하여, 필요한 경우, 해당 환율을 조정하여 기준서 문단 19A에서 요구하는 현물환율을 추정할 수 있음을 명시한다(기준서 문단 A17 참조).",
+      "text": "IASB는 한 통화가 다른 통화로 교환 가능하지 않은 경우, 기업이 반드시 복잡한 추정 기법을 사용할 필요는 없다는 점에 주목했다. 복잡성을 줄이기 위해 IASB는 다음과 같이 결정하였다.\n(1) 관측 가능한 환율이 기준서 문단 19A의 목적을 충족하는 경우 기업은 조정 없이 관측가능한 환율을 추정 현물환율로 사용할 수 있음을 명시한다(기준서 문단 A12 참조).\n(2) 기업이 고려할 수 있는 관측 가능한 환율의 두 가지 예를 포함하고, 기업이 해당 관측 가능한 환율이 기준서 문단 19A의 목적을 충족하는지 평가하는 데 도움이 되는 요소의 목록(모두 망라한 것은 아님)을 제시한다(기준서 문단 A13~A16 참조).\n(3) 다른 추정 기법을 사용하는 기업은, 예를 들어, 집행 가능한 권리 및 의무를 창출하지 않는 시장 또는 교환메커니즘에 의한 교환 거래의 환율 등의 관측 가능한 환율에서 시작하여, 필요한 경우, 해당 환율을 조정하여 기준서 문단 19A에서 요구하는 현물환율을 추정할 수 있음을 명시한다(기준서 문단 A17 참조).",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC55\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC55</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 한 통화가 다른 통화로 교환 가능하지 않은 경우, 기업이 반드시 복잡한 추정 기법을 사용할 필요는 없다는 점에 주목했다. 복잡성을 줄이기 위해 IASB는 다음과 같이 결정하였다.</div><div class=\"idt-1\"><div>⑴</div><div>관측 가능한 환율이 기준서 \n    <span class=\"mundan-finder\">문단 19A</span>의 목적을 충족하는 경우 기업은 조정 없이 관측가능한 환율을 추정 현물환율로 사용할 수 있음을 명시한다(기준서 \n    <span class=\"mundan-finder\">문단 A12</span> 참조).\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>기업이 고려할 수 있는 관측 가능한 환율의 두 가지 예를 포함하고, 기업이 해당 관측 가능한 환율이 기준서 \n    <span class=\"mundan-finder\">문단 19A</span>의 목적을 충족하는지 평가하는 데 도움이 되는 요소의 목록(모두 망라한 것은 아님)을 제시한다(기준서 \n    <span class=\"mundan-finder\">문단 A13~A16</span> 참조).\n  </div></div><div class=\"idt-1\"><div>⑶</div><div>다른 추정 기법을 사용하는 기업은, 예를 들어, 집행 가능한 권리 및 의무를 창출하지 않는 시장 또는 교환메커니즘에 의한 교환 거래의 환율 등의 관측 가능한 환율에서 시작하여, 필요한 경우, 해당 환율을 조정하여 기준서 \n    <span class=\"mundan-finder\">문단 19A</span>에서 요구하는 현물환율을 추정할 수 있음을 명시한다(기준서 \n    <span class=\"mundan-finder\">문단 A17</span> 참조).\n  </div></div></div></div></div>",
       "cross_references": [
         {
@@ -4806,7 +5259,7 @@
       "section_id": "nWfHVw",
       "section_title": "기타 고려사항",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|통화가 교환 가능하지 않은 경우 현물환율의 추정|기타 고려사항",
-      "text": "기업이 다른 통화를 단지 제한된 금액만 획득할 수 있는 경우, IASB는 혼합환율(즉, 기업이 거래 또는 잔액의 일부에 대해 다른 통화를 획득할 수 있는 환율과 나머지 부분에 대한 추정 환율을 모두 반영하는 가중평균환율)을 사용하도록 허용하거나 요구할지를 고려하였다. IASB는 다음과 같은 이유로 이러한 환율의 사용을 허용하거나 요구하지 않기로 결정하였다. ⑴ 기업이 혼합환율을 결정하는 것은 어려울 수 있으며, 따라서 유의적인 추가 효익의 제공 없이 작성자의 비용을 증가시킬 수 있다. ⑵ 혼합 환율을 결정할 때 기업은 거래 또는 잔액의 경미한 부분에 대해서만 관측 가능한 현물환율을 사용하고 나머지 부분에 대해서는 추정 현물환율을 사용할 것이다. 기준서 문단 A10의 요구사항을 적용하면, 기업이 다른 통화를 단지 경미한 금액만 획득할 수 있는 경우에만 해당 통화가 다른 통화로 교환 가능하지 않다고 결론 내릴 것이기 때문이다. 따라서 IASB는 대부분의 경우 혼합환율은 추정 현물환율과 크게 다르지 않을 것으로 예상하였다.",
+      "text": "기업이 다른 통화를 단지 제한된 금액만 획득할 수 있는 경우, IASB는 혼합환율(즉, 기업이 거래 또는 잔액의 일부에 대해 다른 통화를 획득할 수 있는 환율과 나머지 부분에 대한 추정 환율을 모두 반영하는 가중평균환율)을 사용하도록 허용하거나 요구할지를 고려하였다. IASB는 다음과 같은 이유로 이러한 환율의 사용을 허용하거나 요구하지 않기로 결정하였다.\n(1) 기업이 혼합환율을 결정하는 것은 어려울 수 있으며, 따라서 유의적인 추가 효익의 제공 없이 작성자의 비용을 증가시킬 수 있다.\n(2) 혼합 환율을 결정할 때 기업은 거래 또는 잔액의 경미한 부분에 대해서만 관측 가능한 현물환율을 사용하고 나머지 부분에 대해서는 추정 현물환율을 사용할 것이다. 기준서 문단 A10의 요구사항을 적용하면, 기업이 다른 통화를 단지 경미한 금액만 획득할 수 있는 경우에만 해당 통화가 다른 통화로 교환 가능하지 않다고 결론 내릴 것이기 때문이다. 따라서 IASB는 대부분의 경우 혼합환율은 추정 현물환율과 크게 다르지 않을 것으로 예상하였다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC57\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC57</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">기업이 다른 통화를 단지 제한된 금액만 획득할 수 있는 경우, IASB는 혼합환율(즉, 기업이 거래 또는 잔액의 일부에 대해 다른 통화를 획득할 수 있는 환율과 나머지 부분에 대한 추정 환율을 모두 반영하는 가중평균환율)을 사용하도록 허용하거나 요구할지를 고려하였다. IASB는 다음과 같은 이유로 이러한 환율의 사용을 허용하거나 요구하지 않기로 결정하였다.</div><div class=\"idt-1\"><div>⑴</div><div>기업이 혼합환율을 결정하는 것은 어려울 수 있으며, 따라서 유의적인 추가 효익의 제공 없이 작성자의 비용을 증가시킬 수 있다.</div></div><div class=\"idt-1\"><div>⑵</div><div>혼합 환율을 결정할 때 기업은 거래 또는 잔액의 경미한 부분에 대해서만 관측 가능한 현물환율을 사용하고 나머지 부분에 대해서는 추정 현물환율을 사용할 것이다. 기준서 \n    <span class=\"mundan-finder\">문단 A10</span>의 요구사항을 적용하면, 기업이 다른 통화를 단지 경미한 금액만 획득할 수 있는 경우에만 해당 통화가 다른 통화로 교환 가능하지 않다고 결론 내릴 것이기 때문이다. 따라서 IASB는 대부분의 경우 혼합환율은 추정 현물환율과 크게 다르지 않을 것으로 예상하였다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
@@ -4839,14 +5292,30 @@
       "section_id": "J37vAA",
       "section_title": "공시",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|공시",
-      "text": "IASB는 기준서 문단 A19~A20의 일부 요구사항이 다른 IFRS 회계기준의 요구사항과 유사하다는 점을 확인하였다. 기업은 다른 기준서를 적용할 때 해당 문단에서 요구하는 정보 중 일부를 이미 제공하고 있을 수 있다. 예를 들어, 기업은 이미 다음과 같은 정보를 제공하고 있을 수도 있다. ⑴ IFRS 12 '타 기업에 대한 지분의 공시'의 문단 B10 또는 B12~B13에 따른 해외사업장에 대한 요약재무정보 ⑵ IAS 1 ‘재무제표 표시’의 문단 125~133에 따라 현물환율을 추정하는 데 사용된 방법론에 대한 정보 ⑶ IFRS 7 ‘금융상품: 공시’ 와 IFRS 12의 공시 요구사항에 따라 다른 통화로 교환 가능하지 않은 통화로 인해 발생하는 위험의 성격과 정도에 대한 정성적 및 정량적 정보의 일부(또는 전부)",
+      "text": "IASB는 기준서 문단 A19~A20의 일부 요구사항이 다른 IFRS 회계기준의 요구사항과 유사하다는 점을 확인하였다. 기업은 다른 기준서를 적용할 때 해당 문단에서 요구하는 정보 중 일부를 이미 제공하고 있을 수 있다. 예를 들어, 기업은 이미 다음과 같은 정보를 제공하고 있을 수도 있다.\n(1) IFRS 12 '타 기업에 대한 지분의 공시'의 문단 B10 또는 B12~B13에 따른 해외사업장에 대한 요약재무정보\n(2) IAS 1 ‘재무제표 표시’의 문단 125~133에 따라 현물환율을 추정하는 데 사용된 방법론에 대한 정보\n(3) IFRS 7 ‘금융상품: 공시’ 와 IFRS 12의 공시 요구사항에 따라 다른 통화로 교환 가능하지 않은 통화로 인해 발생하는 위험의 성격과 정도에 대한 정성적 및 정량적 정보의 일부(또는 전부)",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC59\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC59</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 기준서 \n  <span class=\"mundan-finder\">문단 A19~A20</span>의 일부 요구사항이 다른 IFRS 회계기준의 요구사항과 유사하다는 점을 확인하였다. 기업은 다른 기준서를 적용할 때 해당 문단에서 요구하는 정보 중 일부를 이미 제공하고 있을 수 있다. 예를 들어, 기업은 이미 다음과 같은 정보를 제공하고 있을 수도 있다.\n</div><div class=\"idt-1\"><div>⑴</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">타 기업에 대한 지분의 공시</span><span class=\"std-finder\">IFRS 12</span></div> '타 기업에 대한 지분의 공시'의 \n    <span class=\"mundan-finder\">문단 B10 또는 B12~B13</span>에 따른 해외사업장에 대한 요약재무정보\n  </div></div><div class=\"idt-1\"><div>⑵</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div> ‘재무제표 표시’의 \n    <span class=\"mundan-finder\">문단 125~133</span>에 따라 현물환율을 추정하는 데 사용된 방법론에 대한 정보\n  </div></div><div class=\"idt-1\"><div>⑶</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 공시</span><span class=\"std-finder\">IFRS 7</span></div> ‘금융상품: 공시’ 와 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">타 기업에 대한 지분의 공시</span><span class=\"std-finder\">IFRS 12</span></div>의 공시 요구사항에 따라 다른 통화로 교환 가능하지 않은 통화로 인해 발생하는 위험의 성격과 정도에 대한 정성적 및 정량적 정보의 일부(또는 전부)\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 12",
-          "standard_number": null,
+          "standard_number": "12",
           "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 7",
+          "standard_number": "7",
+          "standard_title": "금융상품: 공시",
           "range": null,
           "paragraph_ids": []
         },
@@ -4866,7 +5335,7 @@
           "display_text": "문단 B10 또는 B12~B13",
           "standard_number": "1021",
           "standard_title": null,
-          "range": "B10 또는 B12~B13",
+          "range": "B10,B12~B13",
           "paragraph_ids": [
             "B10",
             "B12~B13"
@@ -4920,7 +5389,7 @@
         {
           "type": "standard",
           "display_text": "IAS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "재무제표 표시",
           "range": null,
           "paragraph_ids": []
@@ -4966,13 +5435,13 @@
       "section_id": "DyXqJn",
       "section_title": "IFRS 회계기준을 적용하고 있는 기업",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|경과규정|IFRS 회계기준을 적용하고 있는 기업",
-      "text": "IASB는 기업이 IAS 8 '회계정책, 회계추정치 변경과 오류'에 따라 개정 사항을 소급 적용하도록 요구함으로써 기대되는 효익이 비용을 초과하지 않는다고 판단하여 기준서 문단 60L~60M 의 경과규정을 개발하였다. 특히 다음 사항을 고려하였다. ⑴ 개정 사항을 소급 적용하려면 기업은 과거 기간의 교환가능성을 평가한 다음 해당 과거 기간의 현물환율을 추정해야 한다. 많은 경우 소급 적용은 사후 판단해야 할 가능성이 높으며, 사후판단 없이 가능하다 할지라도 많은 비용이 소요될 수 있다. ⑵ 한 통화가 다른 통화로 교환 가능하지 않은 상황은 일반적으로 다른 상황보다 투자자에게 추세 정보가 덜 유용하도록 만드는 높은 인플레이션과 그 밖의 경제적 사건을 수반한다. IASB는 한 통화가 다른 통화로 교환 가능하지 않은 경우, 재무제표 이용자는 보고일에 해당 통화에 대한 기업의 익스포저를 이해하는 데 관심이 있다는 정보를 입수하였다. 따라서 IASB는 기업이 비교정보를 재작성하지 않고 최초 적용일로부터 개정사항을 적용한다고 결론지었다.",
+      "text": "IASB는 기업이 IAS 8 '회계정책, 회계추정치 변경과 오류'에 따라 개정 사항을 소급 적용하도록 요구함으로써 기대되는 효익이 비용을 초과하지 않는다고 판단하여 기준서 문단 60L~60M 의 경과규정을 개발하였다. 특히 다음 사항을 고려하였다.\n(1) 개정 사항을 소급 적용하려면 기업은 과거 기간의 교환가능성을 평가한 다음 해당 과거 기간의 현물환율을 추정해야 한다. 많은 경우 소급 적용은 사후 판단해야 할 가능성이 높으며, 사후판단 없이 가능하다 할지라도 많은 비용이 소요될 수 있다.\n(2) 한 통화가 다른 통화로 교환 가능하지 않은 상황은 일반적으로 다른 상황보다 투자자에게 추세 정보가 덜 유용하도록 만드는 높은 인플레이션과 그 밖의 경제적 사건을 수반한다. IASB는 한 통화가 다른 통화로 교환 가능하지 않은 경우, 재무제표 이용자는 보고일에 해당 통화에 대한 기업의 익스포저를 이해하는 데 관심이 있다는 정보를 입수하였다. 따라서 IASB는 기업이 비교정보를 재작성하지 않고 최초 적용일로부터 개정사항을 적용한다고 결론지었다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC63\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC63</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 기업이 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">IAS 8</span></div> '회계정책, 회계추정치 변경과 오류'에 따라 개정 사항을 소급 적용하도록 요구함으로써 기대되는 효익이 비용을 초과하지 않는다고 판단하여 기준서 \n  <span class=\"mundan-finder\">문단 60L~60M</span> 의 경과규정을 개발하였다. 특히 다음 사항을 고려하였다.\n</div><div class=\"idt-1\"><div>⑴</div><div>개정 사항을 소급 적용하려면 기업은 과거 기간의 교환가능성을 평가한 다음 해당 과거 기간의 현물환율을 추정해야 한다. 많은 경우 소급 적용은 사후 판단해야 할 가능성이 높으며, 사후판단 없이 가능하다 할지라도 많은 비용이 소요될 수 있다. </div></div><div class=\"idt-1\"><div>⑵</div><div>한 통화가 다른 통화로 교환 가능하지 않은 상황은 일반적으로 다른 상황보다 투자자에게 추세 정보가 덜 유용하도록 만드는 높은 인플레이션과 그 밖의 경제적 사건을 수반한다. IASB는 한 통화가 다른 통화로 교환 가능하지 않은 경우, 재무제표 이용자는 보고일에 해당 통화에 대한 기업의 익스포저를 이해하는 데 관심이 있다는 정보를 입수하였다. 따라서 IASB는 기업이 비교정보를 재작성하지 않고 최초 적용일로부터 개정사항을 적용한다고 결론지었다.</div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
@@ -4997,7 +5466,7 @@
       "section_id": "DyXqJn",
       "section_title": "IFRS 회계기준을 적용하고 있는 기업",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|경과규정|IFRS 회계기준을 적용하고 있는 기업",
-      "text": "IASB는 다음과 같이 결정하였다. ⑴ 기준서의 관련 요구사항에서 기업이 특정 항목을 마감환율을 사용하여 환산하도록 요구하는 경우 최초 적용일의 추정 현물환율을 사용하여 그 항목을 환산하도록 요구한다. ⑵ 다른 항목이 개정사항에 부합하지 않는 현물환율을 사용하여 환산되었더라도 기업이 재환산하는 것을 허용하지 않는다. 기업이 이러한 항목을 식별하고 적절한 환율을 추정하도록 요구함으로써 기대되는 효익이 비용을 초과하지 않을 것이다. ⑶ 기업이 개정 사항을 처음 적용할 때 발생하는 효과를 다음에 대한 조정으로 인식하도록 요구한다.\n㈎ 기업이 외화 거래를 보고하는 경우, 이익잉여금의 기초 잔액. 이러한 거래의 경우 기업은 일반적으로 환차이를 당기손익으로 인식한다. 기업이 기타포괄손익으로 인식한 환차이를 별도로 추적하도록 요구하는 것은 불필요한 복잡성을 초래할 것이다.\n㈏ 기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 영업성과와 재무상태를 환산하는 경우, 자본의 누적환산차이. 이러한 상황에서 기업은 일반적으로 기타포괄손익으로 환차이를 인식하고 이러한 차이를 별도의 자본항목으로 누적한다.",
+      "text": "IASB는 다음과 같이 결정하였다.\n(1) 기준서의 관련 요구사항에서 기업이 특정 항목을 마감환율을 사용하여 환산하도록 요구하는 경우 최초 적용일의 추정 현물환율을 사용하여 그 항목을 환산하도록 요구한다.\n(2) 다른 항목이 개정사항에 부합하지 않는 현물환율을 사용하여 환산되었더라도 기업이 재환산하는 것을 허용하지 않는다. 기업이 이러한 항목을 식별하고 적절한 환율을 추정하도록 요구함으로써 기대되는 효익이 비용을 초과하지 않을 것이다.\n(3) 기업이 개정 사항을 처음 적용할 때 발생하는 효과를 다음에 대한 조정으로 인식하도록 요구한다.\n(가) 기업이 외화 거래를 보고하는 경우, 이익잉여금의 기초 잔액. 이러한 거래의 경우 기업은 일반적으로 환차이를 당기손익으로 인식한다. 기업이 기타포괄손익으로 인식한 환차이를 별도로 추적하도록 요구하는 것은 불필요한 복잡성을 초래할 것이다.\n(나) 기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 영업성과와 재무상태를 환산하는 경우, 자본의 누적환산차이. 이러한 상황에서 기업은 일반적으로 기타포괄손익으로 환차이를 인식하고 이러한 차이를 별도의 자본항목으로 누적한다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC64\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC64</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 다음과 같이 결정하였다.</div><div class=\"idt-1\"><div>⑴</div><div>기준서의 관련 요구사항에서 기업이 특정 항목을 마감환율을 사용하여 환산하도록 요구하는 경우 최초 적용일의 추정 현물환율을 사용하여 그 항목을 환산하도록 요구한다.</div></div><div class=\"idt-1\"><div>⑵</div><div>다른 항목이 개정사항에 부합하지 않는 현물환율을 사용하여 환산되었더라도 기업이 재환산하는 것을 허용하지 않는다. 기업이 이러한 항목을 식별하고 적절한 환율을 추정하도록 요구함으로써 기대되는 효익이 비용을 초과하지 않을 것이다.</div></div><div class=\"idt-1\"><div>⑶</div><div>기업이 개정 사항을 처음 적용할 때 발생하는 효과를 다음에 대한 조정으로 인식하도록 요구한다.</div></div><div class=\"idt-2\"><div>㈎</div><div>기업이 외화 거래를 보고하는 경우, 이익잉여금의 기초 잔액. 이러한 거래의 경우 기업은 일반적으로 환차이를 당기손익으로 인식한다. 기업이 기타포괄손익으로 인식한 환차이를 별도로 추적하도록 요구하는 것은 불필요한 복잡성을 초래할 것이다.</div></div><div class=\"idt-2\"><div>㈏</div><div>기업이 기능통화 이외의 표시통화를 사용하거나 해외사업장의 영업성과와 재무상태를 환산하는 경우, 자본의 누적환산차이. 이러한 상황에서 기업은 일반적으로 기타포괄손익으로 환차이를 인식하고 이러한 차이를 별도의 자본항목으로 누적한다.</div></div></div></div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -5008,14 +5477,22 @@
       "section_id": "sGYPwk",
       "section_title": "최초채택",
       "toc_path": "결론도출근거|IAS 21 ‘환율변동효과(The Effects of Changes in Foreign Exchange Rates)’의 결론도출근거|교환가능성 결여|경과규정|최초채택",
-      "text": "IASB는 다음과 같은 이유로 최초채택기업의 개정사항 소급 적용에 대해 특별히 면제가 필요하지 않다고 결론지었다. ⑴ IFRS 1은 재무제표에 외화 거래를 보고하는 최초채택기업에 대한 면제를 제공하지 않는다. 따라서 기업은 외화 거래를 보고할 때 IAS 21의 적용가능한 모든 요구사항을 소급하여 적용한다. ⑵ IFRS 1의 문단 D13 은 이미 최초채택기업이 모든 해외사업장 대한 누적환산차이를 IFRS 전환일에 영(0)으로 간주할 수 있도록 허용하고 있다.",
+      "text": "IASB는 다음과 같은 이유로 최초채택기업의 개정사항 소급 적용에 대해 특별히 면제가 필요하지 않다고 결론지었다.\n(1) IFRS 1은 재무제표에 외화 거래를 보고하는 최초채택기업에 대한 면제를 제공하지 않는다. 따라서 기업은 외화 거래를 보고할 때 IAS 21의 적용가능한 모든 요구사항을 소급하여 적용한다.\n(2) IFRS 1의 문단 D13 은 이미 최초채택기업이 모든 해외사업장 대한 누적환산차이를 IFRS 전환일에 영(0)으로 간주할 수 있도록 허용하고 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC65\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC65</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB는 다음과 같은 이유로 최초채택기업의 개정사항 소급 적용에 대해 특별히 면제가 필요하지 않다고 결론지었다.</div><div class=\"idt-1\"><div>⑴</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">한국채택국제회계기준의 최초채택</span><span class=\"std-finder\">IFRS 1</span></div>은 재무제표에 외화 거래를 보고하는 최초채택기업에 대한 면제를 제공하지 않는다. 따라서 기업은 외화 거래를 보고할 때 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">환율변동효과</span><span class=\"std-finder\">IAS 21</span></div>의 적용가능한 모든 요구사항을 소급하여 적용한다.\n  </div></div><div class=\"idt-1\"><div>⑵</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">한국채택국제회계기준의 최초채택</span><span class=\"std-finder\">IFRS 1</span></div>의 \n    <span class=\"mundan-finder\">문단 D13</span> 은 이미 최초채택기업이 모든 해외사업장 대한 누적환산차이를 IFRS 전환일에 영(0)으로 간주할 수 있도록 허용하고 있다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "한국채택국제회계기준의 최초채택",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 21",
+          "standard_number": "21",
+          "standard_title": "환율변동효과",
           "range": null,
           "paragraph_ids": []
         },
@@ -5085,7 +5562,8 @@
     ],
     "1029": [
       "14",
-      "43"
+      "43",
+      "A16"
     ],
     "1027": [
       "19",
@@ -5126,6 +5604,67 @@
     ],
     "1021": [
       "IE1"
+    ],
+    "21": [
+      "BC1",
+      "BC2",
+      "BC3",
+      "BC4",
+      "BC6",
+      "BC7",
+      "BC8",
+      "BC18",
+      "BC24",
+      "BC25A",
+      "BC25B",
+      "BC25C",
+      "BC25E",
+      "BC25F",
+      "BC26",
+      "BC33",
+      "BC35",
+      "BC40",
+      "BC65"
+    ],
+    "29": [
+      "BC4",
+      "BC25"
+    ],
+    "1": [
+      "BC25A",
+      "BC35",
+      "BC59",
+      "BC61",
+      "BC65"
+    ],
+    "36": [
+      "BC32"
+    ],
+    "11": [
+      "BC33"
+    ],
+    "27": [
+      "BC35"
+    ],
+    "10": [
+      "BC35",
+      "BC36"
+    ],
+    "9": [
+      "BC37",
+      "BC54"
+    ],
+    "13": [
+      "BC51"
+    ],
+    "12": [
+      "BC59"
+    ],
+    "7": [
+      "BC59"
+    ],
+    "8": [
+      "BC63"
     ]
   },
   "qna_index": {
