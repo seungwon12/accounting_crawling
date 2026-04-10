@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "보고기간후사건",
   "url": "https://db.kasb.or.kr/s/1010",
-  "crawled_at": "2026-03-24T04:30:42.938271+00:00",
+  "crawled_at": "2026-04-09T05:53:55.903735+00:00",
   "toc": [
     {
       "level": null,
@@ -418,7 +418,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 16",
-          "standard_number": "1037",
+          "standard_number": "1010",
           "standard_title": null,
           "range": "16",
           "paragraph_ids": [
@@ -850,9 +850,9 @@
         {
           "type": "paragraph",
           "display_text": "문단 5와 6",
-          "standard_number": "1010",
+          "standard_number": "1008",
           "standard_title": null,
-          "range": "5와 6",
+          "range": "5,6",
           "paragraph_ids": [
             "5",
             "6"
@@ -895,7 +895,7 @@
         {
           "type": "standard",
           "display_text": "IAS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "보고기간후사건",
           "range": null,
           "paragraph_ids": []
@@ -915,7 +915,7 @@
         {
           "type": "standard",
           "display_text": "IAS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "보고기간후사건",
           "range": null,
           "paragraph_ids": []
@@ -935,8 +935,16 @@
         {
           "type": "standard",
           "display_text": "IAS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "보고기간후사건",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -949,14 +957,30 @@
       "section_id": "ADSj6M",
       "section_title": "부분적인 명확화",
       "toc_path": "결론도출근거|IAS 10 ‘보고기간후사건(Events after the Reporting Period)’의 결론도출근거|부분적인 명확화",
-      "text": "IAS 10을 부분적으로 명확히 하기 위해 문단 12와 13(개정전 IAS 10의 문단 11과 12)이 주로 변경되었다. 이 문단에 따르면 대차대조표일\n(주2)후 배당을 선언한 경우 그 배당은 대차대조표일의 부채로 인식하지 아니한다. 이는 선언하지 않은 배당이 IAS 37의 현재의무 기준을 충족하지 못하기 때문이다. IASB는 기업이 배당을 지급하였던 과거의 관행이 의제의무로 간주될 수 있는지 논의하였다. IASB는 그러한 관행이 배당을 지급할 부채를 발생시키지는 않는다고 결론지었다.\n(주3)\n[각주 (주2)] IAS 1(2007년 전면 개정)에 의해 ‘대차대조표일(balance sheet date)’ 용어가 ‘보고기간말(end of the reporting period)’로 대체되었다.\n[각주 (주3)] 2007년 IASB는 문단 13이 동 문단만을 별도로 보면, 배당을 지급하는 정형화된 형태가 존재하는 경우와 같이 의제의무가 존재하는 일부 상황에서는 부채를 인식하여야 하는 것으로 해석될 수 있다는 조언을 받았다. 따라서 IASB는 2008년 5월에 발표된 ‘국제회계기준 연차개선’에서 문단 13을 개정하여 그러한 의무가 존재하지 않는다고 기술하였다.",
+      "text": "IAS 10을 부분적으로 명확히 하기 위해 문단 12와 13(개정전 IAS 10의 문단 11과 12)이 주로 변경되었다. 이 문단에 따르면 대차대조표일(주2)후 배당을 선언한 경우 그 배당은 대차대조표일의 부채로 인식하지 아니한다. 이는 선언하지 않은 배당이 IAS 37의 현재의무 기준을 충족하지 못하기 때문이다. IASB는 기업이 배당을 지급하였던 과거의 관행이 의제의무로 간주될 수 있는지 논의하였다. IASB는 그러한 관행이 배당을 지급할 부채를 발생시키지는 않는다고 결론지었다.(주3)\n[각주 (주2)] IAS 1(2007년 전면 개정)에 의해 ‘대차대조표일(balance sheet date)’ 용어가 ‘보고기간말(end of the reporting period)’로 대체되었다.\n[각주 (주3)] 2007년 IASB는 문단 13이 동 문단만을 별도로 보면, 배당을 지급하는 정형화된 형태가 존재하는 경우와 같이 의제의무가 존재하는 일부 상황에서는 부채를 인식하여야 하는 것으로 해석될 수 있다는 조언을 받았다. 따라서 IASB는 2008년 5월에 발표된 ‘국제회계기준 연차개선’에서 문단 13을 개정하여 그러한 의무가 존재하지 않는다고 기술하였다.",
       "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보고기간후사건</span><span class=\"std-finder\">IAS 10</span></div>을 부분적으로 명확히 하기 위해 \n  <span class=\"mundan-finder\">문단 12와 13</span>(개정전 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보고기간후사건</span><span class=\"std-finder\">IAS 10</span></div>의 \n  <span class=\"mundan-finder\">문단 11과 12</span>)이 주로 변경되었다. 이 문단에 따르면 대차대조표일\n  <sup>(주2)</sup>후 배당을 선언한 경우 그 배당은 대차대조표일의 부채로 인식하지 아니한다. 이는 선언하지 않은 배당이 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">충당부채, 우발부채, 우발자산</span><span class=\"std-finder\">IAS 37</span></div>의 현재의무 기준을 충족하지 못하기 때문이다. IASB는 기업이 배당을 지급하였던 과거의 관행이 의제의무로 간주될 수 있는지 논의하였다. IASB는 그러한 관행이 배당을 지급할 부채를 발생시키지는 않는다고 결론지었다.\n  <sup>(주3)</sup>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주2)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>(2007년 전면 개정)에 의해 ‘대차대조표일(balance sheet date)’ 용어가 ‘보고기간말(end of the reporting period)’로 대체되었다.            \n    </div></div>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주3)</div><div class=\"para-num-item-para-con\"> 2007년 IASB는 \n      <span class=\"mundan-finder\">문단 13</span>이 동 문단만을 별도로 보면, 배당을 지급하는 정형화된 형태가 존재하는 경우와 같이 의제의무가 존재하는 일부 상황에서는 부채를 인식하여야 하는 것으로 해석될 수 있다는 조언을 받았다. 따라서 IASB는 2008년 5월에 발표된 ‘국제회계기준 연차개선’에서 \n      <span class=\"mundan-finder\">문단 13</span>을 개정하여 그러한 의무가 존재하지 않는다고 기술하였다.            \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "보고기간후사건",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": "37",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
           "range": null,
           "paragraph_ids": []
         },
@@ -965,7 +989,7 @@
           "display_text": "문단 12와 13",
           "standard_number": "1010",
           "standard_title": null,
-          "range": "12와 13",
+          "range": "12,13",
           "paragraph_ids": [
             "12",
             "13"
@@ -976,7 +1000,7 @@
           "display_text": "문단 11과 12",
           "standard_number": "1010",
           "standard_title": null,
-          "range": "11과 12",
+          "range": "11,12",
           "paragraph_ids": [
             "11",
             "12"
@@ -1066,6 +1090,21 @@
     ],
     "1008": [
       "23C"
+    ],
+    "10": [
+      "BC1",
+      "BC2",
+      "BC3",
+      "BC4"
+    ],
+    "41": [
+      "BC3"
+    ],
+    "37": [
+      "BC4"
+    ],
+    "1": [
+      "BC4"
     ]
   },
   "qna_index": {

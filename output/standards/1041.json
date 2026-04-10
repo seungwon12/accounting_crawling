@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "농림어업",
   "url": "https://db.kasb.or.kr/s/1041",
-  "crawled_at": "2026-03-24T05:27:15.127959+00:00",
+  "crawled_at": "2026-04-09T06:41:32.651958+00:00",
   "toc": [
     {
       "level": null,
@@ -579,7 +579,7 @@
           "display_text": "문단 34와 35",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "34와 35",
+          "range": "34,35",
           "paragraph_ids": [
             "34",
             "35"
@@ -684,7 +684,7 @@
       "section_id": "S89Mfs",
       "section_title": "농림어업 관련 용어의 정의",
       "toc_path": "본문|용어의 정의|농림어업 관련 용어의 정의",
-      "text": "이 기준서에서 사용하는 용어의 뜻은 다음과 같다. ⑴ 수확물을 생산하거나 공급하는 데 사용한다. ⑵ 한 회계기간을 초과하여 생산물을 생산할 것으로 예상한다. ⑶ 수확물로 판매될 가능성이 희박하다[부수적인 폐물(scrap)로 판매하는 경우는 제외한다].",
+      "text": "이 기준서에서 사용하는 용어의 뜻은 다음과 같다.\n(1) 수확물을 생산하거나 공급하는 데 사용한다.\n(2) 한 회계기간을 초과하여 생산물을 생산할 것으로 예상한다.\n(3) 수확물로 판매될 가능성이 희박하다[부수적인 폐물(scrap)로 판매하는 경우는 제외한다].",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"5\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">5</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><b><div class=\"para\">이 기준서에서 사용하는 용어의 뜻은 다음과 같다.</div><br><div class=\"para\"><i>농림어업활동</i>: 판매목적 또는 수확물이나 추가적인 생물자산으로의 전환목적으로 생물자산의 생물적 변환과 수확을 관리하는 활동\n  </div><br><div class=\"para\"><i>매각부대원가</i>: 자산의 처분에 직접 귀속되는 증분 원가(금융원가와 법인세비용 제외)\n  </div><br><div class=\"para\"><i>수확</i>: 생물자산에서 수확물의 분리 또는 생물자산의 생장 과정의 중지\n  </div><br><div class=\"para\"><i>수확물</i>: 생물자산에서 수확한 생산물\n  </div><br><div class=\"para\"><i>생산용식물</i>: 다음 모두에 해당하는 살아있는 식물\n  </div><div class=\"idt-1\"><div>⑴</div><div>수확물을 생산하거나 공급하는 데 사용한다.</div></div><div class=\"idt-1\"><div>⑵</div><div>한 회계기간을 초과하여 생산물을 생산할 것으로 예상한다.</div></div><div class=\"idt-1\"><div>⑶</div><div>수확물로 판매될 가능성이 희박하다[부수적인 폐물(scrap)로 판매하는 경우는 제외한다].</div></div><br><div class=\"para\"><i>생물자산</i>: 살아있는 동물이나 식물\n  </div><br><div class=\"para\"><i>생물자산집단</i>: 유사한 생물자산(살아있는 동물이나 식물)의 집합체\n  </div><br><div class=\"para\"><i>생물적 변환</i>: 생물자산에 질적 또는 양적 변화를 일으키는 성장, 퇴화, 생산 그리고 생식 과정으로 구성됨\n  </div></b></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"나무자체 등으로 판매가 가능할 경우 생산용식물로의 분류 여부\" target=\"_blank\" href=\"/qnas/SSI-202312036\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 나무자체 등으로 판매가 가능할 경우 생산용식물로의 분류 여부</h5><time class=\"sc-gacfCG bRMfLY\">2022-12-19</time></article></a></li></ul></div></div></div>",
       "cross_references": [],
       "qna_references": [
@@ -1608,7 +1608,7 @@
           "display_text": "문단 8, 15, 16, 25 및 30",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "8, 15, 16, 25 및 30",
+          "range": "8,15,16,25,30",
           "paragraph_ids": [
             "8",
             "15",
@@ -1622,7 +1622,7 @@
           "display_text": "문단 9, 문단 17~21, 23, 47 및 48",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "9, 문단 17~21, 23, 47 및 48",
+          "range": "9,17~21,23,47,48",
           "paragraph_ids": [
             "9",
             "17",
@@ -1676,7 +1676,7 @@
           "display_text": "문단 1~5, 8, 24, 44",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "1~5, 8, 24, 44",
+          "range": "1~5,8,24,44",
           "paragraph_ids": [
             "1",
             "2",
@@ -1693,7 +1693,7 @@
           "display_text": "문단 5A~5C와 63",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "5A~5C와 63",
+          "range": "5A~5C,63",
           "paragraph_ids": [
             "5A",
             "5B",
@@ -1740,7 +1740,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 28(6)",
-          "standard_number": "1008",
+          "standard_number": "1041",
           "standard_title": null,
           "range": "28(6)",
           "paragraph_ids": [
@@ -1819,7 +1819,7 @@
       "section_id": "XE65kR",
       "section_title": "사례 1 : XYZ 낙농기업",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1041호 ‘농림어업’의 적용사례|사례 1 : XYZ 낙농기업",
-      "text": "| 재무상태표 | | | | (단위: 원) |\n| --- | --- | --- | --- | --- |\n| XYZ 낙농기업 | 주석 | 20X1년 | | 20X0년 |\n| 재무상태표 | 12월 31일 | | 12월 31일 | |\n| 자산 | | | | |\n| 비유동자산 | | | | |\n| 젖소 - 미성숙⑴ | | 52,060 | | 47,730 |\n| 젖소 - 성숙⑴ | 3 | 372,990 | | 411,840 |\n| 생물자산 중간합계 | | 425,050 | | 459,570 |\n| 유형자산 | | 1,462,650 | | 1,409,800 |\n| 비유동자산 합계 | | 1,887,700 | | 1,869,370 |\n| 유동자산 | | | | |\n| 재고자산 | | 82,950 | | 70,650 |\n| 매출채권 및 기타 채권 | | 88,000 | | 65,000 |\n| 현금 | | 10,000 | | 10,000 |\n| 유동자산 합계 | | 180,950 | | 145,650 |\n| 자산총계 | | 2,068,650 | | 2,015,020 |\n| 자본과 부채 | | | | |\n| 자본 | | | | |\n| 주식발행 자본금 | | 1,000,000 | | 1,000,000 |\n| 이익잉여금 | | 902,828 | | 865,000 |\n| 자본총계 | | 1,902,828 | | 1,865,000 |\n| 유동부채 | | | | |\n| 매입채무 및 기타 채무 | | 165,822 | | 150,020 |\n| 유동부채 합계 | | 165,822 | | 150,020 |\n| 자본과 부채 총계 | | 2,068,650 | | 2,015,020 |\n| 포괄손익계산서(주1) | | (단위: 원) |\n| --- | --- | --- |\n| XYZ 낙농기업 포괄손익계산서 | 주석 | 20X1년 12월 31일로 종료하는 연도 |\n| 생산된 우유의 공정가치 | | 518,240 |\n| 젖소의 순공정가치 변동에서 발생한 이익 | 3 | 39,930 |\n| | | 558,170 |\n| 사용된 재고자산 | | (137,523) |\n| 급여 | | (127,283) |\n| 감가상각비 | | (15,250) |\n| 기타영업비용 | | (197,092) |\n| | | (477,148) |\n| 영업이익 | | 81,022 |\n| 법인세비용 | | (43,194) |\n| 당기순이익/포괄이익 | | 37,828 |\n| 자본변동표 | | | (단위: 원) |\n| --- | --- | --- | --- |\n| XYZ 낙농기업 자본변동표 | 20X1년 12월 31일로 종료하는 연도 | | |\n| | 납입자본 | 이익잉여금 | 계 |\n| 20X1년 1월 1일 잔액 | 1,000,000 | 865,000 | 1,865,000 |\n| 당기순이익/포괄이익 | | 37,828 | 37,828 |\n| 20X1년 12월 31일 잔액 | 1,000,000 | 902,828 | 1,902,828 |\n| 현금흐름표(주2) | | | (단위: 원) |\n| --- | --- | --- | --- |\n| XYZ 낙농기업 | 주석 | | 20x1년 12월 31일로 |\n| 현금흐름표 | | 종료하는 연도 | |\n| 영업활동 현금흐름 | | | |\n| 우유의 매출에 따른 현금유입 | | | 498,027 |\n| 젖소의 매각에 따른 현금유입 | | | 97,913 |\n| 물품공급자와 종업원에 대한 현금유출 | | | (460,831) |\n| 젖소 매입에 따른 현금유출 | | | (23,815) |\n| | | | 111,294 |\n| 납부한 법인세 | | | (43,194) |\n| 영업활동 순현금 | | | 68,100 |\n| 투자활동 현금흐름 | | | |\n| 유형자산의 취득 | | | (68,100) |\n| 투자활동 순현금 | | | (68,100) |\n| 현금의 순증가 | | | 0 |\n| 기초의 현금 | | | 10,000 |\n| 기말의 현금 | | | 10,000 |\n주석\n1 영업과 주요 활동\nXYZ 낙농기업(이하 ‘기업’)은 다양한 고객에게 공급되는 우유를 생산하고 있습니다. 20X1년 12월 31일 현재 기업은 우유 생산이 가능한 젖소(성숙 자산) 419마리와 미래에 우유를 생산할 목적으로 사육하는 어린 암소(미성숙 자산) 137마리를 보유하고 있습니다. 기업은 20X1년 12월 31일로 종료하는 연도에 순공정가치가 518,240원(착유시점)인 우유 157,584kg을 생산했습니다.\n2 회계 정책\n젖소와 우유\n젖소는 순공정가치로 측정합니다. 젖소의 공정가치는 젖소에 대한 주된 (또는 가장 유리한) 시장에서 연령, 품종, 유전적 장점이 유사한 젖소의 시장가격에 근거하여 결정합니다. 우유는 착유시점의 순공정가치로 최초로 측정됩니다. 우유의 공정가치는 우유에 대한 주된 (또는 가장 유리한) 시장에서 해당 지역의 공시가격에 근거하여 결정합니다.\n3 생물자산\n<!--table {mso-displayed-decimal-separator:\"\\.\"; mso-displayed-thousand-separator:\"\\,\";} .font56361 {color:windowtext; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129;} .font66361 {color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129;} .xl156361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl636361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl646361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:right; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl656361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:right; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl666361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\"; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl676361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\"; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl686361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\"; text-align:general; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:2.0pt double windowtext; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} ruby {ruby-align:left;} rt {color:windowtext; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-char-type:none;} -->\n(단위: 원)젖소의 장부금액 변동20X1 20X1년 1월 1일 장부금액459,570 매입으로 인한 증가26,250 물리적 변화에 기인하는 순공정가치의 변동에서 발생한 이익(주3)15,350 가격변동에 기인하는 순공정가치의 변동에서 발생한 이익(주4)24,580 매각으로 인한 감소(100,700)20X1년 12월 31일 장부금액425,050\n4 재무위험 관리 전략\n기업은 우유가격의 변동으로부터 발생하는 재무위험에 노출되어 있다. 기업은 예측가능한 미래에 우유가격이 유의적으로 하락할 것이라고 예상하지는 않으며 따라서 우유가격의 하락에 따른 위험을 관리하기 위하여 파생상품이나 그 밖의 계약은 체결하지 않고 있습니다. 기업은 적극적인 재무위험 관리의 필요성을 고려하기 위해 우유가격에 대한 전망을 주기적으로 검토하고 있습니다.\n[각주 ⑴] 소비용 생물자산과 생산용 생물자산으로 구분하거나 성숙 생물자산과 미성숙 생물자산으로 구분하는 것이 적절한 경우, 각 생물자산 집단에 대한 계량적 설명을 제공하는 것이 권장되지만 의무는 아니다. 기업은 그러한 구분 기준을 공시한다.\n[각주 (주1)] 이 포괄손익계산서는 비용의 성격별로 분류한 비용 분석을 표시한다. 기업회계기준서 제1001호 ‘재무제표 표시’는 포괄손익계산서나 주석에 비용의 성격별 또는 기능별로 분류한 비용 분석을 표시할 것을 요구한다. 기업회계기준서 제1001호는 포괄손익계산서에 비용 분석을 표시할 것을 권장한다.\n[각주 (주2)] 이 현금흐름표는 직접법을 사용하여 영업활동 현금흐름을 보고한다. 기업회계기준서 제1007호 ‘현금흐름표'는 직접법이나 간접법을 사용하여 영업활동으로 인한 현금흐름을 보고하도록 요구한다. 기업회계기준서 제1007호는 직접법을 권장한다.\n[각주 (주3)] 이 기준서는 순공정가치의 증가분을 물리적 변화에 기인하는 부분과 가격변동에 기인하는 부분으로 구분할 것을 권장하지만 의무는 아니다.\n[각주 (주4)] 이 기준서는 순공정가치의 증가분을 물리적 변화에 기인하는 부분과 가격변동에 기인하는 부분으로 구분할 것을 권장하지만 의무는 아니다.",
+      "text": "| 재무상태표 | | | | (단위: 원) |\n| --- | --- | --- | --- | --- |\n| XYZ 낙농기업 | 주석 | 20X1년 | | 20X0년 |\n| 재무상태표 | 12월 31일 | | 12월 31일 | |\n| 자산 | | | | |\n| 비유동자산 | | | | |\n| 젖소 - 미성숙(1) | | 52,060 | | 47,730 |\n| 젖소 - 성숙(1) | 3 | 372,990 | | 411,840 |\n| 생물자산 중간합계 | | 425,050 | | 459,570 |\n| 유형자산 | | 1,462,650 | | 1,409,800 |\n| 비유동자산 합계 | | 1,887,700 | | 1,869,370 |\n| 유동자산 | | | | |\n| 재고자산 | | 82,950 | | 70,650 |\n| 매출채권 및 기타 채권 | | 88,000 | | 65,000 |\n| 현금 | | 10,000 | | 10,000 |\n| 유동자산 합계 | | 180,950 | | 145,650 |\n| 자산총계 | | 2,068,650 | | 2,015,020 |\n| 자본과 부채 | | | | |\n| 자본 | | | | |\n| 주식발행 자본금 | | 1,000,000 | | 1,000,000 |\n| 이익잉여금 | | 902,828 | | 865,000 |\n| 자본총계 | | 1,902,828 | | 1,865,000 |\n| 유동부채 | | | | |\n| 매입채무 및 기타 채무 | | 165,822 | | 150,020 |\n| 유동부채 합계 | | 165,822 | | 150,020 |\n| 자본과 부채 총계 | | 2,068,650 | | 2,015,020 |\n| 포괄손익계산서(주1) | | (단위: 원) |\n| --- | --- | --- |\n| XYZ 낙농기업 포괄손익계산서 | 주석 | 20X1년 12월 31일로 종료하는 연도 |\n| 생산된 우유의 공정가치 | | 518,240 |\n| 젖소의 순공정가치 변동에서 발생한 이익 | 3 | 39,930 |\n| | | 558,170 |\n| 사용된 재고자산 | | (137,523) |\n| 급여 | | (127,283) |\n| 감가상각비 | | (15,250) |\n| 기타영업비용 | | (197,092) |\n| | | (477,148) |\n| 영업이익 | | 81,022 |\n| 법인세비용 | | (43,194) |\n| 당기순이익/포괄이익 | | 37,828 |\n| 자본변동표 | | | (단위: 원) |\n| --- | --- | --- | --- |\n| XYZ 낙농기업 자본변동표 | 20X1년 12월 31일로 종료하는 연도 | | |\n| | 납입자본 | 이익잉여금 | 계 |\n| 20X1년 1월 1일 잔액 | 1,000,000 | 865,000 | 1,865,000 |\n| 당기순이익/포괄이익 | | 37,828 | 37,828 |\n| 20X1년 12월 31일 잔액 | 1,000,000 | 902,828 | 1,902,828 |\n| 현금흐름표(주2) | | | (단위: 원) |\n| --- | --- | --- | --- |\n| XYZ 낙농기업 | 주석 | | 20x1년 12월 31일로 |\n| 현금흐름표 | | 종료하는 연도 | |\n| 영업활동 현금흐름 | | | |\n| 우유의 매출에 따른 현금유입 | | | 498,027 |\n| 젖소의 매각에 따른 현금유입 | | | 97,913 |\n| 물품공급자와 종업원에 대한 현금유출 | | | (460,831) |\n| 젖소 매입에 따른 현금유출 | | | (23,815) |\n| | | | 111,294 |\n| 납부한 법인세 | | | (43,194) |\n| 영업활동 순현금 | | | 68,100 |\n| 투자활동 현금흐름 | | | |\n| 유형자산의 취득 | | | (68,100) |\n| 투자활동 순현금 | | | (68,100) |\n| 현금의 순증가 | | | 0 |\n| 기초의 현금 | | | 10,000 |\n| 기말의 현금 | | | 10,000 |\n주석\n1 영업과 주요 활동\nXYZ 낙농기업(이하 ‘기업’)은 다양한 고객에게 공급되는 우유를 생산하고 있습니다. 20X1년 12월 31일 현재 기업은 우유 생산이 가능한 젖소(성숙 자산) 419마리와 미래에 우유를 생산할 목적으로 사육하는 어린 암소(미성숙 자산) 137마리를 보유하고 있습니다. 기업은 20X1년 12월 31일로 종료하는 연도에 순공정가치가 518,240원(착유시점)인 우유 157,584kg을 생산했습니다.\n2 회계 정책\n젖소와 우유\n젖소는 순공정가치로 측정합니다. 젖소의 공정가치는 젖소에 대한 주된 (또는 가장 유리한) 시장에서 연령, 품종, 유전적 장점이 유사한 젖소의 시장가격에 근거하여 결정합니다. 우유는 착유시점의 순공정가치로 최초로 측정됩니다. 우유의 공정가치는 우유에 대한 주된 (또는 가장 유리한) 시장에서 해당 지역의 공시가격에 근거하여 결정합니다.\n3 생물자산\n<!--table {mso-displayed-decimal-separator:\"\\.\"; mso-displayed-thousand-separator:\"\\,\";} .font56361 {color:windowtext; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129;} .font66361 {color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129;} .xl156361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl636361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl646361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:right; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl656361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:General; text-align:right; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl666361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\"; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl676361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\"; text-align:general; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl686361 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\"; text-align:general; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:2.0pt double windowtext; border-left:none; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} ruby {ruby-align:left;} rt {color:windowtext; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:\"맑은 고딕\", monospace; mso-font-charset:129; mso-char-type:none;} -->\n(단위: 원)젖소의 장부금액 변동20X1 20X1년 1월 1일 장부금액459,570 매입으로 인한 증가26,250 물리적 변화에 기인하는 순공정가치의 변동에서 발생한 이익(주3)15,350 가격변동에 기인하는 순공정가치의 변동에서 발생한 이익(주4)24,580 매각으로 인한 감소(100,700)20X1년 12월 31일 장부금액425,050\n4 재무위험 관리 전략\n기업은 우유가격의 변동으로부터 발생하는 재무위험에 노출되어 있다. 기업은 예측가능한 미래에 우유가격이 유의적으로 하락할 것이라고 예상하지는 않으며 따라서 우유가격의 하락에 따른 위험을 관리하기 위하여 파생상품이나 그 밖의 계약은 체결하지 않고 있습니다. 기업은 적극적인 재무위험 관리의 필요성을 고려하기 위해 우유가격에 대한 전망을 주기적으로 검토하고 있습니다.\n[각주 (1)] 소비용 생물자산과 생산용 생물자산으로 구분하거나 성숙 생물자산과 미성숙 생물자산으로 구분하는 것이 적절한 경우, 각 생물자산 집단에 대한 계량적 설명을 제공하는 것이 권장되지만 의무는 아니다. 기업은 그러한 구분 기준을 공시한다.\n[각주 (주1)] 이 포괄손익계산서는 비용의 성격별로 분류한 비용 분석을 표시한다. 기업회계기준서 제1001호 ‘재무제표 표시’는 포괄손익계산서나 주석에 비용의 성격별 또는 기능별로 분류한 비용 분석을 표시할 것을 요구한다. 기업회계기준서 제1001호는 포괄손익계산서에 비용 분석을 표시할 것을 권장한다.\n[각주 (주2)] 이 현금흐름표는 직접법을 사용하여 영업활동 현금흐름을 보고한다. 기업회계기준서 제1007호 ‘현금흐름표'는 직접법이나 간접법을 사용하여 영업활동으로 인한 현금흐름을 보고하도록 요구한다. 기업회계기준서 제1007호는 직접법을 권장한다.\n[각주 (주3)] 이 기준서는 순공정가치의 증가분을 물리적 변화에 기인하는 부분과 가격변동에 기인하는 부분으로 구분할 것을 권장하지만 의무는 아니다.\n[각주 (주4)] 이 기준서는 순공정가치의 증가분을 물리적 변화에 기인하는 부분과 가격변동에 기인하는 부분으로 구분할 것을 권장하지만 의무는 아니다.",
       "html": "<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Excel.Sheet\"><meta name=\"Generator\" content=\"Microsoft Excel 15\"><link rel=\"File-List\" href=\"1041_ex1_tb01.files/filelist.xml\"><style id=\"1041_ex1_tb01_12894_Styles\">\n<!--table\n\t{mso-displayed-decimal-separator:\"\\.\";\n\tmso-displayed-thousand-separator:\"\\,\";}\n.font512894\n\t{color:windowtext;\n\tfont-size:8.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;}\n.font612894\n\t{color:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;}\n.xl1512894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl6312894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:center;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl6412894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:right;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl6512894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl6612894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:center;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl6712894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:right;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl6812894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl6912894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:center;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7012894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"_-* \\#\\,\\#\\#0_-\\;\\\\-* \\#\\,\\#\\#0_-\\;_-* \\0022-\\0022_-\\;_-\\@_-\";\n\ttext-align:right;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7112894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"_-* \\#\\,\\#\\#0_-\\;\\\\-* \\#\\,\\#\\#0_-\\;_-* \\0022-\\0022_-\\;_-\\@_-\";\n\ttext-align:right;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7212894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"_-* \\#\\,\\#\\#0_-\\;\\\\-* \\#\\,\\#\\#0_-\\;_-* \\0022-\\0022_-\\;_-\\@_-\";\n\ttext-align:right;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7312894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"_-* \\#\\,\\#\\#0_-\\;\\\\-* \\#\\,\\#\\#0_-\\;_-* \\0022-\\0022_-\\;_-\\@_-\";\n\ttext-align:right;\n\tvertical-align:middle;\n\tborder-top:.5pt solid windowtext;\n\tborder-right:none;\n\tborder-bottom:2.0pt double windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7412894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:right;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7512894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"_-* \\#\\,\\#\\#0_-\\;\\\\-* \\#\\,\\#\\#0_-\\;_-* \\0022-\\0022_-\\;_-\\@_-\";\n\ttext-align:right;\n\tvertical-align:middle;\n\tborder-top:.5pt solid windowtext;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7612894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:12.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:1.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7712894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:top;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl7812894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:normal;}\n.xl7912894\n\t{color:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:left;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;\n\tpadding-left:18px;\n\tmso-char-indent-count:1;}\n.xl8012894\n\t{color:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:left;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;\n\tpadding-left:18px;\n\tmso-char-indent-count:1;}\n.xl8112894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:normal;}\n.xl8212894\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:top;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:normal;}\nruby\n\t{ruby-align:left;}\nrt\n\t{color:windowtext;\n\tfont-size:8.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-char-type:none;}\n-->\n</style></head><body><div id=\"1041_ex1_tb01_12894\" align=\"center\" x:publishsource=\"Excel\"><div class=\"table\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"547\" style=\"border-collapse: collapse; table-layout: fixed; width: 412pt;\"><col width=\"6\" style=\"width: 5pt;\"><col width=\"27\" style=\"width: 20pt;\"><col width=\"208\" style=\"width: 156pt;\"><col class=\"xl6312894\" width=\"38\" style=\"width: 29pt;\"><col width=\"121\" style=\"width: 91pt;\"><col width=\"20\" style=\"width: 15pt;\"><col width=\"121\" style=\"width: 91pt;\"><col width=\"6\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1512894\" width=\"6\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl1512894\" width=\"27\" style=\"width: 20pt;\"></td><td class=\"xl1512894\" width=\"208\" style=\"width: 156pt;\"></td><td class=\"xl6312894\" width=\"38\" style=\"width: 29pt;\"></td><td class=\"xl1512894\" width=\"121\" style=\"width: 91pt;\"></td><td class=\"xl1512894\" width=\"20\" style=\"width: 15pt;\"></td><td class=\"xl1512894\" width=\"121\" style=\"width: 91pt;\"></td><td class=\"xl1512894\" width=\"6\" style=\"width: 5pt;\"></td></tr><tr height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl1512894\" style=\"height: 16.2pt;\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl6312894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td class=\"xl6812894\" colspan=\"2\">재무상태표</td><td class=\"xl6312894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl6412894\">(단위: 원)</td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl6312894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">XYZ 낙농기업<span>&nbsp;</span></td><td rowspan=\"2\" class=\"xl6912894\">주석</td><td class=\"xl7412894\">20X1년</td><td class=\"xl6812894\"></td><td class=\"xl7412894\">20X0년</td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">재무상태표</td><td class=\"xl7412894\">12월 31일</td><td class=\"xl6812894\"></td><td class=\"xl7412894\">12월 31일</td><td class=\"xl1512894\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1512894\" style=\"height: 4.95pt;\"></td><td class=\"xl6512894\">　</td><td class=\"xl6512894\">　</td><td class=\"xl6612894\">　</td><td class=\"xl6712894\">　</td><td class=\"xl6512894\">　</td><td class=\"xl6712894\">　</td><td class=\"xl1512894\"></td></tr><tr class=\"xl1512894\" height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1512894\" style=\"height: 4.95pt;\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl6312894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">자산</td><td class=\"xl6912894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">비유동자산</td><td class=\"xl6912894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\">젖소 - 미성숙<font class=\"font612894\"><sup>⑴</sup></font></td><td class=\"xl6312894\"></td><td class=\"xl7012894\"><span></span>52,060 </td><td class=\"xl1512894\"></td><td class=\"xl7012894\"><span></span>47,730 </td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\">젖소 - 성숙<font class=\"font612894\"><sup>⑴</sup></font></td><td class=\"xl6312894\">3</td><td class=\"xl7012894\"><span></span>372,990 </td><td class=\"xl1512894\"></td><td class=\"xl7012894\"><span></span>411,840 </td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8012894\">&nbsp;&nbsp;&nbsp;생물자산 중간합계</td><td class=\"xl6312894\"></td><td class=\"xl7012894\"><span></span>425,050 </td><td class=\"xl1512894\"></td><td class=\"xl7012894\"><span></span>459,570 </td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8012894\">&nbsp;&nbsp;&nbsp;유형자산</td><td class=\"xl6312894\"></td><td class=\"xl7112894\"><span></span>1,462,650 </td><td class=\"xl1512894\"></td><td class=\"xl7112894\"><span></span>1,409,800 </td><td class=\"xl1512894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7912894\">&nbsp;&nbsp;&nbsp;비유동자산 합계</td><td class=\"xl6912894\"></td><td class=\"xl7512894\" style=\"border-top: none;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>1,887,700 </td><td class=\"xl6812894\"></td><td class=\"xl7512894\" style=\"border-top: none;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>1,869,370 </td><td class=\"xl6812894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">유동자산</td><td class=\"xl6912894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\">재고자산</td><td class=\"xl6312894\"></td><td class=\"xl7012894\"><span></span>82,950 </td><td class=\"xl1512894\"></td><td class=\"xl7012894\"><span></span>70,650 </td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\">매출채권 및 기타 채권</td><td class=\"xl6312894\"></td><td class=\"xl7012894\"><span></span>88,000 </td><td class=\"xl1512894\"></td><td class=\"xl7012894\"><span></span>65,000 </td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\">현금</td><td class=\"xl6312894\"></td><td class=\"xl7112894\"><span></span>10,000 </td><td class=\"xl1512894\"></td><td class=\"xl7112894\"><span></span>10,000 </td><td class=\"xl1512894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7912894\">&nbsp;&nbsp;&nbsp;유동자산 합계</td><td class=\"xl6912894\"></td><td class=\"xl7212894\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>180,950\n  </td><td class=\"xl6812894\"></td><td class=\"xl7212894\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>145,650\n  </td><td class=\"xl6812894\"></td></tr><tr class=\"xl6812894\" height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl6812894\" style=\"height: 16.2pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">자산총계</td><td class=\"xl6912894\"></td><td class=\"xl7312894\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2,068,650\n  </td><td class=\"xl6812894\"></td><td class=\"xl7312894\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2,015,020\n  </td><td class=\"xl6812894\"></td></tr><tr height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl1512894\" style=\"height: 16.2pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\"></td><td class=\"xl6312894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">자본과 부채</td><td class=\"xl6912894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">자본</td><td class=\"xl6912894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\">주식발행 자본금</td><td class=\"xl6312894\"></td><td class=\"xl7012894\"><span></span>1,000,000 </td><td class=\"xl1512894\"></td><td class=\"xl7012894\"><span></span>1,000,000 </td><td class=\"xl1512894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\">이익잉여금</td><td class=\"xl6312894\"></td><td class=\"xl7112894\"><span></span>902,828 </td><td class=\"xl1512894\"></td><td class=\"xl7112894\"><span></span>865,000 </td><td class=\"xl1512894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7912894\">&nbsp;&nbsp;&nbsp;자본총계</td><td class=\"xl6912894\"></td><td class=\"xl7512894\" style=\"border-top: none;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>1,902,828 </td><td class=\"xl6812894\"></td><td class=\"xl7512894\" style=\"border-top: none;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>1,865,000 </td><td class=\"xl6812894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">유동부채</td><td class=\"xl6912894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td><td class=\"xl6812894\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7812894\" width=\"235\" style=\"width: 176pt;\">매입채무 및 기타 채무</td><td class=\"xl6312894\"></td><td class=\"xl7112894\"><span></span>165,822 </td><td class=\"xl1512894\"></td><td class=\"xl7112894\"><span></span>150,020 </td><td class=\"xl1512894\"></td></tr><tr class=\"xl6812894\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6812894\" style=\"height: 15.6pt;\"></td><td colspan=\"2\" class=\"xl7912894\">&nbsp;&nbsp;&nbsp;유동부채 합계</td><td class=\"xl6912894\"></td><td class=\"xl7212894\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>165,822\n  </td><td class=\"xl6812894\"></td><td class=\"xl7212894\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>150,020\n  </td><td class=\"xl6812894\"></td></tr><tr class=\"xl6812894\" height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl6812894\" style=\"height: 16.2pt;\"></td><td colspan=\"2\" class=\"xl8112894\" width=\"235\" style=\"width: 176pt;\">자본과 부채 총계</td><td class=\"xl6912894\"></td><td class=\"xl7312894\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2,068,650\n  </td><td class=\"xl6812894\"></td><td class=\"xl7312894\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2,015,020\n  </td><td class=\"xl6812894\"></td></tr><tr height=\"21\" style=\"height: 16.05pt;\"><td height=\"21\" class=\"xl1512894\" style=\"height: 16.05pt;\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl6312894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td><td class=\"xl1512894\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"6\" style=\"width: 5pt;\"></td><td width=\"27\" style=\"width: 20pt;\"></td><td width=\"208\" style=\"width: 156pt;\"></td><td width=\"38\" style=\"width: 29pt;\"></td><td width=\"121\" style=\"width: 91pt;\"></td><td width=\"20\" style=\"width: 15pt;\"></td><td width=\"121\" style=\"width: 91pt;\"></td><td width=\"6\" style=\"width: 5pt;\"></td></tr></table></div></div></body></html>\n<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Excel.Sheet\"><meta name=\"Generator\" content=\"Microsoft Excel 15\"><link rel=\"File-List\" href=\"1041_ex1_tb02.files/filelist.xml\"><style id=\"1041_ex1_tb02_711_Styles\">\r\n<!--table\r\n\t{mso-displayed-decimal-separator:\"\\.\";\r\n\tmso-displayed-thousand-separator:\"\\,\";}\r\n.font5711\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.font6711\r\n\t{color:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.xl15711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl63711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl64711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl65711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl66711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl67711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl68711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl69711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl70711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl71711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:2.0pt double windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl72711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl73711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl74711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl75711\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\nruby\r\n\t{ruby-align:left;}\r\nrt\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-char-type:none;}\r\n-->\r\n</style></head><body><div id=\"1041_ex1_tb02_711\" align=\"center\" x:publishsource=\"Excel\"><div class=\"table\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"544\" style=\"border-collapse: collapse; table-layout: fixed; width: 410pt;\"><col width=\"6\" style=\"width: 5pt;\"><col width=\"373\" style=\"width: 280pt;\"><col class=\"xl63711\" width=\"38\" style=\"width: 29pt;\"><col width=\"121\" style=\"width: 91pt;\"><col width=\"6\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl15711\" width=\"6\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl15711\" width=\"373\" style=\"width: 280pt;\"></td><td class=\"xl63711\" width=\"38\" style=\"width: 29pt;\"></td><td class=\"xl15711\" width=\"121\" style=\"width: 91pt;\"></td><td class=\"xl15711\" width=\"6\" style=\"width: 5pt;\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl66711\">포괄손익계산서<font class=\"font6711\"><sup>(주1)</sup></font></td><td class=\"xl63711\"></td><td class=\"xl65711\">(단위: 원)</td><td class=\"xl15711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\"></td><td class=\"xl63711\"></td><td class=\"xl15711\"></td><td class=\"xl15711\"></td></tr><tr class=\"xl66711\" height=\"62\" style=\"height: 46.8pt;\"><td height=\"62\" class=\"xl66711\" style=\"height: 46.8pt;\"></td><td class=\"xl74711\" width=\"373\" style=\"width: 280pt;\">XYZ 낙농기업 <br>\r\n    포괄손익계산서</td><td class=\"xl67711\">주석</td><td class=\"xl75711\" width=\"121\" style=\"width: 91pt;\">20X1년<br>\r\n    12월 31일로<br>\r\n    종료하는 연도</td><td class=\"xl66711\"></td></tr><tr class=\"xl66711\" height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl66711\" style=\"height: 4.95pt;\"></td><td class=\"xl68711\">　</td><td class=\"xl68711\">　</td><td class=\"xl69711\">　</td><td class=\"xl66711\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl15711\" style=\"height: 4.95pt;\"></td><td class=\"xl15711\"></td><td class=\"xl63711\"></td><td class=\"xl15711\"></td><td class=\"xl15711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\">생산된 우유의 공정가치</td><td class=\"xl63711\"></td><td class=\"xl64711\" align=\"right\">518,240 </td><td class=\"xl15711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\">젖소의 순공정가치 변동에서 발생한 이익</td><td class=\"xl63711\">3</td><td class=\"xl70711\" align=\"right\">39,930 </td><td class=\"xl15711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\"></td><td class=\"xl63711\"></td><td class=\"xl70711\" align=\"right\">558,170 </td><td class=\"xl15711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\">사용된 재고자산</td><td class=\"xl63711\"></td><td class=\"xl64711\" align=\"right\">(137,523)</td><td class=\"xl15711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\">급여</td><td class=\"xl63711\"></td><td class=\"xl64711\" align=\"right\">(127,283)</td><td class=\"xl15711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\">감가상각비</td><td class=\"xl63711\"></td><td class=\"xl64711\" align=\"right\">(15,250)</td><td class=\"xl15711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\">기타영업비용</td><td class=\"xl63711\"></td><td class=\"xl70711\" align=\"right\">(197,092)</td><td class=\"xl15711\"></td></tr><tr class=\"xl66711\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl66711\" style=\"height: 15.6pt;\"></td><td class=\"xl66711\"></td><td class=\"xl67711\"></td><td class=\"xl72711\" align=\"right\" style=\"border-top: none;\">(477,148)</td><td class=\"xl66711\"></td></tr><tr class=\"xl66711\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl66711\" style=\"height: 15.6pt;\"></td><td class=\"xl66711\">영업이익</td><td class=\"xl67711\"></td><td class=\"xl73711\" align=\"right\">81,022 </td><td class=\"xl66711\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl15711\" style=\"height: 15.6pt;\"></td><td class=\"xl15711\">법인세비용</td><td class=\"xl63711\"></td><td class=\"xl64711\" align=\"right\">(43,194)</td><td class=\"xl15711\"></td></tr><tr class=\"xl66711\" height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl66711\" style=\"height: 16.2pt;\"></td><td class=\"xl66711\">당기순이익/포괄이익</td><td class=\"xl67711\"></td><td class=\"xl71711\" align=\"right\">37,828 </td><td class=\"xl66711\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl15711\" style=\"height: 4.95pt;\"></td><td class=\"xl15711\"></td><td class=\"xl63711\"></td><td class=\"xl15711\"></td><td class=\"xl15711\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"6\" style=\"width: 5pt;\"></td><td width=\"373\" style=\"width: 280pt;\"></td><td width=\"38\" style=\"width: 29pt;\"></td><td width=\"121\" style=\"width: 91pt;\"></td><td width=\"6\" style=\"width: 5pt;\"></td></tr></table></div></div></body></html>\n<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Excel.Sheet\"><meta name=\"Generator\" content=\"Microsoft Excel 15\"><link rel=\"File-List\" href=\"1041_ex1_tb03.files/filelist.xml\"><style id=\"1041_ex1_tb03_24452_Styles\">\r\n<!--table\r\n\t{mso-displayed-decimal-separator:\"\\.\";\r\n\tmso-displayed-thousand-separator:\"\\,\";}\r\n.font524452\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.xl1524452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6324452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6424452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6524452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl6624452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:none;\r\n\tborder-bottom:.5pt solid windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl6724452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6824452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6924452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:2.0pt double windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl7024452\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\nruby\r\n\t{ruby-align:left;}\r\nrt\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-char-type:none;}\r\n-->\r\n</style></head><body><div id=\"1041_ex1_tb03_24452\" align=\"center\" x:publishsource=\"Excel\"><div class=\"table\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"543\" style=\"border-collapse: collapse; table-layout: fixed; width: 408pt;\"><col width=\"6\" style=\"width: 5pt;\"><col width=\"194\" style=\"width: 146pt;\"><col width=\"99\" style=\"width: 74pt;\"><col width=\"20\" style=\"width: 15pt;\"><col width=\"99\" style=\"width: 74pt;\"><col width=\"20\" style=\"width: 15pt;\"><col width=\"99\" style=\"width: 74pt;\"><col width=\"6\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1524452\" width=\"6\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl1524452\" width=\"194\" style=\"width: 146pt;\"></td><td class=\"xl1524452\" width=\"99\" style=\"width: 74pt;\"></td><td class=\"xl1524452\" width=\"20\" style=\"width: 15pt;\"></td><td class=\"xl1524452\" width=\"99\" style=\"width: 74pt;\"></td><td class=\"xl1524452\" width=\"20\" style=\"width: 15pt;\"></td><td class=\"xl1524452\" width=\"99\" style=\"width: 74pt;\"></td><td class=\"xl1524452\" width=\"6\" style=\"width: 5pt;\"></td></tr><tr class=\"xl6324452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6324452\" style=\"height: 15.6pt;\"></td><td class=\"xl6324452\">자본변동표</td><td class=\"xl6324452\"></td><td class=\"xl6324452\"></td><td class=\"xl6324452\"></td><td class=\"xl6324452\"></td><td class=\"xl6724452\">(단위: 원)</td><td class=\"xl6324452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1524452\" style=\"height: 15.6pt;\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td></tr><tr class=\"xl6324452\" height=\"42\" style=\"height: 31.95pt;\"><td height=\"42\" class=\"xl6324452\" style=\"height: 31.95pt;\"></td><td class=\"xl6524452\" width=\"194\" style=\"width: 146pt;\">XYZ 낙농기업 <br>\r\n    자본변동표</td><td colspan=\"5\" class=\"xl6624452\" width=\"337\" style=\"width: 252pt;\">20X1년 12월\r\n  31일로<br>\r\n    종료하는 연도</td><td class=\"xl6324452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1524452\" style=\"height: 15.6pt;\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td></tr><tr class=\"xl6324452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6324452\" style=\"height: 15.6pt;\"></td><td class=\"xl6424452\"></td><td class=\"xl6424452\">납입자본</td><td class=\"xl6424452\"></td><td class=\"xl6424452\">이익잉여금</td><td class=\"xl6424452\"></td><td class=\"xl6424452\">계</td><td class=\"xl6324452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1524452\" style=\"height: 15.6pt;\"></td><td class=\"xl1524452\">20X1년 1월 1일 잔액</td><td class=\"xl6824452\" align=\"right\">1,000,000 </td><td class=\"xl6824452\"></td><td class=\"xl6824452\" align=\"right\">865,000 </td><td class=\"xl6824452\"></td><td class=\"xl7024452\" align=\"right\">1,865,000 </td><td class=\"xl1524452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl1524452\" style=\"height: 15.6pt;\"></td><td class=\"xl1524452\">당기순이익/포괄이익</td><td class=\"xl6824452\"></td><td class=\"xl6824452\"></td><td class=\"xl6824452\" align=\"right\">37,828 </td><td class=\"xl6824452\"></td><td class=\"xl7024452\" align=\"right\">37,828 </td><td class=\"xl1524452\"></td></tr><tr class=\"xl6324452\" height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl6324452\" style=\"height: 16.2pt;\"></td><td class=\"xl6324452\">20X1년 12월 31일 잔액</td><td class=\"xl6924452\" align=\"right\">1,000,000 </td><td class=\"xl7024452\"></td><td class=\"xl6924452\" align=\"right\">902,828 </td><td class=\"xl7024452\"></td><td class=\"xl6924452\" align=\"right\">1,902,828 </td><td class=\"xl6324452\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl1524452\" style=\"height: 4.95pt;\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td><td class=\"xl1524452\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"6\" style=\"width: 5pt;\"></td><td width=\"194\" style=\"width: 146pt;\"></td><td width=\"99\" style=\"width: 74pt;\"></td><td width=\"20\" style=\"width: 15pt;\"></td><td width=\"99\" style=\"width: 74pt;\"></td><td width=\"20\" style=\"width: 15pt;\"></td><td width=\"99\" style=\"width: 74pt;\"></td><td width=\"6\" style=\"width: 5pt;\"></td></tr></table></div></div></body></html>\n<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Excel.Sheet\"><meta name=\"Generator\" content=\"Microsoft Excel 15\"><link rel=\"File-List\" href=\"1041_ex1_tb04.files/filelist.xml\"><style id=\"1041_ex1_tb04_7452_Styles\">\n<!--table\n\t{mso-displayed-decimal-separator:\"\\.\";\n\tmso-displayed-thousand-separator:\"\\,\";}\n.font57452\n\t{color:windowtext;\n\tfont-size:8.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;}\n.font67452\n\t{color:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;}\n.xl157452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl637452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:center;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl647452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl657452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:right;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl667452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:right;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl677452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:general;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl687452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:center;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl697452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:right;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl707452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:center;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl717452\n\t{color:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:General;\n\ttext-align:left;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;\n\tpadding-left:18px;\n\tmso-char-indent-count:1;}\n.xl727452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\";\n\ttext-align:general;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl737452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\";\n\ttext-align:general;\n\tvertical-align:middle;\n\tborder-top:none;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl747452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\";\n\ttext-align:general;\n\tvertical-align:middle;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl757452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\";\n\ttext-align:general;\n\tvertical-align:middle;\n\tborder-top:.5pt solid windowtext;\n\tborder-right:none;\n\tborder-bottom:.5pt solid windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\n.xl767452\n\t{padding-top:1px;\n\tpadding-right:1px;\n\tpadding-left:1px;\n\tmso-ignore:padding;\n\tcolor:black;\n\tfont-size:10.0pt;\n\tfont-weight:700;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\";\n\ttext-align:general;\n\tvertical-align:middle;\n\tborder-top:.5pt solid windowtext;\n\tborder-right:none;\n\tborder-bottom:2.0pt double windowtext;\n\tborder-left:none;\n\tmso-background-source:auto;\n\tmso-pattern:auto;\n\twhite-space:nowrap;}\nruby\n\t{ruby-align:left;}\nrt\n\t{color:windowtext;\n\tfont-size:8.0pt;\n\tfont-weight:400;\n\tfont-style:normal;\n\ttext-decoration:none;\n\tfont-family:\"맑은 고딕\", monospace;\n\tmso-font-charset:129;\n\tmso-char-type:none;}\n-->\n</style></head><body><div id=\"1041_ex1_tb04_7452\" align=\"center\" x:publishsource=\"Excel\"><div class=\"table\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"542\" style=\"border-collapse: collapse; table-layout: fixed; width: 409pt;\"><col width=\"6\" style=\"width: 5pt;\"><col width=\"333\" style=\"width: 250pt;\"><col class=\"xl637452\" width=\"38\" span=\"2\" style=\"width: 29pt;\"><col width=\"121\" style=\"width: 91pt;\"><col width=\"6\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl157452\" width=\"6\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl157452\" width=\"333\" style=\"width: 250pt;\"></td><td class=\"xl637452\" width=\"38\" style=\"width: 29pt;\"></td><td class=\"xl637452\" width=\"38\" style=\"width: 29pt;\"></td><td class=\"xl157452\" width=\"121\" style=\"width: 91pt;\"></td><td class=\"xl157452\" width=\"6\" style=\"width: 5pt;\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl647452\">현금흐름표<font class=\"font67452\"><sup>(주2)</sup></font></td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl657452\">(단위: 원)</td><td class=\"xl157452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl157452\"></td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl157452\"></td><td class=\"xl157452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl647452\">XYZ 낙농기업<span>&nbsp;</span></td><td rowspan=\"2\" class=\"xl707452\">주석</td><td class=\"xl647452\"></td><td class=\"xl667452\">20x1년 12월 31일로</td><td class=\"xl157452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl647452\">현금흐름표</td><td class=\"xl647452\"></td><td class=\"xl667452\">종료하는 연도</td><td class=\"xl157452\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl157452\" style=\"height: 4.95pt;\"></td><td class=\"xl677452\">　</td><td class=\"xl687452\">　</td><td class=\"xl687452\">　</td><td class=\"xl697452\">　</td><td class=\"xl157452\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl157452\" style=\"height: 4.95pt;\"></td><td class=\"xl157452\"></td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl157452\"></td><td class=\"xl157452\"></td></tr><tr class=\"xl647452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl647452\" style=\"height: 15.6pt;\"></td><td class=\"xl647452\">영업활동 현금흐름</td><td class=\"xl707452\"></td><td class=\"xl707452\"></td><td class=\"xl647452\"></td><td class=\"xl647452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl157452\">우유의 매출에 따른 현금유입</td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl727452\" align=\"right\">498,027 </td><td class=\"xl157452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl157452\">젖소의 매각에 따른 현금유입</td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl727452\" align=\"right\">97,913 </td><td class=\"xl157452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl157452\">물품공급자와 종업원에 대한 현금유출</td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl727452\" align=\"right\">(460,831)</td><td class=\"xl157452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl157452\">젖소 매입에 따른 현금유출</td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl737452\" align=\"right\">(23,815)</td><td class=\"xl157452\"></td></tr><tr class=\"xl647452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl647452\" style=\"height: 15.6pt;\"></td><td class=\"xl647452\"></td><td class=\"xl707452\"></td><td class=\"xl707452\"></td><td class=\"xl747452\" align=\"right\">111,294 </td><td class=\"xl647452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl157452\">납부한 법인세</td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl737452\" align=\"right\">(43,194)</td><td class=\"xl157452\"></td></tr><tr class=\"xl647452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl647452\" style=\"height: 15.6pt;\"></td><td class=\"xl717452\">&nbsp;&nbsp;&nbsp;영업활동 순현금</td><td class=\"xl707452\"></td><td class=\"xl707452\"></td><td class=\"xl747452\" align=\"right\">68,100 </td><td class=\"xl647452\"></td></tr><tr class=\"xl647452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl647452\" style=\"height: 15.6pt;\"></td><td class=\"xl647452\">투자활동 현금흐름</td><td class=\"xl707452\"></td><td class=\"xl707452\"></td><td class=\"xl747452\"></td><td class=\"xl647452\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl157452\" style=\"height: 15.6pt;\"></td><td class=\"xl157452\">유형자산의 취득</td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl737452\" align=\"right\">(68,100)</td><td class=\"xl157452\"></td></tr><tr class=\"xl647452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl647452\" style=\"height: 15.6pt;\"></td><td class=\"xl717452\">&nbsp;&nbsp;&nbsp;투자활동 순현금</td><td class=\"xl707452\"></td><td class=\"xl707452\"></td><td class=\"xl757452\" align=\"right\" style=\"border-top: none;\">(68,100)</td><td class=\"xl647452\"></td></tr><tr class=\"xl647452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl647452\" style=\"height: 15.6pt;\"></td><td class=\"xl647452\">현금의 순증가</td><td class=\"xl707452\"></td><td class=\"xl707452\"></td><td class=\"xl747452\" align=\"right\">0 </td><td class=\"xl647452\"></td></tr><tr class=\"xl647452\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl647452\" style=\"height: 15.6pt;\"></td><td class=\"xl647452\">기초의 현금</td><td class=\"xl707452\"></td><td class=\"xl707452\"></td><td class=\"xl747452\" align=\"right\">10,000 </td><td class=\"xl647452\"></td></tr><tr class=\"xl647452\" height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl647452\" style=\"height: 16.2pt;\"></td><td class=\"xl647452\">기말의 현금</td><td class=\"xl707452\"></td><td class=\"xl707452\"></td><td class=\"xl767452\" align=\"right\">10,000 </td><td class=\"xl647452\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl157452\" style=\"height: 4.95pt;\"></td><td class=\"xl157452\"></td><td class=\"xl637452\"></td><td class=\"xl637452\"></td><td class=\"xl157452\"></td><td class=\"xl157452\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"6\" style=\"width: 5pt;\"></td><td width=\"333\" style=\"width: 250pt;\"></td><td width=\"38\" style=\"width: 29pt;\"></td><td width=\"38\" style=\"width: 29pt;\"></td><td width=\"121\" style=\"width: 91pt;\"></td><td width=\"6\" style=\"width: 5pt;\"></td></tr></table></div></div></body></html>\n<b>주석</b>\n<div class=\"idt-3 comment cmt2\"><div>⑴</div><div>소비용 생물자산과 생산용 생물자산으로 구분하거나 성숙 생물자산과 미성숙 생물자산으로 구분하는 것이 적절한 경우, 각 생물자산 집단에 대한 계량적 설명을 제공하는 것이 권장되지만 의무는 아니다. 기업은 그러한 구분 기준을 공시한다.</div></div>\n<div class=\"idt-3 comment\"><div>(주1)</div><div>이 포괄손익계산서는 비용의 성격별로 분류한 비용 분석을 표시한다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div> ‘재무제표 표시’는 포괄손익계산서나 주석에 비용의 성격별 또는 기능별로 분류한 비용 분석을 표시할 것을 요구한다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">기업회계기준서 제1001호</span></div>는 포괄손익계산서에 비용 분석을 표시할 것을 권장한다.\n  </div></div>\n<div class=\"idt-3 comment\"><div>(주2)</div><div>이 현금흐름표는 직접법을 사용하여 영업활동 현금흐름을 보고한다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">현금흐름표</span><span class=\"std-finder\">기업회계기준서 제1007호</span></div> ‘현금흐름표'는 직접법이나 간접법을 사용하여 영업활동으로 인한 현금흐름을 보고하도록 요구한다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">현금흐름표</span><span class=\"std-finder\">기업회계기준서 제1007호</span></div>는 직접법을 권장한다.\n  </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"><b>1</b></div><div class=\"para-num-item-para-con\"><b>영업과 주요 활동</b></div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\">XYZ 낙농기업(이하 ‘기업’)은 다양한 고객에게 공급되는 우유를 생산하고 있습니다. 20X1년 12월 31일 현재 기업은 우유 생산이 가능한 젖소(성숙 자산) 419마리와 미래에 우유를 생산할 목적으로 사육하는 어린 암소(미성숙 자산) 137마리를 보유하고 있습니다. 기업은 20X1년 12월 31일로 종료하는 연도에 순공정가치가 518,240원(착유시점)인 우유 157,584kg을 생산했습니다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"><b>2</b></div><div class=\"para-num-item-para-con\"><b>회계 정책</b></div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\"><b>젖소와 우유</b></div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\">젖소는 순공정가치로 측정합니다. 젖소의 공정가치는 젖소에 대한 주된 (또는 가장 유리한) 시장에서 연령, 품종, 유전적 장점이 유사한 젖소의 시장가격에 근거하여 결정합니다. 우유는 착유시점의 순공정가치로 최초로 측정됩니다. 우유의 공정가치는 우유에 대한 주된 (또는 가장 유리한) 시장에서 해당 지역의 공시가격에 근거하여 결정합니다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"><b>3</b></div><div class=\"para-num-item-para-con\"><b>생물자산</b></div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\"><div class=\"sc-drlKqa cRWPOO temp\" data-key=\"/1041_ex1_tb05.htm\"><html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Excel.Sheet\"><meta name=\"Generator\" content=\"Microsoft Excel 15\"><link rel=\"File-List\" href=\"1041_ex1_tb05.files/filelist.xml\"><style id=\"1041_ex1_tb05_6361_Styles\">\r\n<!--table\r\n\t{mso-displayed-decimal-separator:\"\\.\";\r\n\tmso-displayed-thousand-separator:\"\\,\";}\r\n.font56361\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.font66361\r\n\t{color:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.xl156361\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl636361\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl646361\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl656361\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl666361\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl676361\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl686361\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\";\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid windowtext;\r\n\tborder-right:none;\r\n\tborder-bottom:2.0pt double windowtext;\r\n\tborder-left:none;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\nruby\r\n\t{ruby-align:left;}\r\nrt\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-char-type:none;}\r\n-->\r\n</style></head><body><div id=\"1041_ex1_tb05_6361\" align=\"center\" x:publishsource=\"Excel\"><div class=\"table\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"594\" style=\"border-collapse: collapse; table-layout: fixed; width: 447pt;\"><col width=\"6\" style=\"width: 5pt;\"><col width=\"461\" style=\"width: 346pt;\"><col width=\"121\" style=\"width: 91pt;\"><col width=\"6\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl156361\" width=\"6\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl156361\" width=\"461\" style=\"width: 346pt;\"></td><td class=\"xl156361\" width=\"121\" style=\"width: 91pt;\"></td><td class=\"xl156361\" width=\"6\" style=\"width: 5pt;\"></td></tr><tr class=\"xl156361\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl156361\" style=\"height: 15.6pt;\"></td><td class=\"xl636361\"></td><td class=\"xl656361\">(단위: 원)</td><td class=\"xl156361\"></td></tr><tr class=\"xl156361\" height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl156361\" style=\"height: 4.95pt;\"></td><td class=\"xl156361\"></td><td class=\"xl656361\"></td><td class=\"xl156361\"></td></tr><tr class=\"xl636361\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl636361\" style=\"height: 15.6pt;\"></td><td class=\"xl636361\">젖소의 장부금액 변동</td><td class=\"xl646361\">20X1<span>&nbsp;</span></td><td class=\"xl636361\"></td></tr><tr class=\"xl636361\" height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl636361\" style=\"height: 15.6pt;\"></td><td class=\"xl636361\">20X1년 1월 1일 장부금액</td><td class=\"xl666361\" align=\"right\">459,570 </td><td class=\"xl636361\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl156361\" style=\"height: 15.6pt;\"></td><td class=\"xl156361\">매입으로 인한 증가</td><td class=\"xl676361\" align=\"right\">26,250 </td><td class=\"xl156361\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl156361\" style=\"height: 15.6pt;\"></td><td class=\"xl156361\">물리적 변화에 기인하는 순공정가치의 변동에서 발생한 이익<font class=\"font66361\"><sup>(주3)</sup></font></td><td class=\"xl676361\" align=\"right\">15,350 </td><td class=\"xl156361\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl156361\" style=\"height: 15.6pt;\"></td><td class=\"xl156361\">가격변동에 기인하는 순공정가치의 변동에서 발생한 이익<font class=\"font66361\"><sup>(주4)</sup></font></td><td class=\"xl676361\" align=\"right\">24,580 </td><td class=\"xl156361\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl156361\" style=\"height: 15.6pt;\"></td><td class=\"xl156361\">매각으로 인한 감소</td><td class=\"xl676361\" align=\"right\">(100,700)</td><td class=\"xl156361\"></td></tr><tr class=\"xl636361\" height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl636361\" style=\"height: 16.2pt;\"></td><td class=\"xl636361\">20X1년 12월 31일 장부금액</td><td class=\"xl686361\" align=\"right\">425,050 </td><td class=\"xl636361\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl156361\" style=\"height: 4.95pt;\"></td><td class=\"xl156361\"></td><td class=\"xl156361\"></td><td class=\"xl156361\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"6\" style=\"width: 5pt;\"></td><td width=\"461\" style=\"width: 346pt;\"></td><td width=\"121\" style=\"width: 91pt;\"></td><td width=\"6\" style=\"width: 5pt;\"></td></tr></table></div></div></body></html></div></div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주3)</div><div class=\"para-num-item-para-con\">이 기준서는 순공정가치의 증가분을 물리적 변화에 기인하는 부분과 가격변동에 기인하는 부분으로 구분할 것을 권장하지만 의무는 아니다.</div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주4)</div><div class=\"para-num-item-para-con\">이 기준서는 순공정가치의 증가분을 물리적 변화에 기인하는 부분과 가격변동에 기인하는 부분으로 구분할 것을 권장하지만 의무는 아니다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"><b>4</b></div><div class=\"para-num-item-para-con\"><b>재무위험 관리 전략</b></div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\">기업은 우유가격의 변동으로부터 발생하는 재무위험에 노출되어 있다. 기업은 예측가능한 미래에 우유가격이 유의적으로 하락할 것이라고 예상하지는 않으며 따라서 우유가격의 하락에 따른 위험을 관리하기 위하여 파생상품이나 그 밖의 계약은 체결하지 않고 있습니다. 기업은 적극적인 재무위험 관리의 필요성을 고려하기 위해 우유가격에 대한 전망을 주기적으로 검토하고 있습니다.</div></div>",
       "cross_references": [
         {
@@ -1867,25 +1867,112 @@
       "section_id": "koJRvv",
       "section_title": "도입",
       "toc_path": "결론도출근거|IAS 41 ‘농림어업(Agriculture)’의 결론도출근거|도입",
-      "text": "IASB가 2014년 6월 ‘농림어업: 생산용식물\n(주5)(IAS 16 및 IAS 41의 개정)’의 공표를 포함하여 IAS 41을 개정하기 위해 결론을 이끌어 내는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IASB 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중을 두고 다루었다.\n[각주 (주5)] 2014년 6월에 공표한 ‘농림어업: 생산용식물(IAS 16 및 IAS 41의 개정)’은 생산용식물의 정의를 도입하였다. 이 개정에 따라 생산용식물의 정의를 충족하는 생물자산은 IAS 16에 따라 유형자산으로 회계처리한다. 그리고 IAS 16의 문단 BC38~BC117에서 이 개정 내용을 더 포괄적으로 논의하고 있다. 생산용식물에서 자라는 생산물은 IAS 41의 적용범위에 포함된다. IAS 41에만 해당하는 개정 내용의 요약은 이 기준서의 문단 BC4A~BC4E에서 논의하고 있다.",
+      "text": "IASB가 2014년 6월 ‘농림어업: 생산용식물(주5)(IAS 16 및 IAS 41의 개정)’의 공표를 포함하여 IAS 41을 개정하기 위해 결론을 이끌어 내는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IASB 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중을 두고 다루었다.\n[각주 (주5)] 2014년 6월에 공표한 ‘농림어업: 생산용식물(IAS 16 및 IAS 41의 개정)’은 생산용식물의 정의를 도입하였다. 이 개정에 따라 생산용식물의 정의를 충족하는 생물자산은 IAS 16에 따라 유형자산으로 회계처리한다. 그리고 IAS 16의 문단 BC38~BC117에서 이 개정 내용을 더 포괄적으로 논의하고 있다. 생산용식물에서 자라는 생산물은 IAS 41의 적용범위에 포함된다. IAS 41에만 해당하는 개정 내용의 요약은 이 기준서의 문단 BC4A~BC4E에서 논의하고 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IASB가 2014년 6월 ‘농림어업: 생산용식물\n  <sup data-id=\"(주5)\">(주5)</sup>(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div> 및 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">IAS 41</span></div>의 개정)’의 공표를 포함하여 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">IAS 41</span></div>을 개정하기 위해 결론을 이끌어 내는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IASB 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중을 두고 다루었다.\n</div><div class=\"idt-1 comment\"><div>(주5)</div><div>2014년 6월에 공표한 ‘농림어업: 생산용식물(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div> 및 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">IAS 41</span></div>의 개정)’은 생산용식물의 정의를 도입하였다. 이 개정에 따라 생산용식물의 정의를 충족하는 생물자산은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 따라 유형자산으로 회계처리한다. 그리고 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>의 \n    <span class=\"mundan-finder\">문단 BC38~BC117</span>에서 이 개정 내용을 더 포괄적으로 논의하고 있다. 생산용식물에서 자라는 생산물은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">IAS 41</span></div>의 적용범위에 포함된다. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">IAS 41</span></div>에만 해당하는 개정 내용의 요약은 이 기준서의 \n    <span class=\"mundan-finder\">문단 BC4A~BC4E</span>에서 논의하고 있다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 BC38~BC117",
-          "standard_number": "1041",
+          "standard_number": "1016",
           "standard_title": null,
           "range": "BC38~BC117",
           "paragraph_ids": [
-            "BC38~BC117"
+            "BC38",
+            "BC39",
+            "BC40",
+            "BC41",
+            "BC42",
+            "BC43",
+            "BC44",
+            "BC45",
+            "BC46",
+            "BC47",
+            "BC48",
+            "BC49",
+            "BC50",
+            "BC51",
+            "BC52",
+            "BC53",
+            "BC54",
+            "BC55",
+            "BC56",
+            "BC57",
+            "BC58",
+            "BC59",
+            "BC60",
+            "BC61",
+            "BC62",
+            "BC63",
+            "BC64",
+            "BC65",
+            "BC66",
+            "BC67",
+            "BC68",
+            "BC69",
+            "BC70",
+            "BC71",
+            "BC72",
+            "BC73",
+            "BC74",
+            "BC75",
+            "BC76",
+            "BC77",
+            "BC78",
+            "BC79",
+            "BC80",
+            "BC81",
+            "BC82",
+            "BC83",
+            "BC84",
+            "BC85",
+            "BC86",
+            "BC87",
+            "BC88",
+            "BC89",
+            "BC90",
+            "BC91",
+            "BC92",
+            "BC93",
+            "BC94",
+            "BC95",
+            "BC96",
+            "BC97",
+            "BC98",
+            "BC99",
+            "BC100",
+            "BC101",
+            "BC102",
+            "BC103",
+            "BC104",
+            "BC105",
+            "BC106",
+            "BC107",
+            "BC108",
+            "BC109",
+            "BC110",
+            "BC111",
+            "BC112",
+            "BC113",
+            "BC114",
+            "BC115",
+            "BC116",
+            "BC117"
           ]
         },
         {
@@ -1922,7 +2009,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -1942,8 +2029,24 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": "5",
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         }
@@ -1962,8 +2065,24 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": "5",
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         }
@@ -1982,8 +2101,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -2013,7 +2140,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -2023,7 +2150,7 @@
           "display_text": "문단 10(3)과 30",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "10(3)과 30",
+          "range": "10(3),30",
           "paragraph_ids": [
             "10",
             "30"
@@ -2051,7 +2178,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -2076,13 +2203,13 @@
       "section_id": "yCuZ11",
       "section_title": "할인율(문단 20) (2008년 개정)",
       "toc_path": "결론도출근거|IAS 41 ‘농림어업(Agriculture)’의 결론도출근거|인식과 측정|할인율(문단 20) (2008년 개정)",
-      "text": "2007년에 시작된 연차개선 과제의 일부로 IASB는 공정가치\n(주6)를 측정할 때 문단 20에 있는 세전 할인율의 사용을 요구하는 것이 적절한지를 재고하였다. IASB는 시장참여자들이 자산이나 부채의 가격을 결정할 때 고려하는 속성들(세금 속성 포함)을 공정가치 측정에 고려하여야 한다는 데 주목하였다.\n[각주 (주6)] 2011년 5월에 발표된 IFRS 13은 공정가치를 정의하고 공정가치측정 요구사항을 포함한다.",
+      "text": "2007년에 시작된 연차개선 과제의 일부로 IASB는 공정가치(주6)를 측정할 때 문단 20에 있는 세전 할인율의 사용을 요구하는 것이 적절한지를 재고하였다. IASB는 시장참여자들이 자산이나 부채의 가격을 결정할 때 고려하는 속성들(세금 속성 포함)을 공정가치 측정에 고려하여야 한다는 데 주목하였다.\n[각주 (주6)] 2011년 5월에 발표된 IFRS 13은 공정가치를 정의하고 공정가치측정 요구사항을 포함한다.",
       "html": "2007년에 시작된 연차개선 과제의 일부로 IASB는 공정가치\n  <sup>(주6)</sup>를 측정할 때 \n  <span class=\"mundan-finder\">문단 20</span>에 있는 세전 할인율의 사용을 요구하는 것이 적절한지를 재고하였다. IASB는 시장참여자들이 자산이나 부채의 가격을 결정할 때 고려하는 속성들(세금 속성 포함)을 공정가치 측정에 고려하여야 한다는 데 주목하였다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주6)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치를 정의하고 공정가치측정 요구사항을 포함한다.        \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
@@ -2117,7 +2244,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
@@ -2159,8 +2286,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         },
@@ -2202,7 +2337,7 @@
           "display_text": "문단 BC8과 BC9",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "BC8과 BC9",
+          "range": "BC8,BC9",
           "paragraph_ids": [
             "BC8",
             "BC9"
@@ -2223,7 +2358,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -2265,8 +2400,16 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         },
@@ -2283,7 +2426,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 B14",
-          "standard_number": "1041",
+          "standard_number": "1113",
           "standard_title": null,
           "range": "B14",
           "paragraph_ids": [
@@ -2326,7 +2469,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -2356,7 +2499,7 @@
         {
           "type": "standard",
           "display_text": "IAS 40",
-          "standard_number": null,
+          "standard_number": "40",
           "standard_title": "투자부동산",
           "range": null,
           "paragraph_ids": []
@@ -2370,14 +2513,46 @@
       "section_id": "WSDgQ4",
       "section_title": "농림어업에 대한 국제회계기준의 필요성",
       "toc_path": "결론도출근거|IAS 41 ‘농림어업(Agriculture)’의 IASC 결론도출근거|농림어업에 대한 국제회계기준의 필요성",
-      "text": "다음과 같은 이유로 농림어업활동에 대한 다양한 회계처리가 발생하였다. ⑴ 이 기준서를 제정하기 전에는 농림어업활동 관련 자산과 이러한 자산의 변동은 국제회계기준의 적용범위에서 제외되었다.\n㈎ IAS 2에서는 관련 산업의 합리적인 관행에 따라 순실현가능가치로 측정되는 경우에는 목축과 농림어업제품 등 ‘생산자’의 재고자산은 제외하였다.\n㈏ IAS 16은 ‘조림업 및 유사한 재생 자연자원’에 적용하지 않았다.\n㈐ IAS 18(주9)은 ‘가축의 자연적 증가 및 농림어업제품’으로부터 발생하는 수익은 다루지 않았다.\n㈑ IAS 40은 ‘조림업 및 유사한 재생 자연자원’에 적용하지 않았다. ⑵ 각 국가의 회계기준제정기구에 의해 제정된 농림어업활동을 위한 회계지침은 일반적으로 당해 국가에게 유의적인 농림어업활동의 형태와 관련된 특정 회계논제를 해결하기 위해 제정되어 단편적이다. ⑶ 생물자산의 실질을 변화시키는 생물적 변환(성장, 퇴화, 생산 그리고 생식)과 관련된 중요한 사건을 역사적원가와 실현에 기초한 회계모형에 따라 다루는 것이 특히 어렵기 때문에, 전통적 회계모형을 적용할 경우 농림어업활동의 성격으로 인해 불확실성이나 상충이 야기된다.\n[각주 (주9)] 2014년 5월에 공표한 IFRS 15는 IAS 18을 대체하였다. 또 IFRS 15는 ‘가축의 자연적 증가와 농림어업 제품’에서 생기는 수익은 다루지 않는다.",
+      "text": "다음과 같은 이유로 농림어업활동에 대한 다양한 회계처리가 발생하였다.\n(1) 이 기준서를 제정하기 전에는 농림어업활동 관련 자산과 이러한 자산의 변동은 국제회계기준의 적용범위에서 제외되었다.\n(가) IAS 2에서는 관련 산업의 합리적인 관행에 따라 순실현가능가치로 측정되는 경우에는 목축과 농림어업제품 등 ‘생산자’의 재고자산은 제외하였다.\n(나) IAS 16은 ‘조림업 및 유사한 재생 자연자원’에 적용하지 않았다.\n(다) IAS 18(주9)은 ‘가축의 자연적 증가 및 농림어업제품’으로부터 발생하는 수익은 다루지 않았다.\n(라) IAS 40은 ‘조림업 및 유사한 재생 자연자원’에 적용하지 않았다.\n(2) 각 국가의 회계기준제정기구에 의해 제정된 농림어업활동을 위한 회계지침은 일반적으로 당해 국가에게 유의적인 농림어업활동의 형태와 관련된 특정 회계논제를 해결하기 위해 제정되어 단편적이다.\n(3) 생물자산의 실질을 변화시키는 생물적 변환(성장, 퇴화, 생산 그리고 생식)과 관련된 중요한 사건을 역사적원가와 실현에 기초한 회계모형에 따라 다루는 것이 특히 어렵기 때문에, 전통적 회계모형을 적용할 경우 농림어업활동의 성격으로 인해 불확실성이나 상충이 야기된다.\n[각주 (주9)] 2014년 5월에 공표한 IFRS 15는 IAS 18을 대체하였다. 또 IFRS 15는 ‘가축의 자연적 증가와 농림어업 제품’에서 생기는 수익은 다루지 않는다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"B4\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">B4</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">다음과 같은 이유로 농림어업활동에 대한 다양한 회계처리가 발생하였다.</div><div class=\"idt-1\"><div>⑴</div><div>이 기준서를 제정하기 전에는 농림어업활동 관련 자산과 이러한 자산의 변동은 국제회계기준의 적용범위에서 제외되었다.</div></div><div class=\"idt-2\"><div>㈎</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>에서는 관련 산업의 합리적인 관행에 따라 순실현가능가치로 측정되는 경우에는 목축과 농림어업제품 등 ‘생산자’의 재고자산은 제외하였다.\n  </div></div><div class=\"idt-2\"><div>㈏</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>은 ‘조림업 및 유사한 재생 자연자원’에 적용하지 않았다.\n  </div></div><div class=\"idt-2\"><div>㈐</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)수익</span><span class=\"std-finder\">IAS 18</span></div><sup data-id=\"(주9)\">(주9)</sup>은 ‘가축의 자연적 증가 및 농림어업제품’으로부터 발생하는 수익은 다루지 않았다.\n  </div></div><div class=\"idt-3 comment\"><div>(주9)</div><div>2014년 5월에 공표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">IFRS 15</span></div>는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)수익</span><span class=\"std-finder\">IAS 18</span></div>을 대체하였다. 또 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">고객과의 계약에서 생기는 수익</span><span class=\"std-finder\">IFRS 15</span></div>는 ‘가축의 자연적 증가와 농림어업 제품’에서 생기는 수익은 다루지 않는다.\n  </div></div><div class=\"idt-2\"><div>㈑</div><div><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">투자부동산</span><span class=\"std-finder\">IAS 40</span></div>은 ‘조림업 및 유사한 재생 자연자원’에 적용하지 않았다.\n  </div></div><div class=\"idt-1\"><div>⑵</div><div>각 국가의 회계기준제정기구에 의해 제정된 농림어업활동을 위한 회계지침은 일반적으로 당해 국가에게 유의적인 농림어업활동의 형태와 관련된 특정 회계논제를 해결하기 위해 제정되어 단편적이다.</div></div><div class=\"idt-1\"><div>⑶</div><div>생물자산의 실질을 변화시키는 생물적 변환(성장, 퇴화, 생산 그리고 생식)과 관련된 중요한 사건을 역사적원가와 실현에 기초한 회계모형에 따라 다루는 것이 특히 어렵기 때문에, 전통적 회계모형을 적용할 경우 농림어업활동의 성격으로 인해 불확실성이나 상충이 야기된다.</div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 18",
+          "standard_number": "18",
+          "standard_title": "(구)수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 15",
+          "standard_number": "15",
+          "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 40",
+          "standard_number": "40",
+          "standard_title": "투자부동산",
           "range": null,
           "paragraph_ids": []
         }
@@ -2423,14 +2598,22 @@
       "section_id": "GLqykV",
       "section_title": "적용범위",
       "toc_path": "결론도출근거|IAS 41 ‘농림어업(Agriculture)’의 IASC 결론도출근거|적용범위",
-      "text": "무엇보다도 이 기준서는 생물자산의 회계처리와 기업의 생물자산에서 수확한 수확물의 수확시점의 최초 측정에 관한 회계처리를 규정한다. 그러나 IASC는 역사적원가 제도\n(주10)에 따른 재고자산의 회계처리를 다루고 있는 IAS 2의 부분 개정이 적절하다고 여기지 않으므로, 이 기준서는 수확시점 후 수확물의 가공과정에 대해서는 규정하지 아니한다. 수확시점 후 가공과정은 IAS 2 또는 적용가능한 다른 국제회계기준에 따라 회계처리 한다. 예를 들어, 기업이 원목\n(주11)을 수확하고 이를 기업의 자가사용 건물 건축을 위해 사용하기로 결정하는 경우 이 원목의 회계처리에는 IAS 16을 적용한다.\n[각주 (주10)] ‘역사적원가 제도’라는 용어는 2003년 12월에 IAS 2의 개정으로 인해 더 이상 적용할 수 없다.\n[각주 (주11)] 2008년 5월에 발표된 IFRS 연차개선에 포함된 IASB의 개정에 따라 ‘원목’은 가공되지 않은 수확물의 예가 아니라 가공품의 예이다.",
+      "text": "무엇보다도 이 기준서는 생물자산의 회계처리와 기업의 생물자산에서 수확한 수확물의 수확시점의 최초 측정에 관한 회계처리를 규정한다. 그러나 IASC는 역사적원가 제도(주10)에 따른 재고자산의 회계처리를 다루고 있는 IAS 2의 부분 개정이 적절하다고 여기지 않으므로, 이 기준서는 수확시점 후 수확물의 가공과정에 대해서는 규정하지 아니한다. 수확시점 후 가공과정은 IAS 2 또는 적용가능한 다른 국제회계기준에 따라 회계처리 한다. 예를 들어, 기업이 원목(주11)을 수확하고 이를 기업의 자가사용 건물 건축을 위해 사용하기로 결정하는 경우 이 원목의 회계처리에는 IAS 16을 적용한다.\n[각주 (주10)] ‘역사적원가 제도’라는 용어는 2003년 12월에 IAS 2의 개정으로 인해 더 이상 적용할 수 없다.\n[각주 (주11)] 2008년 5월에 발표된 IFRS 연차개선에 포함된 IASB의 개정에 따라 ‘원목’은 가공되지 않은 수확물의 예가 아니라 가공품의 예이다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"B8\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">B8</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">무엇보다도 이 기준서는 생물자산의 회계처리와 기업의 생물자산에서 수확한 수확물의 수확시점의 최초 측정에 관한 회계처리를 규정한다. 그러나 IASC는 역사적원가 제도\n  <sup data-id=\"(주10)\">(주10)</sup>에 따른 재고자산의 회계처리를 다루고 있는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>의 부분 개정이 적절하다고 여기지 않으므로, 이 기준서는 수확시점 후 수확물의 가공과정에 대해서는 규정하지 아니한다. 수확시점 후 가공과정은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div> 또는 적용가능한 다른 국제회계기준에 따라 회계처리 한다. 예를 들어, 기업이 원목\n  <sup data-id=\"(주11)\">(주11)</sup>을 수확하고 이를 기업의 자가사용 건물 건축을 위해 사용하기로 결정하는 경우 이 원목의 회계처리에는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>을 적용한다.\n</div><div class=\"idt-1 comment\"><div>(주10)</div><div>‘역사적원가 제도’라는 용어는 2003년 12월에 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>의 개정으로 인해 더 이상 적용할 수 없다.\n  </div></div><div class=\"idt-1 comment\"><div>(주11)</div><div>2008년 5월에 발표된 \n    <i>IFRS 연차개선</i>에 포함된 IASB의 개정에 따라 ‘원목’은 가공되지 않은 수확물의 예가 아니라 가공품의 예이다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -2480,7 +2663,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -2502,9 +2685,16 @@
           "display_text": "문단 B47~54",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "B47~54",
+          "range": "B47~B54",
           "paragraph_ids": [
-            "B47~54"
+            "B47",
+            "B48",
+            "B49",
+            "B50",
+            "B51",
+            "B52",
+            "B53",
+            "B54"
           ]
         },
         {
@@ -2512,9 +2702,19 @@
           "display_text": "B63~73",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "B63~73",
+          "range": "B63~B73",
           "paragraph_ids": [
-            "B63~73"
+            "B63",
+            "B64",
+            "B65",
+            "B66",
+            "B67",
+            "B68",
+            "B69",
+            "B70",
+            "B71",
+            "B72",
+            "B73"
           ]
         }
       ],
@@ -2609,8 +2809,24 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         }
@@ -2640,7 +2856,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
@@ -2698,13 +2914,13 @@
       "section_id": "GBKS3B",
       "section_title": "공정가치 측정시 서열체계",
       "toc_path": "결론도출근거|IAS 41 ‘농림어업(Agriculture)’의 IASC 결론도출근거|측정|생물자산|공정가치 측정시 서열체계",
-      "text": "이 기준서는 생물자산의 활성시장이 존재하는 경우 그 시장의 공시가격이 그 자산의 공정가치를 결정하는 적절한 기준이라고 규정한다. 활성시장이 존재하지 않는 경우에는 이용가능할 경우 시장에서 결정된 가격이나 가치(가장 최근의 시장 거래 가격 등)를 사용한다. 그러나 상황에 따라서는 현재 상태에 있는 생물자산에 대한 시장에서 결정된 가격이나 가치가 이용가능하지 않을 수 있다. 이러한 상황에서는 당해 자산의 기대 순현금흐름\n(주15)의 현재가치를 사용하도록 이 기준서는 명시한다.\n[각주 (주15)] 개정전 IAS 41의 문단 20은 공정가치를 측정할 때 세전 할인율을 사용하도록 요구하였다. IASB는 현행시장기준할인율을 사용하도록 하는 규정을 유지하기로 결정하였으나, 2008년 5월에 발표된 IFRS 연차개선에서 세전할인율에 대한 언급은 삭제하였다.",
+      "text": "이 기준서는 생물자산의 활성시장이 존재하는 경우 그 시장의 공시가격이 그 자산의 공정가치를 결정하는 적절한 기준이라고 규정한다. 활성시장이 존재하지 않는 경우에는 이용가능할 경우 시장에서 결정된 가격이나 가치(가장 최근의 시장 거래 가격 등)를 사용한다. 그러나 상황에 따라서는 현재 상태에 있는 생물자산에 대한 시장에서 결정된 가격이나 가치가 이용가능하지 않을 수 있다. 이러한 상황에서는 당해 자산의 기대 순현금흐름(주15)의 현재가치를 사용하도록 이 기준서는 명시한다.\n[각주 (주15)] 개정전 IAS 41의 문단 20은 공정가치를 측정할 때 세전 할인율을 사용하도록 요구하였다. IASB는 현행시장기준할인율을 사용하도록 하는 규정을 유지하기로 결정하였으나, 2008년 5월에 발표된 IFRS 연차개선에서 세전할인율에 대한 언급은 삭제하였다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"B27\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">B27</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">이 기준서는 생물자산의 활성시장이 존재하는 경우 그 시장의 공시가격이 그 자산의 공정가치를 결정하는 적절한 기준이라고 규정한다. 활성시장이 존재하지 않는 경우에는 이용가능할 경우 시장에서 결정된 가격이나 가치(가장 최근의 시장 거래 가격 등)를 사용한다. 그러나 상황에 따라서는 현재 상태에 있는 생물자산에 대한 시장에서 결정된 가격이나 가치가 이용가능하지 않을 수 있다. 이러한 상황에서는 당해 자산의 기대 순현금흐름\n  <sup data-id=\"(주15)\">(주15)</sup>의 현재가치를 사용하도록 이 기준서는 명시한다.\n</div><div class=\"idt-1 comment\"><div>(주15)</div><div>개정전 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">IAS 41</span></div>의 \n    <span class=\"mundan-finder\">문단 20</span>은 공정가치를 측정할 때 세전 할인율을 사용하도록 요구하였다. IASB는 현행시장기준할인율을 사용하도록 하는 규정을 유지하기로 결정하였으나, 2008년 5월에 발표된 \n    <i>IFRS 연차개선</i>에서 세전할인율에 대한 언급은 삭제하였다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -2843,13 +3059,13 @@
       "section_id": "HOJOsD",
       "section_title": "평가손익",
       "toc_path": "결론도출근거|IAS 41 ‘농림어업(Agriculture)’의 IASC 결론도출근거|측정|생물자산|평가손익",
-      "text": "생물자산의 최초 인식과 생물자산의 순공정가치 변동으로부터 발생하는 평가손익은 발생한 기간의 당기손익\n(주16)에 반영하여야 한다고 이 기준서는 요구한다. 이러한 회계처리를 지지하는 이들은 다음과 같은 이유로 생물적 변환은 당기손익에 포함하여야 하는 유의적인 사건이라고 주장한다.\n(1) 이러한 사건은 기업의 경영성과를 이해하는 데 중요하다.\n(2) 이는 회계의 발생기준과 일관된다.\n[각주 (주16)] 개정된 IAS 1(2003년 개정)은 ‘당기순손익’을 ‘당기손익’으로 대체하였다.",
+      "text": "생물자산의 최초 인식과 생물자산의 순공정가치 변동으로부터 발생하는 평가손익은 발생한 기간의 당기손익(주16)에 반영하여야 한다고 이 기준서는 요구한다. 이러한 회계처리를 지지하는 이들은 다음과 같은 이유로 생물적 변환은 당기손익에 포함하여야 하는 유의적인 사건이라고 주장한다.\n(1) 이러한 사건은 기업의 경영성과를 이해하는 데 중요하다.\n(2) 이는 회계의 발생기준과 일관된다.\n[각주 (주16)] 개정된 IAS 1(2003년 개정)은 ‘당기순손익’을 ‘당기손익’으로 대체하였다.",
       "html": "생물자산의 최초 인식과 생물자산의 순공정가치 변동으로부터 발생하는 평가손익은 발생한 기간의 당기손익\n  <sup>(주16)</sup>에 반영하여야 한다고 이 기준서는 요구한다. 이러한 회계처리를 지지하는 이들은 다음과 같은 이유로 생물적 변환은 당기손익에 포함하여야 하는 유의적인 사건이라고 주장한다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주16)</div><div class=\"para-num-item-para-con\"> 개정된 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>(2003년 개정)은 ‘당기순손익’을 ‘당기손익’으로 대체하였다.            \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 이러한 사건은 기업의 경영성과를 이해하는 데 중요하다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 이는 회계의 발생기준과 일관된다.</div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "재무제표 표시",
           "range": null,
           "paragraph_ids": []
@@ -2896,7 +3112,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -2949,7 +3165,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -2969,7 +3185,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -3000,8 +3216,16 @@
         {
           "type": "standard",
           "display_text": "IAS 39",
-          "standard_number": null,
+          "standard_number": "39",
           "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -3025,7 +3249,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 13",
-          "standard_number": null,
+          "standard_number": "13",
           "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
@@ -3078,7 +3302,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -3098,8 +3322,24 @@
         {
           "type": "standard",
           "display_text": "IAS 39",
-          "standard_number": null,
+          "standard_number": "39",
           "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": "37",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -3123,8 +3363,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 40",
+          "standard_number": "40",
+          "standard_title": "투자부동산",
           "range": null,
           "paragraph_ids": []
         }
@@ -3154,7 +3402,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3174,7 +3422,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -3194,7 +3442,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -3214,7 +3462,7 @@
         {
           "type": "standard",
           "display_text": "IAS 38",
-          "standard_number": null,
+          "standard_number": "38",
           "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
@@ -3287,7 +3535,7 @@
         {
           "type": "standard",
           "display_text": "IAS 20",
-          "standard_number": null,
+          "standard_number": "20",
           "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
           "range": null,
           "paragraph_ids": []
@@ -3307,7 +3555,7 @@
         {
           "type": "standard",
           "display_text": "IAS 20",
-          "standard_number": null,
+          "standard_number": "20",
           "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
           "range": null,
           "paragraph_ids": []
@@ -3327,7 +3575,7 @@
         {
           "type": "standard",
           "display_text": "IAS 20",
-          "standard_number": null,
+          "standard_number": "20",
           "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
           "range": null,
           "paragraph_ids": []
@@ -3347,7 +3595,7 @@
         {
           "type": "standard",
           "display_text": "IAS 20",
-          "standard_number": null,
+          "standard_number": "20",
           "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
           "range": null,
           "paragraph_ids": []
@@ -3400,8 +3648,16 @@
         {
           "type": "standard",
           "display_text": "IAS 18",
-          "standard_number": null,
+          "standard_number": "18",
           "standard_title": "(구)수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 15",
+          "standard_number": "15",
+          "standard_title": "고객과의 계약에서 생기는 수익",
           "range": null,
           "paragraph_ids": []
         }
@@ -3513,7 +3769,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3533,8 +3789,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": "2",
+          "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -3547,14 +3811,78 @@
       "section_id": "qcf44C",
       "section_title": "E65에 대한 변경 요약",
       "toc_path": "결론도출근거|IAS 41 ‘농림어업(Agriculture)’의 IASC 결론도출근거|E65에 대한 변경 요약",
-      "text": "이 기준서에서는 E65의 제안에 대해 다음 사항을 주로 변경하였다.\n(1) 이 기준서는 최초 인식시 생물자산에 대한 신뢰성 예외를 포함한다. 예외가 적용되는 경우 생물자산은 원가에서 감가상각누계액과 손상차손누계액을 차감한 금액으로 측정되어야 한다(이 기준서의 문단 30). 결과적으로 이 기준서는 IAS 39의 문단 170⑵\n(주21), IAS 40의 문단 68(주22)(이 기준서의 문단 54(1)~(3)과 55, 그리고 IAS 16의 문단 60(2)~(4)\n(주23)와 60(5)(마)~(사)(문단 54(4)~(6)과 55)와 일관된 공시를 요구한다.\n(2) 신뢰성 예외가 적용된 후 공정가치를 신뢰성 있게 측정할 수 있게 됨에 따라 기업이 생물자산을 순공정가치로 측정하기 시작한 경우, 이 기준서는 생물자산의 내용, 공정가치를 신뢰성 있게 측정할 수 있게 된 이유 및 그러한 변경의 효과를 공시할 것을 요구한다(문단 56).\n(3) E65는 중개인에게 지급하는 수수료 등과 매각부대원가를 어떻게 회계처리해야 하는지 명시하지 않았다. 이 기준서는 생물자산과 수확물을 순공정가치로 측정해야 한다고 요구한다(문단 12~13).\n(4) E65는 활성시장이 존재하지 않는 경우 측정기준의 하나로 순실현가능가치를 포함하였다. 순실현가능가치는 시장결정가치가 아니므로 기준에서 제외되었다.\n(5) 이 기준서는 이용가능한 경우 시장에서 결정된 가격이나 가치를 사용할 것을 명시한다. 또한 상황에 따라서는 현재 상태에 있는 자산에 대한 시장에서 결정된 가격이나 가치가 이용가능하지 않을 수 있다고 명시한다. 이러한 상황에서는 기대순현금흐름의 현재가치를 사용한다(문단 18~20).\n(6) 현재가치계산을 위한 수행 지침이 추가되었다(문단 21~23).\n(7) E65는 생물자산이나 수확물의 판매계약을 어떻게 회계처리하여야 하는지 명시하지 않았다. 이 기준서는 판매계약의 존재로 인해 생물자산이나 수확물의 공정가치가 조정되지 않는다고 명시한다(문단 16).\n(8) E65는 수확물의 최초 인식시점에 평가손익이 발생할 수 있음을 명시하지 않았다. 이 기준서는 수확물의 최초 인식시점에 평가손익이 발생할 수 있음을 명시한다. 예를 들어, 수확에 따라 이러한 평가손익이 발생하며, 이는 발생한 기간의 당기순손익\n(주24)에 반영되어야 한다(문단 28~29).\n(9) E65는 생물자산을 생산하고 수확하는 원가는 발생시 비용으로 처리되어야 하고 기업에 의해 소유되거나 통제되는 생물자산의 개체수를 증가시키는 원가는 자산의 장부금액에 추가되어야 한다고 제안하였다. 이 기준서는 생물자산 관련 후속지출을 어떻게 회계처리하여야 하는지 명시하지 않는다.\n(10) E65는 조건이 충족되었다는 합리적인 확신이 있을 때 조건부 정부보조금을 수익으로 인식해야 한다고 제안하였다. 순공정가치로 측정하는 생물자산과 관련하여 기업이 특정 농림어업활동에 종사하지 못하게 요구하는 등의 조건이 부수되는 정부보조금은 그 조건을 충족하는 시점에만 수익으로 인식하도록 이 기준서는 요구한다. 또한 이 기준서는 원가에서 감가상각누계액과 손상차손누계액을 차감한 금액으로 측정되는 생물자산과 관련된 정부보조금에는 IAS 20을 적용하도록 명시하고 있다(문단 34~35와 37).\n(11) E65에서 다루어지는 활동의 회계처리와의 일관성을 달성하기 위해, E65는 다른 국제회계기준서에서 허용된 대체적 회계처리와 관련하여 농림어업활동에 대해 다음과 같은 구체적인 권장사항을 제시하였다.\n(가) IAS 1에 규정된 비용의 성격별 분석\n(나) 활성시장이 존재하는 경우 농림어업활동에 사용된 무형자산에 대하여 IAS 38에 규정된 재평가\nIASC는 이 기준서에는 그러한 권고사항을 포함하지 않았다. IASC는 IAS 1과 IAS 38은 다른 활동을 하는 기업뿐만 아니라 농림어업활동을 하는 기업에도 적용된다는 데 주목하였다.\n(12) 새롭게 포함된 공시 요구는 다음과 같다.\n(가) 각 생물자산 집단에 대한 계량적 설명을 제시하는 경우, 소비용 생물자산과 생산용 생물자산으로 구분하거나 성숙 생물자산과 미성숙 생물자산으로 구분하는 기준(문단 43)\n(나) 수확시점의 수확물 집단별 공정가치를 산정할 때 적용한 방법과 유의적인 가정(문단 47)\n(다) 기중에 수확된 수확물에 대하여 수확시점에 산정된 순공정가치(문단 48)\n(라) 생물자산 장부금액의 변동내용 중 사업결합에 따른 증가(문단 50(5))\n(마) 이 기준서의 적용범위에 해당하는 농림어업활동과 관련된 정부보조금 수준에 대하여 예상되는 유의적인 감소(문단 57(3))\n(13) E65는 다음을 공시할 것을 제안하였다.\n(가) 외부의 독립된 평가자의 평가가 반영된 생물자산 장부금액의 범위나 외부의 독립된 평가자의 평가가 없는 경우에는 그 사실\n(나) 지속되지 않을 활동(추정된 활동 중단일 포함)\n(다) 농림어업 토지의 장부금액 총액과 IAS 16에 따른 장부금액의 결정 기준(원가모형 또는 재평가모형)\n(라) 대차대조표 본문이나 주석에 표시된 수확물의 장부금액\n이 기준서는 위의 공시를 포함하지 않는다.\n(14) 개정된 IAS 17에서는 다음의 경우에 대하여 IAS 17을 적용할 수 없음을 명확히 하였다.\n(가) 리스이용자가 금융리스로 보유하는 있는 생물자산에 대한 리스이용자의 측정\n(나) 리스제공자가 운용리스로 제공한 생물자산에 대한 리스제공자의 측정\n금융리스로 보유하는 생물자산과 운용리스로 제공되는 생물자산은 IAS 17이 아니라 이 기준서에 따라 측정한다. 생물자산의 리스는 IAS 17에 따라 금융리스나 운용리스로 분류한다. 금융리스로 분류되는 리스의 경우 리스이용자는 IAS 17에 따라 리스 생물자산을 인식한 후에는 이 기준서에 따라 측정하고 표시한다. 이러한 경우 리스이용자는 이 기준서와 IAS 17에 따라 공시한다. 운용리스의 경우 생물자산의 리스제공자는 이 기준서에 따라 생물자산을 측정하고 표시하며, 이 기준서와 IAS 17에 따라 공시한다.\n[각주 (주21)] 2003년, IASB가 IAS 39와 IAS 32를 개정하면서 IAS 39의 문단 170⑵가 IAS 32의 문단 90으로 대체되었다. 2005년 IASB는 금융상품과 관련된 모든 공시를 IFRS 7에 재배치하였다.\n[각주 (주22)] 2003년, 개정된 IAS 40의 문단 68은 IAS 40의 문단 78로 대체되었다.\n[각주 (주23)] 2003년, 개정된 IAS 16의 문단 60은 IAS 16의 문단 73으로 대체되었다.\n[각주 (주24)] IAS 1(2003년 개정)은 ‘당기순손익’을 ‘당기손익’으로 대체하였다.",
+      "text": "이 기준서에서는 E65의 제안에 대해 다음 사항을 주로 변경하였다.\n(1) 이 기준서는 최초 인식시 생물자산에 대한 신뢰성 예외를 포함한다. 예외가 적용되는 경우 생물자산은 원가에서 감가상각누계액과 손상차손누계액을 차감한 금액으로 측정되어야 한다(이 기준서의 문단 30). 결과적으로 이 기준서는 IAS 39의 문단 170(2)(주21), IAS 40의 문단 68(주22)(이 기준서의 문단 54(1)~(3)과 55, 그리고 IAS 16의 문단 60(2)~(4)(주23)와 60(5)(마)~(사)(문단 54(4)~(6)과 55)와 일관된 공시를 요구한다.\n(2) 신뢰성 예외가 적용된 후 공정가치를 신뢰성 있게 측정할 수 있게 됨에 따라 기업이 생물자산을 순공정가치로 측정하기 시작한 경우, 이 기준서는 생물자산의 내용, 공정가치를 신뢰성 있게 측정할 수 있게 된 이유 및 그러한 변경의 효과를 공시할 것을 요구한다(문단 56).\n(3) E65는 중개인에게 지급하는 수수료 등과 매각부대원가를 어떻게 회계처리해야 하는지 명시하지 않았다. 이 기준서는 생물자산과 수확물을 순공정가치로 측정해야 한다고 요구한다(문단 12~13).\n(4) E65는 활성시장이 존재하지 않는 경우 측정기준의 하나로 순실현가능가치를 포함하였다. 순실현가능가치는 시장결정가치가 아니므로 기준에서 제외되었다.\n(5) 이 기준서는 이용가능한 경우 시장에서 결정된 가격이나 가치를 사용할 것을 명시한다. 또한 상황에 따라서는 현재 상태에 있는 자산에 대한 시장에서 결정된 가격이나 가치가 이용가능하지 않을 수 있다고 명시한다. 이러한 상황에서는 기대순현금흐름의 현재가치를 사용한다(문단 18~20).\n(6) 현재가치계산을 위한 수행 지침이 추가되었다(문단 21~23).\n(7) E65는 생물자산이나 수확물의 판매계약을 어떻게 회계처리하여야 하는지 명시하지 않았다. 이 기준서는 판매계약의 존재로 인해 생물자산이나 수확물의 공정가치가 조정되지 않는다고 명시한다(문단 16).\n(8) E65는 수확물의 최초 인식시점에 평가손익이 발생할 수 있음을 명시하지 않았다. 이 기준서는 수확물의 최초 인식시점에 평가손익이 발생할 수 있음을 명시한다. 예를 들어, 수확에 따라 이러한 평가손익이 발생하며, 이는 발생한 기간의 당기순손익(주24)에 반영되어야 한다(문단 28~29).\n(9) E65는 생물자산을 생산하고 수확하는 원가는 발생시 비용으로 처리되어야 하고 기업에 의해 소유되거나 통제되는 생물자산의 개체수를 증가시키는 원가는 자산의 장부금액에 추가되어야 한다고 제안하였다. 이 기준서는 생물자산 관련 후속지출을 어떻게 회계처리하여야 하는지 명시하지 않는다.\n(10) E65는 조건이 충족되었다는 합리적인 확신이 있을 때 조건부 정부보조금을 수익으로 인식해야 한다고 제안하였다. 순공정가치로 측정하는 생물자산과 관련하여 기업이 특정 농림어업활동에 종사하지 못하게 요구하는 등의 조건이 부수되는 정부보조금은 그 조건을 충족하는 시점에만 수익으로 인식하도록 이 기준서는 요구한다. 또한 이 기준서는 원가에서 감가상각누계액과 손상차손누계액을 차감한 금액으로 측정되는 생물자산과 관련된 정부보조금에는 IAS 20을 적용하도록 명시하고 있다(문단 34~35와 37).\n(11) E65에서 다루어지는 활동의 회계처리와의 일관성을 달성하기 위해, E65는 다른 국제회계기준서에서 허용된 대체적 회계처리와 관련하여 농림어업활동에 대해 다음과 같은 구체적인 권장사항을 제시하였다.\n(가) IAS 1에 규정된 비용의 성격별 분석\n(나) 활성시장이 존재하는 경우 농림어업활동에 사용된 무형자산에 대하여 IAS 38에 규정된 재평가\nIASC는 이 기준서에는 그러한 권고사항을 포함하지 않았다. IASC는 IAS 1과 IAS 38은 다른 활동을 하는 기업뿐만 아니라 농림어업활동을 하는 기업에도 적용된다는 데 주목하였다.\n(12) 새롭게 포함된 공시 요구는 다음과 같다.\n(가) 각 생물자산 집단에 대한 계량적 설명을 제시하는 경우, 소비용 생물자산과 생산용 생물자산으로 구분하거나 성숙 생물자산과 미성숙 생물자산으로 구분하는 기준(문단 43)\n(나) 수확시점의 수확물 집단별 공정가치를 산정할 때 적용한 방법과 유의적인 가정(문단 47)\n(다) 기중에 수확된 수확물에 대하여 수확시점에 산정된 순공정가치(문단 48)\n(라) 생물자산 장부금액의 변동내용 중 사업결합에 따른 증가(문단 50(5))\n(마) 이 기준서의 적용범위에 해당하는 농림어업활동과 관련된 정부보조금 수준에 대하여 예상되는 유의적인 감소(문단 57(3))\n(13) E65는 다음을 공시할 것을 제안하였다.\n(가) 외부의 독립된 평가자의 평가가 반영된 생물자산 장부금액의 범위나 외부의 독립된 평가자의 평가가 없는 경우에는 그 사실\n(나) 지속되지 않을 활동(추정된 활동 중단일 포함)\n(다) 농림어업 토지의 장부금액 총액과 IAS 16에 따른 장부금액의 결정 기준(원가모형 또는 재평가모형)\n(라) 대차대조표 본문이나 주석에 표시된 수확물의 장부금액\n이 기준서는 위의 공시를 포함하지 않는다.\n(14) 개정된 IAS 17에서는 다음의 경우에 대하여 IAS 17을 적용할 수 없음을 명확히 하였다.\n(가) 리스이용자가 금융리스로 보유하는 있는 생물자산에 대한 리스이용자의 측정\n(나) 리스제공자가 운용리스로 제공한 생물자산에 대한 리스제공자의 측정\n금융리스로 보유하는 생물자산과 운용리스로 제공되는 생물자산은 IAS 17이 아니라 이 기준서에 따라 측정한다. 생물자산의 리스는 IAS 17에 따라 금융리스나 운용리스로 분류한다. 금융리스로 분류되는 리스의 경우 리스이용자는 IAS 17에 따라 리스 생물자산을 인식한 후에는 이 기준서에 따라 측정하고 표시한다. 이러한 경우 리스이용자는 이 기준서와 IAS 17에 따라 공시한다. 운용리스의 경우 생물자산의 리스제공자는 이 기준서에 따라 생물자산을 측정하고 표시하며, 이 기준서와 IAS 17에 따라 공시한다.\n[각주 (주21)] 2003년, IASB가 IAS 39와 IAS 32를 개정하면서 IAS 39의 문단 170(2)가 IAS 32의 문단 90으로 대체되었다. 2005년 IASB는 금융상품과 관련된 모든 공시를 IFRS 7에 재배치하였다.\n[각주 (주22)] 2003년, 개정된 IAS 40의 문단 68은 IAS 40의 문단 78로 대체되었다.\n[각주 (주23)] 2003년, 개정된 IAS 16의 문단 60은 IAS 16의 문단 73으로 대체되었다.\n[각주 (주24)] IAS 1(2003년 개정)은 ‘당기순손익’을 ‘당기손익’으로 대체하였다.",
       "html": "이 기준서에서는 E65의 제안에 대해 다음 사항을 주로 변경하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\">이 기준서는 최초 인식시 생물자산에 대한 신뢰성 예외를 포함한다. 예외가 적용되는 경우 생물자산은 원가에서 감가상각누계액과 손상차손누계액을 차감한 금액으로 측정되어야 한다(이 기준서의 \n      <span class=\"mundan-finder\">문단 30</span>). 결과적으로 이 기준서는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 문단 170⑵            \n      <sup>(주21)</sup>, \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">투자부동산</span><span class=\"std-finder\">IAS 40</span></div>의 \n      <span class=\"mundan-finder\">문단 68</span><sup>(주22)</sup>(이 기준서의 \n      <span class=\"mundan-finder\">문단 54(1)~(3)과 55</span>, 그리고 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>의 문단 60(2)~(4)            \n      <sup>(주23)</sup>와 60(5)(마)~(사)(<span class=\"mundan-finder\">문단 54(4)~(6)과 55</span>)와 일관된 공시를 요구한다.                            \n    </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주21)</div><div class=\"para-num-item-para-con\">2003년, IASB가 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>와 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 표시</span><span class=\"std-finder\">IAS 32</span></div>를 개정하면서 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 문단 170⑵가 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 표시</span><span class=\"std-finder\">IAS 32</span></div>의 문단 90으로 대체되었다. 2005년 IASB는 금융상품과 관련된 모든 공시를 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 공시</span><span class=\"std-finder\">IFRS 7</span></div>에 재배치하였다.                                        \n      </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주22)</div><div class=\"para-num-item-para-con\">2003년, 개정된 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">투자부동산</span><span class=\"std-finder\">IAS 40</span></div>의 문단 68은 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">투자부동산</span><span class=\"std-finder\">IAS 40</span></div>의 \n        <span class=\"mundan-finder\"> 문단 78</span>로 대체되었다.                                        \n      </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주23)</div><div class=\"para-num-item-para-con\">2003년, 개정된 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>의 문단 60은 \n        <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>의 \n        <span class=\"mundan-finder\">문단 73</span>으로 대체되었다.                                        \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\">신뢰성 예외가 적용된 후 공정가치를 신뢰성 있게 측정할 수 있게 됨에 따라 기업이 생물자산을 순공정가치로 측정하기 시작한 경우, 이 기준서는 생물자산의 내용, 공정가치를 신뢰성 있게 측정할 수 있게 된 이유 및 그러한 변경의 효과를 공시할 것을 요구한다(<span class=\"mundan-finder\">문단 56</span>).                                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(3)</div><div class=\"para-num-item-para-con\">E65는 중개인에게 지급하는 수수료 등과 매각부대원가를 어떻게 회계처리해야 하는지 명시하지 않았다. 이 기준서는 생물자산과 수확물을 순공정가치로 측정해야 한다고 요구한다(<span class=\"mundan-finder\">문단 12~13</span>).                                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(4)</div><div class=\"para-num-item-para-con\">E65는 활성시장이 존재하지 않는 경우 측정기준의 하나로 순실현가능가치를 포함하였다. 순실현가능가치는 시장결정가치가 아니므로 기준에서 제외되었다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(5)</div><div class=\"para-num-item-para-con\">이 기준서는 이용가능한 경우 시장에서 결정된 가격이나 가치를 사용할 것을 명시한다. 또한 상황에 따라서는 현재 상태에 있는 자산에 대한 시장에서 결정된 가격이나 가치가 이용가능하지 않을 수 있다고 명시한다. 이러한 상황에서는 기대순현금흐름의 현재가치를 사용한다(<span class=\"mundan-finder\">문단 18~20</span>).                                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(6)</div><div class=\"para-num-item-para-con\">현재가치계산을 위한 수행 지침이 추가되었다(<span class=\"mundan-finder\">문단 21~23</span>).                                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(7)</div><div class=\"para-num-item-para-con\">E65는 생물자산이나 수확물의 판매계약을 어떻게 회계처리하여야 하는지 명시하지 않았다. 이 기준서는 판매계약의 존재로 인해 생물자산이나 수확물의 공정가치가 조정되지 않는다고 명시한다(<span class=\"mundan-finder\">문단 16</span>).                                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(8)</div><div class=\"para-num-item-para-con\">E65는 수확물의 최초 인식시점에 평가손익이 발생할 수 있음을 명시하지 않았다. 이 기준서는 수확물의 최초 인식시점에 평가손익이 발생할 수 있음을 명시한다. 예를 들어, 수확에 따라 이러한 평가손익이 발생하며, 이는 발생한 기간의 당기순손익            \n      <sup>(주24)</sup>에 반영되어야 한다(<span class=\"mundan-finder\">문단 28~29</span>).                                \n    </div></div>\n<div class=\"para-inner-number-hanguel-item comment\"><div class=\"para-number-para-num\">(주24)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>(2003년 개정)은 ‘당기순손익’을 ‘당기손익’으로 대체하였다.                                        \n      </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(9)</div><div class=\"para-num-item-para-con\">E65는 생물자산을 생산하고 수확하는 원가는 발생시 비용으로 처리되어야 하고 기업에 의해 소유되거나 통제되는 생물자산의 개체수를 증가시키는 원가는 자산의 장부금액에 추가되어야 한다고 제안하였다. 이 기준서는 생물자산 관련 후속지출을 어떻게 회계처리하여야 하는지 명시하지 않는다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(10)</div><div class=\"para-num-item-para-con\">E65는 조건이 충족되었다는 합리적인 확신이 있을 때 조건부 정부보조금을 수익으로 인식해야 한다고 제안하였다. 순공정가치로 측정하는 생물자산과 관련하여 기업이 특정 농림어업활동에 종사하지 못하게 요구하는 등의 조건이 부수되는 정부보조금은 그 조건을 충족하는 시점에만 수익으로 인식하도록 이 기준서는 요구한다. 또한 이 기준서는 원가에서 감가상각누계액과 손상차손누계액을 차감한 금액으로 측정되는 생물자산과 관련된 정부보조금에는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">정부보조금의 회계처리와 정부지원의 공시</span><span class=\"std-finder\">IAS 20</span></div>을 적용하도록 명시하고 있다(<span class=\"mundan-finder\">문단 34~35와 37</span>).                                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(11)</div><div class=\"para-num-item-para-con\">E65에서 다루어지는 활동의 회계처리와의 일관성을 달성하기 위해, E65는 다른 국제회계기준서에서 허용된 대체적 회계처리와 관련하여 농림어업활동에 대해 다음과 같은 구체적인 권장사항을 제시하였다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>에 규정된 비용의 성격별 분석                            \n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\">활성시장이 존재하는 경우 농림어업활동에 사용된 무형자산에 대하여 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>에 규정된 재평가                            \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\">IASC는 이 기준서에는 그러한 권고사항을 포함하지 않았다. IASC는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>과 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">무형자산</span><span class=\"std-finder\">IAS 38</span></div>은 다른 활동을 하는 기업뿐만 아니라 농림어업활동을 하는 기업에도 적용된다는 데 주목하였다.                            \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(12)</div><div class=\"para-num-item-para-con\">새롭게 포함된 공시 요구는 다음과 같다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\">각 생물자산 집단에 대한 계량적 설명을 제시하는 경우, 소비용 생물자산과 생산용 생물자산으로 구분하거나 성숙 생물자산과 미성숙 생물자산으로 구분하는 기준(<span class=\"mundan-finder\">문단 43</span>)                                \n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\">수확시점의 수확물 집단별 공정가치를 산정할 때 적용한 방법과 유의적인 가정(<span class=\"mundan-finder\">문단 47</span>)                                \n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(다)</div><div class=\"para-num-item-para-con\">기중에 수확된 수확물에 대하여 수확시점에 산정된 순공정가치(<span class=\"mundan-finder\">문단 48</span>)                                \n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(라)</div><div class=\"para-num-item-para-con\">생물자산 장부금액의 변동내용 중 사업결합에 따른 증가(<span class=\"mundan-finder\">문단 50(5)</span>)                                \n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(마)</div><div class=\"para-num-item-para-con\">이 기준서의 적용범위에 해당하는 농림어업활동과 관련된 정부보조금 수준에 대하여 예상되는 유의적인 감소(<span class=\"mundan-finder\">문단 57(3)</span>)                                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(13)</div><div class=\"para-num-item-para-con\">E65는 다음을 공시할 것을 제안하였다.</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\">외부의 독립된 평가자의 평가가 반영된 생물자산 장부금액의 범위나 외부의 독립된 평가자의 평가가 없는 경우에는 그 사실</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\">지속되지 않을 활동(추정된 활동 중단일 포함)</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(다)</div><div class=\"para-num-item-para-con\">농림어업 토지의 장부금액 총액과 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 따른 장부금액의 결정 기준(원가모형 또는 재평가모형)                            \n    </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(라)</div><div class=\"para-num-item-para-con\">대차대조표 본문이나 주석에 표시된 수확물의 장부금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\">이 기준서는 위의 공시를 포함하지 않는다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(14)</div><div class=\"para-num-item-para-con\">개정된 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)리스</span><span class=\"std-finder\">IAS 17</span></div>에서는 다음의 경우에 대하여 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)리스</span><span class=\"std-finder\">IAS 17</span></div>을 적용할 수 없음을 명확히 하였다.              \n  </div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(가)</div><div class=\"para-num-item-para-con\">리스이용자가 금융리스로 보유하는 있는 생물자산에 대한 리스이용자의 측정</div></div>\n<div class=\"para-inner-number-hanguel-item\"><div class=\"para-number-para-num\">(나)</div><div class=\"para-num-item-para-con\">리스제공자가 운용리스로 제공한 생물자산에 대한 리스제공자의 측정</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\"></div><div class=\"para-num-item-para-con\">금융리스로 보유하는 생물자산과 운용리스로 제공되는 생물자산은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)리스</span><span class=\"std-finder\">IAS 17</span></div>이 아니라 이 기준서에 따라 측정한다. 생물자산의 리스는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)리스</span><span class=\"std-finder\">IAS 17</span></div>에 따라 금융리스나 운용리스로 분류한다. 금융리스로 분류되는 리스의 경우 리스이용자는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)리스</span><span class=\"std-finder\">IAS 17</span></div>에 따라 리스 생물자산을 인식한 후에는 이 기준서에 따라 측정하고 표시한다. 이러한 경우 리스이용자는 이 기준서와 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)리스</span><span class=\"std-finder\">IAS 17</span></div>에 따라 공시한다. 운용리스의 경우 생물자산의 리스제공자는 이 기준서에 따라 생물자산을 측정하고 표시하며, 이 기준서와 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">(구)리스</span><span class=\"std-finder\">IAS 17</span></div>에 따라 공시한다.              \n  </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 39",
-          "standard_number": null,
+          "standard_number": "39",
           "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 40",
+          "standard_number": "40",
+          "standard_title": "투자부동산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 32",
+          "standard_number": "32",
+          "standard_title": "금융상품: 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 7",
+          "standard_number": "7",
+          "standard_title": "금융상품: 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 20",
+          "standard_number": "20",
+          "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 17",
+          "standard_number": "17",
+          "standard_title": "(구)리스",
           "range": null,
           "paragraph_ids": []
         },
@@ -3571,7 +3899,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 68",
-          "standard_number": "1041",
+          "standard_number": "1040",
           "standard_title": null,
           "range": "68",
           "paragraph_ids": [
@@ -3583,9 +3911,9 @@
           "display_text": "문단 54(1)~(3)과 55",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "54(1)~(3)과 55",
+          "range": "54,55",
           "paragraph_ids": [
-            "54~",
+            "54",
             "55"
           ]
         },
@@ -3680,7 +4008,7 @@
           "display_text": "문단 34~35와 37",
           "standard_number": "1041",
           "standard_title": null,
-          "range": "34~35와 37",
+          "range": "34~35,37",
           "paragraph_ids": [
             "34",
             "35",
@@ -3769,8 +4097,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -3789,7 +4125,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -3809,8 +4145,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -3829,7 +4173,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -3871,7 +4215,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -3902,7 +4246,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3922,7 +4266,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -3953,7 +4297,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -4063,6 +4407,122 @@
     ],
     "1007": [
       "IE3"
+    ],
+    "16": [
+      "BC1",
+      "BC4A",
+      "B4",
+      "B8",
+      "B20",
+      "B55",
+      "B57",
+      "B80",
+      "B81",
+      "B82",
+      "DO1",
+      "DO3",
+      "DO9"
+    ],
+    "41": [
+      "BC1",
+      "BC2",
+      "BC3",
+      "BC4",
+      "BC4A",
+      "BC4C",
+      "BC4D",
+      "BC8",
+      "BC11",
+      "BC12",
+      "B2",
+      "B27",
+      "DO1",
+      "DO2",
+      "DO3",
+      "DO4",
+      "DO7",
+      "DO10",
+      "DO12"
+    ],
+    "5": [
+      "BC3",
+      "BC4"
+    ],
+    "36": [
+      "BC3",
+      "BC4",
+      "B20"
+    ],
+    "13": [
+      "BC5",
+      "BC6",
+      "BC8",
+      "BC12",
+      "B22",
+      "B49"
+    ],
+    "40": [
+      "B3",
+      "B4",
+      "B55",
+      "B82"
+    ],
+    "2": [
+      "B4",
+      "B8",
+      "B11",
+      "B20",
+      "B41",
+      "B45",
+      "B46",
+      "B53",
+      "B81"
+    ],
+    "18": [
+      "B4",
+      "B71"
+    ],
+    "15": [
+      "B4",
+      "B71"
+    ],
+    "1": [
+      "B38",
+      "B82"
+    ],
+    "39": [
+      "B48",
+      "B54",
+      "B82"
+    ],
+    "9": [
+      "B48",
+      "B54"
+    ],
+    "37": [
+      "B54"
+    ],
+    "38": [
+      "B58",
+      "B59",
+      "B60",
+      "B82"
+    ],
+    "20": [
+      "B64",
+      "B65",
+      "B66",
+      "B67",
+      "B82"
+    ],
+    "32": [
+      "B82"
+    ],
+    "7": [
+      "B82"
+    ],
+    "17": [
+      "B82"
     ]
   },
   "qna_index": {

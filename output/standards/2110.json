@@ -1,0 +1,567 @@
+{
+  "standard_id": "2110",
+  "standard_type": "기업회계기준해석서",
+  "title": "중간재무보고와 손상",
+  "url": "https://db.kasb.or.kr/s/2110",
+  "crawled_at": "2026-04-09T23:46:37.240481+00:00",
+  "toc": [
+    {
+      "level": null,
+      "title": "저작권",
+      "section_id": "copyright",
+      "href": "/s/2110/copyright",
+      "paragraph_range": "Copyright Notice",
+      "children": []
+    },
+    {
+      "level": 0.0,
+      "title": "본문",
+      "section_id": "body-introduction",
+      "href": "/s/2110/body-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 2.0,
+          "title": "참조",
+          "section_id": "wFI32F",
+          "href": "/s/2110/wFI32F",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "배경",
+          "section_id": "Njdnxj",
+          "href": "/s/2110/Njdnxj",
+          "paragraph_range": "1 ~ 2",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "적용",
+          "section_id": "UAsIaI",
+          "href": "/s/2110/UAsIaI",
+          "paragraph_range": "한3.1",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "회계논제",
+          "section_id": "7kE6LL",
+          "href": "/s/2110/7kE6LL",
+          "paragraph_range": "3 ~ 7",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "결론",
+          "section_id": "IrXb24",
+          "href": "/s/2110/IrXb24",
+          "paragraph_range": "8 ~ 9",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "시행일 및 경과규정",
+          "section_id": "Y2jpGS",
+          "href": "/s/2110/Y2jpGS",
+          "paragraph_range": "10 ~ 14",
+          "children": []
+        },
+        {
+          "level": 2.0,
+          "title": "기업회계기준해석서 제2110호의 제·개정 등에 대한 회계기준위원회의 의결",
+          "section_id": "EVYa3D",
+          "href": "/s/2110/EVYa3D",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 0.0,
+      "title": "결론도출근거",
+      "section_id": "basis-introduction",
+      "href": "/s/2110/basis-introduction",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "IFRIC 10 ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)의 결론도출근거",
+          "section_id": "puwdIU",
+          "href": "/s/2110/puwdIU",
+          "paragraph_range": "BC1 ~ BC12",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": null,
+      "title": "기타 참고사항",
+      "section_id": "d6aa387e",
+      "href": "",
+      "paragraph_range": null,
+      "children": [
+        {
+          "level": 1.0,
+          "title": "국제회계기준과의 관계",
+          "section_id": "relationship",
+          "href": "/s/2110/relationship",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "이 해석서의 주요 특징",
+          "section_id": "overview",
+          "href": "/s/2110/overview",
+          "paragraph_range": null,
+          "children": []
+        },
+        {
+          "level": 1.0,
+          "title": "제·개정 경과",
+          "section_id": "revision",
+          "href": "/s/2110/revision",
+          "paragraph_range": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": "IE1",
+      "section_id": "wFI32F",
+      "section_title": "참조",
+      "toc_path": "본문|참조",
+      "text": "- 기업회계기준서 제1034호 ‘중간재무보고’",
+      "html": "<div value=\"웩1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para\">- 기업회계기준서 제1034호 ‘중간재무보고’</div><div class=\"para\">- 기업회계기준서 제1036호 ‘자산손상’</div><div class=\"para\">- 기업회계기준서 제1109호 ‘금융상품’</div></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "1",
+      "section_id": "Njdnxj",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "기업회계기준서 제1036호에 따라, 영업권의 손상여부는 매 보고기간말에 검토하고 필요한 경우 손상차손을 인식한다. 그러나 후속 보고기간말에 상황이 변동되어 동일자에만 손상검토를 하였다면, 이전에 인식한 손상차손이 감소되었거나 인식되지 않았어야 할 경우가 있다. 이 해석서는 이러한 경우 당해 손상차손이 환입되어야 하는지에 대한 지침을 제공한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">기업회계기준서 제1036호</span></div>에 따라, 영업권의 손상여부는 매 보고기간말에 검토하고 필요한 경우 손상차손을 인식한다. 그러나 후속 보고기간말에 상황이 변동되어 동일자에만 손상검토를 하였다면, 이전에 인식한 손상차손이 감소되었거나 인식되지 않았어야 할 경우가 있다. 이 해석서는 이러한 경우 당해 손상차손이 환입되어야 하는지에 대한 지침을 제공한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1036호",
+          "standard_number": "1036",
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "2",
+      "section_id": "Njdnxj",
+      "section_title": "배경",
+      "toc_path": "본문|배경",
+      "text": "이 해석서는 기업회계기준서 제1034호의 요구사항과 기업회계기준서 제1036호의 영업권에 대한 손상차손 인식의 상호관계, 그리고 그 상호관계가 후속 중간재무제표와 연차재무제표의 상호관계의 결과에 미치는 영향에 대하여 설명한다.",
+      "html": "이 해석서는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">기업회계기준서 제1034호</span></div>의 요구사항과 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">기업회계기준서 제1036호</span></div>의 영업권에 대한 손상차손 인식의 상호관계, 그리고 그 상호관계가 후속 중간재무제표와 연차재무제표의 상호관계의 결과에 미치는 영향에 대하여 설명한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1034호",
+          "standard_number": "1034",
+          "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1036호",
+          "standard_number": "1036",
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한3.1",
+      "section_id": "UAsIaI",
+      "section_title": "적용",
+      "toc_path": "본문|적용",
+      "text": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "html": "이 해석서는 ‘주식회사 등의 외부감사에 관한 법률’에서 정하는 한국채택국제회계기준 의무적용대상 주식회사의 회계처리에 적용한다. 또한 이 기준서는 재무제표의 작성과 표시를 위해 한국채택국제회계기준의 적용을 선택하거나 다른 법령 등에서 적용을 요구하는 기업의 회계처리에도 적용한다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "3",
+      "section_id": "7kE6LL",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "기업회계기준서 제1034호의 문단 28은 중간재무제표는 연차재무제표에 적용하는 것과 동일한 회계정책을 적용하여 작성한다고 규정하고 있다. 또한 ‘연차재무제표의 결과가 보고빈도(연차보고, 반기보고, 분기보고)에 따라 달라지지 않아야 한다. 이러한 목적을 달성하기 위하여 중간재무보고를 위한 측정은 당해 회계연도 누적기간을 기준으로 하여야 한다’고 규정하고 있다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\"></span><span class=\"std-finder\">기업회계기준서 제1034호</span></div>의 \n  <span class=\"mundan-finder\">문단 28</span>은 중간재무제표는 연차재무제표에 적용하는 것과 동일한 회계정책을 적용하여 작성한다고 규정하고 있다. 또한 ‘연차재무제표의 결과가 보고빈도(연차보고, 반기보고, 분기보고)에 따라 달라지지 않아야 한다. 이러한 목적을 달성하기 위하여 중간재무보고를 위한 측정은 당해 회계연도 누적기간을 기준으로 하여야 한다’고 규정하고 있다.\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1034호",
+          "standard_number": "1034",
+          "standard_title": null,
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 28",
+          "standard_number": "2110",
+          "standard_title": null,
+          "range": "28",
+          "paragraph_ids": [
+            "28"
+          ]
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "SSI-35607",
+          "title": "중간기간에 인식한 영업권손상에 대한 환입여부",
+          "url": "/qnas/SSI-35607",
+          "date": "2019-06-18"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "4",
+      "section_id": "7kE6LL",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "기업회계기준서 제1036호의 문단 124는 ‘영업권에 인식한 손상차손은 후속기간에 환입하지 아니한다’고 규정하고 있다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\"></span><span class=\"std-finder\">기업회계기준서 제1036호</span></div>의 \n  \n  <span class=\"mundan-finder\">문단 124</span>는 ‘영업권에 인식한 손상차손은 후속기간에 환입하지 아니한다’고 규정하고 있다.\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1036호",
+          "standard_number": "1036",
+          "standard_title": null,
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 124",
+          "standard_number": "2110",
+          "standard_title": null,
+          "range": "124",
+          "paragraph_ids": [
+            "124"
+          ]
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "SSI-35607",
+          "title": "중간기간에 인식한 영업권손상에 대한 환입여부",
+          "url": "/qnas/SSI-35607",
+          "date": "2019-06-18"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "5",
+      "section_id": "7kE6LL",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "6",
+      "section_id": "7kE6LL",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "[국제회계기준위원회에서 삭제함]",
+      "html": "[국제회계기준위원회에서 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "7",
+      "section_id": "7kE6LL",
+      "section_title": "회계논제",
+      "toc_path": "본문|회계논제",
+      "text": "이 해석서는 다음의 회계논제에 대하여 설명한다.\n영업권에 대하여 중간기간에 인식한 손상차손이 후속 보고기간말에만 손상검토를 수행한다면 손상차손을 인식하지 않게 되거나 손상차손금액이 감소하는 경우, 당해 금액을 환입하여야 하는가?",
+      "html": "이 해석서는 다음의 회계논제에 대하여 설명한다.\n영업권에 대하여 중간기간에 인식한 손상차손이 후속 보고기간말에만 손상검토를 수행한다면 손상차손을 인식하지 않게 되거나 손상차손금액이 감소하는 경우, 당해 금액을 환입하여야 하는가?",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-35607",
+          "title": "중간기간에 인식한 영업권손상에 대한 환입여부",
+          "url": "/qnas/SSI-35607",
+          "date": "2019-06-18"
+        },
+        {
+          "qna_id": "SSI-36921",
+          "title": "영업권 손상차손 환입",
+          "url": "/qnas/SSI-36921",
+          "date": "2020-03-03"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "8",
+      "section_id": "IrXb24",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "영업권에 대하여 이전 중간기간에 인식한 손상차손을 환입하지 아니한다.",
+      "html": "영업권에 대하여 이전 중간기간에 인식한 손상차손을 환입하지 아니한다.",
+      "cross_references": [],
+      "qna_references": [
+        {
+          "qna_id": "SSI-35607",
+          "title": "중간기간에 인식한 영업권손상에 대한 환입여부",
+          "url": "/qnas/SSI-35607",
+          "date": "2019-06-18"
+        },
+        {
+          "qna_id": "SSI-36921",
+          "title": "영업권 손상차손 환입",
+          "url": "/qnas/SSI-36921",
+          "date": "2020-03-03"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "9",
+      "section_id": "IrXb24",
+      "section_title": "결론",
+      "toc_path": "본문|결론",
+      "text": "기업회계기준서 제1034호와 다른 한국채택국제회계기준서 사이에 상충발생이 가능한 기타 분야에까지 유추하여 이 결론을 확대적용하지 아니한다.",
+      "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">기업회계기준서 제1034호</span></div>와 다른 한국채택국제회계기준서 사이에 상충발생이 가능한 기타 분야에까지 유추하여 이 결론을 확대적용하지 아니한다.\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1034호",
+          "standard_number": "1034",
+          "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
+      "qna_references": [
+        {
+          "qna_id": "SSI-35607",
+          "title": "중간기간에 인식한 영업권손상에 대한 환입여부",
+          "url": "/qnas/SSI-35607",
+          "date": "2019-06-18"
+        },
+        {
+          "qna_id": "SSI-36921",
+          "title": "영업권 손상차손 환입",
+          "url": "/qnas/SSI-36921",
+          "date": "2020-03-03"
+        }
+      ],
+      "footnote_references": []
+    },
+    {
+      "number": "10",
+      "section_id": "Y2jpGS",
+      "section_title": "시행일 및 경과규정",
+      "toc_path": "본문|시행일 및 경과규정",
+      "text": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "html": "[한국회계기준원 회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "한10.1",
+      "section_id": "Y2jpGS",
+      "section_title": "시행일 및 경과규정",
+      "toc_path": "본문|시행일 및 경과규정",
+      "text": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "html": "이 해석서는 2011년 1월 1일 이후 최초로 개시하는 회계연도부터 적용한다. 다만, 2009년 1월 1일 이후 개시하는 회계연도부터 적용할 수 있다.",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "11",
+      "section_id": "Y2jpGS",
+      "section_title": "시행일 및 경과규정",
+      "toc_path": "본문|시행일 및 경과규정",
+      "text": "[국제회계기준위원회가 삭제함]",
+      "html": "[국제회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "12",
+      "section_id": "Y2jpGS",
+      "section_title": "시행일 및 경과규정",
+      "toc_path": "본문|시행일 및 경과규정",
+      "text": "[국제회계기준위원회가 삭제함]",
+      "html": "[국제회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "13",
+      "section_id": "Y2jpGS",
+      "section_title": "시행일 및 경과규정",
+      "toc_path": "본문|시행일 및 경과규정",
+      "text": "[국제회계기준위원회가 삭제함]",
+      "html": "[국제회계기준위원회가 삭제함]",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "14",
+      "section_id": "Y2jpGS",
+      "section_title": "시행일 및 경과규정",
+      "toc_path": "본문|시행일 및 경과규정",
+      "text": "2015년 12월에 공표한 기업회계기준서 제1109호 ‘금융상품’에 따라 문단 1, 2, 7, 8을 개정하고 문단 5, 6, 11, 12, 13을 삭제하였다. 기업회계기준서 제1109호를 적용할 때 이 개정 내용을 적용한다.",
+      "html": "2015년 12월에 공표한 \n  \n  \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div> ‘금융상품’에 따라 \n  \n  \n  \n  \n  \n  <span class=\"mundan-finder\">문단 1, 2, 7, 8</span>을 개정하고 \n  \n  \n  \n  \n  \n  <span class=\"mundan-finder\">문단 5, 6, 11, 12, 13</span>을 삭제하였다. \n  \n  \n  \n  \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>를 적용할 때 이 개정 내용을 적용한다.\n\n\n\n\n\n",
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 1, 2, 7, 8",
+          "standard_number": "2110",
+          "standard_title": null,
+          "range": "1,2,7,8",
+          "paragraph_ids": [
+            "1",
+            "2",
+            "7",
+            "8"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 5, 6, 11, 12, 13",
+          "standard_number": "2110",
+          "standard_title": null,
+          "range": "5,6,11,12,13",
+          "paragraph_ids": [
+            "5",
+            "6",
+            "11",
+            "12",
+            "13"
+          ]
+        }
+      ],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "IE2",
+      "section_id": "EVYa3D",
+      "section_title": "기업회계기준해석서 제2110호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "toc_path": "본문|기업회계기준해석서 제2110호의 제·개정 등에 대한 회계기준위원회의 의결",
+      "text": "기업회계기준해석서 제2110호의 제정에 대한 회계기준위원회의 의결(2007년)",
+      "html": "<div value=\"웩2\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업회계기준해석서 제2110호의 제정에 대한 회계기준위원회의 의결(2007년)</b></div><br><div class=\"para\">기업회계기준해석서 제2110호 ‘중간재무보고와 손상’의 제정(2007.11.23.)은 회계기준위원회 위원 7인 전원의 찬성으로 의결하였다.</div><br><div class=\"para\">회계기준위원회 위원: </div><div class=\"para\">이효익(위원장), 서정우(상임위원), 김성남, 윤순석. 최상태, 황성식, 황인태</div><br><br></div></div>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "puwdIU",
+      "section_id": "puwdIU",
+      "section_title": "IFRIC 10 ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)의 결론도출근거",
+      "toc_path": "결론도출근거|IFRIC 10 ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)의 결론도출근거",
+      "text": "## IFRIC 10 ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)의 결론도출근거 - 이 결론도출근거는 중간재무보고와 손상IFRIC 10에 첨부되지만, 이 해석서의 일부를 구성하는 것은 아니다. - 책갈피 추가/삭제BC1IFRIC이 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중있게 고려하였다. - 책갈피 추가/삭제BC2중간재무보고IAS 34는 연차재무제표에 적용하는 것과 동일한 회계정책을 적용하여 중간재무제표를 작성하도록 하고 있다. 연차재무제표에, 자산손상IAS 36은 과거 연차보고기간에 영업권에 대해 인식한 손상차손을 환입하는 것을 금지한다. 이와 마찬가지로 금융상품: 인식과 측정IAS 39(주1)는 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산의 손상차손을 후속 회계연도에 환입하는 것을 금지한다. 이러한 요구사항은 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산 및 영업권에 대하여 과거 중간기간에 인식한 손상차손을 후속 중간기간에 환입해서는 안 된다는 것을 시사할 수 있다. 그러한 손상차손은 후속 중간보고기간말에만 손상검토를 수행한다면 손상차손을 인식하지 않게 되거나 손상차손금액이 감소하는 경우라고 하더라도 그 금액을 환입하지 않을 것이다.(주1)금융상품IFRS 9는 금융상품: 인식과 측정IAS 39를 대체하였다. 금융상품IFRS 9는 이전에 금융상품: 인식과 측정IAS 39의 적용범위에 포함된 모든 항목에 적용한다. - 책갈피 추가/삭제BC3그러나 중간재무보고IAS 34는 중간재무제표에 누적기간측정을 요구한다. 이 요구사항은 기업이 과거 중간기간에 인식한 손상차손을 후속 중간기간에 환입해야 한다는 것을 시사할 수 있다. 그러한 손상차손은 후속 중간보고기간말에만 손상검토를 수행한다면 손상차손을 인식하지 않게 되거나 손상차손금액이 감소하는 경우 그 금액을 환입할 것이다. - 책갈피 추가/삭제BC4IFRIC은 2006년 1월에 의견수렴을 위하여 해석서 공개초안 제18호(D18) ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)’을 발표하였다. IFRIC은 50건이 넘는 외부검토의견서를 받았다. - 책갈피 추가/삭제BC5IFRIC은 많은 의견제출자들이 기준서 간의 상충을 다루려는 D18은 IFRIC의 범위를 벗어난다고 생각하고 있음을 알게 되었다. 일부 의견제출자는 제기된 논점이 중간재무보고IAS 34를 개정함으로써 더 잘 해결될 수 있다고 보았다. IFRIC의 견해를 최종결정하기에 앞서 IFRIC은 IASB에 이러한 점을 고려할 것을 요청하였다. 그러나 IASB는 중간재무보고IAS 34의 개정을 원하지 않았으며 IFRIC이 해석서로 계속 다룰 것을 요청하였다. - 책갈피 추가/삭제BC6D18의 의견제출자들은 제안된 해석서가 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산 및 영업권에 대하여 중간기간에 인식한 손상차손의 환입을 금지해야 하는지에 대하여 의견이 나뉘었다. IFRIC은 이러한 의견을 고려하였으나 그러한 손상차손은 후속 재무제표에 환입되어서는 안된다는 관점을 유지하였다. IFRIC은 의견제출자들의 검토의견에 나타난 것처럼 관점이 매우 다양하다는 것은 추가적인 지침이 필요하다는 것을 뒷받침하므로 D18을 거의 수정하지 않고 해석서를 발표하기로 결정하였다. - 책갈피 추가/삭제BC7IFRIC은 동일한 지분상품에 대한 투자자산을 각각 동일한 취득원가로 보유하고 있는 기업 A와 기업 B의 사례를 고려하였다. 기업 A는 분기별로 중간재무제표를 작성하고 기업 B는 반기별로 재무제표를 작성한다. 두 기업의 연차보고기간말은 동일하다. IFRIC은 첫 분기에 그 지분상품의 공정가치가 취득원가 아래로 유의적인 정도로 하락하는 경우에 기업 A는 첫 분기의 중간재무제표에 손상차손을 인식함에 주목하였다. 그러나 그 후에 지분상품의 공정가치가 회복되어 반기말까지 공정가치가 취득원가 아래로 유의적인 정도로 하락하지 않은 경우에, 기업 B가 반기말에만 손상검사를 한다면 반기재무제표에 손상차손을 인식하지 않을 것이다. 따라서 기업 A가 이전 중간기간에 인식한 손상차손을 환입하지 않으면 기업 B의 접근법과 비교할 때 보고빈도가 연차결과의 측정에 영향을 미친다. 또한 이와 유사하게 IFRIC은 손상차손의 인식이 두 기업의 연차보고기간말의 시기에 따라서도 영향을 받을 수 있다는 점에 주목하였다. - 책갈피 추가/삭제BC8IFRIC은 중간재무보고IAS 34에 첨부된 적용사례에서 그 기준서의 일반적인 인식과 측정원칙을 적용하는 사례를 제공하고, 문단 B36에서 중간재무보고IAS 34가 연차보고기간말과 동일하게 중간보고기간말에도 동일한 손상검사, 인식 및 환입기준을 적용하도록 요구하고 있다는 점을 주목하였다. - 책갈피 추가/삭제BC9IFRIC은 자산손상IAS 36에 따라 인식한 영업권의 손상차손의 환입과 금융상품: 인식과 측정IAS 39(주2)에 따라 인식한 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산의 손상차손의 환입을 금지하는 것은 보고빈도가 연차결과의 측정에 영향을 미치지 않아야 한다는 중간재무보고IAS 34의 보다 일반적인 규정에 우선하여야 한다고 결론을 내렸다.(주2)2009년 11월과 2010년 10월에 IASB는 금융상품: 인식과 측정IAS 39의 요구사항 중 일부를 개정하여 금융상품IFRS 9 ‘금융상품’으로 재배치하였다. 금융상품IFRS 9는 금융상품: 인식과 측정IAS 39의 적용범위에 포함되는 모든 항목에 적용한다. - 책갈피 추가/삭제BC10더 나아가 IFRIC은 자산손상IAS 36의 문단 BC189와 금융상품: 인식과 측정IAS 39의 문단 BC130에 기술된 바와 같이 지분상품에 대한 투자자산과 영업권에 관련된 손상차손을 환입하지 않는 근거는 중간보고기간말과 연차보고기간말에 모두 적용된다고 결론을 내렸다. - 책갈피 추가/삭제BC11IFRIC은 이러한 결론을 중간재무보고IAS 34와 다른 기준서 사이에 상충발생이 가능한 기타 분야에까지 확대적용하는 것에 대한 우려를 고려하였다. IFRIC은 이러한 분야를 검토하지 않았고 따라서 이 해석서와 그 밖의 상충발생이 가능한 기타 분야에 모두 적용할 수 있는 어떤 일반원칙을 도출하지 않았다. 따라서 IFRIC은 중간재무보고IAS 34와 다른 기준서 사이의 상충이 발생가능한 기타 분야에까지 유추하여 이 결론을 확대적용하는 것을 금지하였다. - 책갈피 추가/삭제BC12D18은 완전한 소급적용을 제안하였다. 많은 검토의견이 완전한 소급적용이 자산손상IAS 36의 최초채택 요구사항보다 큰 부담이 될 것이라고 주장하였다. IFRIC은 이 해석서를 영업권의 손상에 대한 자산손상IAS 36 및 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산의 손상에 대한 금융상품: 인식과 측정IAS 39를 채택하기 이전 기간에는, 적용하여서는 안된다는 것을 명확히 하기 위하여 경과규정의 문구를 수정하였다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>IFRIC 10 ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)의 결론도출근거</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<ol class=\"sc-frcGqA fdimjZ\"><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"웩3\"><div value=\"웩3\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU sc-iuDHTM ennKfu\"><div class=\"para-inner-para\"><i>이 결론도출근거는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고와 손상</span><span class=\"std-finder\">IFRIC 10</span></div>에 첨부되지만, 이 해석서의 일부를 구성하는 것은 아니다.     \n  </i></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC1\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC1\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC1</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">IFRIC이 결론을 도출하는 과정에서 고려한 사항을 이 결론도출근거에서 요약한다. IFRIC 위원들은 개인에 따라 일부 사항을 다른 사항들보다 더 비중있게 고려하였다.</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC2\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC2\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC2</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>는 연차재무제표에 적용하는 것과 동일한 회계정책을 적용하여 중간재무제표를 작성하도록 하고 있다. 연차재무제표에, \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>은 과거 연차보고기간에 영업권에 대해 인식한 손상차손을 환입하는 것을 금지한다. 이와 마찬가지로 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주1)</sup>는 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산의 손상차손을 후속 회계연도에 환입하는 것을 금지한다. 이러한 요구사항은 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산 및 영업권에 대하여 과거 중간기간에 인식한 손상차손을 후속 중간기간에 환입해서는 안 된다는 것을 시사할 수 있다. 그러한 손상차손은 후속 중간보고기간말에만 손상검토를 수행한다면 손상차손을 인식하지 않게 되거나 손상차손금액이 감소하는 경우라고 하더라도 그 금액을 환입하지 않을 것이다.\n</div><div class=\"para-inner-para\"><div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 포함된 모든 항목에 적용한다.    \n    </div></div></div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC3\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC3\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC3</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">그러나 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>는 중간재무제표에 누적기간측정을 요구한다. 이 요구사항은 기업이 과거 중간기간에 인식한 손상차손을 후속 중간기간에 환입해야 한다는 것을 시사할 수 있다. 그러한 손상차손은 후속 중간보고기간말에만 손상검토를 수행한다면 손상차손을 인식하지 않게 되거나 손상차손금액이 감소하는 경우 그 금액을 환입할 것이다.\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC4\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC4\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC4</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">IFRIC은 2006년 1월에 의견수렴을 위하여 해석서 공개초안 제18호(D18) ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)’을 발표하였다. IFRIC은 50건이 넘는 외부검토의견서를 받았다.</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC5\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC5\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC5</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">IFRIC은 많은 의견제출자들이 기준서 간의 상충을 다루려는 D18은 IFRIC의 범위를 벗어난다고 생각하고 있음을 알게 되었다. 일부 의견제출자는 제기된 논점이 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>를 개정함으로써 더 잘 해결될 수 있다고 보았다. IFRIC의 견해를 최종결정하기에 앞서 IFRIC은 IASB에 이러한 점을 고려할 것을 요청하였다. 그러나 IASB는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>의 개정을 원하지 않았으며 IFRIC이 해석서로 계속 다룰 것을 요청하였다.\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC6\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC6\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC6</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">D18의 의견제출자들은 제안된 해석서가 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산 및 영업권에 대하여 중간기간에 인식한 손상차손의 환입을 금지해야 하는지에 대하여 의견이 나뉘었다. IFRIC은 이러한 의견을 고려하였으나 그러한 손상차손은 후속 재무제표에 환입되어서는 안된다는 관점을 유지하였다. IFRIC은 의견제출자들의 검토의견에 나타난 것처럼 관점이 매우 다양하다는 것은 추가적인 지침이 필요하다는 것을 뒷받침하므로 D18을 거의 수정하지 않고 해석서를 발표하기로 결정하였다.</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC7\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC7\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC7</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">IFRIC은 동일한 지분상품에 대한 투자자산을 각각 동일한 취득원가로 보유하고 있는 기업 A와 기업 B의 사례를 고려하였다. 기업 A는 분기별로 중간재무제표를 작성하고 기업 B는 반기별로 재무제표를 작성한다. 두 기업의 연차보고기간말은 동일하다. IFRIC은 첫 분기에 그 지분상품의 공정가치가 취득원가 아래로 유의적인 정도로 하락하는 경우에 기업 A는 첫 분기의 중간재무제표에 손상차손을 인식함에 주목하였다. 그러나 그 후에 지분상품의 공정가치가 회복되어 반기말까지 공정가치가 취득원가 아래로 유의적인 정도로 하락하지 않은 경우에, 기업 B가 반기말에만 손상검사를 한다면 반기재무제표에 손상차손을 인식하지 않을 것이다. 따라서 기업 A가 이전 중간기간에 인식한 손상차손을 환입하지 않으면 기업 B의 접근법과 비교할 때 보고빈도가 연차결과의 측정에 영향을 미친다. 또한 이와 유사하게 IFRIC은 손상차손의 인식이 두 기업의 연차보고기간말의 시기에 따라서도 영향을 받을 수 있다는 점에 주목하였다.</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC8\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC8\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC8</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IFRIC은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>에 첨부된 적용사례에서 그 기준서의 일반적인 인식과 측정원칙을 적용하는 사례를 제공하고, \n  \n  <span class=\"mundan-finder\">문단 B36</span>에서 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>가 연차보고기간말과 동일하게 중간보고기간말에도 동일한 손상검사, 인식 및 환입기준을 적용하도록 요구하고 있다는 점을 주목하였다.\n\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC9\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC9\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC9</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>에 따라 인식한 영업권의 손상차손의 환입과 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주2)</sup>에 따라 인식한 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산의 손상차손의 환입을 금지하는 것은 보고빈도가 연차결과의 측정에 영향을 미치지 않아야 한다는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>의 보다 일반적인 규정에 우선하여야 한다고 결론을 내렸다.\n</div><div class=\"para-inner-para\"><div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주2)</div><div class=\"para-num-item-para-con\">2009년 11월과 2010년 10월에 IASB는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 요구사항 중 일부를 개정하여 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’으로 재배치하였다. \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 포함되는 모든 항목에 적용한다.        \n    </div></div></div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC10\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC10\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC10</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">더 나아가 IFRIC은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>의 \n  \n  <span class=\"mundan-finder\">문단 BC189</span>와 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 \n  \n  <span class=\"mundan-finder\">문단 BC130</span>에 기술된 바와 같이 지분상품에 대한 투자자산과 영업권에 관련된 손상차손을 환입하지 않는 근거는 중간보고기간말과 연차보고기간말에 모두 적용된다고 결론을 내렸다.\n\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC11\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC11\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC11</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">IFRIC은 이러한 결론을 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>와 다른 기준서 사이에 상충발생이 가능한 기타 분야에까지 확대적용하는 것에 대한 우려를 고려하였다. IFRIC은 이러한 분야를 검토하지 않았고 따라서 이 해석서와 그 밖의 상충발생이 가능한 기타 분야에 모두 적용할 수 있는 어떤 일반원칙을 도출하지 않았다. 따라서 IFRIC은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">중간재무보고</span><span class=\"std-finder\">IAS 34</span></div>와 다른 기준서 사이의 상충이 발생가능한 기타 분야에까지 유추하여 이 결론을 확대적용하는 것을 금지하였다.\n</div></div></div></div></li><li class=\"sc-gNJABI jggvBK sc-iaAMwK jQIbuR\" data-paranum=\"BC12\"><div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC12\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC12</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para-inner-para\">D18은 완전한 소급적용을 제안하였다. 많은 검토의견이 완전한 소급적용이 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>의 최초채택 요구사항보다 큰 부담이 될 것이라고 주장하였다. IFRIC은 이 해석서를 영업권의 손상에 대한 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div> 및 지분상품에 대한 투자자산과 원가를 장부금액으로 하는 금융자산에 대한 투자자산의 손상에 대한 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 채택하기 이전 기간에는, 적용하여서는 안된다는 것을 명확히 하기 위하여 경과규정의 문구를 수정하였다.\n\n</div></div></div></div></li></ol>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "relationship",
+      "section_id": "relationship",
+      "section_title": "국제회계기준과의 관계",
+      "toc_path": "기타 참고사항|국제회계기준과의 관계",
+      "text": "## 국제회계기준과의 관계 ### 기업회계기준해석서 제2110호와 국제재무보고기준해석 제10호(IFRIC 10) 기업회계기준해석서 제2110호는 국제재무보고기준해석위원회가 제정한 국제재무보고기준해석 제10호(IFRIC 10) ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)'에 대응하는 해석이다. 한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한3.1과 한10.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일 및 경과규정과 관련된 문단 10이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다. ### 국제재무보고기준해석 제10호(IFRIC 10)의 준수 형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2110호가 IFRIC 10의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2110호를 준수하면 동시에 IFRIC 10을 준수하는 것이 된다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>국제회계기준과의 관계</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<h3>기업회계기준해석서 제2110호와 국제재무보고기준해석 제10호(IFRIC 10)</h3>\n<p>기업회계기준해석서 제2110호는 국제재무보고기준해석위원회가 제정한 국제재무보고기준해석 제10호(IFRIC 10) ‘중간재무보고와 손상(Interim Financial Reporting and Impairment)'에 대응하는 해석이다. </p>\n<p>한국의 법률체계와 일관성을 유지하기 위하여 형식적인 부분이 제한적으로 수정되었다. 즉, 한국채택국제회계기준의 의무적용대상기업과 적용시기를 명시하기 위하여 문단 한3.1과 한10.1이 추가되었으며, 적용시기 이후 최초채택기업으로서 이 기준서를 적용하게 됨에 따라 시행일 및 경과규정과 관련된 문단 10이 삭제되었다. 이러한 수정을 명시적으로 표시하기 위하여 동 국제회계기준에 추가한 문단은 관련된 국제회계기준 문단번호에 ‘한’이라는 접두어를 붙여 구분 표시하였다. 그리고 동 국제회계기준의 문단을 삭제한 경우는 관련된 국제회계기준 문단번호 옆에 ‘[한국회계기준원 회계기준위원회가 삭제함]’이라고 표시하였다.</p>\n<h3>국제재무보고기준해석 제10호(IFRIC 10)의 준수</h3>\n<p>형식과 관련하여 수정된 위의 문단들을 제외하고는 기업회계기준해석서 제2110호가 IFRIC 10의 내용에 근거하여 제정되었기 때문에 기업회계기준해석서 제2110호를 준수하면 동시에 IFRIC 10을 준수하는 것이 된다. </p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "overview",
+      "section_id": "overview",
+      "section_title": "이 해석서의 주요 특징",
+      "toc_path": "기타 참고사항|이 해석서의 주요 특징",
+      "text": "## 이 해석서의 주요 특징 이 해석서는 ‘중간기간에 이미 인식된 손상차손이 변동한 상황’에 대한 지침을 제공하기 위한 사항을 정하고 있다. ### 1. 회계논제 영업권에 대하여 중간기간에 인식한 손상차손이 후속 보고기간말에만 손상검토를 수행한다면 손상차손을 인식하지 않게 되거나 손상차손금액이 감소하는 경우, 당해 금액을 환입하여야 하는가? ### 2. 결론 영업권에 대하여 이전 중간기간에 인식한 손상차손을 환입하지 아니한다. ## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>이 해석서의 주요 특징</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p>이 해석서는 ‘중간기간에 이미 인식된 손상차손이 변동한 상황’에 대한 지침을 제공하기 위한 사항을 정하고 있다.</p>\n<h3>1. 회계논제</h3>\n<p>영업권에 대하여 중간기간에 인식한 손상차손이 후속 보고기간말에만 손상검토를 수행한다면 손상차손을 인식하지 않게 되거나 손상차손금액이 감소하는 경우, 당해 금액을 환입하여야 하는가?</p>\n<h3>2. 결론</h3>\n<p>영업권에 대하여 이전 중간기간에 인식한 손상차손을 환입하지 아니한다.</p>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    },
+    {
+      "number": "revision",
+      "section_id": "revision",
+      "section_title": "제·개정 경과",
+      "toc_path": "기타 참고사항|제·개정 경과",
+      "text": "## 제·개정 경과 한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 다음과 같이 제․개정하였다. \n\n| 제․개정일자 | 한국채택국제회계기준 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2007.11.23. 제정 | 중간재무보고와 손상 | Interim Financial Reporting and Implementation |\n\n이 기준서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다. \n\n| 제․개정일자 | 타 기준서 | 관련되는 국제회계기준 |\n| --- | --- | --- |\n| 2015. 9. 25. | 기업회계기준서 제1109호 금융상품 | IFRS 9 Financial Instruments |\n\n## 공유하기 ### 문서 ### 주소",
+      "html": "<h2 class=\"sc-fmWklf kYKwoP sc-jstVdI eboZxl\"><span>제·개정 경과</span><div class=\"sc-kKBQAD gPiNYh\"><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/shareIcon.svg\"></button><button class=\"sc-hSmEHG bLWOdk sc-lkYwMk hMjTsh\"><img src=\"/images/paragraph/reportIcon.svg\"></button></div></h2>\n<p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국회계기준원 회계기준위원회는 국제회계기준위원회가 제정한 국제회계기준을 채택하여 기업회계기준의 일부로 구성하기로 한 정책에 따라 이 기준서를 다음과 같이 제․개정하였다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 27px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 27px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">한국채택국제회계기준</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 27px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2007.11.23. 제정</span></p></td><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">중간재무보고와 손상</span></p></td><td valign=\"middle\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">Interim Financial Reporting and Implementation</span></p></td></tr></tbody></table>\n<p class=\"HStyle1\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">이 기준서는 타 기준서의 제⋅개정에 따라 다음과 같이 개정되었다.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 100%; margin: 0px; padding: 0px; border: none; table-layout: fixed;\"><tbody style=\"margin: 0px; padding: 0px;\"><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 29px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">제․개정일자</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 29px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">타 기준서</span></p></td><td valign=\"middle\" bgcolor=\"#d6d6d6\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 29px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 24px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 28.8px;\">관련되는 국제회계기준</span></p></td></tr><tr style=\"margin: 0px; padding: 0px;\"><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 119px; height: 41px; border-width: 0.42525pt; border-style: solid solid solid none; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: center; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">2015. 9. 25.</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 164px; height: 41px; border-width: 0.42525pt; border-style: solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">기업회계기준서&nbsp;</span></p><p class=\"HStyle0\" style=\"margin: 0pt 0px; padding: 0px; text-align: justify; text-indent: 0pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">제1109호 금융상품</span></p></td><td valign=\"top\" style=\"margin: 0px; padding: 2px; overflow: hidden; width: 281px; height: 41px; border-width: 0.42525pt; border-style: solid none solid solid; border-color: rgb(0, 0, 0);\"><p class=\"HStyle0\" style=\"margin: 0pt 8.5pt 0pt 5.9pt; padding: 0px; text-align: justify; text-indent: -3.3pt; line-height: 17.3333px; font-size: 10pt; font-family: 바탕; color: rgb(0, 0, 0);\"><span style=\"margin: 0px; padding: 0px; position: relative; font-size: 12pt; font-family: 휴먼명조; line-height: 20.8px;\">IFRS 9 Financial Instruments</span></p></td></tr></tbody></table>\n<h2 class=\"sc-bdVaJa bCmAMd\">공유하기</h2>\n<h3 class=\"sc-jBoNkH cYebSe\">문서</h3>\n<h3 class=\"sc-bdVaJa loEuim\">주소</h3>",
+      "cross_references": [],
+      "qna_references": [],
+      "footnote_references": []
+    }
+  ],
+  "cross_references_index": {
+    "1036": [
+      "1",
+      "2",
+      "4"
+    ],
+    "1034": [
+      "2",
+      "3",
+      "9"
+    ],
+    "1109": [
+      "14"
+    ]
+  },
+  "qna_index": {
+    "SSI-35607": [
+      "3",
+      "4",
+      "7",
+      "8",
+      "9"
+    ],
+    "SSI-36921": [
+      "7",
+      "8",
+      "9"
+    ]
+  }
+}

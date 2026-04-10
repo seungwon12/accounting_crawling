@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "유형자산",
   "url": "https://db.kasb.or.kr/s/1016",
-  "crawled_at": "2026-03-24T04:38:35.154579+00:00",
+  "crawled_at": "2026-04-09T06:00:37.586656+00:00",
   "toc": [
     {
       "level": null,
@@ -932,12 +932,11 @@
         {
           "type": "paragraph",
           "display_text": "문단 5A~5B",
-          "standard_number": "1041",
+          "standard_number": "1016",
           "standard_title": null,
           "range": "5A~5B",
           "paragraph_ids": [
-            "5A",
-            "5B"
+            "5A~5B"
           ]
         }
       ],
@@ -1697,7 +1696,7 @@
       "section_id": "MPAuq1",
       "section_title": "인식시점 이후의 측정",
       "toc_path": "본문|인식시점 이후의 측정",
-      "text": "기업은 문단 30의 원가모형이나 문단 31의 재평가\n(한1)모형 중 하나를 회계정책으로 선택하여 유형자산의 유형별로 동일하게 적용한다.\n[각주 (한1)] 이 기준서의 ‘재평가’는 ‘감정평가 및 감정평가사에 관한 법률’ 등에서 언급하는 ‘재평가’와 그 용도, 대상 및 구체적 평가방법 등에서 서로 다른 의미로 사용될 수 있다.",
+      "text": "기업은 문단 30의 원가모형이나 문단 31의 재평가(한1)모형 중 하나를 회계정책으로 선택하여 유형자산의 유형별로 동일하게 적용한다.\n[각주 (한1)] 이 기준서의 ‘재평가’는 ‘감정평가 및 감정평가사에 관한 법률’ 등에서 언급하는 ‘재평가’와 그 용도, 대상 및 구체적 평가방법 등에서 서로 다른 의미로 사용될 수 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"29\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">29</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>기업은 \n    <span class=\"mundan-finder\">문단 30</span>의 원가모형이나 \n    <span class=\"mundan-finder\">문단 31</span>의 재평가      \n    <sup data-id=\"(한1)\">(한1)</sup>모형 중 하나를 회계정책으로 선택하여 유형자산의 유형별로 동일하게 적용한다.\n  </b></div><div class=\"idt-1 comment\"><div>(한1)</div><div>이 기준서의 ‘재평가’는 ‘감정평가 및 감정평가사에 관한 법률’ 등에서 언급하는 ‘재평가’와 그 용도, 대상 및 구체적 평가방법 등에서 서로 다른 의미로 사용될 수 있다.</div></div></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"지배, 종속기업의 유형자산 평가모형이 다른 경우\" target=\"_blank\" href=\"/qnas/SSI-38608\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 지배, 종속기업의 유형자산 평가모형이 다른 경우</h5><time class=\"sc-gacfCG bRMfLY\">2017-02-01</time></article></a></li></ul></div></div></div>",
       "cross_references": [
         {
@@ -1884,7 +1883,19 @@
       "toc_path": "본문|인식시점 이후의 측정|재평가모형",
       "text": "유형자산을 재평가할 때, 그 자산의 장부금액을 재평가금액으로 조정한다. 재평가일에 그 자산을 다음 중 하나의 방법으로 회계처리한다.\n(1) 자산 장부금액의 재평가와 일치하는 방식으로 자산의 총장부금액을 조정한다. 예를 들어, 총장부금액은 관측가능한 시장 자료를 기초로 수정하거나 장부금액의 변동에 비례하여 수정할 수 있다. 재평가일의 감가상각누계액은 손상차손누계액을 고려한 후 총장부금액과 장부금액의 차이와 같아지도록 조정한다.\n(2) 자산의 총장부금액에서 감가상각누계액을 제거한다.",
       "html": "유형자산을 재평가할 때, 그 자산의 장부금액을 재평가금액으로 조정한다. 재평가일에 그 자산을 다음 중 하나의 방법으로 회계처리한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(1)</div><div class=\"para-num-item-para-con\"> 자산 장부금액의 재평가와 일치하는 방식으로 자산의 총장부금액을 조정한다. 예를 들어, 총장부금액은 관측가능한 시장 자료를 기초로 수정하거나 장부금액의 변동에 비례하여 수정할 수 있다. 재평가일의 감가상각누계액은 손상차손누계액을 고려한 후 총장부금액과 장부금액의 차이와 같아지도록 조정한다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">(2)</div><div class=\"para-num-item-para-con\"> 자산의 총장부금액에서 감가상각누계액을 제거한다.\n    </div></div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "paragraph",
+          "display_text": "문단 39와 40",
+          "standard_number": "1016",
+          "standard_title": null,
+          "range": "39,40",
+          "paragraph_ids": [
+            "39",
+            "40"
+          ]
+        }
+      ],
       "qna_references": [
         {
           "qna_id": "SSI-202312025",
@@ -2540,7 +2551,7 @@
       "section_id": "3aVOKC",
       "section_title": "제거",
       "toc_path": "본문|제거",
-      "text": "유형자산의 제거로 생기는 손익은 자산을 제거할 때 당기손익으로 인식한다(다만, 기업회계기준서 제1116호 ‘리스’에서 판매후리스에 대하여 달리 규정하는 경우는 제외). 차익(gains)은 수익(revenue)으로 분류하지 않는다.\n(한2)\n[각주 (한2)] ‘개념체계’에 따르면 ‘income’은 ‘revenue’와 ‘gains’를 포함하는 ‘광의의 수익’개념이고, 한국채택국제회계기준에서는 ‘income’과 ‘revenue’를 동일하게 ‘수익’으로 번역하고 ‘gains’를 ‘차익 또는 이익’으로 번역함을 원칙으로 하였다. 다만, ‘income’과 ‘revenue’ 두 개의 용어를 명확하게 구분할 필요가 있는 경우 ‘income’은 ‘(광의의) 수익’으로 번역하였다. 차익은 흔히 관련 비용을 차감한 금액으로 보고되므로, ‘차익(gains)은 수익(revenue)으로 분류하지 않는다’는 차익을 통상적 활동에서 발생하는 경제적 효익의 총 유입액을 의미하는 수익으로 분류하지 않는다는 의미이다.",
+      "text": "유형자산의 제거로 생기는 손익은 자산을 제거할 때 당기손익으로 인식한다(다만, 기업회계기준서 제1116호 ‘리스’에서 판매후리스에 대하여 달리 규정하는 경우는 제외). 차익(gains)은 수익(revenue)으로 분류하지 않는다.(한2)\n[각주 (한2)] ‘개념체계’에 따르면 ‘income’은 ‘revenue’와 ‘gains’를 포함하는 ‘광의의 수익’개념이고, 한국채택국제회계기준에서는 ‘income’과 ‘revenue’를 동일하게 ‘수익’으로 번역하고 ‘gains’를 ‘차익 또는 이익’으로 번역함을 원칙으로 하였다. 다만, ‘income’과 ‘revenue’ 두 개의 용어를 명확하게 구분할 필요가 있는 경우 ‘income’은 ‘(광의의) 수익’으로 번역하였다. 차익은 흔히 관련 비용을 차감한 금액으로 보고되므로, ‘차익(gains)은 수익(revenue)으로 분류하지 않는다’는 차익을 통상적 활동에서 발생하는 경제적 효익의 총 유입액을 의미하는 수익으로 분류하지 않는다는 의미이다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"68\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">68</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\"><b>유형자산의 제거로 생기는 손익은 자산을 제거할 때 당기손익으로 인식한다(다만, \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">리스</span><span class=\"std-finder\">기업회계기준서 제1116호</span></div> ‘리스’에서 판매후리스에 대하여 달리 규정하는 경우는 제외). 차익(gains)은 수익(revenue)으로 분류하지 않는다.\n  </b><sup data-id=\"(한2)\">(한2)</sup></div><div class=\"idt-1 comment\"><div>(한2)</div><div>‘개념체계’에 따르면 ‘income’은 ‘revenue’와 ‘gains’를 포함하는 ‘광의의 수익’개념이고, 한국채택국제회계기준에서는 ‘income’과 ‘revenue’를 동일하게 ‘수익’으로 번역하고 ‘gains’를 ‘차익 또는 이익’으로 번역함을 원칙으로 하였다. 다만, ‘income’과 ‘revenue’ 두 개의 용어를 명확하게 구분할 필요가 있는 경우 ‘income’은 ‘(광의의) 수익’으로 번역하였다. 차익은 흔히 관련 비용을 차감한 금액으로 보고되므로, ‘차익(gains)은 수익(revenue)으로 분류하지 않는다’는 차익을 통상적 활동에서 발생하는 경제적 효익의 총 유입액을 의미하는 수익으로 분류하지 않는다는 의미이다.</div></div></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 4개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"기존 건물 철거 후 신축 시 기존 건물의 장부금액의 회계처리\" target=\"_blank\" href=\"/qnas/SSI-38507\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 기존 건물 철거 후 신축 시 기존 건물의 장부금액의 회계처리</h5><time class=\"sc-gacfCG bRMfLY\">2021-09-08</time></article></a></li><li><a title=\"자산관련보조금으로 취득한 자산의 매각\" target=\"_blank\" href=\"/qnas/SSI-38549\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 자산관련보조금으로 취득한 자산의 매각</h5><time class=\"sc-gacfCG bRMfLY\">2018-03-02</time></article></a></li><li><a title=\"유형자산 처분대가로 대출채권을 수령한 경우\" target=\"_blank\" href=\"/qnas/SSI-202312057\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 유형자산 처분대가로 대출채권을 수령한 경우</h5><time class=\"sc-gacfCG bRMfLY\">2022-12-12</time></article></a></li><li><a title=\"재평가모형 적용 유형자산의 처분\" target=\"_blank\" href=\"/qnas/SSI-202312023\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 재평가모형 적용 유형자산의 처분</h5><time class=\"sc-gacfCG bRMfLY\">2022-11-30</time></article></a></li></ul></div></div></div>",
       "cross_references": [
         {
@@ -2799,7 +2810,7 @@
           "display_text": "문단 31, 39 및 40",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "31, 39 및 40",
+          "range": "31,39,40",
           "paragraph_ids": [
             "31",
             "39",
@@ -2826,7 +2837,7 @@
       "section_id": "NZrriT",
       "section_title": "공시",
       "toc_path": "본문|공시",
-      "text": "포괄손익계산서에 별도로 표시하지 않은 경우, 재무제표에 다음 사항을 공시한다.\n⑴ 손상, 소실 또는 포기된 유형자산에 대해 제삼자에게서 받은 보상금액으로서 당기손익으로 인식된 금액\n⑵ 생산된 재화 중 기업의 통상적인 활동의 산출물이 아닌 재화와 관련된 금액으로 문단 20A에 따라 당기손익에 포함한 매각금액과 원가, 그리고 그 매각금액과 원가가 포함되어 있는 포괄손익계산서의 개별 항목",
+      "text": "포괄손익계산서에 별도로 표시하지 않은 경우, 재무제표에 다음 사항을 공시한다.\n(1) 손상, 소실 또는 포기된 유형자산에 대해 제삼자에게서 받은 보상금액으로서 당기손익으로 인식된 금액\n(2) 생산된 재화 중 기업의 통상적인 활동의 산출물이 아닌 재화와 관련된 금액으로 문단 20A에 따라 당기손익에 포함한 매각금액과 원가, 그리고 그 매각금액과 원가가 포함되어 있는 포괄손익계산서의 개별 항목",
       "html": "포괄손익계산서에 별도로 표시하지 않은 경우, 재무제표에 다음 사항을 공시한다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\">손상, 소실 또는 포기된 유형자산에 대해 제삼자에게서 받은 보상금액으로서 당기손익으로 인식된 금액</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\">생산된 재화 중 기업의 통상적인 활동의 산출물이 아닌 재화와 관련된 금액으로 \n        <span class=\"mundan-finder\">문단 20A</span>에 따라 당기손익에 포함한 매각금액과 원가, 그리고 그 매각금액과 원가가 포함되어 있는 포괄손익계산서의 개별 항목    \n      </div></div>",
       "cross_references": [
         {
@@ -2872,7 +2883,7 @@
       "section_id": "NZrriT",
       "section_title": "공시",
       "toc_path": "본문|공시",
-      "text": "회계추정치를 변경한 경우 회계추정치 변경의 성격과 당해 회계연도에 미치는 영향이나 후속 회계연도에 미치는 영향을 기업회계기준서 제1008호에 따라 공시한다. 이러한 공시는 다음과 같은 추정치에서 변경이 일어날 경우 필요한 것이다. ⑴ 잔존가치 ⑵ 유형자산의 해체, 제거 또는 복구 추정원가 ⑶ 내용연수 ⑷ 감가상각방법",
+      "text": "회계추정치를 변경한 경우 회계추정치 변경의 성격과 당해 회계연도에 미치는 영향이나 후속 회계연도에 미치는 영향을 기업회계기준서 제1008호에 따라 공시한다. 이러한 공시는 다음과 같은 추정치에서 변경이 일어날 경우 필요한 것이다.\n(1) 잔존가치\n(2) 유형자산의 해체, 제거 또는 복구 추정원가\n(3) 내용연수\n(4) 감가상각방법",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"76\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">76</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">회계추정치를 변경한 경우 회계추정치 변경의 성격과 당해 회계연도에 미치는 영향이나 후속 회계연도에 미치는 영향을 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">회계정책, 회계추정치 변경과 오류</span><span class=\"std-finder\">기업회계기준서 제1008호</span></div>에 따라 공시한다. 이러한 공시는 다음과 같은 추정치에서 변경이 일어날 경우 필요한 것이다.\n</div><div class=\"idt-1\"><div>⑴</div><div>잔존가치</div></div><div class=\"idt-1\"><div>⑵</div><div>유형자산의 해체, 제거 또는 복구 추정원가</div></div><div class=\"idt-1\"><div>⑶</div><div>내용연수</div></div><div class=\"idt-1\"><div>⑷</div><div>감가상각방법</div></div></div></div></div>",
       "cross_references": [
         {
@@ -2935,9 +2946,9 @@
           "display_text": "문단 73(5)(라)~(바)",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "73(5)(라)~(바)",
+          "range": "73(5)",
           "paragraph_ids": [
-            "73~"
+            "73"
           ]
         }
       ],
@@ -3032,7 +3043,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 28(6)",
-          "standard_number": "1008",
+          "standard_number": "1016",
           "standard_title": null,
           "range": "28(6)",
           "paragraph_ids": [
@@ -3084,7 +3095,7 @@
           "display_text": "문단 17과 74",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "17과 74",
+          "range": "17,74",
           "paragraph_ids": [
             "17",
             "74"
@@ -3095,7 +3106,7 @@
           "display_text": "문단 20A와 74A",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "20A와 74A",
+          "range": "20A,74A",
           "paragraph_ids": [
             "20A",
             "74A"
@@ -3242,7 +3253,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 6",
-          "standard_number": "1113",
+          "standard_number": "1016",
           "standard_title": null,
           "range": "6",
           "paragraph_ids": [
@@ -3254,7 +3265,7 @@
           "display_text": "문단 26, 35 및 77",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "26, 35 및 77",
+          "range": "26,35,77",
           "paragraph_ids": [
             "26",
             "35",
@@ -3266,7 +3277,7 @@
           "display_text": "문단 32와 33",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "32와 33",
+          "range": "32,33",
           "paragraph_ids": [
             "32",
             "33"
@@ -3407,7 +3418,7 @@
           "display_text": "문단 68A, 69, 72",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "68A, 69, 72",
+          "range": "68A,69,72",
           "paragraph_ids": [
             "68A",
             "69",
@@ -3455,7 +3466,7 @@
           "display_text": "문단 3, 6, 37",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "3, 6, 37",
+          "range": "3,6,37",
           "paragraph_ids": [
             "3",
             "6",
@@ -3467,7 +3478,7 @@
           "display_text": "문단 22A와 문단 80B~80C",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "22A와 문단 80B~80C",
+          "range": "22A,80B~80C",
           "paragraph_ids": [
             "22A",
             "80B",
@@ -3509,7 +3520,7 @@
           "display_text": "문단 4, 27",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "4, 27",
+          "range": "4,27",
           "paragraph_ids": [
             "4",
             "27"
@@ -3520,7 +3531,7 @@
           "display_text": "문단 5, 10, 44, 68~69",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "5, 10, 44, 68~69",
+          "range": "5,10,44,68~69",
           "paragraph_ids": [
             "5",
             "10",
@@ -3539,7 +3550,7 @@
       "section_id": "EFG7xE",
       "section_title": "시행일",
       "toc_path": "본문|시행일",
-      "text": "2021년 6월에 공표한 기업회계기준서 제1117호에 따라 문단 29A와 29B를 추가하였다\n(한3). 이 개정 내용은 기업회계기준서 제1117호를 적용할 때 적용한다.\n[각주 (한3)] 회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 IFRS 17 ’보험계약‘에 대응하는 K-IFRS 제1117호 ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 IFRS 17을 포함하여 K-IFRS 제1117호를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 IFRS 17에 따라 문단 29A와 29B를 추가하였다.",
+      "text": "2021년 6월에 공표한 기업회계기준서 제1117호에 따라 문단 29A와 29B를 추가하였다(한3). 이 개정 내용은 기업회계기준서 제1117호를 적용할 때 적용한다.\n[각주 (한3)] 회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 IFRS 17 ’보험계약‘에 대응하는 K-IFRS 제1117호 ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 IFRS 17을 포함하여 K-IFRS 제1117호를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 IFRS 17에 따라 문단 29A와 29B를 추가하였다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"81M\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">81M</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">2021년 6월에 공표한 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">기업회계기준서 제1117호</span></div>에 따라 \n  <span class=\"mundan-finder\">문단 29A와 29B</span>를 추가하였다\n  <sup data-id=\"(한3)\">(한3)</sup>. 이 개정 내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">기업회계기준서 제1117호</span></div>를 적용할 때 적용한다.\n</div><div class=\"idt-1 comment\"><div>(한3)</div><div>회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">IFRS 17</span></div> ’보험계약‘에 대응하는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">K-IFRS 제1117호</span></div> ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">IFRS 17</span></div>을 포함하여 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">K-IFRS 제1117호</span></div>를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">IFRS 17</span></div>에 따라 \n    <span class=\"mundan-finder\">문단 29A와 29B</span>를 추가하였다.\n  </div></div></div></div></div>",
       "cross_references": [
         {
@@ -3553,7 +3564,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 17",
-          "standard_number": null,
+          "standard_number": "17",
           "standard_title": "보험계약",
           "range": null,
           "paragraph_ids": []
@@ -3563,18 +3574,7 @@
           "display_text": "문단 29A와 29B",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "29A와 29B",
-          "paragraph_ids": [
-            "29A",
-            "29B"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "display_text": "문단 29A와 29B",
-          "standard_number": "1016",
-          "standard_title": null,
-          "range": "29A와 29B",
+          "range": "29A,29B",
           "paragraph_ids": [
             "29A",
             "29B"
@@ -3602,7 +3602,7 @@
           "display_text": "문단 17과 74",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "17과 74",
+          "range": "17,74",
           "paragraph_ids": [
             "17",
             "74"
@@ -3613,7 +3613,7 @@
           "display_text": "문단 20A, 74A, 및 80D",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "20A, 74A, 및 80D",
+          "range": "20A,74A,80D",
           "paragraph_ids": [
             "20A",
             "74A",
@@ -3668,7 +3668,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3688,7 +3688,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3708,8 +3708,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         },
@@ -3817,7 +3825,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3837,7 +3845,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3851,13 +3859,13 @@
       "section_id": "D7QoVM",
       "section_title": "인식",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식",
-      "text": "기존의 IAS 16에서 개선할 만한 사항을 고려하면서, IASB는 두 가지 이유로 후속지출의 인식원칙에 대해 검토하였다. 첫째, 후속지출에 관한 기존의 인식원칙이 Framework에 언급된 자산의 인식원칙과 일관되지 않았다.\n(주1) 둘째, IASB는 유형자산을 유지하기 위한 지출과 성능을 개선하기 위한 지출의 구별이 실무상 어렵다는 점에 주목하였다. 어떤 지출은 두 가지 모두에 해당되는 것으로 보이기도 한다.\n[각주 (주1)] 이 결론도출근거에서 언급하는 ‘ Framework’는 IASB가 2001년에 채택하여 이 기준서가 전면개정되었을 당시 시행 중이었던 IASC의 ‘재무제표의 작성과 표시를 위한 개념체계’를 말한다.",
+      "text": "기존의 IAS 16에서 개선할 만한 사항을 고려하면서, IASB는 두 가지 이유로 후속지출의 인식원칙에 대해 검토하였다. 첫째, 후속지출에 관한 기존의 인식원칙이 Framework에 언급된 자산의 인식원칙과 일관되지 않았다.(주1) 둘째, IASB는 유형자산을 유지하기 위한 지출과 성능을 개선하기 위한 지출의 구별이 실무상 어렵다는 점에 주목하였다. 어떤 지출은 두 가지 모두에 해당되는 것으로 보이기도 한다.\n[각주 (주1)] 이 결론도출근거에서 언급하는 ‘ Framework’는 IASB가 2001년에 채택하여 이 기준서가 전면개정되었을 당시 시행 중이었던 IASC의 ‘재무제표의 작성과 표시를 위한 개념체계’를 말한다.",
       "html": "기존의 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에서 개선할 만한 사항을 고려하면서, IASB는 두 가지 이유로 후속지출의 인식원칙에 대해 검토하였다. 첫째, 후속지출에 관한 기존의 인식원칙이 \n  <i>Framework</i>에 언급된 자산의 인식원칙과 일관되지 않았다.  \n  <sup>(주1)</sup> 둘째, IASB는 유형자산을 유지하기 위한 지출과 성능을 개선하기 위한 지출의 구별이 실무상 어렵다는 점에 주목하였다. 어떤 지출은 두 가지 모두에 해당되는 것으로 보이기도 한다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주1)</div><div class=\"para-num-item-para-con\">이 결론도출근거에서 언급하는 ‘\n      <i>Framework</i>’는 IASB가 2001년에 채택하여 이 기준서가 전면개정되었을 당시 시행 중이었던 IASC의 ‘재무제표의 작성과 표시를 위한 개념체계’를 말한다.\n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3882,7 +3890,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3902,7 +3910,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3933,7 +3941,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3953,7 +3961,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -3973,7 +3981,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4004,7 +4012,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4034,7 +4042,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4065,7 +4073,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -4085,7 +4093,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4099,15 +4107,15 @@
       "section_id": "nfsvn0",
       "section_title": "배경",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|배경",
-      "text": "2020년 개정 전 문단 17⑸에서는 경영진이 의도한 방식으로 자산을 가동하는 데 필요한 장소와 상태에 이르게 하는 데 직접 관련되는 원가에 자산이 정상적으로 작동하는지 시험하는 과정에서 발생하는 원가를 포함하되, 생산된 재화의 판매에 따른 순매각금액을 차감하도록 명시하였다. IASB는 다음과 같은 질문을 받았다.\n⑴ 문단 17⑸에서 규정한 매각금액이 오직 시험과정에서 생산된 재화에만 관련되는 것인지\n⑵시험원가를 초과하는 매각금액을 유형자산의 원가에서 차감해야 하는지",
+      "text": "2020년 개정 전 문단 17(5)에서는 경영진이 의도한 방식으로 자산을 가동하는 데 필요한 장소와 상태에 이르게 하는 데 직접 관련되는 원가에 자산이 정상적으로 작동하는지 시험하는 과정에서 발생하는 원가를 포함하되, 생산된 재화의 판매에 따른 순매각금액을 차감하도록 명시하였다. IASB는 다음과 같은 질문을 받았다.\n(1) 문단 17(5)에서 규정한 매각금액이 오직 시험과정에서 생산된 재화에만 관련되는 것인지\n(2)시험원가를 초과하는 매각금액을 유형자산의 원가에서 차감해야 하는지",
       "html": "2020년 개정 전 \n  <span class=\"mundan-finder\">문단 17⑸</span>에서는 경영진이 의도한 방식으로 자산을 가동하는 데 필요한 장소와 상태에 이르게 하는 데 직접 관련되는 원가에 자산이 정상적으로 작동하는지 시험하는 과정에서 발생하는 원가를 포함하되, 생산된 재화의 판매에 따른 순매각금액을 차감하도록 명시하였다. IASB는 다음과 같은 질문을 받았다.\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\">시험원가를 초과하는 매각금액을 유형자산의 원가에서 차감해야 하는지</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"><span class=\"mundan-finder\">문단 17⑸</span>에서 규정한 매각금액이 오직 시험과정에서 생산된 재화에만 관련되는 것인지        \n    </div></div>",
       "cross_references": [
         {
           "type": "paragraph",
-          "display_text": "문단 17⑸",
+          "display_text": "문단 17(5)",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "17⑸",
+          "range": "17",
           "paragraph_ids": [
             "17"
           ]
@@ -4121,15 +4129,15 @@
       "section_id": "nfsvn0",
       "section_title": "배경",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|배경",
-      "text": "IASB의 조사에 따르면 기업별로 문단 17⑸의 요구사항을 다르게 적용하고 있는 것으로 나타났다. 일부 기업은 오직 시험과정에서 생산된 재화의 판매에 따른 매각금액만을 차감하였고, 다른 기업들은 자산을 경영진이 의도하는 방식으로 가동할 수 있는(사용 가능한) 장소와 상태에 이르기까지의 모든 매각금액을 차감하였다. 일부 기업의 경우 유형자산의 원가에서 차감된 매각금액은 유의적이고 시험원가를 초과할 수도 있다.",
+      "text": "IASB의 조사에 따르면 기업별로 문단 17(5)의 요구사항을 다르게 적용하고 있는 것으로 나타났다. 일부 기업은 오직 시험과정에서 생산된 재화의 판매에 따른 매각금액만을 차감하였고, 다른 기업들은 자산을 경영진이 의도하는 방식으로 가동할 수 있는(사용 가능한) 장소와 상태에 이르기까지의 모든 매각금액을 차감하였다. 일부 기업의 경우 유형자산의 원가에서 차감된 매각금액은 유의적이고 시험원가를 초과할 수도 있다.",
       "html": "IASB의 조사에 따르면 기업별로 \n  <span class=\"mundan-finder\">문단 17⑸</span>의 요구사항을 다르게 적용하고 있는 것으로 나타났다. 일부 기업은 오직 시험과정에서 생산된 재화의 판매에 따른 매각금액만을 차감하였고, 다른 기업들은 자산을 경영진이 의도하는 방식으로 가동할 수 있는(사용 가능한) 장소와 상태에 이르기까지의 모든 매각금액을 차감하였다. 일부 기업의 경우 유형자산의 원가에서 차감된 매각금액은 유의적이고 시험원가를 초과할 수도 있다.\n",
       "cross_references": [
         {
           "type": "paragraph",
-          "display_text": "문단 17⑸",
+          "display_text": "문단 17(5)",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "17⑸",
+          "range": "17",
           "paragraph_ids": [
             "17"
           ]
@@ -4186,7 +4194,7 @@
       "section_id": "nINvdK",
       "section_title": "매각금액과 관련 원가의 당기손익 인식",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|매각금액과 관련 원가의 당기손익 인식",
-      "text": "매각금액을 유형자산의 원가와 상계하도록 한 종전의 요구사항은 재무제표 이용자의 재무보고의 유용성을 감소시킨다. 왜냐하면 종전의 요구사항은 다음을 충실하게 나타내지 못하는 결과를 초래하기 때문이다.\n⑴ 기업의 성과. 매각금액과 자산의 원가를 상계하면 일정 기간의 수익(revenue)[또는 이익(income)]이 과소계상된다. 더욱이 이와 같은 회계처리는 자산의 내용연수가 긴 경우에 기업의 성과에 지속적이고 장기적인 영향을 줄 수 있다. 매각금액을 상계할 경우, 그 자산의 감가상각대상금액이 감소되어, 결과적으로 자산의 내용연수에 걸쳐 비용으로 인식되는 감가상각금액이 감소된다.\n⑵유형자산의 원가. 매각금액을 상계할 경우, 유형자산의 장부금액이 원가를 과소 표시하는 결과를 야기할 수 있다. 이로써 자산의 장부금액을 사용하는 지표(예: 자산수익률)의 유용성이 감소될 수 있다.",
+      "text": "매각금액을 유형자산의 원가와 상계하도록 한 종전의 요구사항은 재무제표 이용자의 재무보고의 유용성을 감소시킨다. 왜냐하면 종전의 요구사항은 다음을 충실하게 나타내지 못하는 결과를 초래하기 때문이다.\n(1) 기업의 성과. 매각금액과 자산의 원가를 상계하면 일정 기간의 수익(revenue)[또는 이익(income)]이 과소계상된다. 더욱이 이와 같은 회계처리는 자산의 내용연수가 긴 경우에 기업의 성과에 지속적이고 장기적인 영향을 줄 수 있다. 매각금액을 상계할 경우, 그 자산의 감가상각대상금액이 감소되어, 결과적으로 자산의 내용연수에 걸쳐 비용으로 인식되는 감가상각금액이 감소된다.\n(2)유형자산의 원가. 매각금액을 상계할 경우, 유형자산의 장부금액이 원가를 과소 표시하는 결과를 야기할 수 있다. 이로써 자산의 장부금액을 사용하는 지표(예: 자산수익률)의 유용성이 감소될 수 있다.",
       "html": "매각금액을 유형자산의 원가와 상계하도록 한 종전의 요구사항은 재무제표 이용자의 재무보고의 유용성을 감소시킨다. 왜냐하면 종전의 요구사항은 다음을 충실하게 나타내지 못하는 결과를 초래하기 때문이다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\">유형자산의 원가. 매각금액을 상계할 경우, 유형자산의 장부금액이 원가를 과소 표시하는 결과를 야기할 수 있다. 이로써 자산의 장부금액을 사용하는 지표(예: 자산수익률)의 유용성이 감소될 수 있다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\">기업의 성과. 매각금액과 자산의 원가를 상계하면 일정 기간의 수익(revenue)[또는 이익(income)]이 과소계상된다. 더욱이 이와 같은 회계처리는 자산의 내용연수가 긴 경우에 기업의 성과에 지속적이고 장기적인 영향을 줄 수 있다. 매각금액을 상계할 경우, 그 자산의 감가상각대상금액이 감소되어, 결과적으로 자산의 내용연수에 걸쳐 비용으로 인식되는 감가상각금액이 감소된다.</div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -4197,7 +4205,7 @@
       "section_id": "nINvdK",
       "section_title": "매각금액과 관련 원가의 당기손익 인식",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|매각금액과 관련 원가의 당기손익 인식",
-      "text": "IASB는 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가를 당기손익으로 인식할 경우 재무제표 이용자들에게 유용한 정보를 제공하지 않을 수도 있다는 의견을 고려하였다. 이러한 견해를 가진 이들은 다음과 같은 이유로 이러한 판매금액[그리고 관련된 이익(margin)]이 예측가치가 거의 없을 수 있다고 주장하였다.\n⑴ 이 판매금액은 일반적으로 비반복적이며 반드시 기업의 통상적인 활동의 산출물은 아니다.\n⑵생산된 재화의 원가는 유형자산의 감가상각비를 포함하지 않을 것이다. 왜냐하면 그 자산의 감가상각은 사용 가능한 시점에 시작되기 때문이다.",
+      "text": "IASB는 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가를 당기손익으로 인식할 경우 재무제표 이용자들에게 유용한 정보를 제공하지 않을 수도 있다는 의견을 고려하였다. 이러한 견해를 가진 이들은 다음과 같은 이유로 이러한 판매금액[그리고 관련된 이익(margin)]이 예측가치가 거의 없을 수 있다고 주장하였다.\n(1) 이 판매금액은 일반적으로 비반복적이며 반드시 기업의 통상적인 활동의 산출물은 아니다.\n(2)생산된 재화의 원가는 유형자산의 감가상각비를 포함하지 않을 것이다. 왜냐하면 그 자산의 감가상각은 사용 가능한 시점에 시작되기 때문이다.",
       "html": "IASB는 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가를 당기손익으로 인식할 경우 재무제표 이용자들에게 유용한 정보를 제공하지 않을 수도 있다는 의견을 고려하였다. 이러한 견해를 가진 이들은 다음과 같은 이유로 이러한 판매금액[그리고 관련된 이익(margin)]이 예측가치가 거의 없을 수 있다고 주장하였다.\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\">생산된 재화의 원가는 유형자산의 감가상각비를 포함하지 않을 것이다. 왜냐하면 그 자산의 감가상각은 사용 가능한 시점에 시작되기 때문이다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\">이 판매금액은 일반적으로 비반복적이며 반드시 기업의 통상적인 활동의 산출물은 아니다.</div></div>",
       "cross_references": [],
       "qna_references": [],
@@ -4208,15 +4216,15 @@
       "section_id": "nINvdK",
       "section_title": "매각금액과 관련 원가의 당기손익 인식",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|매각금액과 관련 원가의 당기손익 인식",
-      "text": "그러나 IASB는 그 매각금액이 예측가치가 거의 없을 수도 있다는 사실이 매각금액을 당기손익에서 제외할 강력한 논거는 아니라고 보았다. 손익계산서는, 예측가치가 거의 없을 수도 있지만 그럼에도 불구하고 재무제표 이용자에게 유용한 정보를 제공하는 그 밖의 수익이나 비용 항목들을 포함한다. 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가를 당기손익으로 인식함으로써 기업의 성과와 재무상태를 보다 충실하게 나타내는 금액을 보고하게 된다. 이것은 또한 기업의 성과에 대한 확인가치를 가질 것이다. 문단 74A⑵의 공시 요구사항으로 재무제표 이용자는 이러한 매각금액과 원가에 주목하게 될 것이다(문단 BC16L~BC16M 참조).",
+      "text": "그러나 IASB는 그 매각금액이 예측가치가 거의 없을 수도 있다는 사실이 매각금액을 당기손익에서 제외할 강력한 논거는 아니라고 보았다. 손익계산서는, 예측가치가 거의 없을 수도 있지만 그럼에도 불구하고 재무제표 이용자에게 유용한 정보를 제공하는 그 밖의 수익이나 비용 항목들을 포함한다. 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가를 당기손익으로 인식함으로써 기업의 성과와 재무상태를 보다 충실하게 나타내는 금액을 보고하게 된다. 이것은 또한 기업의 성과에 대한 확인가치를 가질 것이다. 문단 74A(2)의 공시 요구사항으로 재무제표 이용자는 이러한 매각금액과 원가에 주목하게 될 것이다(문단 BC16L~BC16M 참조).",
       "html": "그러나 IASB는 그 매각금액이 예측가치가 거의 없을 수도 있다는 사실이 매각금액을 당기손익에서 제외할 강력한 논거는 아니라고 보았다. 손익계산서는, 예측가치가 거의 없을 수도 있지만 그럼에도 불구하고 재무제표 이용자에게 유용한 정보를 제공하는 그 밖의 수익이나 비용 항목들을 포함한다. 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가를 당기손익으로 인식함으로써 기업의 성과와 재무상태를 보다 충실하게 나타내는 금액을 보고하게 된다. 이것은 또한 기업의 성과에 대한 확인가치를 가질 것이다. \n  \n  <span class=\"mundan-finder\">문단 74A⑵</span>의 공시 요구사항으로 재무제표 이용자는 이러한 매각금액과 원가에 주목하게 될 것이다(<span class=\"mundan-finder\">문단 BC16L~BC16M </span>참조).\n\n",
       "cross_references": [
         {
           "type": "paragraph",
-          "display_text": "문단 74A⑵",
+          "display_text": "문단 74A(2)",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "74A⑵",
+          "range": "74A",
           "paragraph_ids": [
             "74A"
           ]
@@ -4252,13 +4260,13 @@
       "section_id": "k4hnaA",
       "section_title": "생산된 재화의 원가 측정",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|생산된 재화의 원가 측정",
-      "text": "이러한 검토의견을 고려한 후, IASB는 생산된 재화의 원가를 측정하는 경우 IAS 2를 적용하도록 요구하기로 결정하였다. IASB는 다음의 이유로 이와 같이 결정하였다.\n⑴ IAS 2는 지나치게 자세하게 규정하지 않으면서도 원가를 측정하기 위한 체계를 정하고 있다.\n⑵만약 기업이 생산된 재화의 판매가 기업의 통상적인 활동의 산출물이라고 판단한다면, 이미 원가를 측정할 때 IAS 2를 적용해야 할 것이다. 이러한 경우, 생산된 재화는 IAS 2의 재고자산의 정의를 충족한다. 재화의 판매가 기업의 통상적인 활동의 결과인지와 무관하게, 생산된 재화의 원가에 대하여 동일한 요구사항을 적용하는 것은 유용할 것이다.",
+      "text": "이러한 검토의견을 고려한 후, IASB는 생산된 재화의 원가를 측정하는 경우 IAS 2를 적용하도록 요구하기로 결정하였다. IASB는 다음의 이유로 이와 같이 결정하였다.\n(1) IAS 2는 지나치게 자세하게 규정하지 않으면서도 원가를 측정하기 위한 체계를 정하고 있다.\n(2)만약 기업이 생산된 재화의 판매가 기업의 통상적인 활동의 산출물이라고 판단한다면, 이미 원가를 측정할 때 IAS 2를 적용해야 할 것이다. 이러한 경우, 생산된 재화는 IAS 2의 재고자산의 정의를 충족한다. 재화의 판매가 기업의 통상적인 활동의 결과인지와 무관하게, 생산된 재화의 원가에 대하여 동일한 요구사항을 적용하는 것은 유용할 것이다.",
       "html": "이러한 검토의견을 고려한 후, IASB는 생산된 재화의 원가를 측정하는 경우 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>를 적용하도록 요구하기로 결정하였다. IASB는 다음의 이유로 이와 같이 결정하였다.\n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\">만약 기업이 생산된 재화의 판매가 기업의 통상적인 활동의 산출물이라고 판단한다면, 이미 원가를 측정할 때 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>를 적용해야 할 것이다. 이러한 경우, 생산된 재화는 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>의 재고자산의 정의를 충족한다. 재화의 판매가 기업의 통상적인 활동의 결과인지와 무관하게, 생산된 재화의 원가에 대하여 동일한 요구사항을 적용하는 것은 유용할 것이다.            \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재고자산</span><span class=\"std-finder\">IAS 2</span></div>는 지나치게 자세하게 규정하지 않으면서도 원가를 측정하기 위한 체계를 정하고 있다.            \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -4278,7 +4286,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -4298,7 +4306,7 @@
         {
           "type": "standard",
           "display_text": "IAS 2",
-          "standard_number": null,
+          "standard_number": "2",
           "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
@@ -4312,15 +4320,15 @@
       "section_id": "80pvSD",
       "section_title": "표시와 공시",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|표시와 공시",
-      "text": "IASB는 재무제표 이용자들에게 기업의 통상적인 활동의 산출물이 아닌 재화의 판매에 대한 정보를 제공하기 위해 문단 74A⑵의 요구사항을 개발하였다. 재무제표 이용자들은 그들로 하여금 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액을 식별하게 하고, 이러한 매각금액과 관련 원가가 기업의 성과에 어떻게 영향을 미치는지를 이해할 수 있게 하는 정보가 유용할 것이라고 하였다.",
+      "text": "IASB는 재무제표 이용자들에게 기업의 통상적인 활동의 산출물이 아닌 재화의 판매에 대한 정보를 제공하기 위해 문단 74A(2)의 요구사항을 개발하였다. 재무제표 이용자들은 그들로 하여금 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액을 식별하게 하고, 이러한 매각금액과 관련 원가가 기업의 성과에 어떻게 영향을 미치는지를 이해할 수 있게 하는 정보가 유용할 것이라고 하였다.",
       "html": "IASB는 재무제표 이용자들에게 기업의 통상적인 활동의 산출물이 아닌 재화의 판매에 대한 정보를 제공하기 위해 \n  <span class=\"mundan-finder\">문단 74A⑵</span>의 요구사항을 개발하였다. 재무제표 이용자들은 그들로 하여금 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액을 식별하게 하고, 이러한 매각금액과 관련 원가가 기업의 성과에 어떻게 영향을 미치는지를 이해할 수 있게 하는 정보가 유용할 것이라고 하였다.\n",
       "cross_references": [
         {
           "type": "paragraph",
-          "display_text": "문단 74A⑵",
+          "display_text": "문단 74A(2)",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "74A⑵",
+          "range": "74A",
           "paragraph_ids": [
             "74A"
           ]
@@ -4347,8 +4355,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 15",
-          "standard_number": null,
+          "standard_number": "15",
           "standard_title": "고객과의 계약에서 생기는 수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": "2",
+          "standard_title": "재고자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -4376,7 +4392,16 @@
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|표시와 공시",
       "text": "생산된 재화의 원가를 측정하기 위해서는 추정과 판단이 필요할 수 있다. 그러나 IAS 1을 비롯하여 다른 IFRS에서 이미 추정과 판단에 대한 정보를 공시하도록 요구하고 있으므로, IASB는 이와 관련하여 공시 요구사항을 추가하지 않기로 결정하였다.",
       "html": "<div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\">생산된 재화의 원가를 측정하기 위해서는 추정과 판단이 필요할 수 있다. 그러나 \n<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">재무제표 표시</span><span class=\"std-finder\">IAS 1</span></div>을 비롯하여 다른 IFRS에서 이미 추정과 판단에 대한 정보를 공시하도록 요구하고 있으므로, IASB는 이와 관련하여 공시 요구사항을 추가하지 않기로 결정하였다.\n</div>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -4385,7 +4410,7 @@
       "section_id": "80pvSD",
       "section_title": "표시와 공시",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점의 측정|유형자산: 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액 (2020년 개정)|표시와 공시",
-      "text": "IAS 1이 이미 예를 들면 다음에 대한 관련되는 요구사항을 포함하고 있기 때문에, IASB는 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가에 대하여 구체적인 표시 요구사항을 개발하지는 않기로 하였다. ⑴ 수익과 비용의 상계 ⑵ 손익계산서에 별도 항목으로 수익과 비용의 표시",
+      "text": "IAS 1이 이미 예를 들면 다음에 대한 관련되는 요구사항을 포함하고 있기 때문에, IASB는 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가에 대하여 구체적인 표시 요구사항을 개발하지는 않기로 하였다.\n(1) 수익과 비용의 상계\n(2) 손익계산서에 별도 항목으로 수익과 비용의 표시",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC16O\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC16O</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">IAS 1이 이미 예를 들면 다음에 대한 관련되는 요구사항을 포함하고 있기 때문에, IASB는 의도한 방식으로 사용하기 전에 생산된 재화의 매각금액과 관련 원가에 대하여 구체적인 표시 요구사항을 개발하지는 않기로 하였다. </div><div class=\"idt-1\"><div>⑴</div><div>수익과 비용의 상계</div></div><div class=\"idt-1\"><div>⑵</div><div>손익계산서에 별도 항목으로 수익과 비용의 표시</div></div></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"시운전 과정에서 생산된 부산물 매각\" target=\"_blank\" href=\"/qnas/SSI-202312024\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 시운전 과정에서 생산된 부산물 매각</h5><time class=\"sc-gacfCG bRMfLY\">2022-06-23</time></article></a></li></ul></div></div></div>",
       "cross_references": [],
       "qna_references": [
@@ -4441,7 +4466,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4483,7 +4508,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4513,7 +4538,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4533,7 +4558,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4553,7 +4578,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4606,8 +4631,16 @@
         {
           "type": "standard",
           "display_text": "IAS 18",
-          "standard_number": null,
+          "standard_number": "18",
           "standard_title": "(구)수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 15",
+          "standard_number": "15",
+          "standard_title": "고객과의 계약에서 생기는 수익",
           "range": null,
           "paragraph_ids": []
         }
@@ -4631,7 +4664,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4695,7 +4728,7 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
@@ -4812,10 +4845,10 @@
       "cross_references": [
         {
           "type": "paragraph",
-          "display_text": "문단 35(1)",
+          "display_text": "문단 35(1)과 (2)",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "35(1)",
+          "range": "35(1),35(2)",
           "paragraph_ids": [
             "35"
           ]
@@ -4835,8 +4868,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         },
@@ -4863,7 +4904,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 119",
-          "standard_number": "1016",
+          "standard_number": "1036",
           "standard_title": null,
           "range": "119",
           "paragraph_ids": [
@@ -4885,7 +4926,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4905,7 +4946,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4925,7 +4966,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4945,7 +4986,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -4987,7 +5028,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -5018,20 +5059,38 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRIC 12",
+          "standard_number": null,
+          "standard_title": "민간투자사업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 97과 98",
-          "standard_number": "1016",
+          "standard_number": "1038",
           "standard_title": null,
-          "range": "97과 98",
+          "range": "97,98A~98C",
           "paragraph_ids": [
             "97",
-            "98"
+            "98A",
+            "98B",
+            "98C"
           ]
         }
       ],
@@ -5060,7 +5119,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -5090,8 +5149,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -5110,7 +5177,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -5140,7 +5207,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -5175,23 +5242,39 @@
       "section_id": "isbNsP",
       "section_title": "자가사용부동산에 대한 면제",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|인식시점 이후의 측정|감가상각: 감가상각방법|자가사용부동산에 대한 면제",
-      "text": "IFRS 17 ‘ 보험계약’에 따라 IAS 16의 후속 측정 관련 요구사항을 개정하여 특정 상황에서 기업이 자가사용부동산을 마치 IAS 40 ’ 투자부동산‘에 따라 공정가치로 측정하고 공정가치의 변동을 당기손익으로 측정하는 투자부동산인 것처럼 측정할 수 있는 선택권을 허용하였다. 이 면제 규정을 두기 위해 IASB가 고려하였던 사항은 IFRS 17의 결론도출근거 문단 BC65⑶에 있다.",
+      "text": "IFRS 17 ‘ 보험계약’에 따라 IAS 16의 후속 측정 관련 요구사항을 개정하여 특정 상황에서 기업이 자가사용부동산을 마치 IAS 40 ’ 투자부동산‘에 따라 공정가치로 측정하고 공정가치의 변동을 당기손익으로 측정하는 투자부동산인 것처럼 측정할 수 있는 선택권을 허용하였다. 이 면제 규정을 두기 위해 IASB가 고려하였던 사항은 IFRS 17의 결론도출근거 문단 BC65(3)에 있다.",
       "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">IFRS 17</span></div> ‘\n  <i>보험계약</i>’에 따라 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>의 후속 측정 관련 요구사항을 개정하여 특정 상황에서 기업이 자가사용부동산을 마치 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">투자부동산</span><span class=\"std-finder\">IAS 40</span></div> ’\n  <i>투자부동산</i>‘에 따라 공정가치로 측정하고 공정가치의 변동을 당기손익으로 측정하는 투자부동산인 것처럼 측정할 수 있는 선택권을 허용하였다. 이 면제 규정을 두기 위해 IASB가 고려하였던 사항은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">IFRS 17</span></div>의 결론도출근거 \n  <span class=\"mundan-finder\">문단 BC65⑶</span>에 있다.\n",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 17",
-          "standard_number": null,
+          "standard_number": "17",
           "standard_title": "보험계약",
           "range": null,
           "paragraph_ids": []
         },
         {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 40",
+          "standard_number": "40",
+          "standard_title": "투자부동산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
           "type": "paragraph",
-          "display_text": "문단 BC65⑶",
-          "standard_number": "1016",
+          "display_text": "문단 BC65(3)",
+          "standard_number": "1117",
           "standard_title": null,
-          "range": "BC65⑶",
+          "range": "BC65",
           "paragraph_ids": [
             "BC65"
           ]
@@ -5211,8 +5294,24 @@
         {
           "type": "standard",
           "display_text": "IAS 18",
-          "standard_number": null,
+          "standard_number": "18",
           "standard_title": "(구)수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 15",
+          "standard_number": "15",
+          "standard_title": "고객과의 계약에서 생기는 수익",
           "range": null,
           "paragraph_ids": []
         },
@@ -5301,8 +5400,32 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 2",
+          "standard_number": "2",
+          "standard_title": "재고자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 18",
+          "standard_number": "18",
+          "standard_title": "(구)수익",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 15",
+          "standard_number": "15",
+          "standard_title": "고객과의 계약에서 생기는 수익",
           "range": null,
           "paragraph_ids": []
         }
@@ -5326,7 +5449,7 @@
         {
           "type": "standard",
           "display_text": "IAS 7",
-          "standard_number": null,
+          "standard_number": "7",
           "standard_title": "현금흐름표",
           "range": null,
           "paragraph_ids": []
@@ -5334,7 +5457,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 14",
-          "standard_number": "1016",
+          "standard_number": "1007",
           "standard_title": null,
           "range": "14",
           "paragraph_ids": [
@@ -5356,7 +5479,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 5",
-          "standard_number": null,
+          "standard_number": "5",
           "standard_title": "매각예정비유동자산과 중단영업",
           "range": null,
           "paragraph_ids": []
@@ -5386,7 +5509,7 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
@@ -5428,7 +5551,7 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
@@ -5448,7 +5571,7 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
@@ -5478,8 +5601,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "재무제표 표시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -5498,8 +5629,56 @@
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "한국채택국제회계기준의 최초채택",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 34",
+          "standard_number": "34",
+          "standard_title": "중간재무보고",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 37",
+          "standard_number": "37",
+          "standard_title": "충당부채, 우발부채, 우발자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 38",
+          "standard_number": "38",
+          "standard_title": "무형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 40",
+          "standard_number": "40",
+          "standard_title": "투자부동산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "SIC-32",
+          "standard_number": null,
+          "standard_title": "무형자산: 웹 사이트 원가",
           "range": null,
           "paragraph_ids": []
         }
@@ -5518,7 +5697,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -5538,7 +5717,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -5558,7 +5737,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -5566,7 +5745,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 43~44",
-          "standard_number": "1016",
+          "standard_number": "1041",
           "standard_title": null,
           "range": "43~44",
           "paragraph_ids": [
@@ -5600,7 +5779,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -5630,8 +5809,16 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -5701,7 +5888,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -5768,8 +5955,24 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         },
@@ -5907,8 +6110,16 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -5927,7 +6138,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -5947,8 +6158,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -5978,7 +6197,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6033,7 +6252,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6078,7 +6297,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6098,7 +6317,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6128,8 +6347,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -6210,7 +6437,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6254,7 +6481,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6290,13 +6517,13 @@
       "section_id": "Zb8jQ8",
       "section_title": "IAS 16 사용에 대한 지지",
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|IAS 16의 생산용식물의 회계처리에 대한 결론도출근거|IAS 16 사용에 대한 지지",
-      "text": "개념체계\n(주6)에는 비슷한 자산을 비슷한 방법으로 회계처리하면 보고정보의 의사결정 유용성이 향상된다는 가정이 있다. 생산용식물이 자라는 토지, 생산용식물의 성장을 돕는 데 사용하는 구축물과 농기계는 IAS 16에 따라 측정한다. 생산용식물은 공장 및 기계와 형태가 다르지만 사용하는 방법의 유사성은 그것들을 같은 방법으로 회계처리하는 것을 뒷받침해 준다.\n[각주 (주6)] 이 결론도출근거에서 언급하는 ‘개념체계’는 2010년에 공표되어 이 기준서가 개정되었을 당시 시행 중이었던 ‘재무보고를 위한 개념체계’를 말한다.",
+      "text": "개념체계(주6)에는 비슷한 자산을 비슷한 방법으로 회계처리하면 보고정보의 의사결정 유용성이 향상된다는 가정이 있다. 생산용식물이 자라는 토지, 생산용식물의 성장을 돕는 데 사용하는 구축물과 농기계는 IAS 16에 따라 측정한다. 생산용식물은 공장 및 기계와 형태가 다르지만 사용하는 방법의 유사성은 그것들을 같은 방법으로 회계처리하는 것을 뒷받침해 준다.\n[각주 (주6)] 이 결론도출근거에서 언급하는 ‘개념체계’는 2010년에 공표되어 이 기준서가 개정되었을 당시 시행 중이었던 ‘재무보고를 위한 개념체계’를 말한다.",
       "html": "개념체계\n  <sup>(주6)</sup>에는 비슷한 자산을 비슷한 방법으로 회계처리하면 보고정보의 의사결정 유용성이 향상된다는 가정이 있다. 생산용식물이 자라는 토지, 생산용식물의 성장을 돕는 데 사용하는 구축물과 농기계는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">유형자산</span><span class=\"std-finder\">IAS 16</span></div>에 따라 측정한다. 생산용식물은 공장 및 기계와 형태가 다르지만 사용하는 방법의 유사성은 그것들을 같은 방법으로 회계처리하는 것을 뒷받침해 준다.    \n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주6)</div><div class=\"para-num-item-para-con\">이 결론도출근거에서 언급하는 ‘개념체계’는 2010년에 공표되어 이 기준서가 개정되었을 당시 시행 중이었던 ‘재무보고를 위한 개념체계’를 말한다.</div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6321,7 +6548,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6341,8 +6568,16 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         },
@@ -6406,7 +6641,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6426,8 +6661,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -6479,7 +6722,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6499,7 +6742,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6507,11 +6750,21 @@
         {
           "type": "paragraph",
           "display_text": "문단 10(3)과 문단 30",
-          "standard_number": "1016",
+          "standard_number": "1041",
           "standard_title": null,
-          "range": "10(3)과 문단 30",
+          "range": "10(3),30",
           "paragraph_ids": [
             "10",
+            "30"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 30",
+          "standard_number": "1016",
+          "standard_title": null,
+          "range": "30",
+          "paragraph_ids": [
             "30"
           ]
         }
@@ -6530,7 +6783,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6572,7 +6825,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6592,7 +6845,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6622,8 +6875,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         },
@@ -6632,7 +6893,7 @@
           "display_text": "문단 17(1), 17(2), 17(5)",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "17(1), 17(2), 17(5)",
+          "range": "17(1),17(2),17(5)",
           "paragraph_ids": [
             "17"
           ]
@@ -6672,7 +6933,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6692,8 +6953,40 @@
         {
           "type": "standard",
           "display_text": "IAS 17",
-          "standard_number": null,
+          "standard_number": "17",
           "standard_title": "(구)리스",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 20",
+          "standard_number": "20",
+          "standard_title": "정부보조금의 회계처리와 정부지원의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 23",
+          "standard_number": "23",
+          "standard_title": "차입원가",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -6712,7 +7005,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6743,7 +7036,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6774,17 +7067,35 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 46(1)과 46(2)(나)",
+          "standard_number": "1041",
+          "standard_title": null,
+          "range": "46(1),46(2)",
+          "paragraph_ids": [
+            "46"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 46(1)과 46(2)(나)",
           "standard_number": "1016",
           "standard_title": null,
-          "range": "46(1)과 46(2)(나)",
+          "range": "46(1),46(2)",
           "paragraph_ids": [
             "46"
           ]
@@ -6804,15 +7115,23 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 46",
-          "standard_number": "1016",
+          "standard_number": "1041",
           "standard_title": null,
           "range": "46",
           "paragraph_ids": [
@@ -6834,7 +7153,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6876,7 +7195,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6896,7 +7215,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -6916,7 +7235,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -6936,15 +7255,31 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 28(6)",
-          "standard_number": "1016",
+          "standard_number": "1008",
           "standard_title": null,
           "range": "28(6)",
           "paragraph_ids": [
@@ -6966,7 +7301,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "한국채택국제회계기준의 최초채택",
           "range": null,
           "paragraph_ids": []
@@ -7067,7 +7402,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -7087,8 +7422,16 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         },
@@ -7128,8 +7471,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -7155,7 +7506,16 @@
       "toc_path": "결론도출근거|IAS 16 ‘유형자산(Property, Plant and Equipment)의 결론도출근거|예상되는 개정 영향에 대한 분석|개정 내용이 활동을 보고하는 방법에 미치는 예상 영향",
       "text": "영향 IAS 41의 공정가치모형 IAS 16의 원가모형 영향\n\n재무상태 (생산물과 함께) 순공정가치로 측정 원가에서 감가상각누계액과 손상차손누계액을 차감한 금액으로 측정(생산물은 별도로 순공정가치로 측정) 생산용식물의 생산가능기간 초기에는 원가모형의 순자산금액이 공정가치모형보다 낮을 가능성이 높다. 이는 생산용식물에서 창출될 수 있고 공정가치 측정에 반영될 수 있는 미래현금흐름이 최초 인식할 때의 원가보다 높을 가능성이 높기 때문이다. 시간이 흐르면서 두 모형에 따른 장부금액은 자산이 생산가능 기간의 종료일에 접근함에 따라 수렴할 것으로 예상된다.\n\n당기손익 순공정가치의 변동을 당기손익으로 인식한다. 원가는 즉시 비용으로 인식하거나 자본화한다. 자본화하면 순공정가치의 변동에 같은 금액이 감소한다. 각 회계연도의 감가상각비와 손상차손은 당기손익으로 인식한다. 생산용식물의 수명에 걸쳐 인식하는 당기손익은 공정가치모형을 적용하든 원가모형을 적용하든 같을 것이다. 그러나 공정가치모형을 적용하면 당기손익에 미치는 영향의 변동(공정가치의 변동)이 심할 것이다. 원가모형을 적용하면 당기손익에 미치는 영향(감가상각과 손상)이 더 체계적일 가능성이 높다.",
       "html": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"574\" class=\"xl6412601\" style=\"border-collapse: collapse; table-layout: fixed; width: 431pt;\"><col class=\"xl6412601\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6412601\" width=\"102\" style=\"width: 76pt;\"><col class=\"xl6412601\" width=\"122\" span=\"2\" style=\"width: 92pt;\"><col class=\"xl6412601\" width=\"214\" style=\"width: 161pt;\"><col class=\"xl6412601\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl6312601\" width=\"7\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl6312601\" width=\"102\" style=\"width: 76pt;\"></td><td class=\"xl6312601\" width=\"122\" style=\"width: 92pt;\"></td><td class=\"xl6312601\" width=\"122\" style=\"width: 92pt;\"></td><td class=\"xl6312601\" width=\"214\" style=\"width: 161pt;\"></td><td class=\"xl6312601\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"42\" style=\"height: 31.2pt;\"><td height=\"42\" class=\"xl6412601\" style=\"height: 31.2pt;\"></td><td class=\"xl6512601\" width=\"102\" style=\"width: 76pt;\">영향</td><td class=\"xl6512601\" width=\"122\" style=\"border-left: none; width: 92pt;\"><span lang=\"EN-US\">IAS 41의 <br>\r\n    공정가치모형</span></td><td class=\"xl6512601\" width=\"122\" style=\"border-left: none; width: 92pt;\"><span lang=\"EN-US\">IAS 16의 <br>\r\n    원가모형</span></td><td class=\"xl6512601\" width=\"214\" style=\"border-left: none; width: 161pt;\">영향</td><td class=\"xl6412601\"></td></tr><tr height=\"229\" style=\"height: 171.6pt;\"><td height=\"229\" class=\"xl6412601\" style=\"height: 171.6pt;\"></td><td class=\"xl6612601\" width=\"102\" style=\"width: 76pt;\">재무상태</td><td class=\"xl6712601\" width=\"122\" style=\"border-left: none; width: 92pt;\"><span lang=\"EN-US\">(생산물과 함께) 순공정가치로 측정</span></td><td class=\"xl6712601\" width=\"122\" style=\"border-left: none; width: 92pt;\">원가에서\r\n  감가상각누계액과 손상차손누계액을 차감한 금액으로 측정(생산물은 별도로 순공정가치로 측정)</td><td class=\"xl6812601\" width=\"214\" style=\"border-left: none; width: 161pt;\">생산용식물의\r\n  생산가능기간 초기에는 원가모형의 순자산금액이 공정가치모형보다 낮을 가능성이 높다. 이는 생산용식물에서 창출될 수 있고 공정가치 측정에\r\n  반영될 수 있는 미래현금흐름이 최초 인식할 때의 원가보다 높을 가능성이 높기 때문이다. 시간이 흐르면서 두 모형에 따른 장부금액은 자산이\r\n  생산가능 기간의 종료일에 접근함에 따라 수렴할 것으로 예상된다.</td><td class=\"xl6412601\"></td></tr><tr height=\"188\" style=\"height: 141pt;\"><td height=\"188\" class=\"xl6412601\" style=\"height: 141pt;\"></td><td class=\"xl6912601\" width=\"102\" style=\"border-top: none; width: 76pt;\">당기손익</td><td class=\"xl7012601\" width=\"122\" style=\"border-top: none; border-left: none; width: 92pt;\">순공정가치의 변동을 당기손익으로 인식한다. 원가는 즉시 비용으로 인식하거나 자본화한다. 자본화하면 순공정가치의 변동에\r\n  같은 금액이 감소한다.</td><td class=\"xl7012601\" width=\"122\" style=\"border-top: none; border-left: none; width: 92pt;\">각 회계연도의 감가상각비와 손상차손은 당기손익으로 인식한다.</td><td class=\"xl7112601\" width=\"214\" style=\"border-top: none; border-left: none; width: 161pt;\">생산용식물의 수명에 걸쳐 인식하는 당기손익은 공정가치모형을 적용하든 원가모형을 적용하든 같을 것이다. 그러나\r\n  공정가치모형을 적용하면 당기손익에 미치는 영향의 변동(공정가치의 변동)이 심할 것이다. 원가모형을 적용하면 당기손익에 미치는\r\n  영향(감가상각과 손상)이 더 체계적일 가능성이 높다.</td><td class=\"xl6412601\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl6412601\" style=\"height: 4.95pt;\"></td><td class=\"xl6412601\"></td><td class=\"xl6412601\"></td><td class=\"xl6412601\"></td><td class=\"xl6412601\"></td><td class=\"xl6412601\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"102\" style=\"width: 76pt;\"></td><td width=\"122\" style=\"width: 92pt;\"></td><td width=\"122\" style=\"width: 92pt;\"></td><td width=\"214\" style=\"width: 161pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -7170,8 +7530,16 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         },
@@ -7200,7 +7568,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -7220,7 +7588,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -7240,7 +7608,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -7293,7 +7661,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -7323,7 +7691,7 @@
         {
           "type": "standard",
           "display_text": "IAS 36",
-          "standard_number": null,
+          "standard_number": "36",
           "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
@@ -7359,8 +7727,16 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
         }
@@ -7390,7 +7766,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -7410,8 +7786,16 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 41",
+          "standard_number": "41",
+          "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
         }
@@ -7430,7 +7814,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -7472,7 +7856,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -7503,7 +7887,7 @@
         {
           "type": "standard",
           "display_text": "IAS 16",
-          "standard_number": null,
+          "standard_number": "16",
           "standard_title": "유형자산",
           "range": null,
           "paragraph_ids": []
@@ -7517,13 +7901,13 @@
       "section_id": "dlVI1F",
       "section_title": "현재 제안은 IFRS를 개선하지 않는다",
       "toc_path": "결론도출근거|IAS 16에 대한 소수의견|2014년 6월에 발표된 ‘농림어업: 생산용식물(IAS 16 및 IAS 41의 개정)’에 대한 Patrick Finnegan 위원과 Patricia McConnell 위원의 소수 의견|현재 제안은 IFRS를 개선하지 않는다",
-      "text": "Finnegan 위원과 McConnell 위원은 생산용자산을 원가누계액으로 측정한다면 최소한 생산용식물의 공정가치를 평가기법, 사용한 핵심 투입변수 및 가정에 대한 정보와 함께 공시하여야 한다고 생각한다. 그러나 2014년 개정에서는 공정가치의 공시를 요구하지 않고 있다. 따라서 생산용자산을 사용하여 농림어업활동에 종사하는 기업의 재무제표에 대단히 중요한 정보가 빠져있는 것이다. Finnegan 위원과 McConnell 위원은 이것이 재무보고의 개선이라고 생각하지 않는다. 2013년 1월에 IFRS 재단이사회는 다른 무엇보다도 기준서의 제정이나 주요 개정의 기준을 명확히 하는 새로운 정규 절차 편람(Due Process Handbook)을 승인하였다. 가장 중요한 기준은 논점의 보편성에 더하여 ⑴ 특정한 유형의 거래나 활동을 재무보고서에 보고하는 방법에 결함이 있는지와 ⑵ 재무보고서 이용자에게 그 사안이 중요한지이다. Finnegan 위원과 McConnell 위원은 재무제표 이용자 관점에서 IAS 41의 생산용 자산에 대한 회계처리와 공시에 결함이 없고 공정가치 정보는 농림어업활동에 종사하는 기업의 재무보고서 이용자에게 중요하며 사실 반드시 필요하다고 생각한다.",
+      "text": "Finnegan 위원과 McConnell 위원은 생산용자산을 원가누계액으로 측정한다면 최소한 생산용식물의 공정가치를 평가기법, 사용한 핵심 투입변수 및 가정에 대한 정보와 함께 공시하여야 한다고 생각한다. 그러나 2014년 개정에서는 공정가치의 공시를 요구하지 않고 있다. 따라서 생산용자산을 사용하여 농림어업활동에 종사하는 기업의 재무제표에 대단히 중요한 정보가 빠져있는 것이다. Finnegan 위원과 McConnell 위원은 이것이 재무보고의 개선이라고 생각하지 않는다. 2013년 1월에 IFRS 재단이사회는 다른 무엇보다도 기준서의 제정이나 주요 개정의 기준을 명확히 하는 새로운 정규 절차 편람(Due Process Handbook)을 승인하였다. 가장 중요한 기준은 논점의 보편성에 더하여 (1) 특정한 유형의 거래나 활동을 재무보고서에 보고하는 방법에 결함이 있는지와 (2) 재무보고서 이용자에게 그 사안이 중요한지이다. Finnegan 위원과 McConnell 위원은 재무제표 이용자 관점에서 IAS 41의 생산용 자산에 대한 회계처리와 공시에 결함이 없고 공정가치 정보는 농림어업활동에 종사하는 기업의 재무보고서 이용자에게 중요하며 사실 반드시 필요하다고 생각한다.",
       "html": "Finnegan 위원과 McConnell 위원은 생산용자산을 원가누계액으로 측정한다면 최소한 생산용식물의 공정가치를 평가기법, 사용한 핵심 투입변수 및 가정에 대한 정보와 함께 공시하여야 한다고 생각한다. 그러나 2014년 개정에서는 공정가치의 공시를 요구하지 않고 있다. 따라서 생산용자산을 사용하여 농림어업활동에 종사하는 기업의 재무제표에 대단히 중요한 정보가 빠져있는 것이다. Finnegan 위원과 McConnell 위원은 이것이 재무보고의 개선이라고 생각하지 않는다. 2013년 1월에 IFRS 재단이사회는 다른 무엇보다도 기준서의 제정이나 주요 개정의 기준을 명확히 하는 새로운 정규 절차 편람(Due Process Handbook)을 승인하였다. 가장 중요한 기준은 논점의 보편성에 더하여 ⑴ 특정한 유형의 거래나 활동을 재무보고서에 보고하는 방법에 결함이 있는지와 ⑵ 재무보고서 이용자에게 그 사안이 중요한지이다. Finnegan 위원과 McConnell 위원은 재무제표 이용자 관점에서 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">농림어업</span><span class=\"std-finder\">IAS 41</span></div>의 생산용 자산에 대한 회계처리와 공시에 결함이 없고 공정가치 정보는 농림어업활동에 종사하는 기업의 재무보고서 이용자에게 중요하며 사실 반드시 필요하다고 생각한다.\n",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -7554,7 +7938,7 @@
         {
           "type": "standard",
           "display_text": "IAS 41",
-          "standard_number": null,
+          "standard_number": "41",
           "standard_title": "농림어업",
           "range": null,
           "paragraph_ids": []
@@ -7702,6 +8086,189 @@
     ],
     "1103": [
       "81C"
+    ],
+    "17": [
+      "81M",
+      "BC33H",
+      "BC85"
+    ],
+    "16": [
+      "BC1",
+      "BC2",
+      "BC2A",
+      "BC3",
+      "BC4",
+      "BC5",
+      "BC6",
+      "BC7",
+      "BC9",
+      "BC10",
+      "BC11",
+      "BC12A",
+      "BC13",
+      "BC16",
+      "BC16Q",
+      "BC17",
+      "BC18",
+      "BC19",
+      "BC20",
+      "BC25",
+      "BC25J",
+      "BC26",
+      "BC27",
+      "BC28",
+      "BC29",
+      "BC32",
+      "BC33A",
+      "BC33C",
+      "BC33D",
+      "BC33E",
+      "BC33F",
+      "BC33H",
+      "BC34",
+      "BC35D",
+      "BC36D",
+      "BC38",
+      "BC43",
+      "BC46",
+      "BC47",
+      "BC48",
+      "BC50",
+      "BC54",
+      "BC56",
+      "BC57",
+      "BC63",
+      "BC67",
+      "BC69",
+      "BC72",
+      "BC81",
+      "BC82",
+      "BC83",
+      "BC84",
+      "BC85",
+      "BC86",
+      "BC88",
+      "BC90",
+      "BC91",
+      "BC92",
+      "BC94",
+      "BC95",
+      "BC97",
+      "BC103",
+      "BC104",
+      "BC105",
+      "BC107",
+      "BC108",
+      "BC110",
+      "BC117",
+      "DO3",
+      "DO9"
+    ],
+    "41": [
+      "BC2A",
+      "BC39",
+      "BC40",
+      "BC42",
+      "BC43",
+      "BC47",
+      "BC48",
+      "BC49",
+      "BC50",
+      "BC52",
+      "BC55",
+      "BC57",
+      "BC64",
+      "BC68",
+      "BC69",
+      "BC71",
+      "BC72",
+      "BC76",
+      "BC77",
+      "BC78",
+      "BC83",
+      "BC90",
+      "BC91",
+      "BC96",
+      "BC97",
+      "BC104",
+      "BC105",
+      "BC108",
+      "BC109",
+      "BC111",
+      "BC115",
+      "BC117",
+      "DO2",
+      "DO3",
+      "DO4",
+      "DO7",
+      "DO10",
+      "DO12"
+    ],
+    "2": [
+      "BC15",
+      "BC16I",
+      "BC16J",
+      "BC16K",
+      "BC16M",
+      "BC35D"
+    ],
+    "15": [
+      "BC16M",
+      "BC24",
+      "BC34",
+      "BC35D"
+    ],
+    "1": [
+      "BC16N",
+      "BC36D",
+      "BC37",
+      "BC98"
+    ],
+    "18": [
+      "BC24",
+      "BC34",
+      "BC35D"
+    ],
+    "8": [
+      "BC25D",
+      "BC36",
+      "BC36B",
+      "BC36C",
+      "BC47",
+      "BC97"
+    ],
+    "36": [
+      "BC25J",
+      "BC37",
+      "BC85",
+      "BC116"
+    ],
+    "38": [
+      "BC33A",
+      "BC33D",
+      "BC37"
+    ],
+    "40": [
+      "BC33H",
+      "BC37"
+    ],
+    "7": [
+      "BC35E"
+    ],
+    "5": [
+      "BC35F"
+    ],
+    "34": [
+      "BC37"
+    ],
+    "37": [
+      "BC37"
+    ],
+    "20": [
+      "BC85"
+    ],
+    "23": [
+      "BC85"
     ]
   },
   "qna_index": {

@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "별도재무제표",
   "url": "https://db.kasb.or.kr/s/1027",
-  "crawled_at": "2026-03-24T04:53:48.113841+00:00",
+  "crawled_at": "2026-04-09T06:13:17.562154+00:00",
   "toc": [
     {
       "level": null,
@@ -421,7 +421,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 3",
-          "standard_number": "1028",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "3",
           "paragraph_ids": [
@@ -501,7 +501,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 4(1)",
-          "standard_number": "1110",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "4(1)",
           "paragraph_ids": [
@@ -511,7 +511,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 17",
-          "standard_number": "1028",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "17",
           "paragraph_ids": [
@@ -548,7 +548,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 31",
-          "standard_number": "1110",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "31",
           "paragraph_ids": [
@@ -748,7 +748,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 18",
-          "standard_number": "1028",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "18",
           "paragraph_ids": [
@@ -786,7 +786,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 31",
-          "standard_number": "1110",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "31",
           "paragraph_ids": [
@@ -971,7 +971,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 4(1)",
-          "standard_number": "1110",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "4(1)",
           "paragraph_ids": [
@@ -1150,7 +1150,7 @@
           "display_text": "문단 5, 6, 17 및 18",
           "standard_number": "1027",
           "standard_title": null,
-          "range": "5, 6, 17 및 18",
+          "range": "5,6,17,18",
           "paragraph_ids": [
             "5",
             "6",
@@ -1163,7 +1163,7 @@
           "display_text": "문단 8A, 11A~11B, 16A 및 18B~18I",
           "standard_number": "1027",
           "standard_title": null,
-          "range": "8A, 11A~11B, 16A 및 18B~18I",
+          "range": "8A,11A~11B,16A,18B~18I",
           "paragraph_ids": [
             "8A",
             "11A",
@@ -1395,7 +1395,7 @@
           "display_text": "문단 4~7, 10, 11B, 12",
           "standard_number": "1027",
           "standard_title": null,
-          "range": "4~7, 10, 11B, 12",
+          "range": "4~7,10,11B,12",
           "paragraph_ids": [
             "4",
             "5",
@@ -1482,14 +1482,30 @@
       "section_id": "OaTPMA",
       "section_title": "문단비교표",
       "toc_path": "적용사례·실무적용지침|문단비교표",
-      "text": "다음의 표는 IAS 27 ‘연결재무제표와 별도재무제표’(대체된 IAS 27)와 IAS 27 ‘별도재무제표’(개정된 IAS 27)의 문단 번호가 어떻게 대응되는지를 보여준다. 전면 개정된 IAS 27의 일부 요구사항은 IFRS 10과 IFRS 12로 통합되었다. 이 표는 그러한 문단들이 어떻게 대응되는지도 보여준다. 지침이 다르더라도 대략적으로 동일한 사항을 언급하는 경우 대응하는 문단으로 보았다.\n2011년 5월 주요 변경사항은 IAS 27의 연결 요구사항을 IFRS 10 ‘연결재무제표’로 대체한 것이다. IAS 27에는 별도재무제표 작성을 위한 회계처리 및 공시 요구사항만 남아있다. 따라서 이 기준서는 ‘별도재무제표’로 변경되었다.\n| | 대체된 K-IFRS 제1027호 ‘연결재무제표와 별도재무제표’ 문단 | 개정 K-IFRS 제1027호 ‘별도재무제표’ 문단 | K-IFRS 제1110호 ‘연결재무제표’ 문단 | K-IFRS 제1112호 ‘타 기업에 대한 지분의 공시’ 문단 | |\n| --- | --- | --- | --- | --- | --- |\n| | 1 | | 1 | | |\n| | 2 | | 3 | | |\n| | 3 | 2 | | | |\n| | 4 | 4, 5 | 부록 A | | |\n| | 5 | | | | |\n| | 6-8 | 6-8 | | | |\n| | 9 | | 1, 2 | | |\n| | 10 | | 4⑴ | | |\n| | 11 | | | | |\n| | 12 | | 부록 A | | |\n| | 13 | | 7 | | |\n| | 14 | | B47 | | |\n| | 15 | | B48, B49 | | |\n| | 16, 17 | | | | |\n| | 18 | | B86 | | |\n| | 19 | | B89 | | |\n| | 20, 21 | | B86⑶ | | |\n| | 22, 23 | | B92, B93 | | |\n| | 24 | | 19 | | |\n| | 25, 26 | | B87, B88 | | |\n| | 27 | | 22 | | |\n| | 28, 29 | | B94, B95 | | |\n| | 30 | | 23 | | |\n| | 31 | | B96 | | |\n| | 32 | | B83 | | |\n| | 33-35 | | B97-B99 | | |\n| | 36 | | 25⑵ | | |\n| | 37 | | 25⑵ | | |\n| | 38 | 10 | | | |\n| | 38A-38C | 12-14 | | | |\n| | 39 | 3 | | | |\n| | 40 | 11 | | | |\n| | 41 | | | 10-19 | |\n| | 42, 43 | 16, 17 | | | |\n| | 44-45E | 18 | | | |\n| | 46 | 20 | | | |\n| | None | 1, 9, 15, 19 | | | |",
+      "text": "다음의 표는 IAS 27 ‘연결재무제표와 별도재무제표’(대체된 IAS 27)와 IAS 27 ‘별도재무제표’(개정된 IAS 27)의 문단 번호가 어떻게 대응되는지를 보여준다. 전면 개정된 IAS 27의 일부 요구사항은 IFRS 10과 IFRS 12로 통합되었다. 이 표는 그러한 문단들이 어떻게 대응되는지도 보여준다. 지침이 다르더라도 대략적으로 동일한 사항을 언급하는 경우 대응하는 문단으로 보았다.\n2011년 5월 주요 변경사항은 IAS 27의 연결 요구사항을 IFRS 10 ‘연결재무제표’로 대체한 것이다. IAS 27에는 별도재무제표 작성을 위한 회계처리 및 공시 요구사항만 남아있다. 따라서 이 기준서는 ‘별도재무제표’로 변경되었다.\n| | 대체된 K-IFRS 제1027호 ‘연결재무제표와 별도재무제표’ 문단 | 개정 K-IFRS 제1027호 ‘별도재무제표’ 문단 | K-IFRS 제1110호 ‘연결재무제표’ 문단 | K-IFRS 제1112호 ‘타 기업에 대한 지분의 공시’ 문단 | |\n| --- | --- | --- | --- | --- | --- |\n| | 1 | | 1 | | |\n| | 2 | | 3 | | |\n| | 3 | 2 | | | |\n| | 4 | 4, 5 | 부록 A | | |\n| | 5 | | | | |\n| | 6-8 | 6-8 | | | |\n| | 9 | | 1, 2 | | |\n| | 10 | | 4(1) | | |\n| | 11 | | | | |\n| | 12 | | 부록 A | | |\n| | 13 | | 7 | | |\n| | 14 | | B47 | | |\n| | 15 | | B48, B49 | | |\n| | 16, 17 | | | | |\n| | 18 | | B86 | | |\n| | 19 | | B89 | | |\n| | 20, 21 | | B86(3) | | |\n| | 22, 23 | | B92, B93 | | |\n| | 24 | | 19 | | |\n| | 25, 26 | | B87, B88 | | |\n| | 27 | | 22 | | |\n| | 28, 29 | | B94, B95 | | |\n| | 30 | | 23 | | |\n| | 31 | | B96 | | |\n| | 32 | | B83 | | |\n| | 33-35 | | B97-B99 | | |\n| | 36 | | 25(2) | | |\n| | 37 | | 25(2) | | |\n| | 38 | 10 | | | |\n| | 38A-38C | 12-14 | | | |\n| | 39 | 3 | | | |\n| | 40 | 11 | | | |\n| | 41 | | | 10-19 | |\n| | 42, 43 | 16, 17 | | | |\n| | 44-45E | 18 | | | |\n| | 46 | 20 | | | |\n| | None | 1, 9, 15, 19 | | | |",
       "html": "다음의 표는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div> ‘연결재무제표와 별도재무제표’(대체된 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>)와 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div> ‘별도재무제표’(개정된 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>)의 문단 번호가 어떻게 대응되는지를 보여준다. 전면 개정된 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>의 일부 요구사항은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">IFRS 10</span></div>과 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">타 기업에 대한 지분의 공시</span><span class=\"std-finder\">IFRS 12</span></div>로 통합되었다. 이 표는 그러한 문단들이 어떻게 대응되는지도 보여준다. 지침이 다르더라도 대략적으로 동일한 사항을 언급하는 경우 대응하는 문단으로 보았다. \n\n2011년 5월 주요 변경사항은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>의 연결 요구사항을 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">IFRS 10</span></div> ‘연결재무제표’로 대체한 것이다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>에는 별도재무제표 작성을 위한 회계처리 및 공시 요구사항만 남아있다. 따라서 이 기준서는 ‘별도재무제표’로 변경되었다. \n\n<div class=\"sc-drlKqa cRWPOO temp\" data-key=\"/1027_bigyo.htm\"><html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Excel.Sheet\"><meta name=\"Generator\" content=\"Microsoft Excel 15\"><link rel=\"File-List\" href=\"1027_bigyo.files/filelist.xml\"><style id=\"1027_bigyo_16308_Styles\">\r\n<!--table\r\n\t{mso-displayed-decimal-separator:\"\\.\";\r\n\tmso-displayed-thousand-separator:\"\\,\";}\r\n.font516308\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.xl6516308\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:top;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6616308\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:#6E6E6E;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:top;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6716308\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\@\";\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tborder:.5pt solid black;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6816308\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\@\";\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid black;\r\n\tborder-right:.5pt solid black;\r\n\tborder-bottom:none;\r\n\tborder-left:.5pt solid black;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6916308\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\@\";\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tborder-top:none;\r\n\tborder-right:.5pt solid black;\r\n\tborder-bottom:.5pt solid black;\r\n\tborder-left:.5pt solid black;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl7016308\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\@\";\r\n\ttext-align:general;\r\n\tvertical-align:top;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl7116308\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:9.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid black;\r\n\tborder-right:.5pt solid black;\r\n\tborder-bottom:2.0pt double windowtext;\r\n\tborder-left:.5pt solid black;\r\n\tbackground:#E7E6E6;\r\n\tmso-pattern:black none;\r\n\twhite-space:normal;}\r\nruby\r\n\t{ruby-align:left;}\r\nrt\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-char-type:none;}\r\n-->\r\n</style></head><body><div id=\"1027_bigyo_16308\" align=\"center\" x:publishsource=\"Excel\"><div class=\"table\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"590\" class=\"xl6516308\" style=\"border-collapse: collapse; table-layout: fixed; width: 442pt;\"><col class=\"xl6516308\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6516308\" width=\"144\" span=\"4\" style=\"width: 108pt;\"><col class=\"xl6516308\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl6616308\" width=\"7\" style=\"height: 4.95pt; width: 5pt;\"></td><td class=\"xl6616308\" width=\"144\" style=\"width: 108pt;\"></td><td class=\"xl6616308\" width=\"144\" style=\"width: 108pt;\"></td><td class=\"xl6616308\" width=\"144\" style=\"width: 108pt;\"></td><td class=\"xl6616308\" width=\"144\" style=\"width: 108pt;\"></td><td class=\"xl6616308\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"66\" style=\"height: 49.8pt;\"><td height=\"66\" class=\"xl6516308\" style=\"height: 49.8pt;\"></td><td class=\"xl7116308\" width=\"144\" style=\"width: 108pt;\">대체된 K-IFRS 제1027호 ‘연결재무제표와\r\n  별도재무제표’ 문단</td><td class=\"xl7116308\" width=\"144\" style=\"border-left: none; width: 108pt;\">개정 K-IFRS\r\n  제1027호 ‘별도재무제표’ 문단</td><td class=\"xl7116308\" width=\"144\" style=\"border-left: none; width: 108pt;\"><span lang=\"EN-US\">K-IFRS 제1110호 ‘연결재무제표’ 문단<span>&nbsp;</span></span></td><td class=\"xl7116308\" width=\"144\" style=\"border-left: none; width: 108pt;\"><span lang=\"EN-US\">K-IFRS 제1112호 ‘타 기업에 대한 지분의 공시’ 문단</span></td><td class=\"xl6516308\"></td></tr><tr height=\"22\" style=\"height: 16.2pt;\"><td height=\"22\" class=\"xl6516308\" style=\"height: 16.2pt;\"></td><td class=\"xl6916308\"><span lang=\"EN-US\">1</span></td><td class=\"xl6916308\" style=\"border-left: none;\">　</td><td class=\"xl6916308\" style=\"border-left: none;\"><span lang=\"EN-US\">1</span></td><td class=\"xl6916308\" style=\"border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">2</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">3</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">3</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">2</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">4</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">4, 5</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">부록 A</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">5</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">6-8</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">6-8</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">9</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">1, 2</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">10</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">4⑴</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">11</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">12</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">부록 A</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">13</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">7</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">14</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B47</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">15</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B48, B49</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">16, 17</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">18</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B86</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">19</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B89</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">20, 21</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B86⑶</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">22, 23</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B92, B93</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">24</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">19</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">25, 26</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B87, B88</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">27</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">22</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">28, 29</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B94, B95</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">30</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">23</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">31</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B96</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6816308\" style=\"border-top: none;\"><span lang=\"EN-US\">32</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6816308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">B83</span></td><td class=\"xl6816308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\"><span lang=\"EN-US\">33-35</span></td><td class=\"xl6916308\" style=\"border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-left: none;\"><span lang=\"EN-US\">B97-B99</span></td><td class=\"xl6716308\" style=\"border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">36</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">25⑵</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">37</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">25⑵</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">38</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">10</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">38A-38C</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">12-14</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">39</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">3</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">40</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">11</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">41</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">10-19</span></td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">42, 43</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">16, 17</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">44-45E</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">18</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">46</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">20</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"21\" style=\"height: 15.6pt;\"><td height=\"21\" class=\"xl6516308\" style=\"height: 15.6pt;\"></td><td class=\"xl6716308\" style=\"border-top: none;\"><span lang=\"EN-US\">None</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">1, 9, 15, 19</span></td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6716308\" style=\"border-top: none; border-left: none;\">　</td><td class=\"xl6516308\"></td></tr><tr height=\"6\" style=\"height: 4.95pt;\"><td height=\"6\" class=\"xl6516308\" style=\"height: 4.95pt;\"></td><td class=\"xl7016308\"></td><td class=\"xl7016308\"></td><td class=\"xl7016308\"></td><td class=\"xl7016308\"></td><td class=\"xl6516308\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"144\" style=\"width: 108pt;\"></td><td width=\"144\" style=\"width: 108pt;\"></td><td width=\"144\" style=\"width: 108pt;\"></td><td width=\"144\" style=\"width: 108pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table></div></div></body></html></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
           "range": null,
           "paragraph_ids": []
         }
@@ -1508,7 +1524,7 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
@@ -1528,8 +1544,16 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
         }
@@ -1548,8 +1572,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
         }
@@ -1568,8 +1600,40 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
           "range": null,
           "paragraph_ids": []
         },
@@ -1600,7 +1664,7 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
@@ -1620,7 +1684,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
@@ -1640,7 +1704,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
@@ -1648,7 +1712,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 4",
-          "standard_number": "1027",
+          "standard_number": "1110",
           "standard_title": null,
           "range": "4",
           "paragraph_ids": [
@@ -1681,8 +1745,40 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
           "range": null,
           "paragraph_ids": []
         },
@@ -1708,14 +1804,46 @@
       "section_id": "pUBz1W",
       "section_title": "별도재무제표에서 종속기업, 공동기업 및 관계기업에 대한 투자의 측정(2003년 전부개정 및 2008년 개정)",
       "toc_path": "결론도출근거|IAS 27 ‘별도재무제표(Separate Financial Statements)’의 결론도출근거|별도재무제표에서 종속기업, 공동기업 및 관계기업에 대한 투자의 측정(2003년 전부개정 및 2008년 개정)",
-      "text": "IAS 27(2000년에 IASB의 전신에 의해 전면개정)에서는 지배기업이 종속기업에 대한 투자를 지배기업의 별도재무제표에서 세 가지 방식 중 한 가지 방식으로 측정하는 것을 허용하였다. 세 가지 방식은 원가, 지분법 또는 IAS 39(주2)에 따른 매도가능금융자산\n(주3)이었다. IAS 28에서는 별도재무제표에서 관계기업에 대한 투자에 대하여 동일한 선택을 허용하였고 IAS 31에서는 공동기업의 별도재무제표에서 공동기업에 대한 투자지분의 회계처리에 어느 특정한 처리방법이 선호되는 것은 아니라고 기술하였다. 그러나 2003년 IASB는 별도재무제표에 포함되는 모든 투자자산에 원가 또는 IAS 39를 사용하고 측정방식 중 지분법은 배제하도록 결정하였다.\n[각주 (주2)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 포함된 모든 항목에 적용한다.\n[각주 (주3)] IFRS 9 ‘금융상품’은 매도가능금융자산의 범주를 없앴다.",
+      "text": "IAS 27(2000년에 IASB의 전신에 의해 전면개정)에서는 지배기업이 종속기업에 대한 투자를 지배기업의 별도재무제표에서 세 가지 방식 중 한 가지 방식으로 측정하는 것을 허용하였다. 세 가지 방식은 원가, 지분법 또는 IAS 39(주2)에 따른 매도가능금융자산(주3)이었다. IAS 28에서는 별도재무제표에서 관계기업에 대한 투자에 대하여 동일한 선택을 허용하였고 IAS 31에서는 공동기업의 별도재무제표에서 공동기업에 대한 투자지분의 회계처리에 어느 특정한 처리방법이 선호되는 것은 아니라고 기술하였다. 그러나 2003년 IASB는 별도재무제표에 포함되는 모든 투자자산에 원가 또는 IAS 39를 사용하고 측정방식 중 지분법은 배제하도록 결정하였다.\n[각주 (주2)] IFRS 9 ‘금융상품’은 IAS 39를 대체하였다. IFRS 9는 이전에 IAS 39의 적용범위에 포함된 모든 항목에 적용한다.\n[각주 (주3)] IFRS 9 ‘금융상품’은 매도가능금융자산의 범주를 없앴다.",
       "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>(2000년에 IASB의 전신에 의해 전면개정)에서는 지배기업이 종속기업에 대한 투자를 지배기업의 별도재무제표에서 세 가지 방식 중 한 가지 방식으로 측정하는 것을 허용하였다. 세 가지 방식은 원가, 지분법 또는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div><sup>(주2)</sup>에 따른 매도가능금융자산\n  <sup>(주3)</sup>이었다. \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>에서는 별도재무제표에서 관계기업에 대한 투자에 대하여 동일한 선택을 허용하였고 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\"></span><span class=\"std-finder\">IAS 31</span></div>에서는 공동기업의 별도재무제표에서 공동기업에 대한 투자지분의 회계처리에 어느 특정한 처리방법이 선호되는 것은 아니라고 기술하였다. 그러나 2003년 IASB는 별도재무제표에 포함되는 모든 투자자산에 원가 또는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 사용하고 측정방식 중 지분법은 배제하도록 결정하였다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주2)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>를 대체하였다. \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>는 이전에 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위에 포함된 모든 항목에 적용한다.            \n    </div></div>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주3)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 매도가능금융자산의 범주를 없앴다.            \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 31",
+          "standard_number": "31",
+          "standard_title": null,
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -1743,8 +1871,16 @@
         {
           "type": "standard",
           "display_text": "IAS 39",
-          "standard_number": null,
+          "standard_number": "39",
           "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         }
@@ -1809,8 +1945,16 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
           "range": null,
           "paragraph_ids": []
         },
@@ -1819,7 +1963,7 @@
           "display_text": "문단 4 및 6",
           "standard_number": "1027",
           "standard_title": null,
-          "range": "4 및 6",
+          "range": "4,6",
           "paragraph_ids": [
             "4",
             "6"
@@ -1840,8 +1984,24 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -1860,15 +2020,23 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 17",
-          "standard_number": "1027",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "17",
           "paragraph_ids": [
@@ -1878,7 +2046,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 6(2)",
-          "standard_number": "1027",
+          "standard_number": "1112",
           "standard_title": null,
           "range": "6(2)",
           "paragraph_ids": [
@@ -1900,15 +2068,23 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 26",
-          "standard_number": "1027",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "26",
           "paragraph_ids": [
@@ -1924,14 +2100,30 @@
       "section_id": "XNJGSx",
       "section_title": "지분법의 적용",
       "toc_path": "결론도출근거|IAS 27 ‘별도재무제표(Separate Financial Statements)’의 결론도출근거|별도재무제표에서 종속기업, 공동기업 및 관계기업에 대한 투자의 측정(2003년 전부개정 및 2008년 개정)|지분법의 적용",
-      "text": "일반적으로 별도재무제표에서 종속기업, 공동기업 및 관계기업에 대한 투자에 지분법을 적용하면, 지분보유자에게 귀속되는 순자산 및 당기순이익이 연결재무제표상 금액과 동일해 질 것으로 예상한다. 그러나 별도재무제표에서 종속기업에 대한 투자에 지분법을 적용하는 것은 다음과 같이 연결재무제표와 비교하여 다른 결과가 발생할 수 있는 상황이 있을 수 있다. 이러한 상황 중 일부는 다음과 같다. ⑴ IAS 28의 손상검사 규정 . 별도재무제표에서 지분법을 적용하여 회계처리한 종속기업에 대한 투자의 경우, 종속기업에 대한 투자장부금액의 일부에 해당하는 영업권은 별도로 손상검사를 하지 않는다. 대신에 종속기업에 대한 투자의 전체 장부금액은 IAS 36 ‘자산손상’에 따라 개별 자산으로 손상검사를 하게 된다. 그러나 연결재무제표에서 영업권은 별도로 인식되기 때문에 IAS 36의 영업권의 손상검사 규정을 적용하여 손상검사를 하게 된다. ⑵ 순부채상태의 종속기업. IAS 28은 투자자에게 법적의무 또는 의제의무가 있거나 투자자가 피투자자를 대신하여 지급할 부채를 인식하는 상황이 아니라면, 피투자자의 손실 중 투자자의 누적지분이 피투자자에 대한 투자자의 지분과 같거나 초과하는 경우 투자자가 자신의 투자지분 이상의 손실은 인식을 중단하도록 요구하고 있다. 반면 연결재무제표와 관련하여 이러한 규정이 없다. ⑶ 종속기업의 자산과 관련하여 지배기업에 발생한 차입원가의 자본화. IAS 23은 일부 상황에서 차입원가의 가중평균을 산정할 때 지배기업과 종속기업의 모든 차입금을 포함하는 것이 적절할 수도 있다고 언급하였다. 지배기업이 자금을 차입하고 종속기업이 적격자산을 취득하기 위한 목적으로 그 자금을 사용하는 경우, 지배기업의 연결재무제표에서 지배기업에 발생한 차입원가는 종속기업의 적격자산 취득에 직접 관련되는 것으로 본다. 그러나 지배기업의 종속기업에 대한 투자가 적격자산이 아닌 금융자산이라면, 지배기업의 별도재무제표에서 이는 적절하지 않을 수 있다.",
+      "text": "일반적으로 별도재무제표에서 종속기업, 공동기업 및 관계기업에 대한 투자에 지분법을 적용하면, 지분보유자에게 귀속되는 순자산 및 당기순이익이 연결재무제표상 금액과 동일해 질 것으로 예상한다. 그러나 별도재무제표에서 종속기업에 대한 투자에 지분법을 적용하는 것은 다음과 같이 연결재무제표와 비교하여 다른 결과가 발생할 수 있는 상황이 있을 수 있다. 이러한 상황 중 일부는 다음과 같다.\n(1) IAS 28의 손상검사 규정 . 별도재무제표에서 지분법을 적용하여 회계처리한 종속기업에 대한 투자의 경우, 종속기업에 대한 투자장부금액의 일부에 해당하는 영업권은 별도로 손상검사를 하지 않는다. 대신에 종속기업에 대한 투자의 전체 장부금액은 IAS 36 ‘자산손상’에 따라 개별 자산으로 손상검사를 하게 된다. 그러나 연결재무제표에서 영업권은 별도로 인식되기 때문에 IAS 36의 영업권의 손상검사 규정을 적용하여 손상검사를 하게 된다.\n(2) 순부채상태의 종속기업. IAS 28은 투자자에게 법적의무 또는 의제의무가 있거나 투자자가 피투자자를 대신하여 지급할 부채를 인식하는 상황이 아니라면, 피투자자의 손실 중 투자자의 누적지분이 피투자자에 대한 투자자의 지분과 같거나 초과하는 경우 투자자가 자신의 투자지분 이상의 손실은 인식을 중단하도록 요구하고 있다. 반면 연결재무제표와 관련하여 이러한 규정이 없다.\n(3) 종속기업의 자산과 관련하여 지배기업에 발생한 차입원가의 자본화. IAS 23은 일부 상황에서 차입원가의 가중평균을 산정할 때 지배기업과 종속기업의 모든 차입금을 포함하는 것이 적절할 수도 있다고 언급하였다. 지배기업이 자금을 차입하고 종속기업이 적격자산을 취득하기 위한 목적으로 그 자금을 사용하는 경우, 지배기업의 연결재무제표에서 지배기업에 발생한 차입원가는 종속기업의 적격자산 취득에 직접 관련되는 것으로 본다. 그러나 지배기업의 종속기업에 대한 투자가 적격자산이 아닌 금융자산이라면, 지배기업의 별도재무제표에서 이는 적절하지 않을 수 있다.",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"BC10G\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">BC10G</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">일반적으로 별도재무제표에서 종속기업, 공동기업 및 관계기업에 대한 투자에 지분법을 적용하면, 지분보유자에게 귀속되는 순자산 및 당기순이익이 연결재무제표상 금액과 동일해 질 것으로 예상한다. 그러나 별도재무제표에서 종속기업에 대한 투자에 지분법을 적용하는 것은 다음과 같이 연결재무제표와 비교하여 다른 결과가 발생할 수 있는 상황이 있을 수 있다. 이러한 상황 중 일부는 다음과 같다.</div><div class=\"idt-1\"><div>⑴</div><div><i><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>의 손상검사 규정\n    </i>. 별도재무제표에서 지분법을 적용하여 회계처리한 종속기업에 대한 투자의 경우, 종속기업에 대한 투자장부금액의 일부에 해당하는 영업권은 별도로 손상검사를 하지 않는다. 대신에 종속기업에 대한 투자의 전체 장부금액은 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div> ‘자산손상’에 따라 개별 자산으로 손상검사를 하게 된다. 그러나 연결재무제표에서 영업권은 별도로 인식되기 때문에 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>의 영업권의 손상검사 규정을 적용하여 손상검사를 하게 된다.\n  </div></div><div class=\"idt-1\"><div>⑵</div><div><i>순부채상태의 종속기업</i>. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>은 투자자에게 법적의무 또는 의제의무가 있거나 투자자가 피투자자를 대신하여 지급할 부채를 인식하는 상황이 아니라면, 피투자자의 손실 중 투자자의 누적지분이 피투자자에 대한 투자자의 지분과 같거나 초과하는 경우 투자자가 자신의 투자지분 이상의 손실은 인식을 중단하도록 요구하고 있다. 반면 연결재무제표와 관련하여 이러한 규정이 없다.\n  </div></div><div class=\"idt-1\"><div>⑶</div><div><i>종속기업의 자산과 관련하여 지배기업에 발생한 차입원가의 자본화</i>. \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">차입원가</span><span class=\"std-finder\">IAS 23</span></div>은 일부 상황에서 차입원가의 가중평균을 산정할 때 지배기업과 종속기업의 모든 차입금을 포함하는 것이 적절할 수도 있다고 언급하였다. 지배기업이 자금을 차입하고 종속기업이 적격자산을 취득하기 위한 목적으로 그 자금을 사용하는 경우, 지배기업의 연결재무제표에서 지배기업에 발생한 차입원가는 종속기업의 적격자산 취득에 직접 관련되는 것으로 본다. 그러나 지배기업의 종속기업에 대한 투자가 적격자산이 아닌 금융자산이라면, 지배기업의 별도재무제표에서 이는 적절하지 않을 수 있다.\n  </div></div><div class=\"para\">공개초안에 대한 일부 응답자들은 IASB에 지배기업 별도재무제표의 종속기업 장부금액이 지배기업 연결재무제표에서 지배기업에 귀속되는 종속기업의 순자산의 장부금액과 일치되기 위한 추가적인 지침을 제공하는 것에 대해 고려해 줄 것을 요청하였다. IASB는 그러한 차이를 없애기 위해 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>에 추가적인 지침을 만드는 것은 동 과제의 범위를 벗어난다고 결정하였다. IASB는 그러한 지침의 개발이 충분한 연구와 분석(이 경우 동 개정을 지연시킬 것이다) 없이는 가능하지 않을 것이라고 우려하였다. 따라서 IASB는 이러한 요청사항을 고려하지 않기로 결정하였다.\n</div></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"별도재무제표에서 지분법 평가 시 종속기업에 대한 매출채권 대손상각비 조정여부\" target=\"_blank\" href=\"/qnas/SSI-38533\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 별도재무제표에서 지분법 평가 시 종속기업에 대한 매출채권 대손상각비 조정여부</h5><time class=\"sc-gacfCG bRMfLY\">2021-01-19</time></article></a></li></ul></div></div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 23",
+          "standard_number": "23",
+          "standard_title": "차입원가",
           "range": null,
           "paragraph_ids": []
         }
@@ -1957,7 +2149,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -1984,8 +2176,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 5",
-          "standard_number": null,
+          "standard_number": "5",
           "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
           "range": null,
           "paragraph_ids": []
         },
@@ -2008,21 +2208,37 @@
       "section_id": "KIaqwL",
       "section_title": "2008년 개정",
       "toc_path": "결론도출근거|IAS 27 ‘별도재무제표(Separate Financial Statements)’의 결론도출근거|별도재무제표에서 종속기업, 공동기업 및 관계기업에 대한 투자의 측정(2003년 전부개정 및 2008년 개정)|2008년 개정",
-      "text": "IFRS 5 결론도출근거의 문단 BC13은 IASB가 ‘(가) 가치의 변동분이 당기손익에 인식되도록 이미 공정가치로 기록하고 있거나 (나) 공정가치에서 처분부대원가를 뺀 금액\n(주5)을 결정하기 어려운 경우에만’ IFRS 5의 측정범위에서 비유동자산이 제외되어야 한다고 결정하였다고 설명한다. IASB는 IFRS 5의 결론도출근거에서 IAS 39의 적용범위 내에 있는 모든 금융자산이 공정가치로 인식되고 그 공정가치의 변동이 당기손익으로 인식되는 것은 아니라는 것은 인정하지만, 현 시점에서 금융자산 회계처리에 더 이상의 변경을 원하지 않았다.\n[각주 (주5)] 2011년 5월에 공표한 IFRS 13은 공정가치 측정 규정을 포함한다.",
+      "text": "IFRS 5 결론도출근거의 문단 BC13은 IASB가 ‘(가) 가치의 변동분이 당기손익에 인식되도록 이미 공정가치로 기록하고 있거나 (나) 공정가치에서 처분부대원가를 뺀 금액(주5)을 결정하기 어려운 경우에만’ IFRS 5의 측정범위에서 비유동자산이 제외되어야 한다고 결정하였다고 설명한다. IASB는 IFRS 5의 결론도출근거에서 IAS 39의 적용범위 내에 있는 모든 금융자산이 공정가치로 인식되고 그 공정가치의 변동이 당기손익으로 인식되는 것은 아니라는 것은 인정하지만, 현 시점에서 금융자산 회계처리에 더 이상의 변경을 원하지 않았다.\n[각주 (주5)] 2011년 5월에 공표한 IFRS 13은 공정가치 측정 규정을 포함한다.",
       "html": "<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div> 결론도출근거의 \n  <span class=\"mundan-finder\">문단 BC13</span>은 IASB가 ‘(가) 가치의 변동분이 당기손익에 인식되도록 이미 공정가치로 기록하고 있거나 (나) 공정가치에서 처분부대원가를 뺀 금액  \n  <sup>(주5)</sup>을 결정하기 어려운 경우에만’ \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>의 측정범위에서 비유동자산이 제외되어야 한다고 결정하였다고 설명한다. IASB는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">매각예정비유동자산과 중단영업</span><span class=\"std-finder\">IFRS 5</span></div>의 결론도출근거에서 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div>의 적용범위 내에 있는 모든 금융자산이 공정가치로 인식되고 그 공정가치의 변동이 당기손익으로 인식되는 것은 아니라는 것은 인정하지만, 현 시점에서 금융자산 회계처리에 더 이상의 변경을 원하지 않았다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주5)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 공표한 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공정가치 측정</span><span class=\"std-finder\">IFRS 13</span></div>은 공정가치 측정 규정을 포함한다.                        \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 5",
-          "standard_number": null,
+          "standard_number": "5",
           "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 13",
+          "standard_number": "13",
+          "standard_title": "공정가치 측정",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 BC13",
-          "standard_number": "1027",
+          "standard_number": "1105",
           "standard_title": null,
           "range": "BC13",
           "paragraph_ids": [
@@ -2049,8 +2265,16 @@
         {
           "type": "standard",
           "display_text": "IAS 39",
-          "standard_number": null,
+          "standard_number": "39",
           "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": "5",
+          "standard_title": "매각예정비유동자산과 중단영업",
           "range": null,
           "paragraph_ids": []
         },
@@ -2079,7 +2303,7 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
@@ -2106,7 +2330,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "한국채택국제회계기준의 최초채택",
           "range": null,
           "paragraph_ids": []
@@ -2133,7 +2357,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "한국채택국제회계기준의 최초채택",
           "range": null,
           "paragraph_ids": []
@@ -2160,7 +2384,7 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
@@ -2223,7 +2447,7 @@
         {
           "type": "standard",
           "display_text": "IAS 36",
-          "standard_number": null,
+          "standard_number": "36",
           "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
@@ -2250,15 +2474,31 @@
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "한국채택국제회계기준의 최초채택",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 12(8)",
-          "standard_number": "1027",
+          "standard_number": "1036",
           "standard_title": null,
           "range": "12(8)",
           "paragraph_ids": [
@@ -2326,7 +2566,7 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
@@ -2358,7 +2598,7 @@
           "display_text": "문단 13과 문단 14",
           "standard_number": "1027",
           "standard_title": null,
-          "range": "13과 문단 14",
+          "range": "13,14",
           "paragraph_ids": [
             "13",
             "14"
@@ -2403,7 +2643,7 @@
           "display_text": "문단 13과 문단 14",
           "standard_number": "1027",
           "standard_title": null,
-          "range": "13과 문단 14",
+          "range": "13,14",
           "paragraph_ids": [
             "13",
             "14"
@@ -2431,8 +2671,24 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 1",
+          "standard_number": "1",
+          "standard_title": "재무제표 표시",
           "range": null,
           "paragraph_ids": []
         }
@@ -2451,8 +2707,40 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
         }
@@ -2493,8 +2781,40 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
         },
@@ -2523,8 +2843,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 11",
-          "standard_number": null,
+          "standard_number": "11",
           "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 8",
+          "standard_number": "8",
+          "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
         }
@@ -2554,8 +2882,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 1",
-          "standard_number": null,
+          "standard_number": "1",
           "standard_title": "한국채택국제회계기준의 최초채택",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
         }
@@ -2574,7 +2910,7 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
@@ -2584,7 +2920,7 @@
           "display_text": "문단 13과 문단 14",
           "standard_number": "1027",
           "standard_title": null,
-          "range": "13과 문단 14",
+          "range": "13,14",
           "paragraph_ids": [
             "13",
             "14"
@@ -2615,8 +2951,24 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         },
@@ -2625,7 +2977,7 @@
           "display_text": "문단 10(2)",
           "standard_number": "1027",
           "standard_title": null,
-          "range": "10(2)",
+          "range": "10",
           "paragraph_ids": [
             "10"
           ]
@@ -2650,7 +3002,7 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
@@ -2784,6 +3136,113 @@
     ],
     "1039": [
       "19"
+    ],
+    "27": [
+      "IE4",
+      "BC1",
+      "BC2",
+      "BC3",
+      "BC4",
+      "BC5",
+      "BC8A",
+      "BC9",
+      "BC10C",
+      "BC14",
+      "BC17",
+      "BC20",
+      "BC23",
+      "BC28",
+      "BC29",
+      "BC32",
+      "DO1",
+      "DO2",
+      "DO3",
+      "DO4"
+    ],
+    "10": [
+      "IE4",
+      "BC2",
+      "BC3",
+      "BC4",
+      "BC6",
+      "BC7",
+      "BC8A",
+      "BC10F",
+      "BC29",
+      "BC32"
+    ],
+    "12": [
+      "IE4",
+      "BC4",
+      "BC8A",
+      "BC10C",
+      "BC10D",
+      "BC10E",
+      "BC28",
+      "BC29",
+      "BC32"
+    ],
+    "28": [
+      "BC4",
+      "BC9",
+      "BC10D",
+      "BC10E",
+      "BC10F",
+      "BC10G",
+      "BC10H",
+      "BC29",
+      "BC32"
+    ],
+    "11": [
+      "BC4",
+      "BC29",
+      "BC32",
+      "BC33"
+    ],
+    "9": [
+      "BC8A",
+      "BC9",
+      "BC10D",
+      "DO3"
+    ],
+    "39": [
+      "BC8A",
+      "BC9",
+      "BC10",
+      "BC11",
+      "BC12",
+      "BC13",
+      "DO3"
+    ],
+    "31": [
+      "BC9"
+    ],
+    "13": [
+      "BC10",
+      "BC12"
+    ],
+    "36": [
+      "BC10G",
+      "BC19",
+      "BC20"
+    ],
+    "23": [
+      "BC10G"
+    ],
+    "5": [
+      "BC11",
+      "BC12",
+      "BC13"
+    ],
+    "1": [
+      "BC15",
+      "BC16",
+      "BC20",
+      "BC28",
+      "DO1"
+    ],
+    "8": [
+      "BC33"
     ]
   },
   "qna_index": {

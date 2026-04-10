@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "초인플레이션 경제에서의 재무보고",
   "url": "https://db.kasb.or.kr/s/1029",
-  "crawled_at": "2026-03-24T04:56:49.384493+00:00",
+  "crawled_at": "2026-04-09T06:15:51.162334+00:00",
   "toc": [
     {
       "level": null,
@@ -352,9 +352,9 @@
         {
           "type": "paragraph",
           "display_text": "문단 42(2)와 문단 43",
-          "standard_number": "1021",
+          "standard_number": "1029",
           "standard_title": null,
-          "range": "42(2)와 문단 43",
+          "range": "42(2),43",
           "paragraph_ids": [
             "42",
             "43"
@@ -671,7 +671,7 @@
           "display_text": "문단 27과 문단 28",
           "standard_number": "1029",
           "standard_title": null,
-          "range": "27과 문단 28",
+          "range": "27,28",
           "paragraph_ids": [
             "27",
             "28"
@@ -731,9 +731,9 @@
         {
           "type": "paragraph",
           "display_text": "문단 42(2)와 문단 43",
-          "standard_number": "1021",
+          "standard_number": "1029",
           "standard_title": null,
-          "range": "42(2)와 문단 43",
+          "range": "42(2),43",
           "paragraph_ids": [
             "42",
             "43"

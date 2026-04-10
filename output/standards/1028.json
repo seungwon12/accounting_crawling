@@ -3,7 +3,7 @@
   "standard_type": "기업회계기준서",
   "title": "관계기업과 공동기업에 대한 투자",
   "url": "https://db.kasb.or.kr/s/1028",
-  "crawled_at": "2026-03-24T04:55:57.511090+00:00",
+  "crawled_at": "2026-04-09T06:15:07.970221+00:00",
   "toc": [
     {
       "level": null,
@@ -619,7 +619,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 4",
-          "standard_number": "1027",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "4",
           "paragraph_ids": [
@@ -629,11 +629,11 @@
         {
           "type": "paragraph",
           "display_text": "부록 A",
-          "standard_number": "1110",
+          "standard_number": "1028",
           "standard_title": null,
-          "range": "부록 A",
+          "range": "부록A",
           "paragraph_ids": [
-            "부록 A"
+            "부록A"
           ]
         }
       ],
@@ -970,7 +970,7 @@
           "display_text": "문단 38과 문단 40~43",
           "standard_number": "1028",
           "standard_title": null,
-          "range": "38과 문단 40~43",
+          "range": "38,40~43",
           "paragraph_ids": [
             "38",
             "40",
@@ -1049,7 +1049,7 @@
       "section_id": "mLIPDa",
       "section_title": "지분법 적용 면제",
       "toc_path": "본문|지분법의 적용|지분법 적용 면제",
-      "text": "기업이 기업회계기준서 제1110호 문단 4⑴의 적용범위 제외에 따라 연결재무제표 작성이 면제되는 지배기업이거나 다음의 조건을 모두 충족하는 경우, 관계기업이나 공동기업에 대한 투자에 지분법을 적용할 필요가 없다. ⑴ 기업이 그 자체의 지분 전부를 소유하고 있는 다른 기업의 종속기업이거나, 그 자체의 지분 일부를 소유하고 있는 다른 기업의 종속기업이면서 그 기업이 지분법을 적용하지 않는다는 사실을 그 기업의 다른 소유주들(의결권이 없는 소유주 포함)에게 알리고 그 다른 소유주들이 그것을 반대하지 않는 경우 ⑵ 기업의 채무상품 또는 지분상품이 공개시장(국내ㆍ외 증권거래소나 장외시장. 지역시장 포함)에서 거래되지 않는 경우 ⑶ 기업이 공개시장에서 증권을 발행할 목적으로 증권감독기구나 그 밖의 감독기관에 재무제표를 제출한 적이 없으며 현재 제출하는 과정에 있지도 않은 경우 ⑷ 기업의 최상위 지배기업이나 중간 지배기업이 한국채택국제회계기준을 적용하여 작성한 공용 가능한 재무제표에 기업회계기준서 제1110호에 따라 종속기업을 연결하거나 종속기업을 공정가치로 측정하여 당기손익에 반영한 경우",
+      "text": "기업이 기업회계기준서 제1110호 문단 4(1)의 적용범위 제외에 따라 연결재무제표 작성이 면제되는 지배기업이거나 다음의 조건을 모두 충족하는 경우, 관계기업이나 공동기업에 대한 투자에 지분법을 적용할 필요가 없다.\n(1) 기업이 그 자체의 지분 전부를 소유하고 있는 다른 기업의 종속기업이거나, 그 자체의 지분 일부를 소유하고 있는 다른 기업의 종속기업이면서 그 기업이 지분법을 적용하지 않는다는 사실을 그 기업의 다른 소유주들(의결권이 없는 소유주 포함)에게 알리고 그 다른 소유주들이 그것을 반대하지 않는 경우\n(2) 기업의 채무상품 또는 지분상품이 공개시장(국내ㆍ외 증권거래소나 장외시장. 지역시장 포함)에서 거래되지 않는 경우\n(3) 기업이 공개시장에서 증권을 발행할 목적으로 증권감독기구나 그 밖의 감독기관에 재무제표를 제출한 적이 없으며 현재 제출하는 과정에 있지도 않은 경우\n(4) 기업의 최상위 지배기업이나 중간 지배기업이 한국채택국제회계기준을 적용하여 작성한 공용 가능한 재무제표에 기업회계기준서 제1110호에 따라 종속기업을 연결하거나 종속기업을 공정가치로 측정하여 당기손익에 반영한 경우",
       "html": "<div class=\"sc-lnmtFM btvzZz\"></div><div value=\"17\" class=\"sc-yZwTr iQtUxW sc-iaAMwK jQIbuR\"><div class=\"sc-fjhmcy bSBEjb\"><div class=\"sc-eEieub jpZXEr\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\" style=\"left: 0px; right: auto;\">책갈피 추가/삭제</span><div class=\"sc-dEfkYy dzoCcJ\"><img src=\"/bookmark.svg\" class=\"sc-cqPOvA crcNGV\"></div></div><div class=\"sc-bbkauy loglOu\">17</div></div><div class=\"sc-erNlkL iSvwtv\"><div class=\"sc-cbkKFq jTSRqO sc-FQuPU gGOBMp\"><div class=\"para\">기업이 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">기업회계기준서 제1110호</span></div><span class=\"mundan-finder\"> 문단 4⑴</span>의 적용범위 제외에 따라 연결재무제표 작성이 면제되는 지배기업이거나 다음의 조건을 모두 충족하는 경우, 관계기업이나 공동기업에 대한 투자에 지분법을 적용할 필요가 없다.\n</div><div class=\"idt-1\"><div>⑴</div><div>기업이 그 자체의 지분 전부를 소유하고 있는 다른 기업의 종속기업이거나, 그 자체의 지분 일부를 소유하고 있는 다른 기업의 종속기업이면서 그 기업이 지분법을 적용하지 않는다는 사실을 그 기업의 다른 소유주들(의결권이 없는 소유주 포함)에게 알리고 그 다른 소유주들이 그것을 반대하지 않는 경우</div></div><div class=\"idt-1\"><div>⑵</div><div>기업의 채무상품 또는 지분상품이 공개시장(국내ㆍ외 증권거래소나 장외시장. 지역시장 포함)에서 거래되지 않는 경우</div></div><div class=\"idt-1\"><div>⑶</div><div>기업이 공개시장에서 증권을 발행할 목적으로 증권감독기구나 그 밖의 감독기관에 재무제표를 제출한 적이 없으며 현재 제출하는 과정에 있지도 않은 경우</div></div><div class=\"idt-1\"><div>⑷</div><div>기업의 최상위 지배기업이나 중간 지배기업이 한국채택국제회계기준을 적용하여 작성한 공용 가능한 재무제표에 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">기업회계기준서 제1110호</span></div>에 따라 종속기업을 연결하거나 종속기업을 공정가치로 측정하여 당기손익에 반영한 경우\n  </div></div></div><div><div><button class=\"sc-ghsgMZ eiaxGD\">관련 질의회신요약 1개 <span class=\"material-icons\">expand_less</span></button></div><ul class=\"sc-fihHvN eJdmpC\"><li><a title=\"지분법 적용 면제\" target=\"_blank\" href=\"/qnas/SSI-202412017\"><article class=\"sc-bIqbHp ifxvYv\"><h5 class=\"sc-iujRgT sc-jxGEyO ibupzM\">- 지분법 적용 면제</h5><time class=\"sc-gacfCG bRMfLY\">2023-07-27</time></article></a></li></ul></div></div></div>",
       "cross_references": [
         {
@@ -1062,10 +1062,10 @@
         },
         {
           "type": "paragraph",
-          "display_text": "문단 4⑴",
-          "standard_number": "1110",
+          "display_text": "문단 4(1)",
+          "standard_number": "1028",
           "standard_title": null,
-          "range": "4⑴",
+          "range": "4(1)",
           "paragraph_ids": [
             "4"
           ]
@@ -1458,7 +1458,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 28",
-          "standard_number": "1016",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "28",
           "paragraph_ids": [
@@ -1851,7 +1851,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 10",
-          "standard_number": "1027",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "10",
           "paragraph_ids": [
@@ -2039,7 +2039,7 @@
           "display_text": "문단 17, 27, 36",
           "standard_number": "1028",
           "standard_title": null,
-          "range": "17, 27, 36",
+          "range": "17,27,36",
           "paragraph_ids": [
             "17",
             "27",
@@ -2081,7 +2081,7 @@
           "display_text": "문단 18과 36A",
           "standard_number": "1028",
           "standard_title": null,
-          "range": "18과 36A",
+          "range": "18,36A",
           "paragraph_ids": [
             "18",
             "36A"
@@ -2096,7 +2096,7 @@
       "section_id": "stAQkr",
       "section_title": "시행일과 경과규정",
       "toc_path": "본문|시행일과 경과규정",
-      "text": "2021년 6월에 공표한 기업회계기준서 제1117호에 따라 문단 18을 개정하였다\n(한1). 이 개정 내용은 기업회계기준서 제1117호를 적용할 때 적용한다.\n[각주 (한1)] 회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 IFRS 17 ’보험계약‘에 대응하는 K-IFRS 제1117호 ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 IFRS 17을 포함하여 K-IFRS 제1117호를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 IFRS 17에 따라 문단 18을 개정하였다.",
+      "text": "2021년 6월에 공표한 기업회계기준서 제1117호에 따라 문단 18을 개정하였다(한1). 이 개정 내용은 기업회계기준서 제1117호를 적용할 때 적용한다.\n[각주 (한1)] 회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 IFRS 17 ’보험계약‘에 대응하는 K-IFRS 제1117호 ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 IFRS 17을 포함하여 K-IFRS 제1117호를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 IFRS 17에 따라 문단 18을 개정하였다.",
       "html": "2021년 6월에 공표한 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">기업회계기준서 제1117호</span></div>에 따라 \n  <span class=\"mundan-finder\">문단 18</span>을 개정하였다  \n  <sup data-id=\"(한1)\">(한1)</sup>. 이 개정 내용은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">기업회계기준서 제1117호</span></div>를 적용할 때 적용한다.\n\n<div class=\"idt-1 comment\"><div>(한1)</div><div>회계기준위원회는 국제회계기준위원회가 2017년 5월 발표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">IFRS 17</span></div> ’보험계약‘에 대응하는 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">K-IFRS 제1117호</span></div> ’보험계약‘을 제정 의결하였으나 공표하지 않고, 국제회계기준위원회가 2020년 6월에 발표한 개정 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">IFRS 17</span></div>을 포함하여 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">K-IFRS 제1117호</span></div>를 2021년 4월에 수정 심의‧의결하였다. 한편, 국제회계기준위원회는 2017년 5월에 발표한 \n    <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">보험계약</span><span class=\"std-finder\">IFRS 17</span></div>에 따라 \n    <span class=\"mundan-finder\">문단 18</span>을 개정하였다.  \n  </div></div>",
       "cross_references": [
         {
@@ -2110,20 +2110,10 @@
         {
           "type": "standard",
           "display_text": "IFRS 17",
-          "standard_number": null,
+          "standard_number": "17",
           "standard_title": "보험계약",
           "range": null,
           "paragraph_ids": []
-        },
-        {
-          "type": "paragraph",
-          "display_text": "문단 18",
-          "standard_number": "1028",
-          "standard_title": null,
-          "range": "18",
-          "paragraph_ids": [
-            "18"
-          ]
         },
         {
           "type": "paragraph",
@@ -2216,7 +2206,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 45G",
-          "standard_number": "1109",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "45G",
           "paragraph_ids": [
@@ -2226,7 +2216,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 14A",
-          "standard_number": "1109",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "14A",
           "paragraph_ids": [
@@ -2256,7 +2246,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 45G",
-          "standard_number": "1109",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "45G",
           "paragraph_ids": [
@@ -2266,7 +2256,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 14A",
-          "standard_number": "1109",
+          "standard_number": "1028",
           "standard_title": null,
           "range": "14A",
           "paragraph_ids": [
@@ -2320,7 +2310,7 @@
       "section_id": "stAQkr",
       "section_title": "시행일과 경과규정",
       "toc_path": "본문|시행일과 경과규정",
-      "text": "기업이 문단 45I나 45J를 적용하여 과거기간을 재작성하지 않는다면, 그 개정 내용의 최초 적용일에 ⑴과 ⑵의 차이를 기초 이익잉여금(또는 적절한 다른 자본요소)으로 인식하여야 한다.\n⑴ 개정 내용의 최초 적용일 현재 문단 14A에서 설명된 장기투자지분의 종전 장부금액 ⑵ 개정 내용의 최초 적용일 현재 그 장기투자지분의 장부금액",
+      "text": "기업이 문단 45I나 45J를 적용하여 과거기간을 재작성하지 않는다면, 그 개정 내용의 최초 적용일에 (1)과 (2)의 차이를 기초 이익잉여금(또는 적절한 다른 자본요소)으로 인식하여야 한다.\n(1) 개정 내용의 최초 적용일 현재 문단 14A에서 설명된 장기투자지분의 종전 장부금액\n(2) 개정 내용의 최초 적용일 현재 그 장기투자지분의 장부금액",
       "html": "기업이 \n  <span class=\"mundan-finder\">문단 45I나 45J</span>를 적용하여 과거기간을 재작성하지 않는다면, 그 개정 내용의 최초 적용일에 ⑴과 ⑵의 차이를 기초 이익잉여금(또는 적절한 다른 자본요소)으로 인식하여야 한다. \n\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> 개정 내용의 최초 적용일 현재 \n      <span class=\"mundan-finder\">문단 14A</span>에서 설명된 장기투자지분의 종전 장부금액\n    </div></div><div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> 개정 내용의 최초 적용일 현재 그 장기투자지분의 장부금액</div></div>",
       "cross_references": [
         {
@@ -2328,9 +2318,10 @@
           "display_text": "문단 45I나 45J",
           "standard_number": "1028",
           "standard_title": null,
-          "range": "45I나 45J",
+          "range": "45I,45J",
           "paragraph_ids": [
-            "45I나 45J"
+            "45I",
+            "45J"
           ]
         },
         {
@@ -2439,7 +2430,7 @@
       "section_id": "PDN1ou",
       "section_title": "가정",
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1028호 ‘관계기업과 공동기업 투자’의 적용사례|관계기업과 공동기업에 대한 장기투자지분|가정",
-      "text": "투자자는 관계기업에 대해 다음 세 가지 유형의 지분을 보유하고 있다.\n⑴ O 주식—보통주로서 지분법을 적용하는 소유지분 40%. 이 지분은 세 가지 지분 중 청산 시 상환 우선순위가 가장 후순위이다.\n⑵ P 주식—비누적적 우선주로서 관계기업에 대한 순투자의 일부를 구성하고 기업회계기준서 제1109호를 적용하여 당기손익-공정가치로 측정하는 지분\n⑶ LT 대여금—장기대여금으로서 관계기업에 대한 순투자의 일부를 구성하고 기업회계기준서 제1109호를 적용하여 상각후원가로 측정하는 지분. 명시이자율과 유효이자율 모두 연 5%이다. 관계기업은 매년 투자자에게 이자만 지급한다. 이 LT 대여금은 세 가지 지분 중 청산 시 상환 우선순위가 가장 선순위이다.\n| | | | (단위: 원) |\n| --- | --- | --- | --- |\n| 연도 말 | 기업회계기준서 제1109호를 적용한 P 주식 (공정가치) | 기업회계기준서 제1109호를 적용한 LT 대여금 (상각후원가) | 관계기업의 이익 (손실) |\n| 1차 연도 | 110 | 90 | 50 |\n| 2차 연도 | 90 | 70 | (200) |\n| 3차 연도 | 50 | 50 | (500) |\n| 4차 연도 | 40 | 50 | (150) |\n| 5차 연도 | 60 | 60 | - |\n| 6차 연도 | 80 | 70 | 500 |\n| 7차 연도 | 110 | 90 | 500 |\n\n[각주 (주1)] 이 사례에서 화폐금액은 ‘원’으로 표시된다.",
+      "text": "투자자는 관계기업에 대해 다음 세 가지 유형의 지분을 보유하고 있다.\n(1) O 주식—보통주로서 지분법을 적용하는 소유지분 40%. 이 지분은 세 가지 지분 중 청산 시 상환 우선순위가 가장 후순위이다.\n(2) P 주식—비누적적 우선주로서 관계기업에 대한 순투자의 일부를 구성하고 기업회계기준서 제1109호를 적용하여 당기손익-공정가치로 측정하는 지분\n(3) LT 대여금—장기대여금으로서 관계기업에 대한 순투자의 일부를 구성하고 기업회계기준서 제1109호를 적용하여 상각후원가로 측정하는 지분. 명시이자율과 유효이자율 모두 연 5%이다. 관계기업은 매년 투자자에게 이자만 지급한다. 이 LT 대여금은 세 가지 지분 중 청산 시 상환 우선순위가 가장 선순위이다.\n| | | | (단위: 원) |\n| --- | --- | --- | --- |\n| 연도 말 | 기업회계기준서 제1109호를 적용한 P 주식 (공정가치) | 기업회계기준서 제1109호를 적용한 LT 대여금 (상각후원가) | 관계기업의 이익 (손실) |\n| 1차 연도 | 110 | 90 | 50 |\n| 2차 연도 | 90 | 70 | (200) |\n| 3차 연도 | 50 | 50 | (500) |\n| 4차 연도 | 40 | 50 | (150) |\n| 5차 연도 | 60 | 60 | - |\n| 6차 연도 | 80 | 70 | 500 |\n| 7차 연도 | 110 | 90 | 500 |\n\n[각주 (주1)] 이 사례에서 화폐금액은 ‘원’으로 표시된다.",
       "html": "투자자는 관계기업에 대해 다음 세 가지 유형의 지분을 보유하고 있다.\n<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"ProgId\" content=\"Excel.Sheet\"><meta name=\"Generator\" content=\"Microsoft Excel 15\"><link rel=\"File-List\" href=\"1028-63-1.files/filelist.xml\"><style id=\"통합 문서1_21343_Styles\">\r\n<!--table\r\n\t{mso-displayed-decimal-separator:\"\\.\";\r\n\tmso-displayed-thousand-separator:\"\\,\";}\r\n.font521343\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;}\r\n.xl6321343\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6421343\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:right;\r\n\tvertical-align:middle;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:nowrap;}\r\n.xl6521343\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid black;\r\n\tborder-right:.5pt solid black;\r\n\tborder-bottom:none;\r\n\tborder-left:.5pt solid black;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl6621343\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:left;\r\n\tvertical-align:middle;\r\n\tborder:.5pt solid black;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl6721343\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:700;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:General;\r\n\ttext-align:general;\r\n\tvertical-align:middle;\r\n\tborder-top:.5pt solid black;\r\n\tborder-right:.5pt solid black;\r\n\tborder-bottom:none;\r\n\tborder-left:.5pt solid black;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\n.xl6821343\r\n\t{padding-top:1px;\r\n\tpadding-right:1px;\r\n\tpadding-left:1px;\r\n\tmso-ignore:padding;\r\n\tcolor:black;\r\n\tfont-size:10.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-number-format:\"\\#\\,\\#\\#0_\\)\\;\\\\\\(\\#\\,\\#\\#0\\\\\\)\\;\\\\-_\\)\";\r\n\ttext-align:center;\r\n\tvertical-align:middle;\r\n\tborder:.5pt solid black;\r\n\tmso-background-source:auto;\r\n\tmso-pattern:auto;\r\n\twhite-space:normal;}\r\nruby\r\n\t{ruby-align:left;}\r\nrt\r\n\t{color:windowtext;\r\n\tfont-size:8.0pt;\r\n\tfont-weight:400;\r\n\tfont-style:normal;\r\n\ttext-decoration:none;\r\n\tfont-family:\"맑은 고딕\", monospace;\r\n\tmso-font-charset:129;\r\n\tmso-char-type:none;}\r\n-->\r\n</style></head><body><div id=\"통합 문서1_21343\" align=\"center\" x:publishsource=\"Excel\"><div class=\"table\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"594\" class=\"xl6321343\" style=\"border-collapse: collapse; table-layout: fixed; width: 444pt;\"><col class=\"xl6321343\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6321343\" width=\"103\" style=\"width: 77pt;\"><col class=\"xl6321343\" width=\"159\" span=\"3\" style=\"width: 119pt;\"><col class=\"xl6321343\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6321343\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6321343\" width=\"103\" style=\"width: 77pt;\"></td><td class=\"xl6321343\" width=\"159\" style=\"width: 119pt;\"></td><td class=\"xl6321343\" width=\"159\" style=\"width: 119pt;\"></td><td class=\"xl6321343\" width=\"159\" style=\"width: 119pt;\"></td><td class=\"xl6321343\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6321343\" style=\"height: 13.5pt;\"></td><td class=\"xl6321343\"></td><td class=\"xl6321343\"></td><td class=\"xl6321343\"></td><td class=\"xl6421343\">(단위: 원)</td><td class=\"xl6321343\"></td></tr><tr height=\"54\" style=\"height: 40.5pt;\"><td height=\"54\" class=\"xl6321343\" style=\"height: 40.5pt;\"></td><td class=\"xl6721343\" width=\"103\" style=\"width: 77pt;\">연도 말</td><td class=\"xl6521343\" width=\"159\" style=\"border-left: none; width: 119pt;\">기업회계기준서\r\n  제1109호를 적용한 P 주식<br>\r\n    (공정가치)</td><td class=\"xl6521343\" width=\"159\" style=\"border-left: none; width: 119pt;\">기업회계기준서\r\n  제1109호를 적용한 LT 대여금<br>\r\n    (상각후원가)</td><td class=\"xl6521343\" width=\"159\" style=\"border-left: none; width: 119pt;\">관계기업의\r\n  이익<br>\r\n    (손실)</td><td class=\"xl6321343\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6321343\" style=\"height: 13.5pt;\"></td><td class=\"xl6621343\" width=\"103\" style=\"width: 77pt;\"><span lang=\"EN-US\">1차 연도</span></td><td class=\"xl6821343\" width=\"159\" style=\"border-left: none; width: 119pt;\"><span lang=\"EN-US\">110 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-left: none; width: 119pt;\"><span lang=\"EN-US\">90 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-left: none; width: 119pt;\"><span lang=\"EN-US\">50 </span></td><td class=\"xl6321343\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6321343\" style=\"height: 13.5pt;\"></td><td class=\"xl6621343\" width=\"103\" style=\"border-top: none; width: 77pt;\"><span lang=\"EN-US\">2차 연도</span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">90 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">70 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">(200)</span></td><td class=\"xl6321343\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6321343\" style=\"height: 13.5pt;\"></td><td class=\"xl6621343\" width=\"103\" style=\"border-top: none; width: 77pt;\"><span lang=\"EN-US\">3차 연도</span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">50 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">50 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">(500)</span></td><td class=\"xl6321343\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6321343\" style=\"height: 13.5pt;\"></td><td class=\"xl6621343\" width=\"103\" style=\"border-top: none; width: 77pt;\"><span lang=\"EN-US\">4차 연도</span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">40 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">50 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">(150)</span></td><td class=\"xl6321343\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6321343\" style=\"height: 13.5pt;\"></td><td class=\"xl6621343\" width=\"103\" style=\"border-top: none; width: 77pt;\"><span lang=\"EN-US\">5차 연도</span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">60 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">60 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">- </span></td><td class=\"xl6321343\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6321343\" style=\"height: 13.5pt;\"></td><td class=\"xl6621343\" width=\"103\" style=\"border-top: none; width: 77pt;\"><span lang=\"EN-US\">6차 연도</span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">80 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">70 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">500 </span></td><td class=\"xl6321343\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6321343\" style=\"height: 13.5pt;\"></td><td class=\"xl6621343\" width=\"103\" style=\"border-top: none; width: 77pt;\"><span lang=\"EN-US\">7차 연도</span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">110 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">90 </span></td><td class=\"xl6821343\" width=\"159\" style=\"border-top: none; border-left: none; width: 119pt;\"><span lang=\"EN-US\">500 </span></td><td class=\"xl6321343\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6321343\" style=\"height: 5.1pt;\"></td><td class=\"xl6321343\"></td><td class=\"xl6321343\"></td><td class=\"xl6321343\"></td><td class=\"xl6321343\"></td><td class=\"xl6321343\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"103\" style=\"width: 77pt;\"></td><td width=\"159\" style=\"width: 119pt;\"></td><td width=\"159\" style=\"width: 119pt;\"></td><td width=\"159\" style=\"width: 119pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table></div></div></body></html>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑴</div><div class=\"para-num-item-para-con\"> O 주식—보통주로서 지분법을 적용하는 소유지분 40%. 이 지분은 세 가지 지분 중 청산 시 상환 우선순위가 가장 후순위이다.</div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑵</div><div class=\"para-num-item-para-con\"> P 주식—비누적적 우선주로서 관계기업에 대한 순투자의 일부를 구성하고 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>를 적용하여 당기손익-공정가치로 측정하는 지분                                                \n    </div></div>\n<div class=\"para-inner-number-item\"><div class=\"para-number-para-num\">⑶</div><div class=\"para-num-item-para-con\"> LT 대여금—장기대여금으로서 관계기업에 대한 순투자의 일부를 구성하고 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">기업회계기준서 제1109호</span></div>를 적용하여 상각후원가로 측정하는 지분. 명시이자율과 유효이자율 모두 연 5%이다. 관계기업은 매년 투자자에게 이자만 지급한다. 이 LT 대여금은 세 가지 지분 중 청산 시 상환 우선순위가 가장 선순위이다.                                                \n    </div></div>\n<div class=\"idt-1 comment\"><div>(주1)</div><div>이 사례에서 화폐금액은 ‘원’으로 표시된다.</div></div>",
       "cross_references": [
         {
@@ -2449,6 +2440,34 @@
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1028호",
+          "standard_number": "1028",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 37",
+          "standard_number": "1028",
+          "standard_title": null,
+          "range": "37",
+          "paragraph_ids": [
+            "37"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 39",
+          "standard_number": "1028",
+          "standard_title": null,
+          "range": "39",
+          "paragraph_ids": [
+            "39"
+          ]
         }
       ],
       "qna_references": [],
@@ -2461,7 +2480,44 @@
       "toc_path": "적용사례 실무적용지침|기업회계기준서 제1028호 ‘관계기업과 공동기업 투자’의 적용사례|관계기업과 공동기업에 대한 장기투자지분|분석",
       "text": "관계기업에 대한 투자:\n\n(차) O 주식 200원\n\n(차) P 주식 100원\n\n(차) LT 대여금 100원\n\n(대) 현금 400원\n\n관계기업에 대한 최초 투자 인식\n\n(차) P 주식 10원\n\n(대) 이익(손실) 10원\n\n공정가치 변동 인식 (110원 – 100원)\n\n(차) 이익(손실) 10원\n\n(대) 손실충당금 (LT 대여금) 10원\n\n손실충당금 증가 인식 (90원 – 100원)\n\n(차) O 주식 20원\n\n(대) 이익(손실) 20원\n\n투자자의 지분에 해당하는 관계기업의 이익 인식 (50 × 40%) 관계기업에 대한 투자:\n\n(차) 이익(손실) 20원\n\n(대) P 주식 20원\n\n공정가치 변동 인식 (90원 – 110원)\n\n(차) 이익(손실) 20원\n\n(대) 손실충당금 (LT 대여금) 20원\n\n손실충당금 증가 인식 (70원 – 90원)\n\n(차) 이익(손실) 80원\n\n(대) O 주식 80원\n\n투자자의 지분에 해당하는 관계기업의 손실 인식 (200 × 40%)\n(차) 이익(손실) 40원\n\n(대) P 주식 40원\n\n공정가치 변동 인식 (50원 – 90원)\n\n(차) 이익(손실) 20원\n\n(대) 손실충당금 (LT 대여금) 20원\n\n손실충당금 증가 인식 (50원 – 70원)\n\n(차) 이익(손실) 200원\n\n(대) O 주식 140원\n\n(대) P 주식 50원\n\n(대) LT 대여금 10원\n\n기업회계기준서 제1028호의 문단 38에서 명시한 바와 같이 청산시의 상환 우선순위와는 반대의 순서로 투자자의 지분에 해당하는 관계기업의 손실 인식\n(차) 이익(손실) 10원\n\n(대) P 주식 10원\n\n공정가치 변동 인식 (40원 – 50원)\n(차) P 주식 10원\n\n(대) 이익(손실) 10원\n\n이전에 P주식에 배분된 관계기업의 손실 일부를 환입\n(차) 이익(손실) 40원\n\n(대) LT 대여금 40원\n\n투자자의 지분에 해당하는 관계기업의 손실 인식\n(차) P 주식 20원\n\n(대) 이익(손실) 20원\n\n공정가치 변동 인식 (60원 – 40원)\n\n(차) 손실충당금 (LT 대여금) 10원\n\n(대) 이익(손실) 10원\n\n손실충당금 감소 인식 (60원 – 50원)\n(차) 이익(손실) 30원\n\n(대) P 주식 20원\n\n(대) LT 대여금 10원\n\n투자자의 지분에 해당하는 관계기업의 손실 중 이전에 인식하지 않았던 금액 인식\n(차) P 주식 20원\n\n(대) 이익(손실) 20원\n\n공정가치 변동 인식 (80원 – 60원)\n\n(차) 손실충당금 (LT 대여금) 10원\n\n(대) 이익(손실) 10원\n\n손실충당금 감소 인식 (70원 – 60원)\n(차) O 주식 80원\n\n(차) P 주식 60원\n\n(차) LT 대여금 60원\n\n(대) 이익(손실) 200원\n\n투자자의 지분에 해당하는 관계기업의 이익 인식(500원 × 40%)\n(차) P 주식 30원\n\n(대) 이익(손실) 30원\n\n공정가치 변동 인식 (110원 – 80원)\n\n(차) 손실충당금 (LT 대여금) 20원\n\n(대) 이익(손실) 20원\n\n손실충당금 감소 인식 (90원 – 70원)\n\n(차) O 주식 200원\n\n(대) 이익(손실) 200원\n\n투자자의 지분에 해당하는 관계기업의 이익 인식 (500원 × 40%)\n(차) 현금 5원\n\n(대) 이익(손실) 5원\n\n유효이자율 5%를 기초로 LT 대여금에 대한 이자수익 인식 \n\n| | | | | (단위: 원) |\n| --- | --- | --- | --- | --- |\n| 인식된 항목 | 기업회계기준서 제1109호를 적용한 손상차손(환입포함) | 기업회계기준서 제1109호를 적용한 P 주식의 손익 | 지분법을 적용하여 인식된, 투자자의 지분에 해당하는 관계기업의 이익(손실) | 기업회계기준서 제1109호를 적용한 이자 수익 |\n| 기중 | | | | |\n| 1차 연도 | (10) | 10 | 20 | 5 |\n| 2차 연도 | (20) | (20) | (80) | 5 |\n| 3차 연도 | (20) | (40) | (200) | 5 |\n| 4차 연도 | - | (10) | (30) | 5 |\n| 5차 연도 | 10 | 20 | (30) | 5 |\n| 6차 연도 | 10 | 20 | 200 | 5 |\n| 7차 연도 | 20 | 30 | 200 | 5 |",
       "html": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6553523184\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6553523184\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6553523184\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6823184\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6553523184\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6553523184\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6553523184\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6823184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6823184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6553523184\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6623184\" width=\"581\" style=\"width: 436pt;\">관계기업에 대한 투자:<span>&nbsp;</span></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl6623184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) O 주식</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">200원</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl6623184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) P 주식</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">100원</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl6623184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) LT 대여금</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">100원</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl7023184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 현금</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">400원</span></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6523184\" width=\"581\" style=\"width: 436pt;\">관계기업에 대한 최초 투자 인식</td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6623184\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl6623184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) P 주식</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl7023184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6523184\" width=\"581\" style=\"width: 436pt;\">공정가치 변동 인식 (110원\n  – 100원)</td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6623184\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl6623184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl7023184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 손실충당금\n  (LT 대여금)</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6523184\" width=\"581\" style=\"width: 436pt;\">손실충당금 증가 인식 (90원\n  – 100원)</td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6623184\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl6623184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) O 주식</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td class=\"xl7023184\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6923184\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6553523184\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6553523184\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6723184\" width=\"581\" style=\"width: 436pt;\">투자자의 지분에 해당하는\n  관계기업의 이익 인식 (50 × 40%)</td><td class=\"xl6553523184\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6553523184\" style=\"height: 5.1pt;\"></td><td class=\"xl6553523184\"></td><td class=\"xl6823184\"></td><td class=\"xl6823184\"></td><td class=\"xl6553523184\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6721647\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6721647\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6721647\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6921647\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6721647\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6721647\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6721647\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6921647\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6921647\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6721647\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6621647\" width=\"581\" style=\"width: 436pt;\">관계기업에 대한 투자:</td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td class=\"xl6621647\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td class=\"xl7121647\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) P 주식</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6521647\" width=\"581\" style=\"width: 436pt;\">공정가치 변동 인식 (90원 –\n  110원)</td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6621647\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td class=\"xl6621647\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td class=\"xl7121647\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 손실충당금\n  (LT 대여금)</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6521647\" width=\"581\" style=\"width: 436pt;\">손실충당금 증가 인식 (70원\n  – 90원)</td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6621647\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td class=\"xl6621647\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">80원</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td class=\"xl7121647\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) O 주식</span></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7021647\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">80원</span></td><td class=\"xl6721647\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6721647\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6821647\" width=\"581\" style=\"width: 436pt;\">투자자의 지분에 해당하는\n  관계기업의 손실 인식 (200 × 40%)</td><td class=\"xl6721647\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6721647\" style=\"height: 5.1pt;\"></td><td class=\"xl6721647\"></td><td class=\"xl6921647\"></td><td class=\"xl6921647\"></td><td class=\"xl6721647\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6722874\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6722874\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6722874\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6922874\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6722874\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6722874\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6722874\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6922874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6922874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6722874\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td class=\"xl6622874\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">40원</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td class=\"xl7122874\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) P 주식</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">40원</span></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6522874\" width=\"581\" style=\"width: 436pt;\">공정가치 변동 인식 (50원 –\n  90원)</td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6622874\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td class=\"xl6622874\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td class=\"xl7122874\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 손실충당금\n  (LT 대여금)</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6522874\" width=\"581\" style=\"width: 436pt;\">손실충당금 증가 인식 (50원\n  – 70원)</td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6622874\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td class=\"xl6622874\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">200원</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td class=\"xl7122874\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) O 주식</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">140원</span></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td class=\"xl7122874\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) P 주식</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">50원</span></td><td class=\"xl6722874\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6722874\" style=\"height: 13.5pt;\"></td><td class=\"xl7122874\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) LT 대여금</span></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7022874\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6722874\"></td></tr><tr height=\"36\" style=\"height: 27pt;\"><td height=\"36\" class=\"xl6722874\" style=\"height: 27pt;\"></td><td colspan=\"3\" class=\"xl6822874\" width=\"581\" style=\"width: 436pt;\">기업회계기준서 제1028호의\n  문단 38에서 명시한 바와 같이 청산시의 상환 우선순위와는 반대의 순서로 투자자의 지분에 해당하는 관계기업의 손실 인식</td><td class=\"xl6722874\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6722874\" style=\"height: 5.1pt;\"></td><td class=\"xl6722874\"></td><td class=\"xl6922874\"></td><td class=\"xl6922874\"></td><td class=\"xl6722874\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6524210\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6524210\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6524210\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6824210\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6524210\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6524210\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6524210\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6824210\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6824210\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6524210\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6524210\" style=\"height: 13.5pt;\"></td><td class=\"xl6624210\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl6924210\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6924210\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6524210\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6524210\" style=\"height: 13.5pt;\"></td><td class=\"xl7024210\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) P 주식</span></td><td class=\"xl6924210\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6924210\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6524210\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6524210\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6724210\" width=\"581\" style=\"width: 436pt;\">공정가치 변동 인식 (40원 –\n  50원)</td><td class=\"xl6524210\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6524210\" style=\"height: 5.1pt;\"></td><td class=\"xl6524210\"></td><td class=\"xl6824210\"></td><td class=\"xl6824210\"></td><td class=\"xl6524210\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6525178\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6525178\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6525178\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6925178\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6525178\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6525178\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6525178\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6925178\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6925178\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6525178\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6525178\" style=\"height: 13.5pt;\"></td><td class=\"xl6625178\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) P 주식</span></td><td class=\"xl7025178\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl7025178\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6525178\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6525178\" style=\"height: 13.5pt;\"></td><td class=\"xl6825178\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl7025178\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7025178\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6525178\"></td></tr><tr height=\"23\" style=\"height: 17.25pt;\"><td height=\"23\" class=\"xl6525178\" style=\"height: 17.25pt;\"></td><td colspan=\"3\" class=\"xl6725178\" width=\"581\" style=\"width: 436pt;\">이전에 P주식에 배분된\n  관계기업의 손실 일부를 환입</td><td class=\"xl6525178\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6525178\" style=\"height: 5.1pt;\"></td><td class=\"xl6525178\"></td><td class=\"xl6925178\"></td><td class=\"xl6925178\"></td><td class=\"xl6525178\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6526246\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6526246\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6526246\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6826246\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6526246\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6526246\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6526246\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6826246\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6826246\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6526246\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6526246\" style=\"height: 13.5pt;\"></td><td class=\"xl6626246\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl6926246\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">40원</span></td><td class=\"xl6926246\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6526246\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6526246\" style=\"height: 13.5pt;\"></td><td class=\"xl7026246\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) LT 대여금</span></td><td class=\"xl6926246\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6926246\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">40원</span></td><td class=\"xl6526246\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6526246\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6726246\" width=\"581\" style=\"width: 436pt;\">투자자의 지분에 해당하는\n  관계기업의 손실 인식</td><td class=\"xl6526246\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6526246\" style=\"height: 5.1pt;\"></td><td class=\"xl6526246\"></td><td class=\"xl6826246\"></td><td class=\"xl6826246\"></td><td class=\"xl6526246\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6727617\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6727617\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6727617\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6827617\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6727617\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6727617\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6727617\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6827617\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6827617\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6727617\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6727617\" style=\"height: 13.5pt;\"></td><td class=\"xl6627617\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) P 주식</span></td><td class=\"xl6927617\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6927617\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6727617\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6727617\" style=\"height: 13.5pt;\"></td><td class=\"xl7027617\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl6927617\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6927617\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6727617\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6727617\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6527617\" width=\"581\" style=\"width: 436pt;\">공정가치 변동 인식 (60원 –\n  40원)</td><td class=\"xl6727617\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6727617\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6627617\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6727617\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6727617\" style=\"height: 13.5pt;\"></td><td class=\"xl6627617\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 손실충당금\n  (LT 대여금)</span></td><td class=\"xl6927617\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6927617\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6727617\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6727617\" style=\"height: 13.5pt;\"></td><td class=\"xl7027617\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl6927617\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6927617\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6727617\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6727617\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6527617\" width=\"581\" style=\"width: 436pt;\">손실충당금 감소 인식 (60원\n  – 50원)</td><td class=\"xl6727617\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6727617\" style=\"height: 5.1pt;\"></td><td class=\"xl6727617\"></td><td class=\"xl6827617\"></td><td class=\"xl6827617\"></td><td class=\"xl6727617\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6528608\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6528608\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6528608\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6828608\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6528608\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6528608\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6528608\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6828608\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6828608\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6528608\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6528608\" style=\"height: 13.5pt;\"></td><td class=\"xl6628608\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 이익(손실)</span></td><td class=\"xl6928608\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">30원</span></td><td class=\"xl6928608\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6528608\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6528608\" style=\"height: 13.5pt;\"></td><td class=\"xl7028608\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(대) P 주식</span></td><td class=\"xl6928608\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6928608\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6528608\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6528608\" style=\"height: 13.5pt;\"></td><td class=\"xl7028608\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) LT 대여금</span></td><td class=\"xl6928608\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6928608\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6528608\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6528608\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6728608\" width=\"581\" style=\"width: 436pt;\">투자자의 지분에 해당하는\n  관계기업의 손실 중 이전에 인식하지 않았던 금액 인식</td><td class=\"xl6528608\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6528608\" style=\"height: 5.1pt;\"></td><td class=\"xl6528608\"></td><td class=\"xl6828608\"></td><td class=\"xl6828608\"></td><td class=\"xl6528608\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6729929\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6729929\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6729929\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6929929\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6729929\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6729929\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6729929\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6929929\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6929929\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6729929\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6729929\" style=\"height: 13.5pt;\"></td><td class=\"xl6629929\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) P 주식</span></td><td class=\"xl7029929\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl7029929\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6729929\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6729929\" style=\"height: 13.5pt;\"></td><td class=\"xl7129929\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl7029929\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7029929\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6729929\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6729929\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6529929\" width=\"581\" style=\"width: 436pt;\">공정가치 변동 인식 (80원 –\n  60원)</td><td class=\"xl6729929\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6729929\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6629929\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6729929\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6729929\" style=\"height: 13.5pt;\"></td><td class=\"xl6629929\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 손실충당금\n  (LT 대여금)</span></td><td class=\"xl7029929\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl7029929\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6729929\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6729929\" style=\"height: 13.5pt;\"></td><td class=\"xl7129929\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl7029929\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7029929\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">10원</span></td><td class=\"xl6729929\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6729929\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6829929\" width=\"581\" style=\"width: 436pt;\">손실충당금 감소 인식 (70원\n  – 60원)</td><td class=\"xl6729929\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6729929\" style=\"height: 5.1pt;\"></td><td class=\"xl6729929\"></td><td class=\"xl6929929\"></td><td class=\"xl6929929\"></td><td class=\"xl6729929\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6531082\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6531082\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6531082\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl6831082\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6531082\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6531082\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6531082\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl6831082\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6831082\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6531082\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6531082\" style=\"height: 13.5pt;\"></td><td class=\"xl6631082\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) O 주식</span></td><td class=\"xl6931082\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">80원</span></td><td class=\"xl6931082\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6531082\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6531082\" style=\"height: 13.5pt;\"></td><td class=\"xl6631082\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) P 주식</span></td><td class=\"xl6931082\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">60원</span></td><td class=\"xl6931082\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6531082\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6531082\" style=\"height: 13.5pt;\"></td><td class=\"xl6631082\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) LT 대여금</span></td><td class=\"xl6931082\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">60원</span></td><td class=\"xl6931082\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6531082\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6531082\" style=\"height: 13.5pt;\"></td><td class=\"xl7031082\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl6931082\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6931082\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">200원</span></td><td class=\"xl6531082\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6531082\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6731082\" width=\"581\" style=\"width: 436pt;\">투자자의 지분에 해당하는\n  관계기업의 이익 인식(500원 × 40%)</td><td class=\"xl6531082\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6531082\" style=\"height: 5.1pt;\"></td><td class=\"xl6531082\"></td><td class=\"xl6831082\"></td><td class=\"xl6831082\"></td><td class=\"xl6531082\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl6932076\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl6932076\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl6932076\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl7032076\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl6932076\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6932076\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl6932076\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl7032076\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7032076\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6932076\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td class=\"xl6632076\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) P 주식</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">30원</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td class=\"xl7232076\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">30원</span></td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6532076\" width=\"581\" style=\"width: 436pt;\">공정가치 변동 인식 (110원\n  – 80원)</td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6632076\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td class=\"xl6632076\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 손실충당금\n  (LT 대여금)</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td class=\"xl7232076\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">20원</span></td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6732076\" width=\"581\" style=\"width: 436pt;\">손실충당금 감소 인식 (90원\n  – 70원)</td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6832076\" width=\"581\" style=\"width: 436pt;\"></td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td class=\"xl6632076\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) O 주식</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">200원</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td class=\"xl7232076\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl7132076\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">200원</span></td><td class=\"xl6932076\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl6932076\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl6732076\" width=\"581\" style=\"width: 436pt;\">투자자의 지분에 해당하는\n  관계기업의 이익 인식 (500원 × 40%)</td><td class=\"xl6932076\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl6932076\" style=\"height: 5.1pt;\"></td><td class=\"xl6932076\"></td><td class=\"xl7032076\"></td><td class=\"xl7032076\"></td><td class=\"xl6932076\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"595\" class=\"xl63519\" style=\"border-collapse: collapse; table-layout: fixed; width: 446pt;\"><col class=\"xl63519\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl63519\" width=\"453\" style=\"width: 340pt;\"><col class=\"xl66519\" width=\"64\" span=\"2\" style=\"width: 48pt;\"><col class=\"xl63519\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl63519\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl63519\" width=\"453\" style=\"width: 340pt;\"></td><td class=\"xl66519\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl66519\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl63519\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl63519\" style=\"height: 13.5pt;\"></td><td class=\"xl64519\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">(차) 현금</span></td><td class=\"xl67519\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">5원</span></td><td class=\"xl67519\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl63519\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl63519\" style=\"height: 13.5pt;\"></td><td class=\"xl68519\" width=\"453\" style=\"width: 340pt;\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(대) 이익(손실)</span></td><td class=\"xl67519\" width=\"64\" style=\"width: 48pt;\"></td><td class=\"xl67519\" width=\"64\" style=\"width: 48pt;\"><span lang=\"EN-US\">5원</span></td><td class=\"xl63519\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl63519\" style=\"height: 13.5pt;\"></td><td colspan=\"3\" class=\"xl65519\" width=\"581\" style=\"width: 436pt;\">유효이자율 5%를 기초로 LT\n  대여금에 대한 이자수익 인식</td><td class=\"xl63519\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl63519\" style=\"height: 5.1pt;\"></td><td class=\"xl63519\"></td><td class=\"xl66519\"></td><td class=\"xl66519\"></td><td class=\"xl63519\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"453\" style=\"width: 340pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"64\" style=\"width: 48pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"599\" class=\"xl641674\" style=\"border-collapse: collapse; table-layout: fixed; width: 449pt;\"><col class=\"xl641674\" width=\"7\" style=\"width: 5pt;\"><col class=\"xl641674\" width=\"89\" style=\"width: 67pt;\"><col class=\"xl641674\" width=\"124\" span=\"4\" style=\"width: 93pt;\"><col class=\"xl641674\" width=\"7\" style=\"width: 5pt;\"><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl641674\" width=\"7\" style=\"height: 5.1pt; width: 5pt;\"></td><td class=\"xl641674\" width=\"89\" style=\"width: 67pt;\"></td><td class=\"xl641674\" width=\"124\" style=\"width: 93pt;\"></td><td class=\"xl641674\" width=\"124\" style=\"width: 93pt;\"></td><td class=\"xl641674\" width=\"124\" style=\"width: 93pt;\"></td><td class=\"xl641674\" width=\"124\" style=\"width: 93pt;\"></td><td class=\"xl641674\" width=\"7\" style=\"width: 5pt;\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl641674\"></td><td class=\"xl641674\"></td><td class=\"xl641674\"></td><td class=\"xl641674\"></td><td class=\"xl681674\">(단위: 원)</td><td class=\"xl641674\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl701674\" width=\"89\" style=\"width: 67pt;\">인식된 항목</td><td rowspan=\"2\" class=\"xl631674\" width=\"124\" style=\"border-bottom: 0.5pt solid black; width: 93pt;\">기업회계기준서 제1109호를 적용한 손상차손(환입포함)</td><td rowspan=\"2\" class=\"xl631674\" width=\"124\" style=\"border-bottom: 0.5pt solid black; width: 93pt;\">기업회계기준서 제1109호를 적용한 P 주식의 손익</td><td rowspan=\"2\" class=\"xl631674\" width=\"124\" style=\"border-bottom: 0.5pt solid black; width: 93pt;\">지분법을 적용하여 인식된, 투자자의 지분에 해당하는 관계기업의 이익(손실)</td><td rowspan=\"2\" class=\"xl631674\" width=\"124\" style=\"border-bottom: 0.5pt solid black; width: 93pt;\">기업회계기준서 제1109호를 적용한 이자 수익</td><td class=\"xl641674\"></td></tr><tr height=\"66\" style=\"height: 50.1pt;\"><td height=\"66\" class=\"xl641674\" style=\"height: 50.1pt;\"></td><td class=\"xl651674\" width=\"89\" style=\"border-top: none; width: 67pt;\">기중</td><td class=\"xl641674\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl671674\" width=\"89\" style=\"border-top: none; width: 67pt;\"><span lang=\"EN-US\">1차 연도</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(10)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">10\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">20\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">5\r\n  </span></td><td class=\"xl641674\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl671674\" width=\"89\" style=\"border-top: none; width: 67pt;\"><span lang=\"EN-US\">2차 연도</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(20)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(20)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(80)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">5\r\n  </span></td><td class=\"xl641674\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl671674\" width=\"89\" style=\"border-top: none; width: 67pt;\"><span lang=\"EN-US\">3차 연도</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(20)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(40)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(200)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">5\r\n  </span></td><td class=\"xl641674\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl671674\" width=\"89\" style=\"border-top: none; width: 67pt;\"><span lang=\"EN-US\">4차 연도</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">-\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(10)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(30)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">5\r\n  </span></td><td class=\"xl641674\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl671674\" width=\"89\" style=\"border-top: none; width: 67pt;\"><span lang=\"EN-US\">5차 연도</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">10\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">20\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">(30)</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">5\r\n  </span></td><td class=\"xl641674\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl671674\" width=\"89\" style=\"border-top: none; width: 67pt;\"><span lang=\"EN-US\">6차 연도</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">10\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">20\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">200\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">5\r\n  </span></td><td class=\"xl641674\"></td></tr><tr height=\"18\" style=\"height: 13.5pt;\"><td height=\"18\" class=\"xl641674\" style=\"height: 13.5pt;\"></td><td class=\"xl671674\" width=\"89\" style=\"border-top: none; width: 67pt;\"><span lang=\"EN-US\">7차 연도</span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">20\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">30\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">200\r\n  </span></td><td class=\"xl691674\" style=\"border-top: none; border-left: none;\"><span lang=\"EN-US\">5\r\n  </span></td><td class=\"xl641674\"></td></tr><tr height=\"6\" style=\"height: 5.1pt;\"><td height=\"6\" class=\"xl641674\" style=\"height: 5.1pt;\"></td><td class=\"xl641674\"></td><td class=\"xl641674\"></td><td class=\"xl641674\"></td><td class=\"xl641674\"></td><td class=\"xl641674\"></td><td class=\"xl641674\"></td></tr><tr height=\"0\" style=\"display: none;\"><td width=\"7\" style=\"width: 5pt;\"></td><td width=\"89\" style=\"width: 67pt;\"></td><td width=\"124\" style=\"width: 93pt;\"></td><td width=\"124\" style=\"width: 93pt;\"></td><td width=\"124\" style=\"width: 93pt;\"></td><td width=\"124\" style=\"width: 93pt;\"></td><td width=\"7\" style=\"width: 5pt;\"></td></tr></table>",
-      "cross_references": [],
+      "cross_references": [
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1028호",
+          "standard_number": "1028",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "기업회계기준서 제1109호",
+          "standard_number": "1109",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 14A",
+          "standard_number": "1028",
+          "standard_title": null,
+          "range": "14A",
+          "paragraph_ids": [
+            "14A"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "display_text": "문단 38",
+          "standard_number": "1028",
+          "standard_title": null,
+          "range": "38",
+          "paragraph_ids": [
+            "38"
+          ]
+        }
+      ],
       "qna_references": [],
       "footnote_references": []
     },
@@ -2487,7 +2543,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2507,7 +2563,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2527,7 +2583,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2547,8 +2603,40 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 31",
+          "standard_number": "31",
+          "standard_title": null,
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
           "range": null,
           "paragraph_ids": []
         },
@@ -2567,7 +2655,7 @@
           "display_text": "문단 5~11, 15, 22~23, 25~28, 32~43",
           "standard_number": "1028",
           "standard_title": null,
-          "range": "5~11, 15, 22~23, 25~28, 32~43",
+          "range": "5~11,15,22~23,25~28,32~43",
           "paragraph_ids": [
             "5",
             "6",
@@ -2628,7 +2716,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2648,7 +2736,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2668,7 +2756,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2688,7 +2776,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2698,7 +2786,7 @@
           "display_text": "문단 2, 16~21, 24, 29~31",
           "standard_number": "1028",
           "standard_title": null,
-          "range": "2, 16~21, 24, 29~31",
+          "range": "2,16~21,24,29~31",
           "paragraph_ids": [
             "2",
             "16",
@@ -2722,14 +2810,38 @@
       "section_id": "FxsGS0",
       "section_title": "IAS 28의 구조와 IASB의 심의",
       "toc_path": "결론도출근거|IAS 28 ‘관계기업과 공동기업에 대한 투자(Investments in Associates and Joint Ventures)’의 결론도출근거|도입|IAS 28의 구조와 IASB의 심의",
-      "text": "연결과제의 일환으로 IASB는 투자기업이 종속기업, 공동기업과 관계기업에 대한 자신의 지분을 어떻게 회계처리하여야 하는지에 대하여 조사중에 있다. 그 결과에 따라 벤처캐피탈 투자기구나 뮤추얼펀드, 단위신탁 및 이와 유사한 기업과 같은 기구가 공동기업과 관계기업에 대한 자신의 지분을 어떻게 회계처리하여야 하는지에 영향을 미칠 수 있다. IASB는 2011년 후반에 투자기업에 대한 공개초안을 발행할 예정이다.\n(주2)(주3)\n[각주 (주2)] 2012년 10월에 IASB가 발표한 ‘투자기업’(IFRS 10, IFRS 12 및 IAS 27의 개정)에서 IFRS 10의 정의에 따른 투자기업에게 투자관련용역이나 활동을 제공하지 않는 종속기업에 대한 투자자산을 공정가치로 측정하여 당기손익에 반영하도록 요구하였다. 개정사항에는 관계기업이나 공동기업에 대한 투자자산을 위하여 새로운 회계규정을 도입하지 않았다.\n[각주 (주3)] 2014년 12월에 IASB는 ‘투자기업: 연결 예외 적용(IFRS 10, IFRS 12, IAS 28 개정)’을 공표하였다. 이 개정은 투자기업인 관계기업 또는 공동기업에 투자하고 있는 비투자기업에 그 관계기업이나 공동기업이 자신의 종속기업을 공정가치로 측정하여 당기손익에 반영하는 것을 계속 유지할 수 있도록 허용하는 부담 경감 규정을 도입하였다(문단 BC46A~BC46G참조).",
+      "text": "연결과제의 일환으로 IASB는 투자기업이 종속기업, 공동기업과 관계기업에 대한 자신의 지분을 어떻게 회계처리하여야 하는지에 대하여 조사중에 있다. 그 결과에 따라 벤처캐피탈 투자기구나 뮤추얼펀드, 단위신탁 및 이와 유사한 기업과 같은 기구가 공동기업과 관계기업에 대한 자신의 지분을 어떻게 회계처리하여야 하는지에 영향을 미칠 수 있다. IASB는 2011년 후반에 투자기업에 대한 공개초안을 발행할 예정이다.(주2)(주3)\n[각주 (주2)] 2012년 10월에 IASB가 발표한 ‘투자기업’(IFRS 10, IFRS 12 및 IAS 27의 개정)에서 IFRS 10의 정의에 따른 투자기업에게 투자관련용역이나 활동을 제공하지 않는 종속기업에 대한 투자자산을 공정가치로 측정하여 당기손익에 반영하도록 요구하였다. 개정사항에는 관계기업이나 공동기업에 대한 투자자산을 위하여 새로운 회계규정을 도입하지 않았다.\n[각주 (주3)] 2014년 12월에 IASB는 ‘투자기업: 연결 예외 적용(IFRS 10, IFRS 12, IAS 28 개정)’을 공표하였다. 이 개정은 투자기업인 관계기업 또는 공동기업에 투자하고 있는 비투자기업에 그 관계기업이나 공동기업이 자신의 종속기업을 공정가치로 측정하여 당기손익에 반영하는 것을 계속 유지할 수 있도록 허용하는 부담 경감 규정을 도입하였다(문단 BC46A~BC46G참조).",
       "html": "연결과제의 일환으로 IASB는 투자기업이 종속기업, 공동기업과 관계기업에 대한 자신의 지분을 어떻게 회계처리하여야 하는지에 대하여 조사중에 있다. 그 결과에 따라 벤처캐피탈 투자기구나 뮤추얼펀드, 단위신탁 및 이와 유사한 기업과 같은 기구가 공동기업과 관계기업에 대한 자신의 지분을 어떻게 회계처리하여야 하는지에 영향을 미칠 수 있다. IASB는 2011년 후반에 투자기업에 대한 공개초안을 발행할 예정이다.    \n  <sup data-id=\"(주2)\">(주2)</sup><sup data-id=\"(주3)\">(주3)</sup>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주2)</div><div class=\"para-num-item-para-con\"> 2012년 10월에 IASB가 발표한 ‘투자기업’(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">IFRS 10</span></div>, \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">타 기업에 대한 지분의 공시</span><span class=\"std-finder\">IFRS 12</span></div> 및 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">별도재무제표</span><span class=\"std-finder\">IAS 27</span></div>의 개정)에서 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">IFRS 10</span></div>의 정의에 따른 투자기업에게 투자관련용역이나 활동을 제공하지 않는 종속기업에 대한 투자자산을 공정가치로 측정하여 당기손익에 반영하도록 요구하였다. 개정사항에는 관계기업이나 공동기업에 대한 투자자산을 위하여 새로운 회계규정을 도입하지 않았다.                        \n    </div></div>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주3)</div><div class=\"para-num-item-para-con\"> 2014년 12월에 IASB는 ‘투자기업: 연결 예외 적용(<div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">연결재무제표</span><span class=\"std-finder\">IFRS 10</span></div>, \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">타 기업에 대한 지분의 공시</span><span class=\"std-finder\">IFRS 12</span></div>, \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div> 개정)’을 공표하였다. 이 개정은 투자기업인 관계기업 또는 공동기업에 투자하고 있는 비투자기업에 그 관계기업이나 공동기업이 자신의 종속기업을 공정가치로 측정하여 당기손익에 반영하는 것을 계속 유지할 수 있도록 허용하는 부담 경감 규정을 도입하였다(<span class=\"mundan-finder\">문단 BC46A~BC46G</span>참조).                        \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         },
@@ -2773,7 +2885,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
@@ -2793,8 +2905,16 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -2813,7 +2933,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2833,8 +2953,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -2853,7 +2981,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2873,7 +3001,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -2905,8 +3033,16 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
           "range": null,
           "paragraph_ids": []
         }
@@ -2925,7 +3061,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
@@ -2945,8 +3081,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -2959,23 +3103,31 @@
       "section_id": "6YX2B4",
       "section_title": "관계기업과 공동기업에 대한 장기투자지분",
       "toc_path": "결론도출근거|IAS 28 ‘관계기업과 공동기업에 대한 투자(Investments in Associates and Joint Ventures)’의 결론도출근거|지분법|관계기업과 공동기업에 대한 장기투자지분",
-      "text": "IASB는 관계기업이나 공동기업에 대한 지분과 관련하여 IFRS 9 문단 2.1⑴이 IFRS 9의 적용범위에서 지분법이 적용되는 지분만을 제외한다고 결론내렸다. 따라서 그 문단이 적용범위에서 제외하는 것에는 IAS 28 문단 38에서 설명하는 장기투자지분이 포함되지 않는다. 이 결론에 도달하면서 IASB는 IAS 28이 관계기업이나 공동기업의 손실 및 관계기업이나 공동기업의 순투자에 대한 손상을 인식하는 맥락에서만 장기투자지분과 순투자(장기투자지분 포함)를 언급한다고 보았다. IAS 28은 장기투자지분 인식이나 측정의 다른 측면에 대해서는 요구사항을 정하고 있지 않다. 따라서 IFRS 9 문단 2.1⑴에서 시사하는 바와 같이, 장기투자지분은 IAS 28에 따라 회계처리하지 않는다. 또한 IASB는 IAS 28의 문단 14에서 ‘ IFRS 9 ‘금융상품’은 지분법을 이용하여 회계처리되는 관계기업과 공동기업에 대한 지분에 적용하지 않는다’고 명시하고 있다는 데 주목하였다.",
+      "text": "IASB는 관계기업이나 공동기업에 대한 지분과 관련하여 IFRS 9 문단 2.1(1)이 IFRS 9의 적용범위에서 지분법이 적용되는 지분만을 제외한다고 결론내렸다. 따라서 그 문단이 적용범위에서 제외하는 것에는 IAS 28 문단 38에서 설명하는 장기투자지분이 포함되지 않는다. 이 결론에 도달하면서 IASB는 IAS 28이 관계기업이나 공동기업의 손실 및 관계기업이나 공동기업의 순투자에 대한 손상을 인식하는 맥락에서만 장기투자지분과 순투자(장기투자지분 포함)를 언급한다고 보았다. IAS 28은 장기투자지분 인식이나 측정의 다른 측면에 대해서는 요구사항을 정하고 있지 않다. 따라서 IFRS 9 문단 2.1(1)에서 시사하는 바와 같이, 장기투자지분은 IAS 28에 따라 회계처리하지 않는다. 또한 IASB는 IAS 28의 문단 14에서 ‘ IFRS 9 ‘금융상품’은 지분법을 이용하여 회계처리되는 관계기업과 공동기업에 대한 지분에 적용하지 않는다’고 명시하고 있다는 데 주목하였다.",
       "html": "IASB는 관계기업이나 공동기업에 대한 지분과 관련하여 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div><span class=\"mundan-finder\"> 문단 2.1⑴</span>이 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div>의 적용범위에서 지분법이 적용되는 지분만을 제외한다고 결론내렸다. 따라서 그 문단이 적용범위에서 제외하는 것에는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div><span class=\"mundan-finder\"> 문단 38</span>에서 설명하는 장기투자지분이 포함되지 않는다. 이 결론에 도달하면서 IASB는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>이 관계기업이나 공동기업의 손실 및 관계기업이나 공동기업의 순투자에 대한 손상을 인식하는 맥락에서만 장기투자지분과 순투자(장기투자지분 포함)를 언급한다고 보았다. \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>은 장기투자지분 인식이나 측정의 다른 측면에 대해서는 요구사항을 정하고 있지 않다. 따라서 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div><span class=\"mundan-finder\"> 문단 2.1⑴</span>에서 시사하는 바와 같이, 장기투자지분은 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>에 따라 회계처리하지 않는다. 또한 IASB는 \n  \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>의 \n  \n  <span class=\"mundan-finder\">문단 14</span>에서 ‘\n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 지분법을 이용하여 회계처리되는 관계기업과 공동기업에 대한 지분에 적용하지 않는다’고 명시하고 있다는 데 주목하였다.\n\n",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         },
         {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
           "type": "paragraph",
-          "display_text": "문단 2.1⑴",
-          "standard_number": "1028",
+          "display_text": "문단 2.1(1)",
+          "standard_number": "1109",
           "standard_title": null,
-          "range": "2.1⑴",
+          "range": "2.1",
           "paragraph_ids": [
             "2.1"
           ]
@@ -3015,8 +3167,16 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         },
@@ -3055,8 +3215,16 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -3075,8 +3243,16 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -3095,8 +3271,16 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -3115,7 +3299,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
@@ -3135,7 +3319,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
@@ -3155,8 +3339,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -3175,7 +3367,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
@@ -3195,8 +3387,24 @@
         {
           "type": "standard",
           "display_text": "IFRS 4",
-          "standard_number": null,
+          "standard_number": "4",
           "standard_title": "(구)보험계약",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
           "range": null,
           "paragraph_ids": []
         }
@@ -3215,7 +3423,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 5",
-          "standard_number": null,
+          "standard_number": "5",
           "standard_title": "매각예정비유동자산과 중단영업",
           "range": null,
           "paragraph_ids": []
@@ -3246,7 +3454,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3266,8 +3474,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         },
@@ -3313,7 +3529,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3343,7 +3559,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3363,7 +3579,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3393,7 +3609,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3423,15 +3639,23 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 10",
-          "standard_number": "1028",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "10",
           "paragraph_ids": [
@@ -3441,7 +3665,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 11",
-          "standard_number": "1028",
+          "standard_number": "1027",
           "standard_title": null,
           "range": "11",
           "paragraph_ids": [
@@ -3463,8 +3687,32 @@
         {
           "type": "standard",
           "display_text": "IFRS 7",
-          "standard_number": null,
+          "standard_number": "7",
           "standard_title": "금융상품: 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         },
@@ -3513,7 +3761,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3533,7 +3781,7 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
           "range": null,
           "paragraph_ids": []
@@ -3541,7 +3789,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 53",
-          "standard_number": "1028",
+          "standard_number": "1008",
           "standard_title": null,
           "range": "53",
           "paragraph_ids": [
@@ -3563,8 +3811,16 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         },
@@ -3593,7 +3849,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3624,7 +3880,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 5",
-          "standard_number": null,
+          "standard_number": "5",
           "standard_title": "매각예정비유동자산과 중단영업",
           "range": null,
           "paragraph_ids": []
@@ -3644,7 +3900,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 5",
-          "standard_number": null,
+          "standard_number": "5",
           "standard_title": "매각예정비유동자산과 중단영업",
           "range": null,
           "paragraph_ids": []
@@ -3689,7 +3945,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 5",
-          "standard_number": null,
+          "standard_number": "5",
           "standard_title": "매각예정비유동자산과 중단영업",
           "range": null,
           "paragraph_ids": []
@@ -3709,8 +3965,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -3729,7 +3993,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
@@ -3749,7 +4013,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 9",
-          "standard_number": null,
+          "standard_number": "9",
           "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
@@ -3791,7 +4055,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3811,7 +4075,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3825,14 +4089,22 @@
       "section_id": "33j7cf",
       "section_title": "SIC 13의 통합",
       "toc_path": "결론도출근거|IAS 28 ‘관계기업과 공동기업에 대한 투자(Investments in Associates and Joint Ventures)’의 결론도출근거|지분법의 적용|SIC 13의 통합",
-      "text": "IASB는 참여자의 공동기업\n(주4)에 대한 비화폐성 자산의 출자와 관련된 SIC 13의 결론이 다음의 관점만 제외하고는 IAS 28과 일관된다고 보았다. SIC 13에서는 다른 당사자의 지분에 귀속되는 손익의 인식에 대하여 세 가지 예외를 두고 있다. ED 9의 의견제출자에 의하여 제기된 의견에 대응하면서, IASB는 피투자자에 대한 투자자의 지분과 무관한 지분에 귀속되는 손익의 일부를 기업이 인식하는, SIC 13에 포함되어 있는 예외사항을 IAS 28에 통합할 필요에 대하여 재심의하였다.\n[각주 (주4)] 2011년 5월에 발표된 IFRS 11은 공동기업의 공동지배력을 보유하고 있는 당사자를 지정하기 위해 ‘공동기업 참여자’라는 용어를 사용한다.",
+      "text": "IASB는 참여자의 공동기업(주4)에 대한 비화폐성 자산의 출자와 관련된 SIC 13의 결론이 다음의 관점만 제외하고는 IAS 28과 일관된다고 보았다. SIC 13에서는 다른 당사자의 지분에 귀속되는 손익의 인식에 대하여 세 가지 예외를 두고 있다. ED 9의 의견제출자에 의하여 제기된 의견에 대응하면서, IASB는 피투자자에 대한 투자자의 지분과 무관한 지분에 귀속되는 손익의 일부를 기업이 인식하는, SIC 13에 포함되어 있는 예외사항을 IAS 28에 통합할 필요에 대하여 재심의하였다.\n[각주 (주4)] 2011년 5월에 발표된 IFRS 11은 공동기업의 공동지배력을 보유하고 있는 당사자를 지정하기 위해 ‘공동기업 참여자’라는 용어를 사용한다.",
       "html": "IASB는 참여자의 공동기업    \n  <sup data-id=\"(주4)\">(주4)</sup>에 대한 비화폐성 자산의 출자와 관련된 SIC 13의 결론이 다음의 관점만 제외하고는 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>과 일관된다고 보았다. SIC 13에서는 다른 당사자의 지분에 귀속되는 손익의 인식에 대하여 세 가지 예외를 두고 있다. ED 9의 의견제출자에 의하여 제기된 의견에 대응하면서, IASB는 피투자자에 대한 투자자의 지분과 무관한 지분에 귀속되는 손익의 일부를 기업이 인식하는, SIC 13에 포함되어 있는 예외사항을 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>에 통합할 필요에 대하여 재심의하였다.\n\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주4)</div><div class=\"para-num-item-para-con\"> 2011년 5월에 발표된 \n      <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공동약정</span><span class=\"std-finder\">IFRS 11</span></div>은 공동기업의 공동지배력을 보유하고 있는 당사자를 지정하기 위해 ‘공동기업 참여자’라는 용어를 사용한다.                            \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
           "range": null,
           "paragraph_ids": []
         }
@@ -3850,14 +4122,22 @@
       "section_id": "33j7cf",
       "section_title": "SIC 13의 통합",
       "toc_path": "결론도출근거|IAS 28 ‘관계기업과 공동기업에 대한 투자(Investments in Associates and Joint Ventures)’의 결론도출근거|지분법의 적용|SIC 13의 통합",
-      "text": "IASB는 거래에 상업적 실질이 결여되어 있는 거래의 경우에만 손익의 인식에 대한 예외사항을 SIC 13의 결론에서 IAS 28로 옮겨와야 한다고 결론지었다. 왜냐하면, SIC 13의 다른 두 가지 예외사항(즉, ‘출자된 비화폐성자산의 소유에 따른 유의적인 위험과 보상이 공동지배기업에 이전되지 않는다’와 ‘비화폐성자산의 출자와 관련된 손익을 신뢰성 있게 측정할 수 없다’)은 IFRS 11의 원칙과 요구사항에 맞지 않은 요구사항과 관련되어 있거나 재무보고를 위한 개념체계에 이미 포함된 손익의 인식기준(즉, 측정의 신뢰성)과 관련되어 있기 때문이다.\n(주5)\n[각주 (주5)] 2010년에 공표되어 이 기준서가 개정되었을 당시 시행 중이었던 ‘재무보고를 위한 개념체계’를 말한다.",
+      "text": "IASB는 거래에 상업적 실질이 결여되어 있는 거래의 경우에만 손익의 인식에 대한 예외사항을 SIC 13의 결론에서 IAS 28로 옮겨와야 한다고 결론지었다. 왜냐하면, SIC 13의 다른 두 가지 예외사항(즉, ‘출자된 비화폐성자산의 소유에 따른 유의적인 위험과 보상이 공동지배기업에 이전되지 않는다’와 ‘비화폐성자산의 출자와 관련된 손익을 신뢰성 있게 측정할 수 없다’)은 IFRS 11의 원칙과 요구사항에 맞지 않은 요구사항과 관련되어 있거나 재무보고를 위한 개념체계에 이미 포함된 손익의 인식기준(즉, 측정의 신뢰성)과 관련되어 있기 때문이다.(주5)\n[각주 (주5)] 2010년에 공표되어 이 기준서가 개정되었을 당시 시행 중이었던 ‘재무보고를 위한 개념체계’를 말한다.",
       "html": "IASB는 거래에 상업적 실질이 결여되어 있는 거래의 경우에만 손익의 인식에 대한 예외사항을 SIC 13의 결론에서 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">관계기업과 공동기업에 대한 투자</span><span class=\"std-finder\">IAS 28</span></div>로 옮겨와야 한다고 결론지었다. 왜냐하면, SIC 13의 다른 두 가지 예외사항(즉, ‘출자된 비화폐성자산의 소유에 따른 유의적인 위험과 보상이 공동지배기업에 이전되지 않는다’와 ‘비화폐성자산의 출자와 관련된 손익을 신뢰성 있게 측정할 수 없다’)은 \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">공동약정</span><span class=\"std-finder\">IFRS 11</span></div>의 원칙과 요구사항에 맞지 않은 요구사항과 관련되어 있거나 재무보고를 위한 개념체계에 이미 포함된 손익의 인식기준(즉, 측정의 신뢰성)과 관련되어 있기 때문이다.        \n  <sup data-id=\"(주5)\">(주5)</sup>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주5)</div><div class=\"para-num-item-para-con\">2010년에 공표되어 이 기준서가 개정되었을 당시 시행 중이었던 ‘재무보고를 위한 개념체계’를 말한다.</div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
           "range": null,
           "paragraph_ids": []
         }
@@ -3892,8 +4172,16 @@
         {
           "type": "standard",
           "display_text": "IAS 31",
-          "standard_number": null,
+          "standard_number": "31",
           "standard_title": null,
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -3912,7 +4200,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -3961,8 +4249,16 @@
         {
           "type": "standard",
           "display_text": "IAS 39",
-          "standard_number": null,
+          "standard_number": "39",
           "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -3986,7 +4282,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -4011,14 +4307,30 @@
       "section_id": "jXaJGC",
       "section_title": "손상차손(2008년 개정)",
       "toc_path": "결론도출근거|IAS 28 ‘관계기업과 공동기업에 대한 투자(Investments in Associates and Joint Ventures)’의 결론도출근거|지분법의 적용|손상차손(2008년 개정)",
-      "text": "공개초안에 대한 일부 의견제출자들은 제안된 개정은 (매도가능지분상품\n(주7)의 손상차손의 환입에 대한) IAS 39 또는 (영업권에 대한 손상차손의 배분 및 영업권과 관련된 손상차손 환입에 대한) IAS 36과 일관되지 않는다는 관점을 제시하였다.\n[각주 (주7)] IFRS 9 ‘금융상품’은 매도가능금융자산의 범주를 없앴다.",
+      "text": "공개초안에 대한 일부 의견제출자들은 제안된 개정은 (매도가능지분상품(주7)의 손상차손의 환입에 대한) IAS 39 또는 (영업권에 대한 손상차손의 배분 및 영업권과 관련된 손상차손 환입에 대한) IAS 36과 일관되지 않는다는 관점을 제시하였다.\n[각주 (주7)] IFRS 9 ‘금융상품’은 매도가능금융자산의 범주를 없앴다.",
       "html": "공개초안에 대한 일부 의견제출자들은 제안된 개정은 (매도가능지분상품  \n  <sup data-id=\"(주7)\">(주7)</sup>의 손상차손의 환입에 대한) \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품: 인식과 측정</span><span class=\"std-finder\">IAS 39</span></div> 또는 (영업권에 대한 손상차손의 배분 및 영업권과 관련된 손상차손 환입에 대한) \n  <div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">자산손상</span><span class=\"std-finder\">IAS 36</span></div>과 일관되지 않는다는 관점을 제시하였다.          \n  <div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주7)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 매도가능금융자산의 범주를 없앴다.                \n    </div></div>\n<div class=\"para-inner-number-item comment\"><div class=\"para-number-para-num\">(주7)</div><div class=\"para-num-item-para-con\"><div class=\"sc-eEieub jpZXEr\" style=\"display: inline;\"><span class=\"sc-RbTVP sc-hMrMfs gNkvY tooltip-content\">금융상품</span><span class=\"std-finder\">IFRS 9</span></div> ‘금융상품’은 매도가능금융자산의 범주를 없앴다.                \n    </div></div>",
       "cross_references": [
         {
           "type": "standard",
           "display_text": "IAS 39",
-          "standard_number": null,
+          "standard_number": "39",
           "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -4053,8 +4365,24 @@
         {
           "type": "standard",
           "display_text": "IAS 36",
-          "standard_number": null,
+          "standard_number": "36",
           "standard_title": "자산손상",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 39",
+          "standard_number": "39",
+          "standard_title": "금융상품: 인식과 측정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         }
@@ -4078,8 +4406,40 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
           "range": null,
           "paragraph_ids": []
         },
@@ -4109,8 +4469,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         },
@@ -4171,7 +4539,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
@@ -4179,7 +4547,7 @@
         {
           "type": "paragraph",
           "display_text": "문단 33",
-          "standard_number": "1028",
+          "standard_number": "1110",
           "standard_title": null,
           "range": "33",
           "paragraph_ids": [
@@ -4201,8 +4569,16 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
           "range": null,
           "paragraph_ids": []
         },
@@ -4232,15 +4608,23 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 BC280",
-          "standard_number": "1028",
+          "standard_number": "1110",
           "standard_title": null,
           "range": "BC280",
           "paragraph_ids": [
@@ -4273,8 +4657,40 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -4315,8 +4731,40 @@
         {
           "type": "standard",
           "display_text": "IFRS 10",
-          "standard_number": null,
+          "standard_number": "10",
           "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 11",
+          "standard_number": "11",
+          "standard_title": "공동약정",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 27",
+          "standard_number": "27",
+          "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         },
@@ -4345,8 +4793,32 @@
         {
           "type": "standard",
           "display_text": "IAS 8",
-          "standard_number": null,
+          "standard_number": "8",
           "standard_title": "회계정책, 회계추정치 변경과 오류",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 10",
+          "standard_number": "10",
+          "standard_title": "연결재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -4365,7 +4837,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -4385,7 +4857,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -4405,8 +4877,16 @@
         {
           "type": "standard",
           "display_text": "IAS 27",
-          "standard_number": null,
+          "standard_number": "27",
           "standard_title": "별도재무제표",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -4425,7 +4905,7 @@
         {
           "type": "standard",
           "display_text": "IFRS 12",
-          "standard_number": null,
+          "standard_number": "12",
           "standard_title": "타 기업에 대한 지분의 공시",
           "range": null,
           "paragraph_ids": []
@@ -4445,8 +4925,16 @@
         {
           "type": "standard",
           "display_text": "IFRS 12",
-          "standard_number": null,
+          "standard_number": "12",
           "standard_title": "타 기업에 대한 지분의 공시",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 28",
+          "standard_number": "28",
+          "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
         }
@@ -4465,8 +4953,40 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 9",
+          "standard_number": "9",
+          "standard_title": "금융상품",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 5",
+          "standard_number": "5",
+          "standard_title": "매각예정비유동자산과 중단영업",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 16",
+          "standard_number": "16",
+          "standard_title": "유형자산",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IFRS 12",
+          "standard_number": "12",
+          "standard_title": "타 기업에 대한 지분의 공시",
           "range": null,
           "paragraph_ids": []
         }
@@ -4485,7 +5005,7 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
           "range": null,
           "paragraph_ids": []
@@ -4516,17 +5036,25 @@
         {
           "type": "standard",
           "display_text": "IAS 28",
-          "standard_number": null,
+          "standard_number": "28",
           "standard_title": "관계기업과 공동기업에 대한 투자",
+          "range": null,
+          "paragraph_ids": []
+        },
+        {
+          "type": "standard",
+          "display_text": "IAS 36",
+          "standard_number": "36",
+          "standard_title": "자산손상",
           "range": null,
           "paragraph_ids": []
         },
         {
           "type": "paragraph",
           "display_text": "문단 124와 125",
-          "standard_number": "1028",
+          "standard_number": "1036",
           "standard_title": null,
-          "range": "124와 125",
+          "range": "124,125",
           "paragraph_ids": [
             "124",
             "125"
@@ -4601,7 +5129,8 @@
       "45J",
       "46",
       "IE17",
-      "IE17.1"
+      "IE17.1",
+      "IE17.2"
     ],
     "1105": [
       "15",
@@ -4635,13 +5164,178 @@
     "1028": [
       "45D",
       "47",
-      "IE17"
+      "IE17",
+      "IE17.1",
+      "IE17.2"
+    ],
+    "17": [
+      "45F"
     ],
     "1104": [
       "45J"
     ],
     "1039": [
       "46"
+    ],
+    "28": [
+      "BC1",
+      "BC2",
+      "BC3",
+      "BC4",
+      "BC5",
+      "BC6",
+      "BC7",
+      "BC8",
+      "BC9",
+      "BC11",
+      "BC12",
+      "BC13",
+      "BC14",
+      "BC15",
+      "BC16",
+      "BC16B",
+      "BC16C",
+      "BC16D",
+      "BC16E",
+      "BC16F",
+      "BC16G",
+      "BC16J",
+      "BCZ19",
+      "BC19A",
+      "BC19B",
+      "BC19C",
+      "BC19D",
+      "BC19E",
+      "BC19F",
+      "BC19G",
+      "BC19H",
+      "BC20",
+      "BC21",
+      "BC27",
+      "BC32",
+      "BC33",
+      "BC34",
+      "BC35",
+      "BC37",
+      "BCZ38",
+      "BCZ42",
+      "BC46A",
+      "BC46B",
+      "BC46E",
+      "BC46F",
+      "BC47",
+      "BC50",
+      "BC50A",
+      "BC51",
+      "BC52",
+      "BC53",
+      "BC55",
+      "BC56",
+      "DO1",
+      "DO3"
+    ],
+    "27": [
+      "BC4",
+      "BC9",
+      "BC16",
+      "BC19F",
+      "BC19G",
+      "BC46A",
+      "BC47",
+      "BC50",
+      "BC53"
+    ],
+    "31": [
+      "BC4",
+      "BC37"
+    ],
+    "10": [
+      "BC4",
+      "BC9",
+      "BC19A",
+      "BC28",
+      "BC46A",
+      "BC46B",
+      "BC46D",
+      "BC46E",
+      "BC46F",
+      "BC47",
+      "BC50",
+      "BC50A"
+    ],
+    "11": [
+      "BC4",
+      "BC34",
+      "BC35",
+      "BC47",
+      "BC50"
+    ],
+    "12": [
+      "BC9",
+      "BC46A",
+      "BC47",
+      "BC50",
+      "BC50A",
+      "BC54",
+      "BC55",
+      "BC56"
+    ],
+    "9": [
+      "BC10",
+      "BC11",
+      "BC13",
+      "BC16A",
+      "BC16B",
+      "BC16C",
+      "BC16D",
+      "BC16E",
+      "BC16F",
+      "BC16G",
+      "BC16H",
+      "BC16I",
+      "BC16J",
+      "BC16K",
+      "BC16L",
+      "BC19G",
+      "BC20",
+      "BC27",
+      "BC29",
+      "BCZ41",
+      "BCZ44",
+      "BCZ46",
+      "BC46A",
+      "BC56"
+    ],
+    "4": [
+      "BC16L"
+    ],
+    "39": [
+      "BC16L",
+      "BCZ41",
+      "BCZ44",
+      "BCZ46"
+    ],
+    "5": [
+      "BCZ17",
+      "BC23",
+      "BC24",
+      "BC26",
+      "BC56"
+    ],
+    "7": [
+      "BC19G"
+    ],
+    "8": [
+      "BC19I",
+      "BC50A"
+    ],
+    "36": [
+      "BCZ44",
+      "BCZ46",
+      "DO3"
+    ],
+    "16": [
+      "BC56"
     ]
   },
   "qna_index": {
